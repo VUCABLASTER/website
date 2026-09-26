@@ -1,0 +1,11 @@
+Hier ablegen (JPG oder PNG):
+
+PFLICHT
+- cover.jpg               Podcast-Cover, ideal 3000 x 3000
+- manuel-wyszynski.jpg    Hochformat, mind. 1200 px hoch
+- sebastian-oremek.jpg    Hochformat, mind. 1200 px hoch
+
+OPTIONAL
+- claudia-jahn.jpg        Gast der aktuellen Folge, nur mit Nutzungsrecht
+
+Nur Fotos verwenden, für die ihr die Rechte habt.
