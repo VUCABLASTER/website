@@ -174,6 +174,7 @@ p{text-wrap:pretty}
 .print{position:relative;margin:0;padding:14px;background:var(--c-board);border:1.5px solid var(--c-frame)}
 .print::before{content:"";position:absolute;z-index:1;left:36%;top:-14px;width:110px;height:28px;background:var(--c-tape);transform:rotate(-4deg)}
 .photo{position:relative;width:100%;height:100%;overflow:hidden;background:var(--c-archive) var(--hatch)}
+.photo picture{display:contents}
 .photo img{width:100%;height:100%;object-fit:cover}
 
 /* ---------- Aktuelle Folge ---------- */
@@ -243,7 +244,7 @@ p{text-wrap:pretty}
   .guest-name{font-size:26px}
   .guest-role{margin-top:4px;font-size:19px}
   .values{margin-top:24px;gap:10px}
-  .print--guest{display:block;height:300px;margin:0 0 0 40px;transform:rotate(2deg)}
+  .print--guest{display:block;aspect-ratio:1;margin:0 0 0 40px;transform:rotate(2deg)}
   .player{width:auto;align-self:stretch}
 }
 
@@ -284,7 +285,7 @@ p{text-wrap:pretty}
 @media (min-width:1024px){
   .contact-grid{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:22px 88px;align-items:start;margin-top:0}
   .contact-grid > p:first-of-type{margin-top:12px}
-  .contact-grid > .section-title{grid-row:1 / span 4;margin-top:0}
+  .contact-grid > .section-title{grid-row:1 / span 5;margin-top:0}
 }
 
 /* ---------- Footer ---------- */
