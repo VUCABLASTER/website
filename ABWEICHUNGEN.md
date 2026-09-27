@@ -22,7 +22,7 @@ Stand: 26.09.2026. Verglichen wurde die gebaute Startseite (`docs/index.html`) b
 |---|---|---|
 | Aktuelle Folge, Meta-Zeile | Erscheinungsdatum ergänzt: „#62 · Staffel Mut, 4 von 8 · 23.09.2026“. Mobil dadurch zweizeilig (D3: „#62 · Mut 4/8“ einzeilig). | Datum steht im Fragebogen; D3 zeigt keins. Mobil einheitlich lange Form statt eigener Kurzform. |
 | Über uns | Zusätzlicher Foto-Abzug mit dem Podcast-Cover neben der Lexikon-Karte (ab 1024 px rechts, mobil darunter) | Das Cover wird geliefert und hatte sonst keinen Platz; füllt die rechte Spalte wie in D3. |
-| Lexikon-Karte | Kopfzeile „VUCA Blaster“ über „Substantiv, der“ | Lexikon-Logik; Wortlaut aus dem Namen, nichts erfunden. |
+| Lexikon-Karte | Kopfzeile „VUCA Blaster“ über „Substantiv“ (Spez: „Substantiv, der“). Definition im Blocksatz mit automatischer Silbentrennung (Spez: `hyphens: manual`) | Kopfzeile: Lexikon-Logik. Wortart und Blocksatz: Wunsch von Manuel, 27.09.2026. Silbentrennung nur in der Definition, sonst entstehen im Blocksatz mobil große Wortlücken. |
 | Kontakt | Satz „Für Gastanfragen und Ideen zu neuen Folgen erreichst du uns per E-Mail.“, darunter die Adresse als Text | Spez verlangt einen Satz zu Gastanfragen; Adresse sichtbar, falls `mailto:` am Gerät nicht funktioniert. |
 | 404 | h1 „Seite nicht gefunden“ zusätzlich zur Marker-Notiz | Jede Seite braucht genau eine h1. |
 | Hero „hier reinhören!“ | Zwischen 390 und 1279 px Position wie D3-Mobile, ab 1280 px wie D3-Desktop; unter 380 px Notiz 20 px statt 24 px | Sonst überlappt die Notiz die Haftnotiz (1024–1279) oder ragt aus dem Bildschirm (320 px). |

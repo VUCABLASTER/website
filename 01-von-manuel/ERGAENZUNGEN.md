@@ -8,3 +8,10 @@
 - Datenschutzerklärung: siehe DATENSCHUTZ.md in diesem Ordner (1:1 übernehmen).
 - GitHub: Organisation VUCABLASTER, Repo https://github.com/VUCABLASTER/website.git, öffentlich, Owner Manuel Wyszynski, Mitarbeitender Thomas Wordenbeck.
 - Domains (alle bei IONOS, DNS setzt Manuel): vucablaster.de (Hauptdomain der Website), vucablaster.com (E-Mail hello@), vucablaster.store, vucablaster.global.
+
+## Definition „VUCA Blaster“ (Stand 27.09.2026 – ersetzt die Definition aus dem Fragebogen)
+
+Wortart-Zeile der Lexikon-Karte: „Substantiv“
+
+Text (1:1 übernehmen):
+Ein VUCA Blaster begegnet einer unübersichtlichen Welt mit Neugier, Mut, Optimismus und Authentizität. Surft auf dem Chaos, statt darin unterzugehen. Gestaltet Veränderung aktiv mit und bringt Menschen durch verbindende Kommunikation zusammen.

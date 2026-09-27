@@ -252,7 +252,7 @@ p{text-wrap:pretty}
 .lex{max-width:760px;padding:24px 20px 26px;background:var(--c-board);border:2px solid var(--c-ink);transform:rotate(-1deg)}
 .lex-word{margin:0;font-size:clamp(1.75rem,1.4rem + 1.4vw,2.5rem);font-weight:800;line-height:1;letter-spacing:-.03em}
 .lex-pos{margin:6px 0 0;font-size:var(--fs-label);font-weight:600;color:var(--c-petrol)}
-.lex-def{margin:16px 0 0;font-size:clamp(1.25rem,1.157rem + .381vw,1.5rem);font-weight:500;line-height:1.4}
+.lex-def{margin:16px 0 0;font-size:clamp(1.25rem,1.157rem + .381vw,1.5rem);font-weight:500;line-height:1.4;text-align:justify;hyphens:auto;-webkit-hyphens:auto;hyphenate-limit-chars:6 3 3}
 .about-text{margin:32px 0 0;max-width:68ch}
 .print--cover{width:min(100%,320px);aspect-ratio:1;justify-self:center;transform:rotate(2deg)}
 @media (min-width:768px){
