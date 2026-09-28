@@ -532,7 +532,7 @@ def archiv(site, folgen, infos, staffeln, hat_bild):
 '''
     extra = ('<meta name="description" content="Alle Folgen des Podcasts VUCA Blaster seit ' + str(jahr0) +
              ': durchsuchen und nach Wert, Staffel und Jahr filtern.">\n'
-             f'<script src="{pre}assets/js/archiv.js" defer></script>\n')
+             f'<script src="{pre}assets/js/archiv.js?v={layout.version("js/archiv.js")}" defer></script>\n')
     doc = (head(f'Alle {len(folgen)} Folgen – VUCA Blaster', pre, BASE_URL + 'folgen/', extra) + header(pre) +
            inhalt + footer(pre) + '</body>\n</html>\n')
     (site / 'folgen').mkdir(exist_ok=True)

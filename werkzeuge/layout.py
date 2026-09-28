@@ -7,6 +7,13 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[1]
 
+
+def version(datei):
+    """Kurzer Prüfwert einer Datei aus docs/assets – ändert sich bei jeder Änderung, damit Browser nichts Veraltetes zeigen."""
+    import hashlib
+    p = REPO / 'docs' / 'assets' / datei
+    return hashlib.sha1(p.read_bytes()).hexdigest()[:8] if p.exists() else '1'
+
 SPOTIFY = 'https://open.spotify.com/show/3OQW0akZgxBxK4AWFQSKtf'
 APPLE = 'https://podcasts.apple.com/de/podcast/vuca-blaster/id1541461336'
 LINKEDIN = 'https://www.linkedin.com/showcase/vucablaster/'
@@ -95,7 +102,7 @@ def head(title, pre, canonical='', extra=''):
 <link rel="apple-touch-icon" href="{pre}apple-touch-icon.png">
 <meta name="theme-color" content="#FAFAF7">
 <link rel="preload" href="{pre}assets/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="{pre}assets/css/style.css">
+<link rel="stylesheet" href="{pre}assets/css/style.css?v={version('css/style.css')}">
 {extra}</head>
 <body>
 '''
