@@ -14,11 +14,12 @@
     var book = data.get('wunschbuch');
     var name = [data.get('vorname'), data.get('nachname')].filter(Boolean).join(' ').trim();
 
-    var subject = 'Gewinnspiel WORC Camp: ' + book;
+    var subject = 'Gewinnspiel WORCamp 2026: ' + book;
     var body = 'Hallo VUCA Blaster,\n\n' +
-      'ich möchte am Gewinnspiel beim WORC Camp teilnehmen.\n\n' +
+      'ich möchte am Gewinnspiel beim WORCamp 2026 teilnehmen.\n\n' +
       'Name: ' + name + '\n' +
-      'Wunschgewinn: ' + book + '\n\n' +
+      'Wunschgewinn: ' + book + '\n' +
+      'Namensnennung auf LinkedIn, falls ich gewinne: ' + (data.get('linkedin_nennung') ? 'ja' : 'nein') + '\n\n' +
       'Die Teilnahmebedingungen und Datenschutzhinweise habe ich gelesen und akzeptiert.\n';
 
     window.location.href = 'mailto:' + TO +

@@ -38,21 +38,31 @@ Nach deinem Klick wird die Audiodatei vom Server unseres Podcast-Hosters podcast
 
 Rechtsgrundlage ist deine Einwilligung durch den Klick (Art. 6 Abs. 1 lit. a DSGVO). Deine Einwilligung gilt nur für den jeweiligen Seitenaufruf und wird nicht gespeichert. Du kannst sie jederzeit für die Zukunft widerrufen, indem du die Seite neu lädst und den Player nicht startest.
 
-## 6. Links zu Podcast-Plattformen
+## 6. Links zu Podcast-Plattformen und LinkedIn
 
-Die Website enthält Links zu Spotify und Apple Podcasts. Es handelt sich um einfache Links, nicht um eingebettete Inhalte. Daten werden erst übertragen, wenn du einen Link anklickst und die Seite des jeweiligen Anbieters aufrufst. Dort gelten dessen Datenschutzbestimmungen.
+Die Website enthält Links zu Spotify, Apple Podcasts und LinkedIn. Es handelt sich um einfache Links, nicht um eingebettete Inhalte. Daten werden erst übertragen, wenn du einen Link anklickst und die Seite des jeweiligen Anbieters aufrufst. Dort gelten dessen Datenschutzbestimmungen.
 
 ## 7. Kontakt per E-Mail
 
-Wenn du uns per E-Mail schreibst (z. B. an hello@vucablaster.com), verarbeiten wir deine Angaben (E-Mail-Adresse, Name, Inhalt der Nachricht), um deine Anfrage zu beantworten, zum Beispiel eine Gastanfrage.
+Wenn du uns per E-Mail schreibst (z. B. an hello@vucablaster.com), verarbeiten wir deine Angaben (E-Mail-Adresse, Name, Inhalt der Nachricht), um deine Anfrage zu beantworten, zum Beispiel eine Gastanfrage. Für E-Mails zur Teilnahme am Gewinnspiel gilt zusätzlich Abschnitt 8.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit (etwa als Gast) gerichtet ist, im Übrigen Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen). Wir löschen die Daten, sobald sie für die Bearbeitung nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-## 8. Verschlüsselung
+## 8. Gewinnspiel beim WORCamp 2026
+
+Am Gewinnspiel nimmst du per E-Mail an hello@vucablaster.com teil. Die Gewinnspielseite öffnet dafür nur dein Mailprogramm mit einer vorbereiteten Nachricht. Sie speichert selbst keine Daten und überträgt nichts an Dritte.
+
+Wir verarbeiten deinen Namen, deine E-Mail-Adresse und deinen Wunschgewinn, um die Gewinner:innen auszulosen und sie per E-Mail zu benachrichtigen. Von den Gewinner:innen erfragen wir zusätzlich die Postanschrift, um den Gewinn per Post zu verschicken. Dafür geben wir Name und Anschrift an den jeweiligen Versanddienstleister weiter. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO (Durchführung des Gewinnspiels nach den Teilnahmebedingungen).
+
+Wenn du im Formular zustimmst, nennen wir dich im Fall eines Gewinns mit Namen in einem Beitrag auf unserer LinkedIn-Seite. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO). Die Einwilligung ist freiwillig und hat keinen Einfluss auf deine Gewinnchance. Du kannst sie jederzeit per E-Mail an hello@vucablaster.com widerrufen. Für Beiträge auf LinkedIn gelten zusätzlich die Datenschutzbestimmungen von LinkedIn.
+
+Wir löschen die Daten der Teilnehmenden, sobald das Gewinnspiel abgeschlossen ist und die Gewinne verschickt sind, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
+
+## 9. Verschlüsselung
 
 Die Website wird ausschließlich über eine verschlüsselte Verbindung (HTTPS/TLS) ausgeliefert.
 
-## 9. Deine Rechte
+## 10. Deine Rechte
 
 Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21 DSGVO). Eine erteilte Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO). Wende dich dazu an die oben genannte Adresse.
 
@@ -63,6 +73,6 @@ Kavalleriestraße 2–4
 40213 Düsseldorf
 https://www.ldi.nrw.de
 
-## 10. Änderungen
+## 11. Änderungen
 
 Wir passen diese Datenschutzerklärung an, wenn sich die Website oder die Rechtslage ändert. Es gilt die jeweils hier veröffentlichte Fassung.
