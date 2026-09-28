@@ -1,0 +1,18 @@
+{
+  "staffeln": [
+    {
+      "id": "mut",
+      "name": "Staffel Mut",
+      "jahr": 2026,
+      "folgen_geplant": 8,
+      "beschreibung": ""
+    },
+    {
+      "id": "optimismus",
+      "name": "Staffel Optimismus",
+      "jahr": 2026,
+      "folgen_geplant": null,
+      "beschreibung": ""
+    }
+  ]
+}

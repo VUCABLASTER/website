@@ -419,3 +419,68 @@ mark.fehlt{background:var(--c-rose);color:var(--c-red);font-weight:700;padding:0
   .book-grid{gap:36px 44px;max-width:1100px}
   .gw-about-sec{padding-block:56px}
 }
+
+/* ---------- Archiv-Teaser (Startseite) ---------- */
+.archive-teaser{background:var(--c-archive)}
+.archive-teaser-text{margin:14px 0 22px;max-width:60ch}
+
+/* ---------- Archiv /folgen/ ---------- */
+.archive{padding-top:28px}
+.archive-tools{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 8px;margin:0 0 22px;padding:14px;background:var(--c-board);border:2px solid var(--c-ink)}
+.archive-tools .archive-search,.archive-tools .archive-count{grid-column:1 / -1}
+.archive-tools label{font-size:15px}
+.archive-tools select{width:100%;min-width:0;min-height:48px;padding:8px 6px;border:2px solid var(--c-ink);border-radius:4px;background:var(--c-board);color:var(--c-ink);font:inherit;font-size:17px}
+.archive-count{margin:0;font-weight:700;color:var(--c-muted)}
+.ep-list{list-style:none;margin:0;padding:0;display:grid;gap:0;max-width:980px;border-top:2px solid var(--c-ink)}
+.ep-item{position:relative;padding:16px 0;border-bottom:1.5px solid var(--c-frame)}
+.ep-card{display:grid;grid-template-columns:76px minmax(0,1fr);gap:14px;align-items:start;text-decoration:none;color:var(--c-ink)}
+.ep-card:hover .ep-title-line{text-decoration:underline;text-decoration-thickness:2px}
+.ep-thumb{display:block;width:76px;height:76px;padding:5px;background:var(--c-board);border:1.5px solid var(--c-frame);transform:rotate(-2deg)}
+.ep-item:nth-child(even) .ep-thumb{transform:rotate(1.5deg)}
+.ep-thumb img{width:100%;height:100%;object-fit:cover}
+.ep-thumb--leer{background:var(--c-archive) var(--hatch)}
+.ep-body{display:flex;flex-direction:column;gap:3px;min-width:0}
+.ep-meta-line{font-size:14px;font-weight:600;color:var(--c-muted)}
+.ep-title-line{font-size:clamp(1.125rem,1.03rem + .4vw,1.4rem);font-weight:800;line-height:1.15;letter-spacing:-.015em}
+.ep-guest{font-size:15px;color:var(--c-muted)}
+.ep-values{margin:10px 0 0 90px;gap:6px}
+.ep-values .value{font-size:14px;padding:4px 8px}
+.archive-empty{margin:22px 0 0;font-weight:600}
+@media (min-width:768px){
+  .archive-tools{grid-template-columns:2fr 1fr 1fr 1fr;align-items:end;gap:14px;padding:22px 24px}
+  .archive-tools .archive-search{grid-column:auto}
+  .archive-tools label{font-size:inherit}
+  .archive-tools select{padding:10px 12px}
+  .ep-card{grid-template-columns:110px minmax(0,1fr);gap:22px}
+  .ep-thumb{width:110px;height:110px;padding:7px}
+  .ep-values{margin-left:132px}
+  .ep-item{padding:22px 0}
+}
+
+/* ---------- Folgenseite ---------- */
+.ep-head h1{font-size:var(--fs-ep);line-height:1;letter-spacing:-.035em;margin-top:8px}
+.ep-date{margin:14px 0 0;font-weight:600;color:var(--c-muted)}
+.ep-section{border-top:0}
+.ep-grid{display:grid;gap:36px}
+.ep-main{display:flex;flex-direction:column;align-items:flex-start;min-width:0}
+.ep-main .btn-row{align-self:stretch}
+.ep-guest-block{margin-top:0}
+.ep-notes-h{margin:44px 0 12px;font-size:clamp(1.5rem,1.36rem + .57vw,1.875rem);font-weight:800;letter-spacing:-.02em;line-height:1.15}
+.ep-notes{max-width:68ch}
+.ep-notes p{margin:0 0 14px}
+.ep-notes ul,.ep-notes ol{margin:0 0 14px;padding-left:1.2em}
+.ep-notes a{overflow-wrap:anywhere}
+.print--episode{width:min(100%,420px);aspect-ratio:1;transform:rotate(2deg)}
+.ep-more{display:flex;flex-direction:column;align-items:flex-start;gap:22px}
+.ep-pager{display:grid;gap:12px;width:100%;max-width:980px}
+.ep-pager a{display:flex;flex-direction:column;gap:2px;padding:14px 16px;border:2px solid var(--c-ink);border-radius:4px;background:var(--c-board);text-decoration:none;font-weight:700;line-height:1.3}
+.ep-pager a span{font-size:14px;color:var(--c-muted)}
+.ep-pager a:hover{border-color:var(--c-petrol)}
+@media (min-width:768px){
+  .ep-pager{grid-template-columns:1fr 1fr}
+  .ep-pager .next{text-align:right;align-items:flex-end}
+}
+@media (min-width:1024px){
+  .ep-grid{grid-template-columns:minmax(0,1fr) clamp(300px,30vw,420px);gap:clamp(48px,6vw,88px)}
+  .print--episode{width:100%;margin-top:8px}
+}

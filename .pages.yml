@@ -1,0 +1,80 @@
+# Pages CMS (https://pagescms.org): Formulare für die Folgen-Infos und Staffeln.
+# Alles andere (Titel, Datum, Bild, Beschreibung, Links) kommt automatisch aus dem Feed von podcaster.de.
+content:
+  - name: folgen
+    label: Folgen
+    type: collection
+    path: inhalte/folgen
+    format: json
+    view:
+      fields: [nummer, titel, gast, hauptwert]
+      default:
+        sort: nummer
+        order: desc
+    fields:
+      - name: nummer
+        label: Folgennummer
+        type: number
+        description: Kommt aus dem Feed. Bitte nicht ändern.
+      - name: titel
+        label: Titel (aus dem Feed)
+        type: string
+        description: Wird automatisch aus dem Feed übernommen. Änderungen hier werden überschrieben.
+      - name: gast
+        label: Gast
+        type: string
+        description: Name, wie er auf der Seite stehen soll, z. B. „Dr. Maja Storch“.
+      - name: rolle
+        label: Rolle des Gasts
+        type: string
+        description: Eine Zeile, z. B. „Psychologin“.
+      - name: staffel
+        label: Staffel
+        type: select
+        description: Leer lassen, wenn die Folge zu keiner Themenstaffel gehört.
+        options:
+          values: [mut, optimismus]
+      - name: hauptwert
+        label: Hauptwert
+        type: select
+        options:
+          values: [optimistisch, neugierig, mutig, authentisch, verbindend]
+      - name: nebenwerte
+        label: Nebenwerte
+        type: select
+        options:
+          multiple: true
+          values: [optimistisch, neugierig, mutig, authentisch, verbindend]
+      - name: key_learnings
+        label: Key Learnings
+        type: string
+        description: Bis zu drei kurze Sätze.
+        list:
+          max: 3
+  - name: staffeln
+    label: Staffeln
+    type: file
+    path: inhalte/staffeln.json
+    format: json
+    fields:
+      - name: staffeln
+        label: Staffeln
+        type: object
+        list: true
+        fields:
+          - name: id
+            label: Kürzel
+            type: string
+            description: Kleinbuchstaben ohne Leerzeichen, z. B. „mut“. Neue Kürzel zusätzlich in .pages.yml unter „staffel“ eintragen.
+          - name: name
+            label: Name
+            type: string
+          - name: jahr
+            label: Jahr
+            type: number
+          - name: folgen_geplant
+            label: Geplante Folgen
+            type: number
+          - name: beschreibung
+            label: Beschreibung
+            type: text
