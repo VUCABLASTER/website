@@ -1,10 +1,13 @@
 {
   "nummer": 22,
   "titel": "#22 Spiral Dynamics mit Patric Hohl",
-  "gast": "",
+  "gast": "Patric Hohl",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Das Modell Spiral Dynamics und wie du es in der Praxis anwenden kannst.",
+  "hinweis": "Schreibweise prüfen: Titel „Patric“, Shownotes „Patrick“.",
+  "geprueft": false
 }

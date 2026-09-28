@@ -10,7 +10,7 @@ Die Website liegt im Repo `VUCABLASTER/website`. GitHub Pages veröffentlicht de
 - eine Seite pro Folge (Titel, Datum, Dauer, Folgenbild, Beschreibung, Links zu Apple Podcasts und Spotify)
 - Kurzlinks wie `vucablaster.de/62` für LinkedIn-Posts
 
-Titel, Bild und Beschreibung pflegst du wie bisher bei **podcaster.de**. Die Links zu den einzelnen Folgen bei Apple Podcasts holt der Build automatisch. Spotify verlinkt vorerst auf die Podcast-Seite.
+Titel, Bild und Beschreibung pflegst du wie bisher bei **podcaster.de**. Die Links zu den einzelnen Folgen bei Apple Podcasts holt der Build automatisch. Spotify verlinkt vorerst auf die Podcast-Seite. Direktlinks pro Folge holt der Build automatisch, sobald ein (kostenloses) Konto auf developer.spotify.com angelegt ist und `SPOTIFY_CLIENT_ID` und `SPOTIFY_CLIENT_SECRET` als Umgebungsvariablen bzw. GitHub-Secrets hinterlegt sind.
 
 Der Build läuft vorerst lokal mit `python3 werkzeuge/build.py` (oder per Claude Code). Der GitHub-Workflow „Website bauen“ liegt als Vorlage in `werkzeuge/website-bauen.yml.vorlage` und wird nach dem WORCamp 2026 nach `.github/workflows/` verschoben (braucht einmalig `gh auth refresh -s workflow`). Dann läuft der Build per Knopfdruck, täglich und nach Änderungen an den Folgen-Infos.
 
@@ -26,6 +26,11 @@ Pro Folge gibt es eine Datei `inhalte/folgen/062.json` usw. mit:
 | Hauptwert | mutig |
 | Nebenwerte | authentisch |
 | Key Learnings | bis zu drei kurze Sätze |
+| Ein Satz zum Inhalt (Teaser) | erscheint im Archiv unter dem Titel |
+| Hinweis | Notiz zum Prüfen, danach leeren |
+| Geprüft | Haken setzen, wenn alles stimmt |
+
+**Stand 28.09.2026:** Für alle 62 Folgen sind Gast, Rolle, Teaser und Werte als **Entwurf aus den Shownotes** eingetragen (Key Learnings bei 22 Folgen, wo die Shownotes klare Aussagen enthalten). Alle Einträge stehen auf „Geprüft: nein“ – bitte durchgehen und abhaken. Transkripte waren nicht verfügbar.
 
 Für neue Folgen legt der Build die Datei selbst an. Du ergänzt nur die Felder.
 

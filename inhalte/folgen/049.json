@@ -1,10 +1,19 @@
 {
   "nummer": 49,
   "titel": "#49 Emotionen und Energie in Unternehmen - mit Dr. Nico Rose",
-  "gast": "",
-  "rolle": "",
+  "gast": "Dr. Nico Rose",
+  "rolle": "Psychologe",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "verbindend",
+  "nebenwerte": [
+    "authentisch"
+  ],
+  "key_learnings": [
+    "Emotionen übertragen sich oft unbewusst auf ganze Teams.",
+    "Emotionale Selbstregulation ist wichtig und lässt sich lernen.",
+    "Wer seine Stärken gezielt einsetzt, erlebt mehr Flow und Sinn."
+  ],
+  "teaser": "Wie Gefühle, Energie und persönliche Stärken unsere Zusammenarbeit prägen.",
+  "hinweis": "",
+  "geprueft": false
 }

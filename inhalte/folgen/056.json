@@ -4,7 +4,17 @@
   "gast": "Jonas Deichmann",
   "rolle": "Extremsportler",
   "staffel": "optimismus",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "optimistisch",
+  "nebenwerte": [
+    "mutig",
+    "neugierig"
+  ],
+  "key_learnings": [
+    "Optimismus ist mentale Stärke, keine Naivität.",
+    "Kontinuität schlägt Talent.",
+    "Große Ziele lassen sich in kleine Etappen zerlegen."
+  ],
+  "teaser": "Warum Optimismus nichts mit Naivität zu tun hat, sondern mit mentaler Stärke und Fokus auf das, was du beeinflussen kannst.",
+  "hinweis": "",
+  "geprueft": false
 }

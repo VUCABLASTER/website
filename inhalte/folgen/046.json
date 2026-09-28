@@ -1,10 +1,18 @@
 {
   "nummer": 46,
   "titel": "#46 Fehler systemisch betrachten mit Ilka Heinze",
-  "gast": "",
+  "gast": "Prof. Ilka Heinze",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "neugierig"
+  ],
+  "key_learnings": [
+    "Fuckup Nights sprechen nicht alle Mitarbeitenden an.",
+    "Es gibt verschiedene Fehlertypen, die unterschiedlich behandelt werden sollten."
+  ],
+  "teaser": "Warum Fehlerkultur oft nur einseitig gefördert wird und welche Fehlertypen es gibt.",
+  "hinweis": "",
+  "geprueft": false
 }

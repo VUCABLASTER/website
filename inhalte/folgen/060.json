@@ -4,7 +4,16 @@
   "gast": "Dr. Rüdiger Maas",
   "rolle": "Generationenforscher",
   "staffel": "mut",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [
+    "Forderungen sind nicht automatisch mutig.",
+    "Jüngere Menschen betrachten Arbeit teilweise anders – das ist nicht dasselbe wie faul.",
+    "Unternehmen sollten junge Mitarbeitende ernst nehmen, ohne ihnen alles recht machen zu wollen."
+  ],
+  "teaser": "Mut, Gen Z und die vielen Missverständnisse zwischen den Generationen in unserer Arbeitswelt.",
+  "hinweis": "",
+  "geprueft": false
 }

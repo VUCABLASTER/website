@@ -1,10 +1,13 @@
 {
   "nummer": 5,
   "titel": "#5 Fehlerkultur mit Robert Radloff",
-  "gast": "",
-  "rolle": "",
+  "gast": "Robert Radloff",
+  "rolle": "Treiber der Fehlerkultur bei Airbus, Organisator der Fuckup Nights Hamburg",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Wie schwierig es ist, eine Fehlerkultur zu etablieren – und wie du einfach mal startest.",
+  "hinweis": "",
+  "geprueft": false
 }

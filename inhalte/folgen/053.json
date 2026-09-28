@@ -1,10 +1,19 @@
 {
   "nummer": 53,
   "titel": "#53 KI trifft Arbeitskultur mit Chris Schulz",
-  "gast": "",
-  "rolle": "",
+  "gast": "Chris Schulz",
+  "rolle": "Mitgründer SUPYOU Consulting, Vorstand Bundesverband New Work",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "optimistisch",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [
+    "KI-Einführung ist immer auch ein Kultur- und Change-Thema.",
+    "Führungskräfte können Orientierung geben.",
+    "„Der KI-Zug ist abgefahren“ ist ein Mythos."
+  ],
+  "teaser": "Wie KI unsere Arbeitskultur verändert – und wie Menschen und Organisationen mit dieser Veränderung umgehen.",
+  "hinweis": "",
+  "geprueft": false
 }

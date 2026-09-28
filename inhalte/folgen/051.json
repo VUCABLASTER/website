@@ -1,10 +1,17 @@
 {
   "nummer": 51,
   "titel": "#51 Diversity Management mit Petra Köppel",
-  "gast": "",
-  "rolle": "",
+  "gast": "Dr. Petra Köppel",
+  "rolle": "Diversity-Beraterin, Gründerin von Synergy Consult",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Wertschätzung im Alltag ist entscheidend.",
+    "Führungskräfte spielen eine zentrale Rolle für Inklusion.",
+    "Kleine Gesten bewegen manchmal mehr als große Programme."
+  ],
+  "teaser": "Wie Unternehmen Vielfalt nicht nur ins Haus holen, sondern sie auch zum Blühen bringen.",
+  "hinweis": "",
+  "geprueft": false
 }

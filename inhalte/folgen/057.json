@@ -2,9 +2,18 @@
   "nummer": 57,
   "titel": "#57 Optimismus & warum Wissen überschätzt wird mit Thomas de Nocker",
   "gast": "Prof. Dr. Thomas de Nocker",
-  "rolle": "",
+  "rolle": "Professor, Ultratriathlet und Berater",
   "staffel": "optimismus",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "optimistisch",
+  "nebenwerte": [
+    "mutig"
+  ],
+  "key_learnings": [
+    "Wissen wird oft überschätzt.",
+    "„80 ist das neue 100“ – raus aus dem Perfektionismus.",
+    "Effectuation: Handeln mit dem, was da ist."
+  ],
+  "teaser": "Warum wir zu lange auf perfekte Pläne warten – und was stattdessen wirklich zählt.",
+  "hinweis": "",
+  "geprueft": false
 }

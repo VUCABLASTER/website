@@ -1,10 +1,15 @@
 {
   "nummer": 17,
   "titel": "#17 Wie können wir uns in der VUCA-Welt orientieren? Eine Roadmap durch die VUCA-Welt.",
-  "gast": "",
-  "rolle": "",
+  "gast": "Dennis Willkomm",
+  "rolle": "Agile Coach und Autor",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "optimistisch",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Veränderung beginnt mit der eigenen offenen und zuversichtlichen Haltung."
+  ],
+  "teaser": "Eine Roadmap durch die VUCA-Welt: wie wir Veränderung und Zukunft aktiv mitgestalten.",
+  "hinweis": "",
+  "geprueft": false
 }

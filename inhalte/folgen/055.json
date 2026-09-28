@@ -1,10 +1,19 @@
 {
   "nummer": 55,
   "titel": "#55 Warum Vorsätze scheitern: Die Psychologie wirksamer Veränderung",
-  "gast": "",
-  "rolle": "",
+  "gast": "Prof. Axel Koch",
+  "rolle": "Psychologe, Experte für Veränderungspsychologie",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "neugierig",
+  "nebenwerte": [
+    "optimistisch"
+  ],
+  "key_learnings": [
+    "Willenskraft wird überschätzt.",
+    "Rückfälle sind kein Versagen, sondern Teil des Prozesses.",
+    "Rückfallmanagement ist eine wirksame Technik für nachhaltige Veränderung."
+  ],
+  "teaser": "Die größten Denkfehler rund um Gewohnheiten, Motivation und Veränderung – und warum Vorsätze so oft scheitern.",
+  "hinweis": "",
+  "geprueft": false
 }

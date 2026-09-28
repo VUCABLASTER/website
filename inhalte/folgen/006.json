@@ -1,10 +1,15 @@
 {
   "nummer": 6,
   "titel": "#6 Die Verwaltungsrebellen im Interview",
-  "gast": "",
-  "rolle": "",
+  "gast": "Sabine Schwittek und Dorothea Herrmann",
+  "rolle": "Gründerinnen der Verwaltungsrebellen",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [],
+  "teaser": "Die Verwaltungsrebellen zeigen, dass Verwaltung auch anders kann als öde, langsam und bürokratisch.",
+  "hinweis": "",
+  "geprueft": false
 }

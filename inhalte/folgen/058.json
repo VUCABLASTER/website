@@ -1,10 +1,19 @@
 {
   "nummer": 58,
   "titel": "#58 Mut und Unternehmertum mit Thomas Hoppe",
-  "gast": "",
-  "rolle": "",
+  "gast": "Thomas Hoppe",
+  "rolle": "Unternehmer und Autor von „Made in Germany“",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "optimistisch"
+  ],
+  "key_learnings": [
+    "Gründen braucht ein klares Ziel, Durchhaltevermögen und ein starkes Netzwerk.",
+    "Rückschläge gehören dazu – eine bessere Fehlerkultur hilft.",
+    "KI und Digitalisierung eröffnen neue Chancen für Gründende."
+  ],
+  "teaser": "Optimismus, Mut und Unternehmertum in Deutschland – mit persönlichen Rückschlägen und den Chancen durch KI.",
+  "hinweis": "Staffel offen: gehört die Folge zur Staffel Optimismus?",
+  "geprueft": false
 }

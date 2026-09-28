@@ -1,10 +1,16 @@
 {
   "nummer": 40,
   "titel": "#40 Kulturwertstrom mit Daniel Ullrich und Sven Echzeller",
-  "gast": "",
-  "rolle": "",
+  "gast": "Daniel Ullrich und Sven Echzeller",
+  "rolle": "Change-Experten",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Kultur muss tagtäglich gelebt werden, nicht nur in Workshops.",
+    "Halte immer wieder inne und frag dich: „Was machen wir gerade?“"
+  ],
+  "teaser": "Der Kulturwertstrom: wie du Kultur transparent und damit diskutierbar machst.",
+  "hinweis": "",
+  "geprueft": false
 }

@@ -161,9 +161,47 @@ def apple_lesen(json_bytes):
             for r in daten.get('results', []) if r.get('wrapperType') == 'podcastEpisode'}
 
 
+SPOTIFY_SHOW = '3OQW0akZgxBxK4AWFQSKtf'
+
+
+def titel_schluessel(s):
+    s = unicodedata.normalize('NFD', (s or '').lower())
+    return re.sub(r'[^a-z0-9]', '', ''.join(c for c in s if unicodedata.category(c) != 'Mn'))
+
+
+def spotify_links(folgen, offline):
+    """Direktlinks zu den Folgen bei Spotify. Braucht SPOTIFY_CLIENT_ID und SPOTIFY_CLIENT_SECRET
+    (kostenloses Konto auf developer.spotify.com). Ohne Zugangsdaten wird die letzte Ersatzkopie genutzt."""
+    import os, base64
+    cache = DATEN / 'spotify.json'
+    links = json.loads(cache.read_text()) if cache.exists() else {}
+    cid, sec = os.environ.get('SPOTIFY_CLIENT_ID'), os.environ.get('SPOTIFY_CLIENT_SECRET')
+    if cid and sec and not offline:
+        try:
+            auth = base64.b64encode(f'{cid}:{sec}'.encode()).decode()
+            req = urllib.request.Request('https://accounts.spotify.com/api/token', data=b'grant_type=client_credentials',
+                                         headers={'Authorization': f'Basic {auth}', 'Content-Type': 'application/x-www-form-urlencoded'})
+            token = json.loads(urllib.request.urlopen(req, timeout=30).read())['access_token']
+            url, neu = f'https://api.spotify.com/v1/shows/{SPOTIFY_SHOW}/episodes?market=DE&limit=50', {}
+            while url:
+                r = json.loads(urllib.request.urlopen(urllib.request.Request(url, headers={'Authorization': f'Bearer {token}'}), timeout=30).read())
+                for ep in r.get('items') or []:
+                    if ep:
+                        neu[titel_schluessel(ep['name'])] = ep['external_urls']['spotify']
+                url = r.get('next')
+            if neu:
+                links = neu
+                cache.write_text(json.dumps(links, indent=1, sort_keys=True) + '\n')
+        except Exception as e:
+            print(f'Hinweis: Spotify nicht erreichbar ({e}), nutze Ersatzkopie.', file=sys.stderr)
+    for f in folgen:
+        f['spotify'] = links.get(titel_schluessel(f['titel_roh']), '')
+
+
 # ---------------------------------------------------------------- Folgen-Infos (Pflege durch Manuel)
 
-LEER = {'nummer': 0, 'titel': '', 'gast': '', 'rolle': '', 'staffel': '', 'hauptwert': '', 'nebenwerte': [], 'key_learnings': []}
+LEER = {'nummer': 0, 'titel': '', 'gast': '', 'rolle': '', 'teaser': '', 'staffel': '', 'hauptwert': '', 'nebenwerte': [],
+        'key_learnings': [], 'hinweis': '', 'geprueft': False}
 
 
 def infos_laden(folgen):
@@ -291,8 +329,24 @@ def learnings(info):
 
 def plattformen(f):
     apple = f['apple'] or APPLE
+    spotify = f.get('spotify') or SPOTIFY
     return (f'<a class="btn" href="{esc(apple)}">Apple Podcasts</a>'
-            f'<a class="btn" href="{SPOTIFY}">Spotify</a>')
+            f'<a class="btn" href="{esc(spotify)}">Spotify</a>')
+
+
+ICON_APPLE = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="1" y="1" width="22" height="22" rx="6" fill="currentColor"/>'
+              '<circle cx="12" cy="10" r="2.3" fill="#fff"/><path d="M12 13.4v5.2" stroke="#fff" stroke-width="2.4" stroke-linecap="round"/>'
+              '<path d="M7.7 14.3a5.6 5.6 0 1 1 8.6 0" stroke="#fff" stroke-width="1.7" fill="none" stroke-linecap="round"/></svg>')
+ICON_SPOTIFY = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="11" fill="currentColor"/>'
+                '<path d="M6.4 9.3c3.7-1.1 8-.8 11.2 1.1M7.1 12.5c3-.8 6.4-.5 9 1M7.8 15.6c2.4-.6 4.8-.4 6.9.8" stroke="#fff" stroke-width="1.8" fill="none" stroke-linecap="round"/></svg>')
+
+
+def icon_links(f):
+    apple = f['apple'] or APPLE
+    spotify = f.get('spotify') or SPOTIFY
+    sp_label = f'#{f["nr"]} auf Spotify hören' if f.get('spotify') else 'VUCA Blaster auf Spotify'
+    return (f'<a class="pf-link" href="{esc(apple)}" aria-label="#{f["nr"]} auf Apple Podcasts hören" title="Apple Podcasts">{ICON_APPLE}</a>'
+            f'<a class="pf-link" href="{esc(spotify)}" aria-label="{sp_label}" title="Spotify">{ICON_SPOTIFY}</a>')
 
 
 # ---------------------------------------------------------------- Startseite
@@ -395,7 +449,7 @@ def ersetzen(text, name, neu):
 # ---------------------------------------------------------------- Archiv
 
 def suchtext(f, info, titel):
-    teile = [f'#{f["nr"]}', str(f['nr']), titel, f['titel_roh'], info['gast'], info['rolle'], f['text'], ' '.join(info['key_learnings'])]
+    teile = [f'#{f["nr"]}', str(f['nr']), titel, f['titel_roh'], info['gast'], info['rolle'], info.get('teaser', ''), f['text'], ' '.join(info['key_learnings'])]
     t = ' '.join(x for x in teile if x).lower()
     t = unicodedata.normalize('NFD', t)
     return re.sub(r'\s+', ' ', ''.join(c for c in t if unicodedata.category(c) != 'Mn'))
@@ -416,19 +470,22 @@ def archiv(site, folgen, infos, staffeln, hat_bild):
         meta = ' · '.join(x for x in [f'#{f["nr"]}', datum_de(f['datum']), f'{f["minuten"]} Min.' if f['minuten'] else ''] if x)
         chips = ''.join(f'<li class="value{" value--main" if i == 0 and info["hauptwert"] else ""}">'
                         f'<span class="dot" aria-hidden="true"></span>{w}</li>' for i, w in enumerate(werte))
-        thumb = (f'<span class="ep-thumb" aria-hidden="true">{bild(pre, f["nr"], "", klein=True)}</span>'
-                 if hat_bild[f['nr']] else '<span class="ep-thumb ep-thumb--leer" aria-hidden="true"></span>')
-        gast = f'<span class="ep-guest">mit {esc(info["gast"])}{", " + esc(info["rolle"]) if info["rolle"] else ""}</span>' if info['gast'] else ''
+        thumb = (f'<a class="ep-thumb" href="{f["slug"]}/" tabindex="-1" aria-hidden="true">{bild(pre, f["nr"], "", klein=True)}</a>'
+                 if hat_bild[f['nr']] else f'<a class="ep-thumb ep-thumb--leer" href="{f["slug"]}/" tabindex="-1" aria-hidden="true"></a>')
+        gast = (f'<p class="ep-guest">mit {esc(info["gast"])}{", " + esc(info["rolle"]) if info["rolle"] else ""}</p>'
+                if info['gast'] else '')
+        mehr = f'<a class="ep-mehr" href="{f["slug"]}/">… mehr erfahren<span class="sr-only"> zu #{f["nr"]}</span></a>'
+        teaser = f'<p class="ep-teaser">{esc(info.get("teaser", ""))} {mehr}</p>' if info.get('teaser') else f'<p class="ep-teaser">{mehr}</p>'
         eintraege.append(f'''    <li class="ep-item" data-werte="{" ".join(werte)}" data-staffel="{esc(info["staffel"])}" data-jahr="{f["datum"].year}" data-text="{esc(suchtext(f, info, titel))}">
-      <a class="ep-card" href="{f["slug"]}/">
-        {thumb}
-        <span class="ep-body">
-          <span class="ep-meta-line">{meta}{(" · " + esc(staffel)) if staffel else ""}</span>
-          <span class="ep-title-line">{esc(titel)}</span>
-          {gast}
-        </span>
-      </a>
-      {f'<ul class="values ep-values" aria-label="Werte">{chips}</ul>' if chips else ''}
+      {thumb}
+      <div class="ep-body">
+        <p class="ep-meta-line">{meta}{(" · " + esc(staffel)) if staffel else ""}</p>
+        <h2 class="ep-title-line"><a href="{f["slug"]}/">{esc(titel)}</a></h2>
+        {gast}
+        {teaser}
+        {f'<ul class="values ep-values" aria-label="Werte">{chips}</ul>' if chips else ''}
+      </div>
+      <div class="ep-links">{icon_links(f)}</div>
     </li>''')
 
     opt_werte = ''.join(f'<option value="{w}">{w} ({zaehl_wert[w]})</option>' for w in WERTE)
@@ -438,16 +495,18 @@ def archiv(site, folgen, infos, staffeln, hat_bild):
 
     inhalt = f'''
 <main id="inhalt">
-<div class="board-sm">
-  <p class="kicker">Archiv</p>
-  <h1>Alle {len(folgen)} Folgen</h1>
-  <p class="gw-text">Seit {jahr0} sprechen wir mit Menschen aus Wissenschaft, Wirtschaft, Psychologie, Sport und Gesellschaft. Hören kannst du jede Folge auf Apple Podcasts und Spotify.</p>
+<div class="board-sm archive-head">
+  <div>
+    <p class="kicker">Archiv seit {jahr0}</p>
+    <h1>Alle {len(folgen)} Folgen</h1>
+  </div>
+  <p class="archive-head-text">Such nach Gast, Thema oder Wert. Gehört wird auf Apple Podcasts und Spotify.</p>
 </div>
 <section class="section archive" aria-label="Folgen durchsuchen">
   <form class="archive-tools" data-archiv-tools hidden role="search" onsubmit="return false">
     <div class="field archive-search">
       <label for="suche">Suchen</label>
-      <input id="suche" type="search" placeholder="Gast, Thema, Stichwort" autocomplete="off" data-filter="text">
+      <input id="suche" type="search" placeholder="Gast, Thema …" autocomplete="off" data-filter="text">
     </div>
     <div class="field">
       <label for="f-wert">Wert</label>
@@ -510,7 +569,7 @@ def folgenseiten(site, folgen, infos, staffeln, hat_bild):
         blaettern += (f'<a class="next" href="../{neuer["slug"]}/"><span>Neuere Folge →</span>#{neuer["nr"]} {esc(anzeige_titel(neuer, infos[neuer["nr"]]))}</a>'
                       if neuer else '<span></span>')
         blaettern += '</nav>'
-        beschreibung = f['text'][:152].rsplit(' ', 1)[0] + ' …' if len(f['text']) > 155 else f['text']
+        beschreibung = info.get('teaser') or (f['text'][:152].rsplit(' ', 1)[0] + ' …' if len(f['text']) > 155 else f['text'])
         og_bild = f'{BASE_URL}assets/folgen/{f["nr"]}.jpg' if hat_bild[f['nr']] else f'{BASE_URL}assets/img/og-default.png'
         extra = (f'<meta name="description" content="{esc(beschreibung)}">\n'
                  f'<meta property="og:type" content="article">\n<meta property="og:locale" content="de_DE">\n'
@@ -523,6 +582,7 @@ def folgenseiten(site, folgen, infos, staffeln, hat_bild):
 <div class="board-sm ep-head">
   <p class="gw-sub">{kick}</p>
   <h1>{esc(titel)}</h1>
+  {f'<p class="ep-lead">{esc(info["teaser"])}</p>' if info.get('teaser') else ''}
   <p class="ep-date">{meta}</p>
 </div>
 <section class="section ep-section" aria-label="Über diese Folge">
@@ -630,6 +690,7 @@ def main():
 
     apple = apple_lesen(holen(APPLE_LOOKUP, DATEN / 'apple.json', a.offline))
     folgen, _cover = feed_lesen(holen(FEED_URL, DATEN / 'feed.xml', a.offline), apple)
+    spotify_links(folgen, a.offline)
     infos = infos_laden(folgen)
     staffeln = staffeln_laden()
     hat_bild = bilder(folgen, site, a.offline)

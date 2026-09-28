@@ -1,10 +1,15 @@
 {
   "nummer": 47,
   "titel": "#47 Konfliktkultur mit Hendric Mostert",
-  "gast": "",
-  "rolle": "",
+  "gast": "Hendric Mostert",
+  "rolle": "Co-Autor des „Conflict Culture Playbook“",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "verbindend",
+  "nebenwerte": [
+    "mutig"
+  ],
+  "key_learnings": [],
+  "teaser": "Was eine gute Konflikt- und Fehlerkultur in Unternehmen ausmacht – mit Ideen zum direkten Ausprobieren.",
+  "hinweis": "Titel sagt Konfliktkultur, Shownotes sprechen von Fehlerkultur.",
+  "geprueft": false
 }

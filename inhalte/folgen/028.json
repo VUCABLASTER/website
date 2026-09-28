@@ -1,10 +1,13 @@
 {
   "nummer": 28,
   "titel": "#28 Change beginnt bei dir mit Arndt Brandenberg",
-  "gast": "",
-  "rolle": "",
+  "gast": "Arndt Brandenberg",
+  "rolle": "Change-Management-Experte",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Erfahrungen aus vielen Change-Initiativen, auch in DAX-Unternehmen – und wie Change erfolgreich wird.",
+  "hinweis": "",
+  "geprueft": false
 }

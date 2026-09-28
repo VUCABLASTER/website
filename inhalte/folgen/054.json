@@ -1,10 +1,17 @@
 {
   "nummer": 54,
   "titel": "#54 Resilienz durch Agil & Lean mit Kristian Schweitzer",
-  "gast": "",
-  "rolle": "",
+  "gast": "Kristian Schweitzer",
+  "rolle": "Lean- und Agile Coach",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Klare Priorisierung, Fokus und Struktur schaffen psychologische Sicherheit.",
+    "Retrospektiven und Reflexion sind echte Resilienzfaktoren.",
+    "Pragmatische Lean-Prinzipien helfen im Umgang mit Wandel."
+  ],
+  "teaser": "Wie Lean und Agilität Teams resilienter machen können, statt sie weiter zu überlasten.",
+  "hinweis": "Schreibweise prüfen: Titel „Kristian Schweitzer“, Shownotes „Christian Schweizer“.",
+  "geprueft": false
 }

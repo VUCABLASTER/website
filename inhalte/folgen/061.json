@@ -4,7 +4,16 @@
   "gast": "Dr. Maja Storch",
   "rolle": "Psychologin",
   "staffel": "mut",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "neugierig"
+  ],
+  "key_learnings": [
+    "Mut heißt nicht, die eigene Angst niederzukämpfen.",
+    "Das Unbewusste beeinflusst unsere Entscheidungen stärker, als wir denken.",
+    "Gute Ideen entstehen nicht immer durch langes Grübeln."
+  ],
+  "teaser": "Was uns wirklich davon abhält, mutig zu handeln – mit einem kleinen Live-Coaching zu Affektbilanz, somatischen Markern und „Fremdgehirnen“.",
+  "hinweis": "",
+  "geprueft": false
 }

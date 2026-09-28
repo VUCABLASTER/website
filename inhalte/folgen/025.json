@@ -1,10 +1,13 @@
 {
   "nummer": 25,
   "titel": "#25 Scaling Agile with Jurgen Appelo",
-  "gast": "",
-  "rolle": "",
+  "gast": "Jurgen Appelo",
+  "rolle": "Autor (Management 3.0, unFIX)",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Unsere erste englische Folge: agiles Arbeiten skalieren mit dem Modell unFIX.",
+  "hinweis": "",
+  "geprueft": false
 }

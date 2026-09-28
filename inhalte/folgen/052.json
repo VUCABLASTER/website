@@ -1,10 +1,19 @@
 {
   "nummer": 52,
   "titel": "#52 Wirksame Führung mit Paula Brandt",
-  "gast": "",
-  "rolle": "",
+  "gast": "Paula Brandt",
+  "rolle": "Unternehmerin, Bestseller-Autorin",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "authentisch",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [
+    "Ruhe ist kein Rückzug, sondern Führungsstärke.",
+    "Haltung schafft Vertrauen – auch ohne Hierarchien.",
+    "Wirkung zählt heute mehr als reine Leistung."
+  ],
+  "teaser": "Wie Unternehmen in Unsicherheit stabil bleiben und sogar daran wachsen können.",
+  "hinweis": "",
+  "geprueft": false
 }

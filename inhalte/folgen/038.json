@@ -1,10 +1,18 @@
 {
   "nummer": 38,
   "titel": "#38 Set up 4 change mit Daniel Ullrich und Sven Echzeller",
-  "gast": "",
-  "rolle": "",
+  "gast": "Daniel Ullrich und Sven Echzeller",
+  "rolle": "Kultur- und Change-Experten",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "neugierig",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [
+    "„Sense and Response“ schlägt das blinde Einführen von Frameworks.",
+    "Dedizierte Zeit ist ein Schlüsselwerkzeug für Kulturgestaltung."
+  ],
+  "teaser": "Warum „Sense and Response“ wichtiger ist als das unreflektierte Einführen von Frameworks.",
+  "hinweis": "",
+  "geprueft": false
 }

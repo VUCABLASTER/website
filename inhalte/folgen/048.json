@@ -1,10 +1,19 @@
 {
   "nummer": 48,
   "titel": "#48 Veränderung beginnt im Gespräch – mit Marie-Theres Braun",
-  "gast": "",
-  "rolle": "",
+  "gast": "Marie-Theres Braun",
+  "rolle": "Kommunikationsexpertin",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "verbindend",
+  "nebenwerte": [
+    "authentisch"
+  ],
+  "key_learnings": [
+    "Kommunikation entscheidet oft über Erfolg oder Misserfolg von Change-Projekten.",
+    "Mit der richtigen inneren Haltung erreichst du Menschen wirklich.",
+    "Einfache Techniken helfen sofort, andere mitzunehmen."
+  ],
+  "teaser": "Wie Kommunikation in Change-Prozessen gelingt – und wie du andere zu Verbündeten machst.",
+  "hinweis": "",
+  "geprueft": false
 }

@@ -4,7 +4,16 @@
   "gast": "Jennifer Wendland",
   "rolle": "Freitaucherin und Weltmeisterin",
   "staffel": "mut",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "optimistisch"
+  ],
+  "key_learnings": [
+    "Mit guter Vorbereitung braucht es im entscheidenden Moment kaum noch Mut.",
+    "Die Komfortzone lässt sich in kleinen Schritten verschieben.",
+    "Unternehmen können vom Freitauchen viel über psychologische Sicherheit lernen."
+  ],
+  "teaser": "Warum Vorbereitung, kleine Schritte und mentale Stärke wichtiger sind als Mut im entscheidenden Moment.",
+  "hinweis": "",
+  "geprueft": false
 }

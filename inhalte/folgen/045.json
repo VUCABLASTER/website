@@ -1,10 +1,15 @@
 {
   "nummer": 45,
   "titel": "#45 Zukunftsbild mit Carsten Fuchs",
-  "gast": "",
+  "gast": "Carsten Fuchs",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "optimistisch",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [],
+  "teaser": "Wie ein Zukunftsbild entsteht, das Mitarbeitende emotional anspricht und motiviert.",
+  "hinweis": "",
+  "geprueft": false
 }

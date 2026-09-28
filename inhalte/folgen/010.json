@@ -1,10 +1,15 @@
 {
   "nummer": 10,
   "titel": "#10 Achtsame Innovation mit Herz und Verstand",
-  "gast": "",
-  "rolle": "",
+  "gast": "Dr. Martina Weifenbach",
+  "rolle": "Gründerin, Rednerin, Autorin",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "neugierig",
+  "nebenwerte": [
+    "authentisch"
+  ],
+  "key_learnings": [],
+  "teaser": "Warum Innovation entsteht, wenn Menschen sich achtsam mit Herz und Verstand einbringen.",
+  "hinweis": "",
+  "geprueft": false
 }

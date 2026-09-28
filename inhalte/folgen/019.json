@@ -1,10 +1,13 @@
 {
   "nummer": 19,
   "titel": "#19 Modernes Projektmanagement",
-  "gast": "",
-  "rolle": "",
+  "gast": "Chris Schiebel",
+  "rolle": "Mentaler Fitnesstrainer und Coach für modernes Projektmanagement",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Ein Plädoyer für agiles, hybrides Projektmanagement mit dem Menschen im Mittelpunkt.",
+  "hinweis": "",
+  "geprueft": false
 }

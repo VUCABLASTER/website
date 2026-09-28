@@ -1,10 +1,16 @@
 {
   "nummer": 39,
   "titel": "#39 Humanized Work mit Heike Bruch",
-  "gast": "",
+  "gast": "Heike Bruch",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Ohne neue Kultur kann New Work zur Erschöpfung führen.",
+    "Unternehmen können gezielt verhindern, in negative Energie zu geraten."
+  ],
+  "teaser": "Warum New Work ohne New Culture zur Beschleunigungsfalle werden kann.",
+  "hinweis": "",
+  "geprueft": false
 }

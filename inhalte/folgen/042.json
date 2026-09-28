@@ -1,10 +1,13 @@
 {
   "nummer": 42,
   "titel": "#42 Team Topologies mit Felix Stein",
-  "gast": "",
+  "gast": "Felix Stein",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Team Topologies: verschiedene Team- und Zusammenarbeitstypen, ihr Mehrwert und wie du am besten beginnst.",
+  "hinweis": "",
+  "geprueft": false
 }

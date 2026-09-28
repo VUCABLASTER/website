@@ -1,10 +1,13 @@
 {
   "nummer": 21,
   "titel": "#21 New Work mit Gabriel Rath",
-  "gast": "",
-  "rolle": "",
+  "gast": "Gabriel Rath",
+  "rolle": "Podcaster („New Work Chat“)",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [],
+  "teaser": "Was ein Podcaster in 100 Folgen über New Work gelernt hat.",
+  "hinweis": "",
+  "geprueft": false
 }

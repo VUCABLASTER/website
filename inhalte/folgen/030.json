@@ -1,10 +1,18 @@
 {
   "nummer": 30,
   "titel": "#30 Selbstorganisation mit Lennart Keil",
-  "gast": "",
+  "gast": "Lennart Keil",
   "rolle": "",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "mutig",
+  "nebenwerte": [
+    "verbindend"
+  ],
+  "key_learnings": [
+    "Prüfe zuerst, ob Selbstorganisation für dich überhaupt sinnvoll ist.",
+    "Schaff ein gemeinsames Verständnis von Selbstorganisation."
+  ],
+  "teaser": "Selbstorganisation in Unternehmen: Ist das Anarchie, braucht es Führung und wie startest du?",
+  "hinweis": "",
+  "geprueft": false
 }

@@ -1,10 +1,15 @@
 {
   "nummer": 43,
   "titel": "#43 Future-Ready Mindset mit Frederik G. Pferdt",
-  "gast": "",
-  "rolle": "",
+  "gast": "Frederik G. Pferdt",
+  "rolle": "Zukunftsforscher, Googles erster Chief Innovation Evangelist",
   "staffel": "",
-  "hauptwert": "",
-  "nebenwerte": [],
-  "key_learnings": []
+  "hauptwert": "optimistisch",
+  "nebenwerte": [
+    "neugierig"
+  ],
+  "key_learnings": [],
+  "teaser": "Das Future-Ready Mindset: von der Ohnmacht der Krisen hin zur praktischen Gestaltung der eigenen Zukunft.",
+  "hinweis": "",
+  "geprueft": false
 }

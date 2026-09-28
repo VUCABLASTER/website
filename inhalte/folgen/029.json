@@ -1,10 +1,15 @@
 {
   "nummer": 29,
   "titel": "#29 Mut im Unternehmen mit Patrick Herrmann",
-  "gast": "",
-  "rolle": "",
+  "gast": "Patrick Herrmann",
+  "rolle": "Podcaster („Mutstifter“)",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": []
+  "key_learnings": [
+    "Mut ist in Unternehmen wichtig – und trainierbar."
+  ],
+  "teaser": "Was Mut ist, warum er in Unternehmen so wichtig ist und wie er sich trainieren lässt.",
+  "hinweis": "",
+  "geprueft": false
 }

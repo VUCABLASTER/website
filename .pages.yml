@@ -28,6 +28,10 @@ content:
         label: Rolle des Gasts
         type: string
         description: Eine Zeile, z. B. „Psychologin“.
+      - name: teaser
+        label: Ein Satz zum Inhalt
+        type: text
+        description: Erscheint im Archiv unter dem Titel und auf der Folgenseite.
       - name: staffel
         label: Staffel
         type: select
@@ -51,6 +55,14 @@ content:
         description: Bis zu drei kurze Sätze.
         list:
           max: 3
+      - name: hinweis
+        label: Hinweis zum Prüfen
+        type: string
+        description: Notizen aus dem Entwurf, z. B. unklare Schreibweisen. Nach dem Prüfen leeren.
+      - name: geprueft
+        label: Geprüft
+        type: boolean
+        description: Haken setzen, wenn die Angaben stimmen.
   - name: staffeln
     label: Staffeln
     type: file
