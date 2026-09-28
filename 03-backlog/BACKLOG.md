@@ -28,6 +28,12 @@ Priorität: **P0** direkt nach dem Event · **P1** nächster Ausbau (Archiv) · 
 - **Pflege für Manuel:** pro Folge eine kleine Datei mit Gast-Rolle, Key Learnings, Werten und Staffel. Die Action legt sie für neue Folgen vorausgefüllt an. Bearbeiten über ein Browser-Formular (Pages CMS, Login mit GitHub, nichts zu hosten) oder zur Not direkt im GitHub-Webeditor.
 - **Suche und Filter im Browser:** Suchindex als JSON (62 Folgen sind klein), Volltext über Titel, Gast, Beschreibung und Key Learnings, Filter nach Wert, Staffel und Jahr. Ohne externe Dienste.
 
+## Entscheidungen (28.09.2026, Thomas)
+
+- Pflege der Folgen-Infos über **Pages CMS** (Browser-Formular, Login mit GitHub).
+- Spotify: vorerst **Link zur Show**, Direktlinks pro Folge später (P2).
+- Hosting bleibt GitHub Pages, kein Astro.
+
 ## P0 – direkt nach dem Event (ab 01.10.2026)
 
 | Thema | Notiz |
