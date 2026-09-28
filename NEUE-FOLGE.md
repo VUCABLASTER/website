@@ -1,3 +1,5 @@
+> **Überholt seit 28.09.2026:** Die aktuelle Folge auf der Startseite wird jetzt automatisch aus dem Feed von podcaster.de erzeugt (`werkzeuge/build.py`). Von Hand pflegst du nur noch die Folgen-Infos in `inhalte/folgen/NNN.json` – siehe **PFLEGE.md**. Die Anleitung unten gilt nur noch, falls der automatische Build einmal ausfällt.
+
 # Neue Folge eintragen und Fotos einbauen
 
 Alles, was sich pro Folge ändert, steht in **`docs/index.html`** in zwei markierten Blöcken:

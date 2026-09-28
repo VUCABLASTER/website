@@ -330,8 +330,8 @@ def learnings(info):
 def plattformen(f):
     apple = f['apple'] or APPLE
     spotify = f.get('spotify') or SPOTIFY
-    return (f'<a class="btn" href="{esc(apple)}">Apple Podcasts</a>'
-            f'<a class="btn" href="{esc(spotify)}">Spotify</a>')
+    return (f'<a class="btn" href="{esc(spotify)}">Spotify</a>'
+            f'<a class="btn" href="{esc(apple)}">Apple Podcasts</a>')
 
 
 ICON_APPLE = ('<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><rect x="1" y="1" width="22" height="22" rx="6" fill="currentColor"/>'
@@ -430,6 +430,7 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
         s = ersetzen(s, 'ARCHIV', archiv)
     else:
         s = s.replace('<!-- AKTUELLE-FOLGE:ENDE -->', '<!-- AKTUELLE-FOLGE:ENDE -->\n\n' + archiv, 1)
+    s = re.sub(r'href="assets/css/style\.css(\?v=\w+)?"', f'href="assets/css/style.css?v={layout.version("css/style.css")}"', s, count=1)
     s = re.sub(r'<p class="hero-meta">.*?</p>', f'<p class="hero-meta">{len(folgen)} Folgen seit {jahr0}</p>', s, count=1)
     s = re.sub(r'(<nav class="site-nav"[^>]*>\s*<ul>\n).*?(\n\s*</ul>)', lambda m: m.group(1) + nav_items('') + m.group(2), s, count=1, flags=re.S)
     # Gewinnspiel-Leiste an/aus

@@ -23,7 +23,7 @@ BASE_URL = 'https://vucablaster.de/'
 # Archiv verlinken: False = /folgen/ ist erreichbar, aber nicht verlinkt und für Suchmaschinen gesperrt,
 # Startseite und Navigation bleiben unverändert. True = Navigation „Folgen“, Archiv-Teaser und
 # automatische aktuelle Folge auf der Startseite, Sitemap.
-ARCHIV_VERLINKT = False
+ARCHIV_VERLINKT = True
 
 # Nach dem WORCamp 2026 auf False setzen und neu bauen: entfernt die türkise Leiste über dem Header.
 GEWINNSPIEL_LEISTE = True
@@ -44,7 +44,7 @@ def nav_items(pre):
     home = pre if pre else './'
     ueber = '#ueber-uns' if pre == '' else home + '#ueber-uns'
     kontakt = '#kontakt' if pre == '' else home + '#kontakt'
-    erster = (f'<a href="{pre}folgen/">Folgen</a>' if ARCHIV_VERLINKT
+    erster = (f'<a href="{pre}folgen/">Alle Folgen</a>' if ARCHIV_VERLINKT
               else f'<a href="{"#aktuell" if pre == "" else home + "#aktuell"}">Aktuelle Folge</a>')
     return f'''      <li>{erster}</li>
       <li><a href="{ueber}">Über uns</a></li>

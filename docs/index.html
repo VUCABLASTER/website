@@ -25,13 +25,13 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
 <meta name="theme-color" content="#FAFAF7">
 <link rel="preload" href="assets/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/style.css?v=05647b58">
 <script src="assets/js/main.js" defer></script>
 </head>
 <body>
 <a class="skip" href="#inhalt">Zum Inhalt springen</a>
 <div class="page">
-<!-- GEWINNSPIEL-LEISTE:START (nach dem Event diesen Block löschen) -->
+<!-- GEWINNSPIEL-LEISTE:START (nach dem Event in werkzeuge/layout.py abschalten) -->
 <a class="gw-strip" href="worccamp/"><span>Gewinnspiel beim WORCamp 2026:</span> <strong>Welches Buch nimmst du mit? →</strong></a>
 <!-- GEWINNSPIEL-LEISTE:ENDE -->
 
@@ -39,7 +39,7 @@
   <a class="wordmark" href="./">VUCA Blaster</a>
   <nav class="site-nav" aria-label="Hauptnavigation">
     <ul>
-      <li><a href="#aktuell">Aktuelle Folge</a></li>
+      <li><a href="folgen/">Alle Folgen</a></li>
       <li><a href="#ueber-uns">Über uns</a></li>
       <li class="guest-li"><a class="guest-note" href="#kontakt">Für Gäste</a></li>
       <li><a href="#kontakt">Kontakt</a></li>
@@ -66,7 +66,7 @@
         <p class="hero-meta">62 Folgen seit 2020</p>
       </div>
     </div>
-    <!-- HERO-NOTIZ:START -->
+    <!-- HERO-NOTIZ:START (wird automatisch erzeugt) -->
     <a class="hero-note" href="#aktuell">
       <span class="magnet" aria-hidden="true"></span>
       <span class="n-kick">Neu · #62</span>
@@ -78,34 +78,29 @@
   <div class="tray" aria-hidden="true"><span></span><span></span><span></span></div>
 </section>
 
-<!-- AKTUELLE-FOLGE:START -->
+<!-- AKTUELLE-FOLGE:START (wird automatisch aus dem Feed erzeugt, Pflege in inhalte/folgen/062.json) -->
 <section id="aktuell" class="section current" aria-labelledby="aktuell-h">
   <div class="current-grid">
     <div class="current-main">
       <p class="ep-meta"><span class="chip">Aktuelle Folge</span><span class="muted">#62 · Staffel Mut, 4 von 8 · <time datetime="2026-09-23">23.09.2026</time></span></p>
       <h2 id="aktuell-h" class="ep-title"><span class="sr-only">#62 – </span>Warum echter Mut mit Stimmigkeit beginnt</h2>
       <div class="guest">
-        <div class="thumb" aria-hidden="true"><div class="photo"><picture><source srcset="assets/img/folge-62.webp" type="image/webp"><img src="assets/img/folge-62.jpg" alt="" width="900" height="900" decoding="async"></picture></div></div>
+        <div class="thumb" aria-hidden="true"><div class="photo"><picture><source srcset="assets/folgen/62-klein.webp" type="image/webp"><img src="assets/folgen/62-klein.jpg" alt="" width="240" height="240" decoding="async"></picture></div></div>
         <div>
           <p class="guest-name">mit Claudia Jahn</p>
           <p class="guest-role">Schauspielerin, Sprecherin, Executive Coach</p>
         </div>
       </div>
-      <ul class="values" aria-label="Werte dieser Folge">
-        <li class="value value--main"><span class="dot" aria-hidden="true"></span>mutig · Hauptwert</li>
-        <li class="value"><span class="dot" aria-hidden="true"></span>authentisch</li>
-      </ul>
+      <ul class="values" aria-label="Werte dieser Folge"><li class="value value--main"><span class="dot" aria-hidden="true"></span>mutig · Hauptwert</li><li class="value"><span class="dot" aria-hidden="true"></span>authentisch</li></ul>
       <p class="label listen-label">Diese Folge hören</p>
       <div class="btn-row">
-        <a class="btn" href="https://open.spotify.com/show/3OQW0akZgxBxK4AWFQSKtf">Spotify</a>
-        <a class="btn" href="https://podcasts.apple.com/de/podcast/vuca-blaster/id1541461336">Apple Podcasts</a>
+        <a class="btn" href="https://open.spotify.com/show/3OQW0akZgxBxK4AWFQSKtf">Spotify</a><a class="btn" href="https://podcasts.apple.com/de/podcast/62-warum-echter-mut-mit-stimmigkeit-beginnt-mit-claudia/id1541461336">Apple Podcasts</a>
       </div>
       <p class="hint">Am besten auf Spotify oder Apple Podcasts: Dort hilft jedes Abo und jede Bewertung dem Podcast.</p>
+      <a class="host-link" href="folgen/62-warum-echter-mut-mit-stimmigkeit-beginnt-mit-claudia-jahn/">Mehr zur Folge #62</a>
     </div>
     <div class="current-side">
-      <figure class="print print--guest">
-        <div class="photo"><picture><source srcset="assets/img/folge-62.webp" type="image/webp"><img src="assets/img/folge-62.jpg" alt="Folgenbild #62 „Mut durch Stimmigkeit“ mit Claudia Jahn und Manuel Wyszynski" width="900" height="900" decoding="async"></picture></div>
-      </figure>
+      <figure class="print print--guest"><div class="photo"><picture><source srcset="assets/folgen/62.webp" type="image/webp"><img src="assets/folgen/62.jpg" alt="Folgenbild #62 mit Claudia Jahn" width="600" height="600" decoding="async"></picture></div></figure>
       <div class="player" data-player data-src="https://evjjod.podcaster.de/vucablaster/media/VUCA_Blaster_Claudia_Jahn%281%29.mp3" data-title="#62 – Warum echter Mut mit Stimmigkeit beginnt">
         <h3 class="player-title">Player</h3>
         <p><span data-player-status>Der Player ist noch nicht geladen.</span> Beim Laden werden Daten an podcaster.de übertragen. Mehr in der <a href="datenschutz/">Datenschutzerklärung</a>.</p>
@@ -116,14 +111,19 @@
   </div>
   <div class="learnings">
     <h3 class="label">3 Key Learnings</h3>
-    <ol class="stickies" role="list">
-      <li class="sticky"><span class="sticky-no" aria-hidden="true">1</span><span class="sticky-text">Wirklich mutige Menschen fühlen sich oft gar nicht mutig.</span></li>
-      <li class="sticky"><span class="sticky-no" aria-hidden="true">2</span><span class="sticky-text">„Wie wirke ich?“ ist vielleicht die falsche Frage.</span></li>
-      <li class="sticky"><span class="sticky-no" aria-hidden="true">3</span><span class="sticky-text">Mut beginnt mit Stimmigkeit, nicht mit Überwindung.</span></li>
-    </ol>
+    <ol class="stickies" role="list"><li class="sticky"><span class="sticky-no" aria-hidden="true">1</span><span class="sticky-text">Wirklich mutige Menschen fühlen sich oft gar nicht mutig.</span></li><li class="sticky"><span class="sticky-no" aria-hidden="true">2</span><span class="sticky-text">„Wie wirke ich?“ ist vielleicht die falsche Frage.</span></li><li class="sticky"><span class="sticky-no" aria-hidden="true">3</span><span class="sticky-text">Mut beginnt mit Stimmigkeit, nicht mit Überwindung.</span></li></ol>
   </div>
 </section>
 <!-- AKTUELLE-FOLGE:ENDE -->
+
+<!-- ARCHIV:START (wird automatisch erzeugt) -->
+<section class="section archive-teaser" aria-labelledby="archiv-h">
+  <p class="kicker">Archiv</p>
+  <h2 id="archiv-h" class="section-title">Alle 62 Folgen</h2>
+  <p class="archive-teaser-text">Seit 2020 sprechen wir mit Menschen aus Wissenschaft, Wirtschaft, Psychologie, Sport und Gesellschaft. Such nach Gast, Thema oder Wert.</p>
+  <a class="btn" href="folgen/">Zum Archiv</a>
+</section>
+<!-- ARCHIV:ENDE -->
 
 <section id="ueber-uns" class="section about" aria-labelledby="about-h">
   <p class="kicker">Über uns</p>
