@@ -428,12 +428,14 @@ mark.fehlt{background:var(--c-rose);color:var(--c-red);font-weight:700;padding:0
 .archive-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:10px 40px;padding:20px 16px 22px}
 .archive-head h1{margin-top:4px;font-size:clamp(2.25rem,1.9rem + 1.5vw,3.5rem);line-height:1}
 .archive-head .kicker{margin:0}
-.archive-head-text{margin:0;max-width:44ch;color:var(--c-muted);font-weight:500}
+.archive-head-text{margin:0;max-width:56ch;color:var(--c-muted);font-weight:500}
 .archive{padding-top:24px}
 .archive-tools{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px 8px;margin:0 0 20px;padding:14px;background:var(--c-board);border:2px solid var(--c-ink)}
 .archive-tools .archive-search,.archive-tools .archive-count{grid-column:1 / -1}
 .archive-tools label{font-size:15px}
-.archive-tools select,.archive-tools input{width:100%;min-width:0;min-height:48px;padding:8px 10px;border:2px solid var(--c-ink);border-radius:4px;background:var(--c-board);color:var(--c-ink);font:inherit;font-size:17px}
+.archive-tools select,.archive-tools input{box-sizing:border-box;display:block;width:100%;min-width:0;height:52px;margin:0;padding:0 12px;border:2px solid var(--c-ink);border-radius:4px;background-color:var(--c-board);color:var(--c-ink);font:inherit;font-size:17px;line-height:1.2;-webkit-appearance:none;appearance:none}
+.archive-tools select{padding-right:36px;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='9' viewBox='0 0 14 9'%3E%3Cpath d='M1 1l6 6 6-6' fill='none' stroke='%23161414' stroke-width='2.2'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 12px center;background-size:14px 9px;cursor:pointer}
+.archive-tools input::-webkit-search-decoration,.archive-tools input::-webkit-search-cancel-button{-webkit-appearance:none}
 .archive-count{margin:0;font-weight:700;color:var(--c-muted)}
 .ep-list{list-style:none;margin:0;padding:0;border-top:2px solid var(--c-ink)}
 .ep-item{display:grid;grid-template-columns:76px minmax(0,1fr);gap:4px 14px;padding:18px 0;border-bottom:1.5px solid var(--c-frame)}
@@ -458,7 +460,7 @@ mark.fehlt{background:var(--c-rose);color:var(--c-red);font-weight:700;padding:0
 .archive-empty{margin:22px 0 0;font-weight:600}
 @media (min-width:768px){
   .archive-head{padding:26px 40px 28px}
-  .archive-tools{grid-template-columns:repeat(4,minmax(0,1fr));align-items:end;gap:14px;padding:20px 22px}
+  .archive-tools{grid-template-columns:2fr 1fr 1fr 1fr;align-items:end;gap:14px;padding:20px 22px}
   .archive-tools .archive-search{grid-column:auto}
   .archive-tools label{font-size:inherit}
   .ep-item{grid-template-columns:110px minmax(0,1fr) auto;gap:0 24px;padding:22px 0}

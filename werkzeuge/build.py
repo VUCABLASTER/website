@@ -497,10 +497,10 @@ def archiv(site, folgen, infos, staffeln, hat_bild):
 <main id="inhalt">
 <div class="board-sm archive-head">
   <div>
-    <p class="kicker">Archiv seit {jahr0}</p>
+    <p class="kicker">Archiv</p>
     <h1>Alle {len(folgen)} Folgen</h1>
   </div>
-  <p class="archive-head-text">Such nach Gast, Thema oder Wert. Gehört wird auf Apple Podcasts und Spotify.</p>
+  <p class="archive-head-text">Seit {jahr0} sprechen wir mit Menschen aus Wissenschaft, Wirtschaft, Psychologie, Sport und Gesellschaft. Hören kannst du jede Folge auf Apple Podcasts und Spotify.</p>
 </div>
 <section class="section archive" aria-label="Folgen durchsuchen">
   <form class="archive-tools" data-archiv-tools hidden role="search" onsubmit="return false">
