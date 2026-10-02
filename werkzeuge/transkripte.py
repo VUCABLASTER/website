@@ -85,3 +85,27 @@ def suchindex(site, folgen):
     elif ziel.exists():
         ziel.unlink()
     return len(index)
+
+
+def aus_feed(folgen, offline=False):
+    """Übernimmt Transkripte, die podcaster.de im Feed mitliefert (<podcast:transcript>, VTT oder SRT).
+    Vorhandene Dateien werden nicht überschrieben. Whisper transkribiert nur Folgen ohne Transkript."""
+    import sys, urllib.request
+    if offline:
+        return
+    for f in folgen:
+        quelle = f.get('feed_transkript')
+        if not quelle or pfad(f['nr']).exists():
+            continue
+        url, typ = quelle
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'vucablaster.de-build'})
+            text = urllib.request.urlopen(req, timeout=60).read().decode('utf-8-sig')
+            if 'vtt' not in typ:  # SRT → WebVTT
+                text = 'WEBVTT\n\n' + re.sub(r'(\d{2}:\d{2}:\d{2}),(\d{3})', r'\1.\2', text)
+            kopf = f'NOTE\nTranskript von podcaster.de aus dem Feed übernommen ({url}).\n\n'
+            ORDNER.mkdir(parents=True, exist_ok=True)
+            pfad(f['nr']).write_text(text.replace('WEBVTT', 'WEBVTT\n\n' + kopf, 1), encoding='utf-8')
+            print(f'Transkript für #{f["nr"]} aus dem Feed übernommen.', file=sys.stderr)
+        except Exception as e:
+            print(f'Hinweis: Feed-Transkript für #{f["nr"]} nicht ladbar ({e}).', file=sys.stderr)

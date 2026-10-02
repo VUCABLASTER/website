@@ -26,11 +26,12 @@ def folgen_laden():
 
 
 def planen(auswahl):
-    nrs = [f['nr'] for f in folgen_laden()]
+    folgen = folgen_laden()
+    nrs = [f['nr'] for f in folgen]
     if auswahl in ('', 'keine'):
         return []
-    if auswahl == 'fehlende':
-        return [n for n in nrs if not transkripte.pfad(n).exists()]
+    if auswahl == 'fehlende':  # ohne eigenes Transkript und ohne Transkript im Feed
+        return [f['nr'] for f in folgen if not transkripte.pfad(f['nr']).exists() and not f.get('feed_transkript')]
     gewuenscht = {int(x) for x in auswahl.replace(' ', '').split(',') if x.isdigit()}
     return [n for n in nrs if n in gewuenscht]
 

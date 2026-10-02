@@ -26,11 +26,12 @@ import layout
 from layout import REPO, SPOTIFY, APPLE, BASE_URL, head, header, footer, nav_items, leiste
 import unterseiten, gewinnspiel, plattformen, transkripte
 
-FEED_URL = 'https://evjjod.podcaster.de/VUCABlaster.rss'
+FEED_URL = 'https://evjjod.podcaster.de/vucablaster.rss'
 APPLE_ID = '1541461336'
 APPLE_LOOKUP = f'https://itunes.apple.com/lookup?id={APPLE_ID}&entity=podcastEpisode&limit=300&country=de'
 WERTE = ['optimistisch', 'neugierig', 'mutig', 'authentisch', 'verbindend']
-NS = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd', 'content': 'http://purl.org/rss/1.0/modules/content/'}
+NS = {'itunes': 'http://www.itunes.com/dtds/podcast-1.0.dtd', 'content': 'http://purl.org/rss/1.0/modules/content/',
+      'podcast': 'https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md'}
 DATEN = REPO / 'daten'
 INHALTE = REPO / 'inhalte'
 esc = lambda s: html.escape(s or '', quote=True)
@@ -134,6 +135,8 @@ def feed_lesen(xml_bytes, apple):
         enc = it.find('enclosure')
         beschr_html, beschr_text = bereinigen(it.findtext('content:encoded', namespaces=NS) or it.findtext('description'))
         guid = it.findtext('guid') or ''
+        tr = [(e.get('url'), e.get('type', '')) for e in it.findall('podcast:transcript', NS) if e.get('url')]
+        tr.sort(key=lambda x: 0 if 'vtt' in x[1] else 1 if 'srt' in x[1] or 'subrip' in x[1] else 2)
         folgen.append({
             'nr': nr,
             'titel_roh': titel_roh,
@@ -146,6 +149,7 @@ def feed_lesen(xml_bytes, apple):
             'html': beschr_html,
             'text': beschr_text,
             'apple': apple.get(guid, ''),
+            'feed_transkript': tr[0] if tr and ('vtt' in tr[0][1] or 'srt' in tr[0][1] or 'subrip' in tr[0][1]) else None,
         })
     doppelt = {f['nr'] for f in folgen if [g['nr'] for g in folgen].count(f['nr']) > 1}
     if doppelt:
@@ -636,6 +640,7 @@ def main():
 
     apple = apple_lesen(holen(APPLE_LOOKUP, DATEN / 'apple.json', a.offline))
     folgen, _cover = feed_lesen(holen(FEED_URL, DATEN / 'feed.xml', a.offline), apple)
+    transkripte.aus_feed(folgen, a.offline)
     infos = infos_laden(folgen)
     plattformen.links_setzen(folgen, infos, a.offline)
     staffeln = staffeln_laden()
