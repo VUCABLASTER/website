@@ -27,7 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  WHISPER_KEY: whisper-cpp-large-v3-turbo-v1
+  MODELL_KEY: whisper-modell-large-v3-turbo
 
 jobs:
   planen:
@@ -52,19 +52,14 @@ jobs:
       - uses: actions/cache@v4
         id: cache
         with:
-          path: ~/whisper
-          key: ${{ env.WHISPER_KEY }}
-      - name: whisper.cpp bauen und Modell laden
+          path: ~/modell
+          key: ${{ env.MODELL_KEY }}
+      - name: Whisper-Modell laden (nur beim ersten Mal)
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq cmake
-          git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git /tmp/wcpp
-          cmake -S /tmp/wcpp -B /tmp/wcpp/build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DWHISPER_BUILD_TESTS=OFF
-          cmake --build /tmp/wcpp/build -j 4 --target whisper-cli
-          mkdir -p ~/whisper
-          cp /tmp/wcpp/build/bin/whisper-cli ~/whisper/
-          curl -fsSL -o ~/whisper/modell.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin
-          ls -la ~/whisper
+          mkdir -p ~/modell
+          curl -fsSL -o ~/modell/modell.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin
+          ls -la ~/modell
 
   transkribieren:
     needs: [planen, werkzeug]
@@ -82,11 +77,16 @@ jobs:
           python-version: '3.12'
       - uses: actions/cache/restore@v4
         with:
-          path: ~/whisper
-          key: ${{ env.WHISPER_KEY }}
+          path: ~/modell
+          key: ${{ env.MODELL_KEY }}
           fail-on-cache-miss: true
-      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-      - run: python werkzeuge/transkribieren.py --nr ${{ matrix.nr }} --whisper ~/whisper/whisper-cli --modell ~/whisper/modell.bin --ziel ergebnis
+      - name: whisper.cpp für diesen Rechner bauen
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq cmake ffmpeg
+          git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git /tmp/wcpp
+          cmake -S /tmp/wcpp -B /tmp/wcpp/build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DWHISPER_BUILD_TESTS=OFF
+          cmake --build /tmp/wcpp/build -j 4 --target whisper-cli
+      - run: python werkzeuge/transkribieren.py --nr ${{ matrix.nr }} --whisper /tmp/wcpp/build/bin/whisper-cli --modell ~/modell/modell.bin --ziel ergebnis
       - uses: actions/upload-artifact@v4
         with:
           name: transkript-${{ matrix.nr }}
@@ -121,10 +121,10 @@ jobs:
         run: |
           git config user.name "VUCA Blaster Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A docs inhalte daten
-          if git diff --cached --quiet; then
-            echo "Keine Änderungen."
+          if git diff --quiet -- docs inhalte && [ -z "$(git ls-files --others --exclude-standard docs inhalte)" ]; then
+            echo "Keine Änderungen an Website oder Inhalten."
           else
+            git add -A docs inhalte daten
             git commit -m "Website automatisch aktualisiert"
             git pull --rebase
             git push

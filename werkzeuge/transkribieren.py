@@ -47,8 +47,10 @@ def transkribieren(nr, whisper, modell, ziel):
         subprocess.run(['ffmpeg', '-nostdin', '-loglevel', 'error', '-i', str(mp3), '-ar', '16000', '-ac', '1', '-c:a', 'pcm_s16le', str(wav)], check=True)
         sprache = SPRACHE.get(nr, 'de')
         print(f'#{nr}: transkribiere ({sprache}) …', flush=True)
-        subprocess.run([whisper, '-m', modell, '-l', sprache, '-t', '4', '-ovtt', '-of', str(aus), '-f', str(wav)], check=True,
-                       stdout=subprocess.DEVNULL)
+        r = subprocess.run([whisper, '-m', modell, '-l', sprache, '-t', '4', '-ovtt', '-of', str(aus), '-f', str(wav)],
+                           stdout=subprocess.DEVNULL)
+        if r.returncode != 0:
+            raise SystemExit(f'#{nr}: whisper-cli beendet mit Code {r.returncode} (negativ = Signal, z. B. -4 = unbekannter Prozessorbefehl)')
         vtt = Path(str(aus) + '.vtt').read_text(encoding='utf-8')
     heute = datetime.date.today().isoformat()
     kopf = (f'WEBVTT\n\nNOTE\nVUCA Blaster #{nr}: {f["titel_roh"]}\n'
