@@ -11,7 +11,7 @@ on:
     - cron: '17 4 * * *'
   push:
     branches: [main]
-    paths: ['inhalte/**', 'werkzeuge/**', 'daten/plattform-links.json']
+    paths: ['inhalte/**', 'daten/plattform-links.json']
   workflow_dispatch:
     inputs:
       transkribieren:
@@ -41,7 +41,8 @@ jobs:
           python-version: '3.12'
       - id: plan
         run: |
-          AUSWAHL="${{ github.event.inputs.transkribieren || 'fehlende' }}"
+          # Pflege-Änderungen (push): nur neu bauen. Täglicher Lauf: fehlende Transkripte. Knopfdruck: Eingabe.
+          AUSWAHL="${{ github.event_name == 'push' && 'keine' || github.event.inputs.transkribieren || 'fehlende' }}"
           echo "folgen=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")" >> "$GITHUB_OUTPUT"
 
   werkzeug:
