@@ -4,15 +4,21 @@ Die Website liegt im Repo `VUCABLASTER/website`. GitHub Pages veröffentlicht de
 
 ## Was automatisch passiert
 
-`werkzeuge/build.py` erzeugt aus dem Feed von podcaster.de:
+Der GitHub-Workflow **„Website aktualisieren“** (`.github/workflows/website-aktualisieren.yml`) läuft täglich früh morgens, nach jeder Änderung an `inhalte/` (z. B. über Pages CMS) und per Knopfdruck (**GitHub → Actions → „Website aktualisieren“ → Run workflow**). Er
 
-- das Archiv `vucablaster.de/folgen/` (auch erreichbar über `/archiv/`) mit Suche und Filtern nach Wert, Staffel und Jahr
-- eine Seite pro Folge (Titel, Datum, Dauer, Folgenbild, Beschreibung, Links zu Apple Podcasts und Spotify)
-- Kurzlinks wie `vucablaster.de/62` für LinkedIn-Posts
+1. holt neue Folgen aus dem Feed von podcaster.de (Titel, Datum, Bild, Beschreibung, MP3),
+2. **transkribiert jede Folge ohne Transkript** mit Whisper (Spracherkennung, läuft bei GitHub, kostenlos) → `inhalte/transkripte/NNN.vtt`,
+3. holt die **Links zu jeder einzelnen Folge**:
+   - Apple Podcasts und Deezer: automatisch über deren öffentliche Schnittstellen
+   - Spotify: automatisch, sobald die GitHub-Secrets `SPOTIFY_CLIENT_ID` und `SPOTIFY_CLIENT_SECRET` hinterlegt sind (kostenloses Konto auf developer.spotify.com); bis dahin für neue Folgen das Feld „Spotify-Link“ im Pages CMS
+   - Amazon Music: hat keine Schnittstelle – bei neuen Folgen das Feld „Amazon-Music-Link“ im Pages CMS ausfüllen
+   - Fehlt ein Link, zeigt der Button auf die Podcast-Seite der Plattform; der Workflow-Log nennt die betroffenen Folgen.
+4. baut Startseite (aktuelle Folge), Archiv `/folgen/` (Suche auch in den Transkripten), Folgenseiten (mit Transkript zum Aufklappen) und Kurzlinks wie `/62`,
+5. veröffentlicht das Ergebnis.
 
-Titel, Bild und Beschreibung pflegst du wie bisher bei **podcaster.de**. Die Links zu den einzelnen Folgen bei Apple Podcasts holt der Build automatisch. Spotify verlinkt vorerst auf die Podcast-Seite. Direktlinks pro Folge holt der Build automatisch, sobald ein (kostenloses) Konto auf developer.spotify.com angelegt ist und `SPOTIFY_CLIENT_ID` und `SPOTIFY_CLIENT_SECRET` als Umgebungsvariablen bzw. GitHub-Secrets hinterlegt sind.
+Die Transkripte sind maschinell erstellt und nicht nachbearbeitet. Hörfehler kannst du direkt in der `.vtt`-Datei korrigieren (nur den Text, nicht die Zeitmarken). Eine Folge neu transkribieren: Run workflow → bei „Transkribieren“ die Nummer eintragen, z. B. `62`.
 
-Der Build läuft vorerst lokal mit `python3 werkzeuge/build.py` (oder per Claude Code). Der GitHub-Workflow „Website bauen“ liegt als Vorlage in `werkzeuge/website-bauen.yml.vorlage` und wird nach dem WORCamp 2026 nach `.github/workflows/` verschoben (braucht einmalig `gh auth refresh -s workflow`). Dann läuft der Build per Knopfdruck, täglich und nach Änderungen an den Folgen-Infos.
+Lokal geht der Build auch: `python3 werkzeuge/build.py` (braucht `pip install pillow`).
 
 ## Was du von Hand pflegst: die Folgen-Infos
 
@@ -30,7 +36,7 @@ Pro Folge gibt es eine Datei `inhalte/folgen/062.json` usw. mit:
 | Hinweis | Notiz zum Prüfen, danach leeren |
 | Geprüft | Haken setzen, wenn alles stimmt |
 
-**Stand 28.09.2026:** Für alle 62 Folgen sind Gast, Rolle, Teaser und Werte als **Entwurf aus den Shownotes** eingetragen (Key Learnings bei 22 Folgen, wo die Shownotes klare Aussagen enthalten). Alle Einträge stehen auf „Geprüft: nein“ – bitte durchgehen und abhaken. Transkripte waren nicht verfügbar.
+**Stand 28.09.2026:** Für alle 62 Folgen sind Gast, Rolle, Teaser und Werte als **Entwurf aus den Shownotes** eingetragen (Key Learnings bei 22 Folgen, wo die Shownotes klare Aussagen enthalten). Alle Einträge stehen auf „Geprüft: nein“ – bitte durchgehen und abhaken.
 
 Für neue Folgen legt der Build die Datei selbst an. Du ergänzt nur die Felder.
 
@@ -54,9 +60,9 @@ Für neue Folgen legt der Build die Datei selbst an. Du ergänzt nur die Felder.
 
 Nach dem Umstellen den Build laufen lassen.
 
-## Rollback (zurück zum Stand vor dem Archiv)
+## Rollback
 
-Der Live-Stand vor dem Archiv ist mit dem Git-Tag **`vor-archiv`** markiert. Zurück geht es ohne Verlust von Historie so (im Projektordner):
+Rollback-Punkte (Git-Tags): **`vor-archiv`** (Stand vor dem Archiv), **`vor-verlinkung`** (Archiv online, aber unverlinkt), **`vor-transkripten`** (vor Plattform-Links und Transkripten). Zurück geht es ohne Verlust von Historie so (im Projektordner):
 
 ```
 git checkout main

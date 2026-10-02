@@ -55,6 +55,14 @@ content:
         description: Bis zu drei kurze Sätze.
         list:
           max: 3
+      - name: link_spotify
+        label: Spotify-Link zur Folge
+        type: string
+        description: Nur nötig, wenn er nicht automatisch gefunden wird (Build-Hinweis). Link aus Spotify → Teilen → Link kopieren.
+      - name: link_amazon
+        label: Amazon-Music-Link zur Folge
+        type: string
+        description: Amazon hat keine Schnittstelle – bei neuen Folgen hier den Link aus Amazon Music → Teilen einfügen.
       - name: hinweis
         label: Hinweis zum Prüfen
         type: string

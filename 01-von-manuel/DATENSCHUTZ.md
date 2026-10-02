@@ -40,7 +40,7 @@ Rechtsgrundlage ist deine Einwilligung durch den Klick (Art. 6 Abs. 1 lit. a DSG
 
 ## 6. Links zu Podcast-Plattformen und LinkedIn
 
-Die Website enthält Links zu Spotify, Apple Podcasts und LinkedIn. Es handelt sich um einfache Links, nicht um eingebettete Inhalte. Daten werden erst übertragen, wenn du einen Link anklickst und die Seite des jeweiligen Anbieters aufrufst. Dort gelten dessen Datenschutzbestimmungen.
+Die Website enthält Links zu Spotify, Apple Podcasts, Deezer, Amazon Music und LinkedIn. Es handelt sich um einfache Links, nicht um eingebettete Inhalte. Daten werden erst übertragen, wenn du einen Link anklickst und die Seite des jeweiligen Anbieters aufrufst. Dort gelten dessen Datenschutzbestimmungen.
 
 ## 7. Kontakt per E-Mail
 

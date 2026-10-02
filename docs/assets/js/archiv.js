@@ -1,4 +1,5 @@
-/* Archiv: Suche und Filter im Browser. Ohne JavaScript bleibt die komplette Liste sichtbar. */
+/* Archiv: Suche und Filter im Browser. Ohne JavaScript bleibt die komplette Liste sichtbar.
+   Die Transkripte (folgen/transkripte.json) werden erst geladen, wenn jemand ab 3 Zeichen sucht. */
 (function () {
   var tools = document.querySelector('[data-archiv-tools]');
   var liste = document.querySelector('[data-archiv-liste]');
@@ -13,25 +14,46 @@
     staffel: tools.querySelector('[data-filter="staffel"]'),
     jahr: tools.querySelector('[data-filter="jahr"]')
   };
+  var transkripte = null, laedt = false;
 
   function normal(s) {
     return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\s+/g, ' ').trim();
   }
 
+  function transkripteLaden() {
+    if (transkripte || laedt) return;
+    laedt = true;
+    fetch('transkripte.json').then(function (r) { return r.ok ? r.json() : {}; })
+      .then(function (d) { transkripte = d; filtern(); })
+      .catch(function () { transkripte = {}; });
+  }
+
+  function enthaelt(text, woerter) {
+    return woerter.every(function (w) { return text.indexOf(w) !== -1; });
+  }
+
   function filtern() {
-    var woerter = normal(felder.text.value).split(' ').filter(Boolean);
+    var suche = normal(felder.text.value);
+    var woerter = suche.split(' ').filter(Boolean);
+    if (suche.length >= 3) transkripteLaden();
     var wert = felder.wert.value, staffel = felder.staffel.value, jahr = felder.jahr.value;
     var sichtbar = 0;
     items.forEach(function (li) {
-      var passt =
+      var filterOk =
         (!wert || (' ' + li.dataset.werte + ' ').indexOf(' ' + wert + ' ') !== -1) &&
         (!staffel || li.dataset.staffel === staffel) &&
-        (!jahr || li.dataset.jahr === jahr) &&
-        woerter.every(function (w) { return li.dataset.text.indexOf(w) !== -1; });
+        (!jahr || li.dataset.jahr === jahr);
+      var metaOk = enthaelt(li.dataset.text, woerter);
+      var t = transkripte && transkripte[li.dataset.nr];
+      var transkriptOk = !metaOk && woerter.length > 0 && !!t && enthaelt(t, woerter);
+      var passt = filterOk && (metaOk || transkriptOk);
       li.hidden = !passt;
+      var hit = li.querySelector('.ep-hit');
+      if (hit) hit.hidden = !(passt && transkriptOk);
       if (passt) sichtbar++;
     });
-    anzahl.textContent = sichtbar === 1 ? '1 Folge' : sichtbar + ' Folgen';
+    anzahl.textContent = (sichtbar === 1 ? '1 Folge' : sichtbar + ' Folgen') +
+      (laedt && !transkripte ? ' · durchsuche Transkripte …' : '');
     leer.hidden = sichtbar !== 0;
   }
 
