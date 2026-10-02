@@ -130,7 +130,8 @@ jobs:
           else
             git add -A docs inhalte daten/plattform-links.json daten/bilder.json
             git commit -m "Website automatisch aktualisiert"
-            git pull --rebase
+            git checkout -- daten
+            git pull --rebase --autostash
             git push
             gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
           fi
