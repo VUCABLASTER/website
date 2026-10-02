@@ -1,0 +1,134 @@
+name: Website aktualisieren
+
+# Holt neue Folgen aus dem Feed von podcaster.de, transkribiert Folgen ohne Transkript (Whisper),
+# aktualisiert Plattform-Links, baut die Website neu und veröffentlicht sie (main /docs → GitHub Pages).
+#
+# Läuft: täglich früh morgens, nach Änderungen an inhalte/ (z. B. über Pages CMS) und per Knopfdruck
+# (Actions → „Website aktualisieren“ → Run workflow).
+
+on:
+  schedule:
+    - cron: '17 4 * * *'
+  push:
+    branches: [main]
+    paths: ['inhalte/**', 'werkzeuge/**', 'daten/plattform-links.json']
+  workflow_dispatch:
+    inputs:
+      transkribieren:
+        description: 'Transkribieren: „fehlende“ (Standard), „keine“ oder Folgennummern, z. B. „61,62“'
+        default: fehlende
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: website-aktualisieren
+  cancel-in-progress: false
+
+env:
+  WHISPER_KEY: whisper-cpp-large-v3-turbo-v1
+
+jobs:
+  planen:
+    runs-on: ubuntu-latest
+    outputs:
+      folgen: ${{ steps.plan.outputs.folgen }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - id: plan
+        run: |
+          AUSWAHL="${{ github.event.inputs.transkribieren || 'fehlende' }}"
+          echo "folgen=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")" >> "$GITHUB_OUTPUT"
+
+  werkzeug:
+    needs: planen
+    if: needs.planen.outputs.folgen != '[]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/cache@v4
+        id: cache
+        with:
+          path: ~/whisper
+          key: ${{ env.WHISPER_KEY }}
+      - name: whisper.cpp bauen und Modell laden
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq cmake
+          git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git /tmp/wcpp
+          cmake -S /tmp/wcpp -B /tmp/wcpp/build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DWHISPER_BUILD_TESTS=OFF
+          cmake --build /tmp/wcpp/build -j 4 --target whisper-cli
+          mkdir -p ~/whisper
+          cp /tmp/wcpp/build/bin/whisper-cli ~/whisper/
+          curl -fsSL -o ~/whisper/modell.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin
+          ls -la ~/whisper
+
+  transkribieren:
+    needs: [planen, werkzeug]
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        nr: ${{ fromJSON(needs.planen.outputs.folgen) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache/restore@v4
+        with:
+          path: ~/whisper
+          key: ${{ env.WHISPER_KEY }}
+          fail-on-cache-miss: true
+      - run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
+      - run: python werkzeuge/transkribieren.py --nr ${{ matrix.nr }} --whisper ~/whisper/whisper-cli --modell ~/whisper/modell.bin --ziel ergebnis
+      - uses: actions/upload-artifact@v4
+        with:
+          name: transkript-${{ matrix.nr }}
+          path: ergebnis/
+          retention-days: 7
+
+  bauen:
+    needs: [planen, transkribieren]
+    if: always() && needs.planen.result == 'success'
+    runs-on: ubuntu-latest
+    env:
+      SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+      SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install pillow
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: transkript-*
+          merge-multiple: true
+          path: ergebnis
+        continue-on-error: true
+      - name: Neue Transkripte übernehmen
+        run: |
+          mkdir -p inhalte/transkripte
+          if ls ergebnis/*.vtt >/dev/null 2>&1; then cp ergebnis/*.vtt inhalte/transkripte/; fi
+      - run: python werkzeuge/build.py
+      - name: Änderungen veröffentlichen
+        run: |
+          git config user.name "VUCA Blaster Bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs inhalte daten
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Website automatisch aktualisiert"
+            git pull --rebase
+            git push
+            gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
