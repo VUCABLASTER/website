@@ -28,7 +28,7 @@ BASE_URL = 'https://vucablaster.de/'
 ARCHIV_VERLINKT = True
 
 # Nach dem WORCamp 2026 auf False setzen und neu bauen: entfernt die türkise Leiste über dem Header.
-GEWINNSPIEL_LEISTE = True
+GEWINNSPIEL_LEISTE = False
 
 
 def leiste(pre):

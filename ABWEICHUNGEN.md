@@ -8,7 +8,7 @@ Stand: 26.09.2026. Verglichen wurde die gebaute Startseite (`docs/index.html`) b
 |---|---|---|---|
 | Navigation | Folgen · Themen · Über uns · Für Gäste · Kontakt | Aktuelle Folge · Über uns · Für Gäste · Kontakt | MVP-SPEZ 5.1 |
 | Navigation mobil | Menü-Button | Links als Zeile unter der Wortmarke, „Für Gäste“ rechts oben | MVP-SPEZ 5.1 |
-| Plattform-Buttons | Spotify, Apple, Deezer, Amazon Music, podcast.de | nur Spotify und Apple Podcasts | MVP-SPEZ / Fragebogen F |
+| Plattform-Buttons | Spotify, Apple, Deezer, Amazon Music, podcast.de | Hero: Spotify und Apple Podcasts; aktuelle Folge, Folgenseiten und Footer: Spotify, Apple Podcasts, Deezer, Amazon Music. podcast.de entfällt. | MVP-SPEZ / Fragebogen F; Ausbau 02.10.2026; podcast.de-Eintrag fehlerhaft |
 | Hero-Zeile | „62 Folgen seit 2020 · alle zwei Wochen neu“ | „62 Folgen seit 2020“ | Folgen erscheinen unregelmäßig |
 | Player | Audio/Video-Umschalter, Text mit „[Anbieter]“ | kein Umschalter, Anbieter „podcaster.de“, ohne JavaScript Link „Folge direkt anhören (MP3)“ | MVP-SPEZ 6 |
 | Werte-Labels | Links | ohne Link | MVP-SPEZ 5.1 |

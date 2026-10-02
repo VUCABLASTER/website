@@ -80,9 +80,8 @@ Priorität: **P0** direkt nach dem Event · **P1** nächster Ausbau (Archiv) · 
 - Staffel Optimismus und Mut: Beschreibung; dürfen kommende Gäste (5–8) vorab genannt werden?
 - Texte zu den fünf Werten (Vorschläge in `INHALTE-final.md`, nicht bestätigt).
 - Für Gäste: Ablauf, Dauer, Aufnahmeort/-tool, Freigabe, was Gäste bekommen.
-- Links: Deezer, Amazon Music, podcast.de, YouTube falls vorhanden.
+- Links: YouTube, falls es Video gibt. (Deezer und Amazon Music erledigt am 02.10.2026; podcast.de entfällt – Eintrag dort fehlerhaft.)
 - Nutzungsrechte für Gastfotos (die Folgenbilder aus dem Feed sind eigene Grafiken – prüfen, ob Gastfotos darin freigegeben sind).
-- podcast.de nennt „Manuel & Ricardo“ – ehemaliger Co-Host? Erwähnen?
 - Folgenbild #61 „Mut ohne Überwindung“ liegt schon in `01-von-manuel/bilder/` (kommt künftig ohnehin aus dem Feed).
 
 ## Überholt

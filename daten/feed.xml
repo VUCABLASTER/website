@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://github.com/Podcastindex-org/podcast-namespace/blob/main/docs/1.0.md" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
     <language>de</language>
     <title>VUCA Blaster</title>
@@ -12,8 +12,8 @@ Es geht um Mut und Selbstwirksamkeit, um Führung und Zusammenarbeit, um Resilie
 Dabei suchen wir nicht nach der einen perfekten Methode oder einfachen Antworten. Wir wollen Perspektiven entdecken, Geschichten erzählen und konkrete Impulse finden, die im Arbeitsleben genauso funktionieren wie im echten Leben.
 
 Denn vielleicht müssen wir die Unsicherheit nicht loswerden. Vielleicht müssen wir nur lernen, besser mit ihr umzugehen.</description>
-    <pubDate>Fri, 25 Sep 2026 09:52:51 +0000</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2026 11:52:51 +0200</lastBuildDate>
+    <pubDate>Fri, 02 Oct 2026 09:08:12 +0000</pubDate>
+    <lastBuildDate>Fri, 02 Oct 2026 11:08:12 +0200</lastBuildDate>
     <generator>podcaster.de Feedarator 6.1 (https://app.podcaster.de)</generator>
     <link>https://evjjod.podcaster.de/</link>
     <author>manuel.wy@gmail.com (Manuel &amp; Sebastian)</author>
@@ -48,6 +48,7 @@ Dabei suchen wir nicht nach der einen perfekten Methode oder einfachen Antworten
 
 Denn vielleicht müssen wir die Unsicherheit nicht loswerden. Vielleicht müssen wir nur lernen, besser mit ihr umzugehen.</itunes:summary>
     <itunes:type>episodic</itunes:type>
+    <podcast:locked owner="manuel.wy@gmail.com">yes</podcast:locked>
     <item>
       <title>#62 - Warum echter Mut mit Stimmigkeit beginnt mit Claudia Jahn</title>
       <description><![CDATA[<p><strong>Mut ohne Überwindung?</strong></p>
