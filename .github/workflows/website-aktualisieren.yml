@@ -27,7 +27,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  MODELL_KEY: whisper-modell-large-v3-turbo
+  MODELL_KEY: whisper-modell-large-v3-turbo-vad-v6
 
 jobs:
   planen:
@@ -55,11 +55,12 @@ jobs:
         with:
           path: ~/modell
           key: ${{ env.MODELL_KEY }}
-      - name: Whisper-Modell laden (nur beim ersten Mal)
+      - name: Whisper- und VAD-Modell laden (nur beim ersten Mal)
         if: steps.cache.outputs.cache-hit != 'true'
         run: |
           mkdir -p ~/modell
           curl -fsSL -o ~/modell/modell.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin
+          curl -fsSL -o ~/modell/vad.bin https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v6.2.0.bin
           ls -la ~/modell
 
   transkribieren:
@@ -87,7 +88,7 @@ jobs:
           git clone --depth 1 https://github.com/ggml-org/whisper.cpp.git /tmp/wcpp
           cmake -S /tmp/wcpp -B /tmp/wcpp/build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DWHISPER_BUILD_TESTS=OFF
           cmake --build /tmp/wcpp/build -j 4 --target whisper-cli
-      - run: python werkzeuge/transkribieren.py --nr ${{ matrix.nr }} --whisper /tmp/wcpp/build/bin/whisper-cli --modell ~/modell/modell.bin --ziel ergebnis
+      - run: python werkzeuge/transkribieren.py --nr ${{ matrix.nr }} --whisper /tmp/wcpp/build/bin/whisper-cli --modell ~/modell/modell.bin --vad-modell ~/modell/vad.bin --ziel ergebnis
       - uses: actions/upload-artifact@v4
         with:
           name: transkript-${{ matrix.nr }}
@@ -103,6 +104,8 @@ jobs:
       SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -125,7 +128,7 @@ jobs:
           if git diff --quiet -- docs inhalte && [ -z "$(git ls-files --others --exclude-standard docs inhalte)" ]; then
             echo "Keine Änderungen an Website oder Inhalten."
           else
-            git add -A docs inhalte daten
+            git add -A docs inhalte daten/plattform-links.json daten/bilder.json
             git commit -m "Website automatisch aktualisiert"
             git pull --rebase
             git push
