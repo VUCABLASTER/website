@@ -1,0 +1,1771 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #47: #47 Konfliktkultur mit Hendric Mostert
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:35.490
+Ja, herzlich willkommen zu einer neuen Folge unseres Podcasts VUCA Blaster. Heute haben wir als Gast Hendric Mostert. Er ist Wirtschaftspsychologe, Organisationsentwickler, Mediator und einer der führenden Experten für neue Arbeitsweisen und den konstruktiven Umgang mit Konflikten in Unternehmen. Als agiler Coach bei der Deutschen Bahn begleitete er Teams durch Veränderungsprozesse, entwickelte innovative Methoden und setzte Impulse für eine zukunftsfähige Unternehmenskultur.
+
+00:00:35.490 --> 00:00:54.890
+Außerdem ist er Co-Autor des Buches Konflikt-Culture Playbook, wer sich halt mit Konfliktkultur in Unternehmen beschäftigt und wo wir uns heute auch spezialisieren oder vertiefen wollen. Ja, herzlich willkommen zum Podcast, Hendric. Fehlt dir da noch was, was die Zuhörerinnen über dich wissen sollten?
+
+00:00:54.890 --> 00:01:06.310
+Danke, dass ich da sein darf und ich glaube, das ist ganz schön umfangreich, was du da alles von mir erzählt hast. Mit Sicherheit könnte ich noch ein paar Anekdoten aus dem Leben erzählen, aber ich glaube, für den Start
+
+00:01:06.310 --> 00:01:20.840
+Sollte das ausreichend sein? Danke dir. Dann haben wir unsere berüchtigten drei Check-In Fragen, die wir jedem Gast oder Gästin stellen. Die erste wäre, was löst Dankbarkeit in dir aus?
+
+00:01:20.840 --> 00:01:37.640
+Dankbarkeit löst in mir wirklich ein inneres Gefühl von Wärme aus und das würde ich sagen, startet so in dieser Herzmitte und breitet sich aus. Also ich versuche immer wieder auch, wenn es vor allem in Emotionen geht, in den Körper rein zu spüren und wo ich sie im Körper
+
+00:01:37.640 --> 00:01:44.250
+spüre, weil das ist wirklich was, was dann an sich auch ausbreiten kann und ich mich mit verbinden kann.
+
+00:01:44.250 --> 00:01:54.660
+Vielen Dank. Die zweite Frage oder es wäre ein Satz, den du vervollständigen solltest oder kannst. So kann ich richtig abschalten?
+
+00:01:54.660 --> 00:02:08.740
+So kann ich richtig abschalten, indem ich an schönen Orten bin, raus aus dem Alltag komme, schönes Wellnesshotel oder eben in der Natur zu sein.
+
+00:02:08.740 --> 00:02:34.150
+Die letzte Frage ist, ein Grund für Optimismus ist für mich, positiv in die Zukunft zu schauen, dass wir eben mit Optimismus, auch wenn gerade ganz viel Scheiße da draußen passiert, in der Welt, mit Optimismus trotzdem noch irgendwie ins Machen, ins Gestalten zu kommen.
+
+00:02:34.150 --> 00:02:43.710
+Ja, vielen Dank. Hast du jetzt den Check-in gut überlebt? Manche mögen es, manche nicht. Wir hatten verschiedene Gäste dazu schon.
+
+00:02:43.710 --> 00:03:12.490
+Genau, lass uns dann mal direkt ins Thema rein starten. Ich hatte dein Buch auch gelesen und fand es super. Gerade, ich lerne immer gerne Sachen, wenn ich sie brauche und da hatte mich jemand im Unternehmen angesprochen und sie hatten Konflikt und dann dachte ich, ach okay, das Buch hatte ich schon sehr häufig bei LinkedIn von verschiedenen Leuten gesehen und dann hatte ich da mal reingelesen.
+
+00:03:12.490 --> 00:03:28.060
+Am Anfang eigentlich ganz cool fand, aber vielleicht kannst du da auch ein bisschen was zu erzählen. Konflikte, wie siehst du Konflikte in Unternehmen? Und genau, vielleicht starten wir mit so einer relativ allgemeinen Frage und dann können wir schauen, wo wir am Ende landen.
+
+00:03:28.060 --> 00:03:41.960
+Wobei, damit können wir auch richtig tief direkt einsteigen. Also, was ist mein Blick auf Konflikte? Vielleicht fange ich eher damit an, was ich beobachtet habe in Organisationen und in meiner täglichen Arbeit eben als
+
+00:03:41.960 --> 00:04:10.670
+Organisationsentwickler und agiler Coach. Es gibt so ein paar Phänomene. Entweder wenn ich in Teams gehe und frage, hey, was habt ihr denn für, wie sieht es mit Konflikten aus? Dann kommt meistens die Reaktion, nee, wir haben doch gar keine Konflikte. Und wenn ich dann tiefer einsteige, merke ich, sie haben zwar Konflikte, aber die Strategien der Bearbeitung sind eher vermeiden, verleugnen oder es wird irgendwie eskaliert nach oben, dass die Konflikte gar nicht wirklich geklärt
+
+00:04:10.670 --> 00:04:38.600
+ausgetragen werden. Das ist das eine Spektrum, was ich beobachte in meiner Arbeit, dass eben keine psychologische Sicherheit vorherrscht, die Dinge überhaupt anzusprechen und besprechbar zu machen. Und die andere Tendenz ist eher so, hey, wir haben jetzt einen Konflikt, aber haben nicht wirklich den Raum dafür, das wirklich gut zu bearbeiten. Und was die Organisationen dann meistens schon kennen, das ist eigentlich ein Grund zu feiern. Alle kennen mittlerweile eine Retro, eine Retrospektive.
+
+00:04:38.880 --> 00:05:07.440
+Aber dann wird extrem viel auf eine Retro projiziert, weil das das einzige Vehikel gerade für viele Organisationen ist, überhaupt einen Konflikt besprechbar zu machen. Aber die Methode an sich reicht dann oftmals nicht aus. Und dann führt es eher zu Unzufriedenheit. Alle projizieren mega, mega viel drauf, wollen das unbedingt klären und lösen. Und dann erlebe ich aber immer wieder, wenn ich dann eine klassische Retro moderiere, dass die Menschen sich eher hinter Post-its verstecken.
+
+00:05:07.440 --> 00:05:15.440
+Und wir finden ganz, ganz schnell Sachen auf der Sachebene oder nächste Schritte, ohne wirklich darüber gesprochen zu haben, was uns wirklich bewegt.
+
+00:05:15.440 --> 00:05:33.630
+Das finde ich zum Beispiel ganz gut. Deswegen, ich hatte dir das ja eben im Vorbildgespräch schon mal gesagt. Also ich fände quasi so als Untertitel für euer Konflikt-Culture-Playbook sowas wie Beyond Retro ganz gut.
+
+00:05:33.630 --> 00:05:51.630
+Tatsächlich, weil das sehe ich wunderbar in eurem Buch auch erklärt und angerissen, wie weit man da eigentlich vorher einsteigen müsste, was Beziehungspflege auf den drei Ebenen Individuum, Team, Organisation angeht, tatsächlich passieren müsste.
+
+00:05:51.630 --> 00:05:58.630
+Und ich sehe Konflikte immer so ein bisschen wie Wasser in verschiedenen Agrarzuständen. A findet Wasser immer seinen Weg.
+
+00:05:58.630 --> 00:06:20.590
+Und tatsächlich ist das auch bei Konflikten meistens so, dass das eher so unterliegend wie Eis startet, sich dann immer weiter ausdehnt durch Erhitzung quasi, bis es dann irgendwann wirklich zu Dampf, also der Dampf klassisch im Topf, der dann wirklich den Druck, der dann im Streit mündet, so ein bisschen platzen lässt.
+
+00:06:20.590 --> 00:06:42.590
+Und da finde ich das sehr schön, was ihr an Methoden oder quasi an Werkzeugen auch mitbringt im Buch, um sowas überhaupt vorher erkennen zu können. Also ein ganz wichtiges Element bei euch im Buch, was ich gesehen habe, ist tatsächlich das Zeitnehmen dafür. Also was nicht im Kalender ist, findet nicht statt.
+
+00:06:42.590 --> 00:06:56.650
+Das ist ja so ein bisschen euer Slogan an der Stelle. Und da würde ich ein bisschen gerne auch mit dir einsteigen wollen. Warum ist das für dich so wichtig, das wirklich immer so präsent zu machen?
+
+00:06:56.650 --> 00:07:06.650
+Das ist tatsächlich mein Lieblingsmantra. Und wenn ich in Organisationen, in Teams bin, das wiederhole ich mehrfach, damit das auch wirklich bei den Organisationen wirklich Klick macht.
+
+00:07:06.650 --> 00:07:16.610
+Das, was im Kalender nicht steht, findet schlichtweg nicht statt. Mit anderen Worten, wir brauchen Räume und Routinen, feste Routinen, um überhaupt diese Dinge besprechbar zu machen.
+
+00:07:16.610 --> 00:07:22.560
+Weil wenn wir auf Konfliktkultur schauen, wie arbeiten normalerweise Organisationen, was haben sie bisher gemacht?
+
+00:07:22.560 --> 00:07:29.860
+Einzelmaßnahmen, Trainingsmaßnahmen. Menschen werden irgendwie ein, zwei Tage in Feedback- und Konfliktkompetenzseminar geschickt.
+
+00:07:29.860 --> 00:07:36.860
+Dort lernen sie dann so schöne Methoden wie die www.de-Methode. Was steckt dahinter? Wahrnehmung, Wirkung, Wunsch.
+
+00:07:36.860 --> 00:07:42.200
+Und auf der Feedback-Nehmer, Nehmerinnen-Seite danken und entscheiden, was ich damit mache.
+
+00:07:42.200 --> 00:07:49.200
+Oder eben die vier Schritte der gewaltfreien Kommunikation. Und dann glauben viele Organisationen, dass es damit getan ist.
+
+00:07:49.200 --> 00:07:54.200
+Im Sinne von, ja, jetzt haben wir alle ja befähigt. Alle kennen ja irgendwelche Feedback-Methoden.
+
+00:07:54.200 --> 00:07:58.200
+Dann können sie eben mal was an der Kaffeemaschine ansprechen.
+
+00:07:58.200 --> 00:08:05.710
+Die andere Seite, die meistens dann bespielt wird, ist, es gibt irgendwie eine Ombusstelle oder Mediationsverfahren.
+
+00:08:05.710 --> 00:08:10.800
+Aber da ist die Hürde oftmals zu groß, überhaupt die Dinge besprechbar zu machen.
+
+00:08:10.800 --> 00:08:13.800
+Und irgendwie brauchen wir so ein Bindeglied dazwischen.
+
+00:08:13.800 --> 00:08:17.800
+Also wir brauchen einmal natürlich informellen Dialog, den wir sicherstellen müssen.
+
+00:08:17.800 --> 00:08:24.800
+Aber eben auch reaktiven Dialog, wenn wirklich der Kochkessel explodiert und das Wasser zum Dampf geworden ist.
+
+00:08:24.800 --> 00:08:26.800
+Aber auch dazwischen brauchen wir ein Bindeglied.
+
+00:08:26.800 --> 00:08:32.860
+Und Bindeglied bildet zwar eine klassische Retro, aber wir brauchen vielleicht auch andere Formate,
+
+00:08:32.860 --> 00:08:35.860
+um anders die Dinge besprechbar zu machen.
+
+00:08:35.860 --> 00:08:40.860
+Und lieber regelmäßig draufschauen und Dinge ansprechen,
+
+00:08:40.860 --> 00:08:45.860
+Veränderungswünsche adressieren, bevor sie überhaupt zu einem großen Konflikt werden.
+
+00:08:45.860 --> 00:08:49.860
+Dass wir eher sagen, okay, da ist eine Spannung, da ist ein Veränderungspotenzial.
+
+00:08:49.860 --> 00:08:55.860
+Lass uns doch frühzeitiger nutzen, bevor es dann irgendwie Richtung Konflikt und Streit und laut wird.
+
+00:08:55.860 --> 00:09:04.690
+Du hast eben auch was, also für mich immer diese, vielleicht ist das auch ein Henne-Ei-Problem,
+
+00:09:04.690 --> 00:09:07.690
+weiß ich nicht, aber die psychologische Sicherheit.
+
+00:09:07.690 --> 00:09:13.190
+Du hast im Buch ja auch verschiedene Methoden geschrieben, die man immer mal wieder macht,
+
+00:09:13.190 --> 00:09:18.180
+sich mit jemandem austauscht, auch so, wie geht es ihm gerade oder ihr,
+
+00:09:18.180 --> 00:09:22.180
+und immer so ein bisschen schaut, im Dialog bleibt.
+
+00:09:22.180 --> 00:09:29.010
+Ist das irgendwie, dass man erst diese psychologische Sicherheit braucht und dann kann man wirklich
+
+00:09:29.010 --> 00:09:34.010
+Konflikte oder ist es durch diese Methoden, die ihr anbietet, baut man so eine psychologische
+
+00:09:34.010 --> 00:09:38.420
+Sicherheit mit den anderen auf? Oder wie wird das angehen?
+
+00:09:38.420 --> 00:09:42.540
+Es ist, glaube ich, die Frage, was ist der Ausgangspunkt?
+
+00:09:42.540 --> 00:09:47.530
+Also ich kann damit starten, da hat es geknallt im Team, da gibt es irgendwie was,
+
+00:09:47.530 --> 00:09:54.010
+die Zusammenarbeit behindert und da eben einladen, das Team in eine Klärung zu gehen.
+
+00:09:54.010 --> 00:09:59.010
+Und da sind Dana, meine Co-Autorin und ich, riesen Fan davon, das in eine Team-Klärung zu machen
+
+00:09:59.010 --> 00:10:04.010
+und wegzukommen von so einer klassischen Zwei-Parteien-Mediation, hinter verschlossene Tür.
+
+00:10:04.010 --> 00:10:09.010
+Warum nicht hinter verschlossene Tür? Weil eben das Team nicht Teil des Prozesses ist
+
+00:10:09.010 --> 00:10:12.010
+und dann wird irgendwie eine Lösung präsentiert und das ganze Team denkt sich,
+
+00:10:12.010 --> 00:10:16.010
+jo, und das soll es jetzt richten, weil sie eben nicht Teil des Prozesses sind.
+
+00:10:16.010 --> 00:10:22.010
+Und wenn wir das eben im Team gemeinsam klären und da wirklich die Erfahrung machen,
+
+00:10:22.010 --> 00:10:28.070
+hey, Konfliktklärung kostet Energie, ja, ist anstrengend, braucht auch Mut,
+
+00:10:28.070 --> 00:10:33.070
+und gleichzeitig das hat uns gemeinsam weitergebracht, dann erhöht sich natürlich
+
+00:10:33.070 --> 00:10:38.070
+die Wahrscheinlichkeit, dass ich anders vielleicht in Zukunft darauf reagiere,
+
+00:10:38.070 --> 00:10:45.060
+dass ich mich vielleicht auch darauf einlasse, auf Feedback geben, Feedback nehmen
+
+00:10:45.060 --> 00:10:50.060
+oder eben auch Ideen ableite als Organisation. Also Dana und ich wurden zum Beispiel
+
+00:10:50.060 --> 00:10:55.060
+mal für ein richtig heftiges Thema in der Organisation gerufen und gleichzeitig war
+
+00:10:55.060 --> 00:11:00.060
+durch diese Klärung, hat ein Bewusstsein entstanden, da war in diesem Klärungsprozess
+
+00:11:00.060 --> 00:11:04.060
+war es sogar nicht nur das Team dabei, sondern die Geschäftsführung, sogar auch
+
+00:11:04.060 --> 00:11:09.220
+Personalbereich, dass sie selber am Ende gesagt haben, hey, das darf uns nicht nochmal
+
+00:11:09.220 --> 00:11:13.220
+passieren, lass uns daraus lernen und lass uns frühzeitig auch in eine Konfliktkultur
+
+00:11:13.220 --> 00:11:17.220
+investieren und dann sind sie danach diesen Weg gegangen und haben geschaut, was
+
+00:11:17.220 --> 00:11:21.220
+braucht es. Oder eben wir fangen an eben mit dieser Frage der psychologischen
+
+00:11:21.220 --> 00:11:25.220
+Sicherheit, lernen uns eher im Team besser kennen, schaffen erstmal ein
+
+00:11:25.220 --> 00:11:30.220
+vertrauensvolles Verhältnis, um dann mehr Richtung Konflikt zu gehen. Also erstmal
+
+00:11:30.220 --> 00:11:36.180
+Basis schaffen, Strukturen schaffen und dann die Leichen aus dem Keller holen, wäre
+
+00:11:36.180 --> 00:11:44.380
+auch eine Möglichkeit, sowohl als auch geht. Da habe ich tatsächlich direkt eine
+
+00:11:44.380 --> 00:11:48.380
+Frage zu, weil das ist so ein bisschen auch dieses Henne-Ei-Problem, gerade bei
+
+00:11:48.380 --> 00:11:53.380
+psychologischer Sicherheit. Also wo fängst du da an? Und ich glaube tatsächlich aus
+
+00:11:53.380 --> 00:11:57.380
+der Erfahrung heraus, so wie ich das bis dato wahrgenommen habe, ist das so
+
+00:11:57.380 --> 00:12:00.380
+ein bisschen dieses Wunder, was man schaffen muss, dass man quasi das
+
+00:12:00.380 --> 00:12:05.380
+Huhn und das Ei gleichzeitig erfinden muss. Weil das eine so ein bisschen mit
+
+00:12:05.380 --> 00:12:08.380
+dem anderen einhergeht, weil psychologische Sicherheit ja an der
+
+00:12:08.380 --> 00:12:14.380
+Stelle halt ja dieses Vertrauen, diese Offenheit, Konflikte anzusprechen,
+
+00:12:14.380 --> 00:12:19.380
+sich vielleicht auch ein bisschen verletzbarer oder offener zu zeigen in
+
+00:12:19.380 --> 00:12:23.380
+so einer Organisation ja voraussetzt, was natürlich dann natürlich auch so
+
+00:12:23.380 --> 00:12:27.410
+eine Offenheit zu so Methodiken mitbringen muss. Und ich glaube,
+
+00:12:27.410 --> 00:12:30.410
+das ist so ein bisschen der schmale Grat in den meisten Organisationen,
+
+00:12:30.410 --> 00:12:34.410
+wie erfinde ich quasi das Ei und das Huhn gleichzeitig.
+
+00:12:34.410 --> 00:12:37.410
+Ich glaube, ich habe da eine Idee gerade, wie man das sogar…
+
+00:12:37.410 --> 00:12:40.410
+Das wäre tatsächlich genau meine Frage. Was wäre so deine Strategie oder dein
+
+00:12:40.410 --> 00:12:43.410
+Ansatz, genau sowas zu schaffen in einer Organisation?
+
+00:12:43.410 --> 00:12:48.660
+Also wenn Organisationen sich eh auf den Weg begehen,
+
+00:12:48.660 --> 00:12:53.660
+agiler, selbstorganisierter, die Zusammenarbeit weiterzuentwickeln,
+
+00:12:53.660 --> 00:12:57.660
+in Teamentwicklung zu investieren, das auf jeden Fall mitdenken.
+
+00:12:57.660 --> 00:13:01.660
+Also nicht nur eben zu sagen, okay, wir führen jetzt einen neuen Prozess ein
+
+00:13:01.660 --> 00:13:07.900
+und ein neues Tool und das war's, sondern eben auch den Beziehungsraum
+
+00:13:07.900 --> 00:13:13.310
+mitnehmen und das integrieren. Eben auch in Veränderungsvorhaben,
+
+00:13:13.310 --> 00:13:17.310
+Dialogräume schaffen und nicht nur einfach sagen, so das ist die Entscheidung
+
+00:13:17.310 --> 00:13:21.720
+vom Vorstand und der Geschäftsführung, friss oder stirb, sondern eben auch,
+
+00:13:21.720 --> 00:13:26.720
+wenn Dinge groß verkündet werden, auch Dialogräume überhaupt erstmal schaffen.
+
+00:13:26.720 --> 00:13:30.720
+Wie geht's mir damit? Was liegt mir bei dem Thema am Herzen?
+
+00:13:30.720 --> 00:13:35.720
+Welche Meinungen, Argumente habe ich? Und da wirklich Dialogräume im Sinne von,
+
+00:13:35.720 --> 00:13:38.720
+dass jede und jeder sich mitteilen kann und nicht nur einfach so,
+
+00:13:38.720 --> 00:13:41.720
+jetzt habt ihr die Info erhalten, habt ihr da irgendwie Rückfragen?
+
+00:13:41.720 --> 00:13:44.720
+Nein, gibt's Meinungen? Dann gibt's zwei Meinungen, das war's.
+
+00:13:44.720 --> 00:13:47.720
+Und dann gehen wir wieder back to business hinzugehen und zu sagen,
+
+00:13:47.720 --> 00:13:52.450
+okay, folgende Situation, folgendes Szenario und jetzt laden wir euch ein,
+
+00:13:52.450 --> 00:13:57.450
+wirklich in Dialograum. Also da immer wieder auch in Veränderungsmaßnahmen,
+
+00:13:57.450 --> 00:14:02.450
+Entwicklungsprogrammen, immer wieder dort so einen Ausflug auch Richtung
+
+00:14:02.450 --> 00:14:06.450
+Beziehungsraum zu machen, reinzuschnuppern und Erfahrungen zu sammeln.
+
+00:14:06.450 --> 00:14:12.420
+Erst wenn wir wirklich Erfahrungen darin gemacht haben, dass es nicht weh tut,
+
+00:14:12.420 --> 00:14:17.470
+dann lassen wir uns eher auch im Alltag drauf ein. Aber die meisten von uns
+
+00:14:17.470 --> 00:14:23.470
+haben wenig Erfahrung. Selbst ich hatte bis dato wenig Erfahrung oder aus dem
+
+00:14:23.470 --> 00:14:28.470
+privaten Umfeld, wie kann man Konflikte gut und konstruktiv klären, sondern nur jetzt
+
+00:14:28.470 --> 00:14:33.470
+über die letzten Jahre durch meine Arbeit und diversen Ausbildungen und
+
+00:14:33.470 --> 00:14:38.660
+Mediatorenausbildung und Co. Da habe ich erst wirklich auch Handwerkszeug gelernt.
+
+00:14:38.660 --> 00:14:42.660
+Aber vorher war auch Konflikt für mich immer so, um Gottes Willen bloß nicht.
+
+00:14:42.660 --> 00:14:50.800
+Wie ist denn deine Erfahrung zu diesen Dialogräumen? Also was ich immer so sehe,
+
+00:14:50.800 --> 00:14:55.830
+gerade so in der Arbeit will jeder so oder jede so ein bisschen ihr Gesicht wahren
+
+00:14:55.830 --> 00:15:00.990
+und irgendwie so Gefühle und Bedürfnisse und das ist halt nicht so normal
+
+00:15:00.990 --> 00:15:06.990
+Common Sense in Unternehmen. Und dann kommt man mit so einem Dialogformat
+
+00:15:06.990 --> 00:15:11.990
+und sagt dann jetzt zeigt mir alle eure Gefühle oder bringt die zum Ausdruck.
+
+00:15:11.990 --> 00:15:16.040
+Viele wissen noch gar nicht, welche Gefühle dahinter sind.
+
+00:15:16.040 --> 00:15:20.040
+Wie ist so deine Erfahrung? Wird das gut angenommen oder startet man da auch
+
+00:15:20.040 --> 00:15:26.570
+so ein bisschen klein und versucht es immer so genau, was wäre deine Erfahrung dazu?
+
+00:15:26.570 --> 00:15:30.660
+Also wichtig ist herauszufinden, wo steht das Thema, wo steht die Organisation.
+
+00:15:30.660 --> 00:15:34.660
+Wenn das total ungewohnt ist, dann brauche ich vielleicht ein, zwei Schritte davor,
+
+00:15:34.660 --> 00:15:40.660
+bevor ich eben in einen großen Dialog einlade, dass ich sie vielleicht mal auf
+
+00:15:40.660 --> 00:15:45.660
+einen Kaffee zu zweit oder zu dritt rausschicke und sage, hey tauscht euch mal zu zweit oder zu dritt dazu aus.
+
+00:15:45.660 --> 00:15:52.660
+Im physischen Setting, in einem virtuellen Setting einfach mal die Menschen kurz in Breakout-Räume schicken
+
+00:15:52.660 --> 00:15:57.660
+und mal drei bis fünf Minuten sich dazu austauschen lassen, damit sie ein Gefühl dafür bekommen,
+
+00:15:57.660 --> 00:16:01.660
+in einem kleineren geschützten Raum, was denken und fühlen vielleicht die anderen,
+
+00:16:01.660 --> 00:16:05.660
+um sich dann vielleicht auch in der größeren Runde zu öffnen.
+
+00:16:05.660 --> 00:16:09.660
+Das wäre vielleicht ein Schritt, den man vorbauen kann, wenn man merkt,
+
+00:16:09.660 --> 00:16:13.230
+okay, da ist eine Organisation, die ist noch nicht so weit.
+
+00:16:13.230 --> 00:16:18.290
+Aber ich habe sehr, sehr gute Erfahrungen gemacht, wirklich, wenn man einlädt,
+
+00:16:18.290 --> 00:16:23.290
+sich wirklich die Zeit nimmt und wirklich auch versucht, eben weg von so klassischem Schlagabtausch
+
+00:16:23.290 --> 00:16:30.250
+und Argumente austauschen, wirklich ins Verstehen zu kommen oder eben auch einlädt.
+
+00:16:30.250 --> 00:16:35.250
+Und das ist zum Beispiel in dieser Methode der Restorative Circles, die wir im Buch beschreiben,
+
+00:16:35.250 --> 00:16:41.250
+sehr, sehr zentrales Element, immer wieder auch einzuladen, wenn ich mich mitteile,
+
+00:16:41.250 --> 00:16:44.250
+an wen ist das gerichtet, von wem möchtest du gehört werden?
+
+00:16:44.250 --> 00:16:48.250
+Und dann aber auch die Person einladen, was hast du verstanden, was ist bei dir angekommen?
+
+00:16:48.250 --> 00:16:54.630
+Und wenn die Person wirklich den Eindruck hat, das, was ich sage, wird auch wirklich verstanden,
+
+00:16:54.630 --> 00:16:58.630
+damit öffnen wir wirklich einen Raum, dass sich jeder auch anfängt zu trauen, sich mitzuteilen,
+
+00:16:58.630 --> 00:17:02.620
+weil wir wirklich durch dieses Verstehen in Verbindung kommen.
+
+00:17:02.620 --> 00:17:09.890
+Auch nochmal aufbauend auf die Frage von Manuel tatsächlich, dass das Thema Gefühle
+
+00:17:09.890 --> 00:17:12.890
+oder wie fühle ich mich mit solchen Sachen ja auch immer so ein bisschen,
+
+00:17:12.890 --> 00:17:15.890
+okay, hat das was im Business-Kontext zu tun?
+
+00:17:15.890 --> 00:17:16.890
+Oh ja.
+
+00:17:16.890 --> 00:17:23.890
+Also ich merke, dass so Themen, also gerade so Konflikte, dass das immer so als Beiwerk behandelt wird,
+
+00:17:23.890 --> 00:17:27.890
+so nach dem Motto, okay, wir machen jetzt mal was, aber dann wieder Back to Business.
+
+00:17:27.890 --> 00:17:28.850
+Bloß auf der Sachebene.
+
+00:17:28.850 --> 00:17:36.850
+Ja, genau. Also dass da immer ganz, ganz viel stecken bleibt in dem Kontext,
+
+00:17:36.850 --> 00:17:41.850
+dass das ja eigentlich zusammengehört, aber immer sehr, sehr gerne getrennt betrachtet wird
+
+00:17:41.850 --> 00:17:47.850
+und eigentlich so als, ich weiß nicht, als gekapseltes, okay, da gibt es nochmal eine Gefühlsebene
+
+00:17:47.850 --> 00:17:52.850
+zwischen Mitarbeitern, zwischen Kollegen und so weiter, aber die hat ja eigentlich nichts mit der Arbeit zu tun.
+
+00:17:52.850 --> 00:17:54.850
+Und wie siehst du das?
+
+00:17:54.850 --> 00:18:00.070
+Das ist tatsächlich ein riesengroßer Mythos noch irgendwie, der in den Organisationen kursiert.
+
+00:18:00.070 --> 00:18:07.160
+Und eine These von mir, warum das so ist, ist, weil wir alle das irgendwie im Zuge des Harvard Business
+
+00:18:07.160 --> 00:18:12.160
+Verhandlungskonzept irgendwie gelernt haben, bloß alles auf der Sachebene klären oder lösen.
+
+00:18:12.160 --> 00:18:18.160
+Die wenigsten wissen, dass knapp 20, 30 Jahre später die Begründer von dem Harvard Business Konzept
+
+00:18:18.160 --> 00:18:23.190
+ein neues Buch rausgebracht haben, wo sie sagen, okay, Verhandlungen müssen wir eben auf
+
+00:18:23.190 --> 00:18:28.190
+Gefühls- und Bedürfnissebene führen. Aber es wird immer noch in den Hochschulen gelehrt,
+
+00:18:28.190 --> 00:18:32.190
+Harvard Business Modell bloß sachlich mit Argumenten sich auszutauschen.
+
+00:18:32.190 --> 00:18:35.190
+Das hat sich irgendwie so manifestiert, dieser Mythos.
+
+00:18:35.190 --> 00:18:40.190
+Wenn wir jetzt aus einer psychologischen Perspektive auf das Thema Gefühle und Emotionen sprechen
+
+00:18:40.190 --> 00:18:45.190
+oder auch dieses Wörtchen mal auseinandernehmen. Emotion heißt ja Energie in Bewegung.
+
+00:18:45.190 --> 00:18:52.490
+Also Emotionen sind, es gibt keine negativen oder positiven Gefühle. Emotionen geben an,
+
+00:18:52.490 --> 00:18:56.610
+da ist was da, das ist irgendwie eine Energie in Bewegung.
+
+00:18:56.610 --> 00:19:01.570
+Und wenn wir anfangen, Emotionen gehören nämlich ausgedrückt, nicht unterdrückt.
+
+00:19:01.570 --> 00:19:07.570
+Und wenn wir sie ständig unterdrücken, speichern wir diese Energie, die sich eigentlich bewegen möchte,
+
+00:19:07.570 --> 00:19:13.570
+Energie, die irgendwie in der Handlung überführt werden möchte, speichern wir diese Energie im Körper ab.
+
+00:19:13.570 --> 00:19:20.570
+Das heißt, wir haben Rückenschmerzen, die können chronisch werden, kann bis zu Autoimmunerkrankungen führen.
+
+00:19:20.570 --> 00:19:23.570
+Da gibt es ganz, ganz viele spannende Studien zu.
+
+00:19:23.570 --> 00:19:26.570
+Und umso wichtiger finde ich eben auch Emotionen einen Raum zu geben.
+
+00:19:26.570 --> 00:19:32.630
+Nur die Frage ist, wie? Also alle verbinden ja oftmals eben Emotionen.
+
+00:19:32.630 --> 00:19:37.630
+Heißt dann, wenn jemand wütend ist, dann schreien wir oder dann wird es irgendwie körperlich.
+
+00:19:37.630 --> 00:19:41.590
+Darum geht es nicht, sondern diese Emotionen wahrzunehmen, zu spüren,
+
+00:19:41.590 --> 00:19:48.940
+aber eben auch auf eine Art und Weise in den Raum zu bringen und mitzuteilen, dass es eben nicht diese Gefahr ist
+
+00:19:48.940 --> 00:19:56.320
+oder dass es diese große Angst, dass es eskaliert, sondern eben da kann man dann wiederum auch Modelle nutzen,
+
+00:19:56.320 --> 00:19:59.320
+wie zum Beispiel die vier Schritte der gewaltfreien Kommunikation.
+
+00:19:59.320 --> 00:20:04.320
+Das so zu formulieren, dass es bei mir bleibt und nicht, dass sich mein Gegenüber dann angegriffen fühlt.
+
+00:20:04.320 --> 00:20:11.310
+Aber bitte mehr fühlen auch auf der Arbeit, weil wir geben ja unseren Körper nicht irgendwie am Bergstor ab.
+
+00:20:11.310 --> 00:20:16.500
+Und auch wenn wir es so ein bisschen neuropsychologisch betrachten,
+
+00:20:16.500 --> 00:20:21.500
+20 Prozent der Nervenbahnen kommunizieren vom Kopf in den Körper
+
+00:20:21.500 --> 00:20:26.500
+und 80 Prozent von dem Körper in den Kopf und Emotionen entstehen meistens in unserem Körper.
+
+00:20:26.500 --> 00:20:31.500
+Und dieses Wissen sollten wir uns eigentlich auch mitnutzen und in unsere Arbeit integrieren.
+
+00:20:31.500 --> 00:20:41.350
+Aber viele haben das abgekapselt und das merken wir eben dann auch mit Stress und Co.
+
+00:20:41.350 --> 00:20:47.660
+die ganzen Faktoren, die auch immer wieder natürlich ein Thema am Arbeitsplatz sind.
+
+00:20:47.660 --> 00:20:53.040
+Ja, ich glaube auch dieser Angst, was du gerade gesagt hast, dass dann irgendwann das explodiert.
+
+00:20:53.040 --> 00:20:59.040
+Aber wenn man das immer wieder weiter aufstaut und dem keinen Raum gibt, dann passiert das halt auch so.
+
+00:20:59.040 --> 00:21:06.170
+Und da ist auch immer so ein bisschen diese emotionale Intelligenz.
+
+00:21:06.170 --> 00:21:11.170
+Ist das auch ein Thema, das da mit rein spielt? Ich kenne immer diese Modelle.
+
+00:21:11.170 --> 00:21:19.170
+Genau, die geht verloren. Also wenn ich eben irgendwie einzelne Emotionen immer wieder unterdrücke,
+
+00:21:19.170 --> 00:21:24.170
+dann, ich kann nicht selektiv betäuben meinen Körper. Ich kann nicht selektiv irgendwie.
+
+00:21:24.170 --> 00:21:30.170
+Ich kann nicht nur Wut unterdrücken. Ich kann eben dann, wenn ich Wut oder Angst unterdrücke, Sorge, Scham,
+
+00:21:30.170 --> 00:21:35.170
+dann unterdrücke ich aber auch Leichtigkeit, Freude, glücklich sein.
+
+00:21:35.170 --> 00:21:44.450
+Und wenn ich aber immer wieder Sachen unterdrücke, geht natürlich auch diese emotionale Intelligenz in den Organisationen verloren.
+
+00:21:44.450 --> 00:21:50.450
+Dieses Vehikel, diese Spannungen, diese Impulse wahrzunehmen und auch in die Innovation zu gehen.
+
+00:21:50.450 --> 00:21:54.450
+Und ungelöste Konflikte kosten Organisationen extrem viel Geld.
+
+00:21:54.450 --> 00:22:00.450
+Das einmal eben, dass Menschen vielleicht die innere Kündigung eingehen und nur noch Dienst nach Vorschrift machen.
+
+00:22:00.450 --> 00:22:04.450
+Habe ich selber auch erlebt, dass man selber ein, zwei Sachen mal gesagt hat,
+
+00:22:04.450 --> 00:22:09.450
+aber dann direkt irgendwie war nicht die psychologische Sicherheit da, dass ich dann gesagt habe,
+
+00:22:09.450 --> 00:22:12.450
+nö, dann sage ich halt nichts mehr, bringe ich halt keine Ideen ein,
+
+00:22:12.450 --> 00:22:16.770
+weil dann bekomme ich irgendwie einen blöden Blick von den Kollegen.
+
+00:22:16.770 --> 00:22:19.790
+Bis hin zu, dass Mitarbeiter die Organisation verlassen.
+
+00:22:19.790 --> 00:22:24.790
+Führt dazu, dass es in Zeiten von Fachkräftemangel super schwer ist, dann auch Ersatz zu finden.
+
+00:22:24.790 --> 00:22:27.790
+Und Innovationen kommen beispielsweise auch nicht voran,
+
+00:22:27.790 --> 00:22:31.790
+weil es irgendwie dann an irgendwelchen zwischenmenschlichen Konflikten scheitert.
+
+00:22:31.790 --> 00:22:36.390
+Und ich glaube, so hatte ich zumindest verstanden in deinem Buch, dass du auch sagst,
+
+00:22:36.390 --> 00:22:39.390
+aus Konflikten gerade können auch Innovationen entstehen.
+
+00:22:39.390 --> 00:22:46.670
+Also, dass man da vielleicht irgendwas Neues raus bekommt, wenn man den Konflikt löst im Team?
+
+00:22:46.670 --> 00:22:51.990
+Total. Also, letztlich sind Konflikte eine größere Form von Erspannung.
+
+00:22:51.990 --> 00:22:56.990
+Also, die, die vielleicht schon mal was vom spannungsbasierten Arbeiten gehört haben,
+
+00:22:56.990 --> 00:23:02.990
+kommt ja aus der Holokratie, da ist noch mehr Druck, mehr Veränderungswunsch eben da.
+
+00:23:02.990 --> 00:23:07.990
+Und das wirklich aktiv zu nutzen und zu schauen, hey, was steckt eigentlich dahinter?
+
+00:23:07.990 --> 00:23:11.990
+Welches Bedürfnis ist vielleicht in dem Moment nicht erfüllt?
+
+00:23:11.990 --> 00:23:16.990
+Und wie stehen unsere Bedürfnisse vielleicht konträr? Und Konflikte wird es immer geben.
+
+00:23:16.990 --> 00:23:23.990
+Also, auch, dass es gar keine Konflikte gibt, wenn wir irgendwie jetzt ganz viele Retros und Mediationsverfahren,
+
+00:23:23.990 --> 00:23:27.990
+Restorative Circles und Feedback- und Konfliktkompetenzseminare machen.
+
+00:23:27.990 --> 00:23:34.010
+Konflikte wird es nach wie vor in der Organisation geben, nur die Frage ist die Art und Weise, wie wir damit umgehen
+
+00:23:34.010 --> 00:23:39.010
+und wie wir dann diese Konflikte wirklich auch nutzen, um Innovationen voranzutreiben.
+
+00:23:39.010 --> 00:23:46.010
+Ich glaube, das beschreibt er in dem Buch auch ganz gut, wie sowas entsteht.
+
+00:23:46.010 --> 00:23:50.010
+Weil viele ja immer denken, Konflikte entstehen aus unterschiedlichen Bedürfnissen,
+
+00:23:50.010 --> 00:23:52.010
+was ja gar nicht der Fall sein muss.
+
+00:23:52.010 --> 00:23:57.010
+Also, das Bedürfnis kann natürlich bei Parteien immer dasselbe sein an der Stelle.
+
+00:23:57.010 --> 00:24:03.010
+Ich glaube, der Konflikt entsteht in vielen Situationen einfach daraus, dass die Art und Weise
+
+00:24:03.010 --> 00:24:07.010
+oder die Strategie zur Befriedigung dieses Bedürfnisses unterschiedlich ist.
+
+00:24:07.010 --> 00:24:12.010
+Was dann halt einfach dazu führt, dass daraus dann ein Konflikt entsteht.
+
+00:24:12.010 --> 00:24:15.110
+Und ich glaube, das ist, glaube ich, die Stärke eines Konflikts.
+
+00:24:15.110 --> 00:24:20.110
+Und ich glaube, das ist das, was eine Organisation oder Menschen oder Individuen
+
+00:24:20.110 --> 00:24:25.110
+per se weiterbringt, ist die Chance auf den Dialog daraus.
+
+00:24:25.110 --> 00:24:31.110
+Und da dann tatsächlich zu gucken, okay, was ist deine Strategie, was ist meine Strategie bei sowas.
+
+00:24:31.110 --> 00:24:34.110
+Und was steckt dahinter vor allen Dingen.
+
+00:24:34.110 --> 00:24:38.330
+Genau, also was steckt dahinter und was wäre ein gemeinsamer Weg
+
+00:24:38.330 --> 00:24:40.330
+oder ein Weg, den sich beide vorstellen können.
+
+00:24:40.330 --> 00:24:45.520
+Wie erlebst du das in Organisationen, also gerade was das angeht,
+
+00:24:45.520 --> 00:24:49.520
+weil ganz, ganz oft immer dieses, oh, das sind unterschiedliche Bedürfnisse
+
+00:24:49.520 --> 00:24:52.520
+und wir müssen diese Bedürfnisse übereinander bringen.
+
+00:24:52.520 --> 00:24:55.520
+Das sehe ich ein bisschen anders halt an der Stelle.
+
+00:24:55.520 --> 00:24:59.520
+Ich glaube, im Grunde ist ganz, ganz häufig dasselbe Bedürfnis dahinter,
+
+00:24:59.520 --> 00:25:03.280
+nur diese Strategien divergieren so weit.
+
+00:25:03.280 --> 00:25:05.280
+Aber da bist du ja tatsächlich schon in Organisationen unterwegs,
+
+00:25:05.280 --> 00:25:09.280
+die schon deutlich einen Schritt weiter sind, wenn sie über Bedürfnisse sprechen überhaupt.
+
+00:25:09.280 --> 00:25:14.280
+Was ich eher erlebe ist, dass auf der Strategieebene Argumente ausgetauscht werden
+
+00:25:14.280 --> 00:25:17.280
+und gar nicht wirklich dahinter geschaut hat, worum geht es mir eigentlich.
+
+00:25:17.280 --> 00:25:22.280
+Und das kann ich natürlich übersetzen in Bedürfniswörter,
+
+00:25:22.280 --> 00:25:27.280
+wie man es in der gewaltfreien Kommunikation im Moment lernt,
+
+00:25:27.280 --> 00:25:30.280
+aber eben sich immer wieder die Frage zu stellen, worum geht es mir?
+
+00:25:30.280 --> 00:25:32.280
+Was ist mir wichtig? Was liegt mir am Herzen?
+
+00:25:32.280 --> 00:25:36.360
+Darüber zu sprechen und dann eben zu merken,
+
+00:25:36.360 --> 00:25:39.360
+okay, vielleicht haben wir beide das gleiche Bedürfnis
+
+00:25:39.360 --> 00:25:43.960
+und beiden ist uns dieser Aspekt wichtig,
+
+00:25:43.960 --> 00:25:48.920
+aber wir sehen unterschiedliche Optionen, das Ziel zu erreichen.
+
+00:25:48.920 --> 00:25:50.920
+Das steht uns eben im Weg.
+
+00:25:50.920 --> 00:25:54.920
+Und da müssen wir wirklich hinkommen, hinter wirklich die Wortentaten,
+
+00:25:54.920 --> 00:25:58.920
+hinter den Dingen, die wir im Alltag machen,
+
+00:25:58.920 --> 00:26:00.950
+zu schauen, hey, worum geht es mir?
+
+00:26:00.950 --> 00:26:02.950
+Oder das auch klarer zu kommunizieren.
+
+00:26:02.950 --> 00:26:05.950
+Also vielleicht auch im Alltag einfach sagen,
+
+00:26:05.950 --> 00:26:08.890
+hey, das ist mir wichtig, darum geht es mir.
+
+00:26:08.890 --> 00:26:13.300
+Das hilft ungemein, mehr Transparenz
+
+00:26:13.300 --> 00:26:15.300
+und mehr Verständnis füreinander zu entwickeln.
+
+00:26:15.300 --> 00:26:18.300
+Worum geht es mir? Das ist eine super zentrale Frage.
+
+00:26:18.300 --> 00:26:21.300
+Was ist mir wichtig? Was brauche ich konkret?
+
+00:26:21.300 --> 00:26:26.960
+Da kann es aber auch sein, dass dann verschiedene Perspektiven
+
+00:26:26.960 --> 00:26:29.990
+und ähnliche, prallen würde ich jetzt vielleicht nicht sagen,
+
+00:26:29.990 --> 00:26:34.210
+aber sind denn alle Konflikte, also wir hatten zum Beispiel im Team
+
+00:26:34.210 --> 00:26:38.180
+auch mal systemisches Konsensieren gemacht, dann so Konsens finden.
+
+00:26:38.180 --> 00:26:41.500
+Ist das eine Lösung von Konflikten oder muss,
+
+00:26:41.500 --> 00:26:44.960
+oder wie sieht es aus, wenn ein Konflikt gelöst würde?
+
+00:26:44.960 --> 00:26:47.100
+Also der erste Schritt ist erstmal verstehen.
+
+00:26:47.100 --> 00:26:50.100
+Also wir nutzen, Dana und ich nutzen ganz gerne immer
+
+00:26:50.100 --> 00:26:53.100
+den Begriff klären statt lösen.
+
+00:26:53.100 --> 00:26:55.100
+Erstmal müssen wir erstmal in die Klärung gehen.
+
+00:26:55.100 --> 00:26:58.100
+Oftmals heißt es immer, wir müssen den Konflikt sofort lösen
+
+00:26:58.100 --> 00:27:00.100
+und dann sind wir sofort auf der Sachebene unterwegs
+
+00:27:00.100 --> 00:27:02.100
+und versuchen, nächste Schritte zu finden,
+
+00:27:02.100 --> 00:27:05.100
+ohne wirklich darüber gesprochen zu haben, was uns wirklich bewegt.
+
+00:27:05.100 --> 00:27:09.100
+Deswegen ist der erste Schritt erstmal klären, ins Verstehen kommen.
+
+00:27:09.100 --> 00:27:13.130
+Verstehen heißt aber auch, ich muss nicht zwingend einverstanden sein,
+
+00:27:13.130 --> 00:27:15.130
+aber wenn ich verstehe, worum es dir geht
+
+00:27:15.130 --> 00:27:18.100
+und wenn ich klar kommuniziert habe, worum es mir geht,
+
+00:27:18.100 --> 00:27:21.390
+haben wir wirklich auch eine andere Verhandlungsbasis.
+
+00:27:21.390 --> 00:27:23.390
+Und dann können wir schauen, was ist jetzt der nächste Schritt?
+
+00:27:23.390 --> 00:27:25.390
+Wir sind vielleicht nicht einer Meinung,
+
+00:27:25.390 --> 00:27:30.390
+aber wie können wir jetzt andere Alternativen, andere Strategien finden,
+
+00:27:30.390 --> 00:27:35.550
+die vielleicht doch zur Zufriedenheit aller irgendwie gelöst oder geklärt werden.
+
+00:27:35.550 --> 00:27:39.500
+Und da findet sich eigentlich auch immer Strategien
+
+00:27:39.500 --> 00:27:41.500
+oder hast du auch mal Fälle, wo dann...
+
+00:27:41.500 --> 00:27:46.580
+Ich will jetzt nicht schon wieder lösen sagen, aber...
+
+00:27:46.580 --> 00:27:52.340
+Ja, vielleicht, also manche kennen das Beispiel mit der Orange ganz gut eben.
+
+00:27:52.340 --> 00:27:56.340
+Da gibt's eine Orange und es wird sich um eine Orange gestritten.
+
+00:27:56.340 --> 00:28:01.340
+Und eine Konsequenz wäre ja, okay, wenn zwei sich um eine Orange streiten,
+
+00:28:01.340 --> 00:28:03.340
+dann schneiden wir sie in der Mitte durch.
+
+00:28:03.340 --> 00:28:06.040
+Das ist vermeintlich die schnelle Lösung,
+
+00:28:06.040 --> 00:28:09.040
+weil dann hat jede Partei irgendwie eine halbe Orange.
+
+00:28:09.040 --> 00:28:12.870
+Wenn wir aber dann wirklich in den Austausch gehen und sagen,
+
+00:28:12.870 --> 00:28:16.870
+wofür brauche ich eigentlich die Orange, worum geht's mir?
+
+00:28:16.870 --> 00:28:19.870
+Und dann wird klar, okay, ich will eigentlich Orangenlimonade machen,
+
+00:28:19.870 --> 00:28:21.870
+ich brauche nur die Orangenzeste,
+
+00:28:21.870 --> 00:28:25.760
+dann kann man die natürlich ganz anders aufteilen.
+
+00:28:25.760 --> 00:28:28.760
+Dann wird es zur Zufriedenheit aller gelöst.
+
+00:28:28.760 --> 00:28:30.760
+Währenddessen ich mit einer halben Orange
+
+00:28:30.760 --> 00:28:32.760
+sowohl für die Orangenlimon nicht weiterkomme,
+
+00:28:32.760 --> 00:28:34.760
+als eben für meinen Kuchenbacken nicht weiterkomme,
+
+00:28:34.760 --> 00:28:38.760
+weil ich die gesamte Orangenzeste brauche für den Kuchen,
+
+00:28:38.760 --> 00:28:41.880
+ist das, glaube ich, beschreibt es ganz gut,
+
+00:28:41.880 --> 00:28:45.880
+eben sich Zeit zu nehmen, wirklich in den Dialog zu gehen.
+
+00:28:45.880 --> 00:28:49.840
+Und dann erlebe ich immer wieder, wenn die Menschen sich mitteilen
+
+00:28:49.840 --> 00:28:52.840
+und den Eindruck bekommen, hey, das, was ich sage,
+
+00:28:52.840 --> 00:28:54.840
+kommt auch wirklich bei meinem Gegenüber an,
+
+00:28:54.840 --> 00:28:58.220
+fangen sie auch Verantwortung dafür zu übernehmen,
+
+00:28:58.220 --> 00:29:00.220
+was sie gemacht haben, gehandelt haben.
+
+00:29:00.220 --> 00:29:03.220
+Und der nächste Schritt ist dann wirklich auch dann,
+
+00:29:03.220 --> 00:29:05.220
+Lösungen gemeinsam zu finden.
+
+00:29:05.220 --> 00:29:09.430
+Aber erstmal verstehen, dann entsteht Eigenverantwortung
+
+00:29:09.430 --> 00:29:11.430
+und dann können wir es ins Lösen gehen.
+
+00:29:11.430 --> 00:29:14.650
+Und damit sind wir komplett auch wieder in dem Thema
+
+00:29:14.650 --> 00:29:16.650
+Selbstorganisation, Selbstverantwortung.
+
+00:29:16.650 --> 00:29:19.650
+Also wir müssen überhaupt erstmal auch die Menschen dahin bringen,
+
+00:29:19.650 --> 00:29:22.650
+Selbstverantwortung zu übernehmen.
+
+00:29:22.650 --> 00:29:25.770
+Und deswegen bin ich auch riesen Fan davon,
+
+00:29:25.770 --> 00:29:29.860
+eher Mediationsverfahren oder Klärungsverfahren zu nutzen,
+
+00:29:29.860 --> 00:29:31.860
+wo die Leute wirklich erstmal in Dialog kommen,
+
+00:29:31.860 --> 00:29:34.860
+anstatt dass ich als Mediator sofort ins Übersetzen gehe.
+
+00:29:34.860 --> 00:29:37.860
+Weil wenn ich ständig immer wieder übersetze und das zusammenfasse,
+
+00:29:37.860 --> 00:29:41.860
+das ist doch ganz klar, Ihnen geht es darum, Ihnen geht es darum,
+
+00:29:41.860 --> 00:29:45.860
+dann lehnen die Menschen sich zurück und geben wieder Verantwortung ab.
+
+00:29:45.860 --> 00:29:48.860
+Sie brauchen ja nicht über ihre Gefühle und Bedürfnisse sprechen,
+
+00:29:48.860 --> 00:29:52.920
+weil das macht ja jemand anderes für mich, die Person versteht es.
+
+00:29:52.920 --> 00:29:55.920
+Aber dann bin ich eine Brücke, bin ich ein Speedboot,
+
+00:29:55.920 --> 00:29:57.920
+dann kläre ich es vermeintlich schneller.
+
+00:29:57.920 --> 00:30:00.920
+Aber ob es dann wirklich auf der anderen Seite angekommen ist
+
+00:30:00.920 --> 00:30:05.110
+und für Verbindung gesorgt hat, das ist zu bezweifeln.
+
+00:30:05.110 --> 00:30:11.600
+Vielleicht bevor wir jetzt gleich noch einmal ein bisschen tiefer reinzoomen ins Buch,
+
+00:30:11.600 --> 00:30:17.660
+vielleicht in eine Methode, noch einmal so ein bisschen nach außen gezoomen,
+
+00:30:17.660 --> 00:30:19.660
+ein bisschen auf die Meta-Ebene.
+
+00:30:19.660 --> 00:30:21.660
+Wir haben ja immer das große Problem in Deutschland,
+
+00:30:21.660 --> 00:30:25.660
+und es wird immer gesagt, wir sind so langsam in Bezug auf Digitalisierung usw.
+
+00:30:25.660 --> 00:30:29.660
+Und tatsächlich würde ich sagen, wir sind noch viel, viel langsamer
+
+00:30:29.660 --> 00:30:32.660
+in sowas wie wirklich Organisationsentwicklung.
+
+00:30:32.660 --> 00:30:35.660
+Also auch so Methodiken wie gewaltfreie Kommunikation,
+
+00:30:35.660 --> 00:30:40.070
+die es ja auch schon Ewigkeiten gibt, also halbe Jahrhunderte schon fast,
+
+00:30:40.070 --> 00:30:47.070
+also noch stärker oder noch länger präsent sind als Digitalisierungsdruck,
+
+00:30:47.070 --> 00:30:51.030
+den man an der Stelle hat. Warum sind wir da noch so viel langsamer,
+
+00:30:51.030 --> 00:30:56.070
+sowas in Organisationen reinzubekommen als wirklich Digitalisierung?
+
+00:30:56.070 --> 00:30:59.070
+Da würde ich sagen, da sind wir schon super langsam,
+
+00:30:59.070 --> 00:31:02.030
+aber was für Organisationsentwicklung, wirklich psychologische Sicherheit,
+
+00:31:02.030 --> 00:31:05.030
+wirklich gutes Konfliktmanagement in Organisationen,
+
+00:31:05.030 --> 00:31:08.030
+das sind ja alles Dinge, die sind nicht gestern entstanden,
+
+00:31:08.030 --> 00:31:10.030
+die sind nicht vor fünf, sechs Jahren aufgepoppt,
+
+00:31:10.030 --> 00:31:14.020
+sondern das sind Dinge in Zusammenarbeit, in Dialog mit Menschen,
+
+00:31:14.020 --> 00:31:18.020
+dass Leute sich zugehörig fühlen zur Organisation,
+
+00:31:18.020 --> 00:31:22.020
+tatsächlich besser miteinander arbeiten, Produktivität sich steigert.
+
+00:31:22.020 --> 00:31:27.050
+Warum ist das immer noch so quasi so ein stiefmütterliches Problem?
+
+00:31:27.050 --> 00:31:30.300
+Eine direkte Antwort habe ich nicht,
+
+00:31:30.300 --> 00:31:34.300
+aber wenn wir so ein bisschen auch kulturhistorisch auf die Organisation schauen,
+
+00:31:34.300 --> 00:31:39.330
+erstmalig wirklich der Begriff von irgendwie Teambuilding in der Fachliteratur
+
+00:31:39.330 --> 00:31:45.330
+ist so in, glaube ich, 50er, 60er, 70er, eher 70er Jahre entstanden.
+
+00:31:45.330 --> 00:31:48.330
+Also ganz frischer Begriff letztlich erst,
+
+00:31:48.330 --> 00:31:53.330
+wenn wir so auf die Geschichte von Organisationen, Unternehmen schauen.
+
+00:31:53.330 --> 00:31:58.330
+Also deswegen ist es eher neu und wir haben es eben deswegen auch nie wirklich gelernt.
+
+00:31:58.330 --> 00:32:04.330
+Und Innovation, Digitalisierung braucht zwingend psychologische Sicherheit.
+
+00:32:04.330 --> 00:32:11.640
+Und die Amy Edmondson, die ja zum Thema psychologische Sicherheit seit den 90er Jahren forscht,
+
+00:32:11.640 --> 00:32:15.640
+hat ja auch zum Beispiel herausgefunden, warum Kodak gescheitert ist,
+
+00:32:15.640 --> 00:32:18.640
+warum es zum VW-Skandal gekommen ist.
+
+00:32:18.640 --> 00:32:26.960
+Nicht, weil Kodak oder Nokia nicht die innovativsten Leute dort in der Organisation hatten,
+
+00:32:26.960 --> 00:32:30.960
+sondern weil in den Organisationen keine psychologische Sicherheit vorherrschte.
+
+00:32:30.960 --> 00:32:35.950
+Man sagt ja immer wieder so, ja Kodak und Nokia sind so die Beispiele,
+
+00:32:35.950 --> 00:32:37.950
+dass sie die Digitalisierung verpasst haben.
+
+00:32:37.950 --> 00:32:41.950
+Nein, sie haben sie nicht verpasst. Sie hatten eigentlich genügend Leute, die dieses Wissen hatten,
+
+00:32:41.950 --> 00:32:45.950
+aber sie hatten nicht den Raum, diese Dinge, Themen überhaupt besprechbar zu machen.
+
+00:32:45.950 --> 00:32:48.950
+Es herrschte doch keine psychologische Sicherheit.
+
+00:32:48.950 --> 00:32:55.950
+Und das ist super spannend zu beobachten, wie auch so Perspektiven auf Organisationen gelegt wird.
+
+00:32:55.950 --> 00:33:06.090
+Jetzt haben wir schon immer so ein bisschen darüber geredet, Dialog und dem Raum geben.
+
+00:33:06.090 --> 00:33:12.980
+Vielleicht, was wäre denn so mal eine Methode oder wenn jetzt die Zuhörenden sagen,
+
+00:33:12.980 --> 00:33:18.390
+okay, finde ich spannend, ich würde da gerne mal in unserem Team anfangen.
+
+00:33:18.390 --> 00:33:22.390
+Klar hat man auch ein bisschen gesagt, okay, kommt ein bisschen darauf an, wo das Team steht.
+
+00:33:22.390 --> 00:33:24.390
+Vielleicht kann man das gar nicht so generalisieren.
+
+00:33:24.390 --> 00:33:31.700
+Aber was wäre denn vielleicht mal so eine, so als Beispiel mal so ein Raum, ein Format oder irgendwas,
+
+00:33:31.700 --> 00:33:34.820
+was die Zuhörenden mitnehmen könnten?
+
+00:33:34.820 --> 00:33:39.550
+Also wenn wir wirklich Richtung Konfliktklärung gehen, dann braucht es Erfahrung.
+
+00:33:39.550 --> 00:33:45.550
+Also da ist es wirklich hilfreich, im Nichtschwimmerbecken schon mal unterwegs gewesen zu sein,
+
+00:33:45.550 --> 00:33:48.550
+selber Erfahrung gemacht zu haben in Klärung, Begleitung.
+
+00:33:48.550 --> 00:33:52.550
+Das würde ich auf keinen Fall einer Führungskraft direkt zumuten und zu sagen.
+
+00:33:52.550 --> 00:33:57.550
+In unserem Buch klassifizieren wir beispielsweise die ganzen Tools und Methoden, die wir vorstellen, in drei Leveln.
+
+00:33:57.550 --> 00:34:01.550
+Es gibt Level 1, das kann jeder mal so machen, ausprobieren.
+
+00:34:01.550 --> 00:34:07.550
+Und Level 3 ist schon die Empfehlung, nur mit geschultem Personal das Ganze durchzuführen.
+
+00:34:07.550 --> 00:34:13.550
+Ein erster Schritt im Team wäre zum Beispiel auch mal ein Check-in zu machen, kennen vielleicht viele schon,
+
+00:34:13.550 --> 00:34:20.550
+aber nicht ein Check-in im Sinne von, welche Eissorte bin ich heute oder welches Buch habe ich am Wochenende gelesen,
+
+00:34:20.550 --> 00:34:24.550
+was habe ich am Wochenende gemacht, sondern sich wirklich ernsthaft diese Frage zu stellen,
+
+00:34:24.550 --> 00:34:28.550
+wie bin ich gerade da? Und mit wie bin ich gerade da ist nicht gemeint,
+
+00:34:28.550 --> 00:34:33.550
+mit welchen Verkehrsmitteln meiner Wahl, sondern wie fühle ich mich gerade?
+
+00:34:33.550 --> 00:34:38.550
+Bin ich energetisiert? Bin ich müde? Bin ich motiviert? Bin ich neugierig?
+
+00:34:38.550 --> 00:34:42.550
+Und da einzuladen und wirklich mal innezuhalten und das mitzuteilen.
+
+00:34:42.550 --> 00:34:48.550
+Und Expert Level wäre eben auch, so würdchen wie gut läuft, passt schon.
+
+00:34:48.550 --> 00:34:56.770
+Bin da dann auch als Art Spielregel zu verbieten oder vielleicht auch mal so eine Gefühlsliste
+
+00:34:56.770 --> 00:35:02.150
+zur Verfügung zu stellen und mal einzuladen, hey, welche dieser Begriffe sprechen mich gerade an?
+
+00:35:02.150 --> 00:35:07.150
+Dass darüber erstmal vielleicht auch eine neue Sprache gelernt wird.
+
+00:35:07.150 --> 00:35:13.150
+Oder eben die Variante des Circle Ways. Da ist irgendwie eine Entscheidung getroffen worden,
+
+00:35:13.150 --> 00:35:17.340
+vielleicht vom Vorstand, die uns aber auch als Team betrifft.
+
+00:35:17.340 --> 00:35:23.340
+Ich merke selber als Führungskraft, puh, irgendwie ist die Stimmung gerade nicht die beste
+
+00:35:23.340 --> 00:35:27.340
+und gleichzeitig merke ich, dass die Menschen sich immer wieder da in unterschiedlichen Settings
+
+00:35:27.340 --> 00:35:32.340
+zu austauschen und es findet aber kein strukturierter Dialog oder Austausch statt.
+
+00:35:32.340 --> 00:35:38.300
+Zu sagen, okay, lass uns mal eine Stunde, eineinhalb zusammensetzen und uns mal dazu austauschen,
+
+00:35:38.300 --> 00:35:45.300
+wie geht es mir damit, dass der Vorstand folgende Entscheidungen getroffen hat und die wir jetzt umsetzen müssen.
+
+00:35:45.300 --> 00:35:50.360
+Und da dann wirklich jeden einzelnen Einladen zu Wort kommen zu lassen,
+
+00:35:50.360 --> 00:35:54.360
+vielleicht ein paar Reflexionsfragen an die Hand zu geben, also wie geht es mir mit dem Thema?
+
+00:35:54.360 --> 00:35:58.360
+Was ist mir bei dem Thema wichtig? Habe ich Meinungen oder Argumente?
+
+00:35:58.360 --> 00:36:01.360
+Was schlage ich vor, was wir als nächstes tun sollten?
+
+00:36:01.360 --> 00:36:05.360
+Und dass jeder einmal kurz sich mitteilen kann und dann gehen wir in eine zweite Runde.
+
+00:36:05.360 --> 00:36:10.360
+Wie geht es mir jetzt, nachdem ich alle anderen gehört habe und was schlage ich vor, was als nächstes passiert?
+
+00:36:10.360 --> 00:36:17.480
+Wäre eine Möglichkeit, in den Dialog zu gehen oder auch eine andere Einstiegsmethode wäre zum Beispiel
+
+00:36:17.480 --> 00:36:22.480
+Hopes und Fears, also welche Hoffnungen oder Befürchtungen habe ich zum Thema XY?
+
+00:36:22.480 --> 00:36:29.480
+Dass wir darüber in den Dialog wieder gehen und im Team schauen, hey, was hoffe ich mir davon, von dieser Entscheidung?
+
+00:36:29.480 --> 00:36:33.480
+Aber was befürchte ich auch gleichzeitig? Wo laufen wir vielleicht Gefahr?
+
+00:36:33.480 --> 00:36:39.760
+Wo können wir Rückschritt erleiden? Und dann die Dinge wirklich zu artikulieren und besprechbar zu machen.
+
+00:36:39.760 --> 00:36:43.820
+Und eben nicht ständig die Faust in der Tasche zu haben.
+
+00:36:43.820 --> 00:36:50.220
+Und das tut dann vielleicht auch ganz gut, wenn man sieht, dass andere die gleichen...
+
+00:36:50.220 --> 00:36:54.240
+Ich glaube, das ist ja auch irgendwie so evolutionär, dass man diese...
+
+00:36:54.240 --> 00:36:58.240
+Wenn man jemanden sieht, der das auch oder die das Gleiche auch denkt oder fühlt,
+
+00:36:58.240 --> 00:37:03.240
+dass man nicht da irgendwie entspannter ist vielleicht auch und dass man denkt, man ist nicht alleine damit.
+
+00:37:03.240 --> 00:37:10.240
+Total, ja. Also das setzt oftmals bei so eher unschönen Themen, wenn man die so besprechbar macht, ein.
+
+00:37:10.240 --> 00:37:17.820
+Okay, das tut gut zu hören, dass es euch allen auch nicht passt und ihr auch irgendwie niedergeschlagen seid,
+
+00:37:17.820 --> 00:37:26.820
+schlecht geschlafen habt und gleichzeitig, hey, lass uns das trotzdem, auch wenn es uns emotional gerade nicht so gut geht,
+
+00:37:26.820 --> 00:37:33.820
+lass uns das trotzdem nutzen und handeln und in die Handlungsfähigkeit zu kommen und eben in die Zukunft zu schauen.
+
+00:37:33.820 --> 00:37:39.820
+Das ist das Schöne, wenn wir wirklich diese Dialogräume eröffnen, weil sonst sind wir eher, wenn wir es an der Kaffeemaschine
+
+00:37:39.820 --> 00:37:42.820
+nur besprechbar machen, eher in der Abwärtsspirale unterwegs.
+
+00:37:42.820 --> 00:37:48.640
+Und da werden dann auch irgendwelche Gerüchte vielleicht dann, also was ich immer so manchmal mitkriege,
+
+00:37:48.640 --> 00:37:56.430
+dass ich oder weiß auch, was gemeint wurde mit einer bestimmten Entscheidung, dann aber die sich so ein
+
+00:37:56.430 --> 00:38:01.390
+bisschen verselbstständigt, weil sie nicht in so eine Klärung war, gekommen ist und die sich, viele
+
+00:38:01.390 --> 00:38:05.380
+Leute sich dann irgendwas reininterpretieren, was gar nicht stimmte.
+
+00:38:05.380 --> 00:38:15.910
+Total. Also vielleicht Praxisbeispiel. Ich wurde kurz vor Weihnachten von einer Firma gerufen, eine
+
+00:38:15.910 --> 00:38:21.910
+Kreativagentur, roundabout 30 Menschen, die haben mussten aus unternehmerischen Gründen noch vor
+
+00:38:21.910 --> 00:38:27.740
+Weihnachten zwei Mitarbeitenden entlassen. Und dem Geschäftsführer war es aber super wichtig und hatte
+
+00:38:27.740 --> 00:38:32.740
+die Sorge, dass die Mitarbeiter jetzt natürlich mit Sorge ins Weihnachtsfest gehen und denken, okay,
+
+00:38:32.740 --> 00:38:37.740
+jetzt werden die zwei Mitarbeitenden entlassen. Wie geht es jetzt Januar weiter, wenn alle wieder
+
+00:38:37.740 --> 00:38:42.800
+zurückkommen? Ich bin ja der Nächste. Um dort eben mal so einen Raum zu geben und auch gemeinsam
+
+00:38:42.800 --> 00:38:48.860
+in die Zukunft zu blicken, hat er, und das fand ich sehr, sehr stark, dieses Bewusstsein zu haben,
+
+00:38:48.860 --> 00:38:53.860
+zu sagen, ich kann mich jetzt einfach nicht nur vor das Team hinstellen und sagen, so, wir haben uns
+
+00:38:53.860 --> 00:38:58.860
+entschieden, diese zwei Mitarbeitenden, dass sie die Organisation verlassen. Info geteilt,
+
+00:38:58.860 --> 00:39:03.860
+dein Geschiss zurück an die Arbeit oder gibt es noch vielleicht Fragen? Und das war es dann, zu sagen,
+
+00:39:03.860 --> 00:39:07.860
+okay, ich möchte auch einen Dialograum dafür öffnen, dass jeder sich mitteilen kann, wie geht es mir
+
+00:39:07.860 --> 00:39:15.860
+jetzt damit? Und das war sehr, sehr magisch, weil wir eben dort gemeinsam eben Bewusstsein
+
+00:39:15.860 --> 00:39:21.860
+entwickelt haben und auch uns Themen anschauen, die da irgendwie mitgeschwungen sind, die vielleicht
+
+00:39:21.860 --> 00:39:27.860
+eben in irgendwelche Gerüchte ausgeatmet wären, hätte der Geschäftsführer nicht diesen Raum
+
+00:39:27.860 --> 00:39:33.890
+den Menschen gegeben. Und wir sind dann wirklich kurz vor Weihnachten 30 Leute zusammen, haben
+
+00:39:33.890 --> 00:39:38.890
+uns in den Stuhlkreis gesetzt und uns da mal wirklich zwei, drei Stunden Zeit genommen, gemeinsam
+
+00:39:38.890 --> 00:39:44.950
+in den Dialog zu gehen. Und der nächste Schritt war dann sogar Ideen, nächste Schritte abzuleiten,
+
+00:39:44.950 --> 00:39:52.390
+weil noch ein paar andere Themen hochgekommen sind. Was können sie jetzt auch in 25 als nächstes
+
+00:39:52.390 --> 00:40:00.390
+angehen? Und das ist eben nicht nur, ja, Geschäftsführung ist blöd, sondern sie haben auch mitgeteilt,
+
+00:40:00.390 --> 00:40:06.550
+dass sie es einmal aus menschlicher Perspektive, den extrem schwerfällt, sich von den Menschen
+
+00:40:06.550 --> 00:40:10.550
+zu trennen. Und gleichzeitig haben sie eben auch diesen unternehmerischen Druck und das hat
+
+00:40:10.550 --> 00:40:15.550
+sie auch nahbar gemacht, aber gleichzeitig eben auch alle eingeladen, in den Dialog zu treten.
+
+00:40:15.550 --> 00:40:24.920
+Das finde ich ist eine super Überleitung auch mit Beteiligten, weil oft ist das ja so,
+
+00:40:24.920 --> 00:40:29.920
+gerade in Konfliktlösungen, dass man immer gerne mal immer nur die beiden Parteien sieht,
+
+00:40:29.920 --> 00:40:34.920
+die diesen Konflikt haben, also den Angegriffenen und den Angreifer vielleicht an der Stelle,
+
+00:40:34.920 --> 00:40:40.920
+aber ganz, ganz häufig halt die Betroffenen ausgeblendet werden, also diejenigen, die das
+
+00:40:40.920 --> 00:40:46.920
+drumherum mitbekommen, auf die das einen starken Einfluss hat. Da gibt es in eurem Buch
+
+00:40:46.920 --> 00:40:53.920
+eine Methode, die auch sehr, sehr stark propagiert, Dana und du, Restorical Circles,
+
+00:40:53.920 --> 00:40:57.920
+die genau auf sowas eingeht. Kannst du da ein bisschen was zu erzählen?
+
+00:40:57.920 --> 00:41:02.260
+Sehr gerne. Die Restorical Circles sind tatsächlich so unsere Lieblingsmethode,
+
+00:41:02.260 --> 00:41:07.420
+unser Herzstück aus dem Buch und letztlich auch Anlass, uns da tiefer mit zu beschäftigen
+
+00:41:07.420 --> 00:41:13.090
+und gleichzeitig haben wir auch gemerkt, Restorical Circles sind echt magisch, was passiert,
+
+00:41:13.090 --> 00:41:17.090
+aber nicht die einzige Antwort, wenn wir auf Organisationen schauen, sondern wir brauchen
+
+00:41:17.090 --> 00:41:22.090
+darüber eben ein restauratives System, eben informellen Dialog, proaktiven Dialog
+
+00:41:22.090 --> 00:41:27.090
+und reaktiven Dialog. Und die Restorical Circles sind eher auf dem Spektrum
+
+00:41:27.090 --> 00:41:32.150
+reaktiven Dialog zuzuordnen. Also jemand hat etwas gesagt oder getan,
+
+00:41:32.150 --> 00:41:37.150
+das Auswirkungen auf mich oder auf andere hatte oder eben ich habe etwas gesagt oder
+
+00:41:37.150 --> 00:41:41.150
+getan, was ich gerne mal klären möchte mit anderen Worten, ich habe Scheiße gebaut,
+
+00:41:41.150 --> 00:41:46.440
+habe es gemerkt und möchte aber und merke irgendwie das Hemd, unsere Zusammenarbeit
+
+00:41:46.440 --> 00:41:51.430
+oder andere Perspektive, ich beobachte, dass jemand etwas gesagt oder
+
+00:41:51.430 --> 00:41:55.490
+getan hat, was Auswirkungen auf andere hatte. Beispielsweise ich als Führungskraft
+
+00:41:55.490 --> 00:41:59.490
+bekomme mit, da hängen sich die zwei Mitarbeitenden immer wieder in den Haaren
+
+00:41:59.490 --> 00:42:03.490
+und irgendwie hemmt es die Produktivität des gesamten Teams und alle sind
+
+00:42:03.490 --> 00:42:08.960
+irgendwie unzufrieden. Und die Idee ist mittels Vorgesprächen herauszufinden,
+
+00:42:08.960 --> 00:42:14.960
+wer sind, wer ist indirekt oder direkt von dem Konflikt betroffen und die
+
+00:42:14.960 --> 00:42:19.500
+Personen werden eben auch immer wieder gefragt, wer muss aus deiner Sicht
+
+00:42:19.500 --> 00:42:23.500
+zur Klärung beitragen, wer muss anwesend sein. Und dieser Kreis an Menschen
+
+00:42:23.500 --> 00:42:26.850
+kommt wirklich zusammen in die Klärung. Wenn wir auf die klassische
+
+00:42:26.850 --> 00:42:30.850
+Zwei-Parteien-Mediation gucken, da ist es eher so ein ökonomisches Prinzip,
+
+00:42:30.850 --> 00:42:34.850
+dass man versucht zu identifizieren, wer sind die Hauptkonfliktparteien
+
+00:42:34.850 --> 00:42:39.910
+und die klären das hinter verschlossene Tür. Aber die Magie entsteht dann
+
+00:42:39.910 --> 00:42:43.970
+wirklich, wenn wir gemeinsam dahinter schauen, weil es gibt nicht diesen
+
+00:42:43.970 --> 00:42:49.940
+einen Auslöser, der das verursacht hat, sondern das hängt miteinander zusammen.
+
+00:42:49.940 --> 00:42:53.940
+Und da ist auch viel, ganz viel auch vielleicht in der Historie passiert,
+
+00:42:53.940 --> 00:42:58.940
+was so kleine, immer wieder so kleine Steinchen ins Glas geschmissen haben,
+
+00:42:58.940 --> 00:43:02.940
+die dann letztlich das Glas zum Überlaufen gebracht haben. Und was im
+
+00:43:02.940 --> 00:43:07.940
+Restorative Circle passiert ist, wir kommen zwar wegen eines Anlasskonfliktes
+
+00:43:07.940 --> 00:43:13.060
+zusammen, aber ein Konflikt ist ja, den beschreibe ich ganz gerne mit so einer
+
+00:43:13.060 --> 00:43:19.060
+Pilzmetapher. Ein Pilz ist ja nicht nur das, was oben sichtbar am Waldboden zu sehen ist.
+
+00:43:19.060 --> 00:43:23.250
+Deswegen kommen wir im ersten Schritt initial beim Restorative Circle auch zusammen,
+
+00:43:23.250 --> 00:43:28.250
+den Pilz, den wir sehen. Aber was passiert, wenn wir eben das System mit einbeziehen
+
+00:43:28.250 --> 00:43:32.250
+und das aus einer systemischen Perspektive in die Klärung gehen? Wir tauchen ab.
+
+00:43:32.250 --> 00:43:38.250
+Wir tauchen ab ins Erdreich. Und ein Pilz ist ja ein kilometerweit vernetztes Netzwerk
+
+00:43:38.250 --> 00:43:42.250
+mit allen möglichen Windungen und Ecken. Und das passiert eben, wenn wir mit der
+
+00:43:42.250 --> 00:43:47.250
+Gemeinschaft reingehen. Das heißt, wir können ganz viele andere Themen auch mit bearbeiten,
+
+00:43:47.250 --> 00:43:51.630
+die letztlich eben auch so eine Art unterstützendes System dann bieten.
+
+00:43:51.630 --> 00:43:55.630
+Und wir können uns auch gegenseitig, wenn wir Lösungen dann im letzten Schritt
+
+00:43:55.630 --> 00:44:00.630
+entwickeln, auch gegenseitig daran eben erinnern. Und das Entscheidende dort ist eben
+
+00:44:00.630 --> 00:44:06.630
+der Dialogprozess innerhalb der Methode, dass ich als Mediator, Konfliktklärer,
+
+00:44:06.630 --> 00:44:12.140
+Klärungshelfer, wie auch immer wir uns nennen in der Rolle, gar nicht so viel in die
+
+00:44:12.140 --> 00:44:18.140
+Übersetzungsleistung gehe, sondern mit dem Vertrauen, das System reguliert sich selbst
+
+00:44:18.140 --> 00:44:22.140
+und ich vertraue auf den Prozess, dass die Menschen anfangen, auch Selbstverantwortung
+
+00:44:22.140 --> 00:44:28.070
+zu übernehmen. Das stelle ich letztlich sicher, dass sie ins Verstehen kommen.
+
+00:44:28.070 --> 00:44:33.800
+Und das mit einem relativ leichten Frageset, was man auch eben innerhalb von
+
+00:44:33.800 --> 00:44:38.800
+Organisationen relativ schnell vermitteln oder trainieren kann. Das heißt, ich brauche
+
+00:44:38.800 --> 00:44:42.800
+keine zweijährige Ausbildung, sondern ich kann auch relativ niedrigschwellige
+
+00:44:42.800 --> 00:44:47.790
+viele Menschen in der Organisation darin befähigen, dass sie überhaupt in diese
+
+00:44:47.790 --> 00:44:56.570
+Klärungsrolle oder in diese Fassilitatorenrolle dann entsprechend schlüpfen.
+
+00:44:56.570 --> 00:45:01.600
+Was ich auch so aus dem Buch interessant fand, einmal diese Innovation aus so einem Konflikt,
+
+00:45:01.600 --> 00:45:04.660
+aber auch, weil ich so ein bisschen mitgenommen habe, dieses Paraphrasieren,
+
+00:45:04.660 --> 00:45:08.660
+also was man eigentlich auch, ich so als systemischer Coach viel mache, wenn man
+
+00:45:08.660 --> 00:45:12.850
+Coach G hat, allein nur, dass ich das, was ich höre, mal wiedergebe, löst
+
+00:45:12.850 --> 00:45:18.820
+manchmal schon relativ viel aus und da gibt es ja zumindest auch im Restorative Circle,
+
+00:45:18.820 --> 00:45:23.290
+macht ihr da relativ viel mit, was, eine Person sagt was und die andere Person,
+
+00:45:23.290 --> 00:45:28.290
+was hast du denn verstanden, was hast du denn gehört und das immer wieder so Circle ohne Ende.
+
+00:45:28.290 --> 00:45:34.290
+Genau, also das ist so das Herzstück von dem Dialogprozess, also Ausgangspunkt ist,
+
+00:45:34.290 --> 00:45:41.290
+ich stelle als Fassilitator die Frage, irgendwie Sebastian, womit möchtest du gehört werden
+
+00:45:41.290 --> 00:45:46.640
+und an wen ist das gerichtet und in dem Fall würde Sebastian dann eine Person benennen
+
+00:45:46.640 --> 00:45:51.640
+und anfangen, was zu sprechen und zu sagen und dann würde ich die andere Person ansprechen,
+
+00:45:51.640 --> 00:45:56.640
+hey, was hast du verstanden, was ist bei dir angekommen von dem, was Sebastian gesagt hat
+
+00:45:56.640 --> 00:46:00.640
+und dann spiele ich den Ball wieder zurück, Sebastian, ist es das, was du sagen wolltest?
+
+00:46:00.640 --> 00:46:06.610
+Ja, zum Teil und noch Folgendes und dann spiele ich den Ball wieder an die andere Person,
+
+00:46:06.610 --> 00:46:10.610
+was ist jetzt bei dir angekommen, was hast du jetzt verstanden von dem, was Sebastian gesagt hat?
+
+00:46:10.610 --> 00:46:17.670
+Bis Sebastian den Eindruck hat, hey, alles das, was mir wichtig ist, das ist jetzt auch wirklich beim anderen angekommen.
+
+00:46:17.670 --> 00:46:24.890
+Und das heißt, diese Spiegeln übernehme ich nicht als Facilitator oder Coach,
+
+00:46:24.890 --> 00:46:30.890
+sondern ich gebe das wirklich in das System ab und das ist super magisch zu beobachten,
+
+00:46:30.890 --> 00:46:36.890
+dass die Menschen dann wirklich in Verbindung treten und wirklich einander anfangen zu verstehen.
+
+00:46:36.890 --> 00:46:42.620
+Und das braucht ein bisschen Zeit. Das funktioniert nicht auf Anhieb.
+
+00:46:42.620 --> 00:46:46.620
+Auch wenn natürlich viel Emotionalität dabei ist, ist es umso wichtiger,
+
+00:46:46.620 --> 00:46:50.620
+dass ich immer wieder versuche, diese Struktur dann zu wahren.
+
+00:46:50.620 --> 00:46:56.620
+Und dann braucht es nicht mehr als das. Ich bin auch klassisch ausgebildeter Mediator.
+
+00:46:56.620 --> 00:47:03.620
+Da gibt es dann andere Interventionen, dass ich mich hinstelle oder neben die Person stelle und ins Doppeln gehe
+
+00:47:03.620 --> 00:47:10.680
+und das aus deren Perspektive an die andere Partei anspreche oder sage.
+
+00:47:10.680 --> 00:47:16.680
+Da gehe ich meistens sogar noch einen Schritt zu weit und bin ein extremer Prozessbeschleuniger.
+
+00:47:16.680 --> 00:47:20.680
+Und gleichzeitig wissen wir aber gar nicht, ob die Leute überhaupt bereit sind,
+
+00:47:20.680 --> 00:47:24.680
+weil es ja hier um emotionale Themen geht, so weit zu gehen.
+
+00:47:24.680 --> 00:47:27.680
+Und das ist das Schöne eben in den Restorative Circles.
+
+00:47:27.680 --> 00:47:32.610
+Das Grundprinzip ist erstmal Freiwilligkeit. Jeder kann sich mitteilen, muss es aber nicht.
+
+00:47:32.610 --> 00:47:36.020
+Und vor allen Dingen eben stelle ich mich jetzt so Fragen wie,
+
+00:47:36.020 --> 00:47:39.020
+wie geht es dir jetzt damit? Was sind denn deine Gedanken?
+
+00:47:39.020 --> 00:47:42.020
+Und du hast doch eh jetzt seit 20 Minuten nichts gesagt, Sebastian.
+
+00:47:42.020 --> 00:47:44.020
+Jetzt sag du doch was.
+
+00:47:44.020 --> 00:47:50.460
+Ich bin eher offener im Sinne von, gibt es etwas, womit ihr jetzt noch gehört werden möchtet?
+
+00:47:50.460 --> 00:47:54.420
+Und das kann was Emotionales sein, das kann aber auch was Faktisches sein.
+
+00:47:54.420 --> 00:47:58.480
+Und das ist so dieses Herzstück in den Restorative Circles.
+
+00:47:58.480 --> 00:48:02.480
+Kann man aber auch außerhalb dessen supergut mal nutzen, wenn man zum Beispiel mal
+
+00:48:02.480 --> 00:48:04.480
+eine Retro moderiert oder einen Workshop moderiert?
+
+00:48:04.480 --> 00:48:07.480
+Und das habe ich auch schon in vielen Situationen gemacht.
+
+00:48:07.480 --> 00:48:10.830
+Zum Beispiel Führungskraft sagt irgendwie einen zentralen Satz.
+
+00:48:10.830 --> 00:48:14.830
+Und ich habe den Eindruck, puh, das kommt aber gar nicht bei den anderen an.
+
+00:48:14.830 --> 00:48:17.830
+Und dann frage ich die Führungskraft ja, an wen war das denn gerichtet?
+
+00:48:17.830 --> 00:48:20.830
+Und wen möchtest du denn gehört werden? Ja, ins gesamte Team.
+
+00:48:20.830 --> 00:48:24.830
+Und dann frame ich das so Richtung Team. Ja, meistens ist es ja so,
+
+00:48:24.830 --> 00:48:26.830
+da plappert irgendwas raus aus unserem Mund.
+
+00:48:26.830 --> 00:48:29.890
+Und wir glauben, dass es bei den anderen ankommt, aber das ist nicht so.
+
+00:48:29.890 --> 00:48:33.890
+Deswegen lade ich euch jetzt einfach mal ein, was habt ihr denn jetzt verstanden von dem,
+
+00:48:33.890 --> 00:48:36.890
+was eure Führungskraft gesagt hat? Was ist bei euch angekommen?
+
+00:48:36.890 --> 00:48:42.080
+Und dann sammle ich so einzelne O-Töne ein und spiele das wieder zurück.
+
+00:48:42.080 --> 00:48:48.080
+Und ich kann mich jetzt gerade auch an eine Situation erinnern, das war so am Ende eines Workshops.
+
+00:48:48.080 --> 00:48:51.080
+Und da teilte wirklich die Führungskraft wirklich was Persönliches mit.
+
+00:48:51.080 --> 00:48:57.080
+Von wegen, dass sie sich auch immer wieder einsam in diesem Team fühlt und auch nicht verstanden fühlt.
+
+00:48:57.080 --> 00:49:04.170
+Und durch diese kurze Mini-Intervention hat man richtig gemerkt, wie da Verbindung auch wieder stattgefunden hat.
+
+00:49:04.170 --> 00:49:15.840
+Auf jeden Fall eine tolle Inspiration, das ich auch mal aus, vielleicht immer so in der Retro mal ausprobieren werde.
+
+00:49:15.840 --> 00:49:20.870
+Wir kommen langsam zum Ende der Folge. Vielleicht eine abschließende Frage.
+
+00:49:20.870 --> 00:49:24.890
+Gibt es irgendeine Frage oder ein Thema, was wir noch nicht besprochen haben,
+
+00:49:24.890 --> 00:49:32.430
+was ich noch nicht gestellt habe, was dir vielleicht wichtig war oder die Frage, die du erwartet hättest?
+
+00:49:32.430 --> 00:49:35.430
+Darum komme ich jetzt zum Nachdenken. Das ist eine schöne systemische Frage,
+
+00:49:35.430 --> 00:49:38.430
+die man immer wieder auch am Ende eines Coachings stellen kann.
+
+00:49:38.430 --> 00:49:43.450
+Eine Frage, die ich dir noch nicht gestellt habe, wäre jetzt folgende.
+
+00:49:43.450 --> 00:49:50.630
+Ich glaube, wir haben das Thema gut umschlossen, um so einen ersten Einstieg zu machen.
+
+00:49:50.630 --> 00:49:55.630
+Was ist eigentlich Konfliktkultur? Wie ist meine Perspektive auf das Thema Konflikte?
+
+00:49:55.630 --> 00:50:01.360
+Vor allen Dingen eben, dass wir mit Emotionen, Emotionen sind okay.
+
+00:50:01.360 --> 00:50:06.080
+Nö, ich glaube, das ist rund für mich.
+
+00:50:06.080 --> 00:50:10.460
+Das freut mich, cool. Dann, ja, vielen Dank für den ganzen Input.
+
+00:50:10.460 --> 00:50:16.410
+Ich denke mal, die Zuhörenden finden dich per LinkedIn?
+
+00:50:16.410 --> 00:50:22.410
+Genau, gerne per LinkedIn. Vernetzt euch gerne mit mir und gerne auch mit Dana Hoffmann,
+
+00:50:22.410 --> 00:50:26.410
+meiner Co-Autorin. Wir teilen immer wieder regelmäßig auch von unserer Arbeit,
+
+00:50:26.410 --> 00:50:29.410
+Erfahrungen, Praxisberichte, geben Einblicke dort.
+
+00:50:29.410 --> 00:50:35.400
+Und wenn ihr da tiefer einsteigen wollt, eben in diese ganze Welt der Restorative Circles,
+
+00:50:35.400 --> 00:50:38.400
+wir bieten auch immer wieder Workshops, Trainings dazu an.
+
+00:50:38.400 --> 00:50:43.400
+Also schaut auch gerne mal auf meiner Website vorbei, nobadworkdays.de.
+
+00:50:43.400 --> 00:50:49.160
+Aber hauptsächlich sind wir tatsächlich auf LinkedIn unterwegs.
+
+00:50:49.160 --> 00:50:52.200
+Super, dann vielen Dank für den Input und einen schönen Tag dir.
+
+00:50:52.200 --> 00:50:53.600
+Dankeschön.

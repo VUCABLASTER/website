@@ -1,0 +1,2968 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #38: #38 Set up 4 change mit Daniel Ullrich und Sven Echzeller
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:35.960
+Ja, herzlich willkommen zu deiner neuen Folge des VUCA Blasters. Heute haben wir zwei Gäste und Sebastian moderiert heute mit mir. Und zwar haben wir einmal Daniel Ulrich und Sven Echzeller. Beide beschäftigen sich viel mit Transformation und Change. Im Konzern, aber aktuell auch bei der Work GmbH sind sie beide Geschäftsführer. Ja, willkommen im Podcast. Wollt ihr noch mal kurz was zu euch sagen oder reicht euch das erstmal als Intro ganz kurz und knapp?
+
+00:00:35.980 --> 00:00:49.400
+Bisher stimmt alles. Willst du noch was hören? Wir können vielleicht gerne drei Worte dazu verlieren, warum wir heute hier sind und warum wir uns mit den Themen beschäftigen, mit denen wir uns beschäftigen, wenn du magst.
+
+00:00:49.400 --> 00:00:56.470
+Oder sollen wir erst die Check-In fragen und dann können wir auch direkt darüber dann ins Gespräch machen.
+
+00:00:56.470 --> 00:00:58.170
+Lass uns das machen, das klingt gut, ja.
+
+00:00:58.170 --> 00:01:09.230
+Genau, da habe ich für jeden zwei Check-In Fragen. Die sind sehr random hier ausgesucht. Einmal an dich, Daniel.
+
+00:01:09.440 --> 00:01:14.400
+Partner, wie definierst du Erfolg?
+
+00:01:14.400 --> 00:01:31.260
+Ha, so eine einfache Frage zum Ansprechen. Ich habe jetzt einen beruflichen Kontext gerade im Kopf und da würde ich sagen, immer wenn es nicht so leicht läuft, wie man sich es wünscht.
+
+00:01:31.260 --> 00:01:47.200
+Was meine ich damit? In den Themenfeldern, mit denen wir uns beschäftigen, ist es häufig so, dass wenn alles total easy und gut und schnell geht und alle sagen, boah, läuft total super und wir sind an Bord und und und und, hast du klassischerweise was übersehen.
+
+00:01:47.510 --> 00:01:59.360
+Ja, das ist, wenn du, wenn du Menschen coacht und alle sind total happy und sind total super im Prozess, dann ist häufig, dann ist das häufig eher sozial intelligent angepasstes Fall und genauso ist es in Organisationen auch.
+
+00:01:59.360 --> 00:02:17.340
+Von daher werde ich immer skeptisch, wenn die Dinge zu einfach gehen und ich würde sagen, wir sind dann erfolgreich und so definiere ich Erfolg bei uns, wenn es uns gelingt, offen mit den Augen dahin zu gucken, wo es auch weh tut und es dann auch ganz bewusst mal knirschen zu lassen, weil da liegt der wahre Erfolg und die wahre Erkenntnis drin.
+
+00:02:17.340 --> 00:02:20.910
+So das Bild hat sich in meinem Kopf gerade so ein bisschen aufgebaut.
+
+00:02:20.910 --> 00:02:25.560
+Ja, vielen Dank. Die zweite Frage wäre, was inspiriert dich?
+
+00:02:25.560 --> 00:02:53.370
+Aktuell ist vor allem jeden Tag mein Sohn, der ist gerade knappe zwei Jahre alt und ich habe so eine, so eine, so eine total simple und gleichzeitig bahnbrechende Erkenntnis gehabt, das war irgendwie so ein halbes Jahr her, da haben wir auf einmal schon im Geburtstag relativ viel besucht bekommen, Oma, Opa, Tante und so weiter und alle wollen natürlich auch irgendwie den Kleinen sehen.
+
+00:02:53.370 --> 00:03:02.810
+Und dann kommen wir gleichzeitig an und kommen durch die Tür rein und bis das viel zu viel geworden ist und ins Wohnzimmer gelaufen hat sich ein Buch genommen, hat sich mit dem Rücken zur Tür gesetzt und hat durch dieses Buch geblättert.
+
+00:03:02.810 --> 00:03:14.050
+Das erste war, ich habe mich in den Türrahmen gestellt, ich hätte mir das, glaube ich, eine Stunde lang angucken können, weil was du da siehst ist, da ist jemand gut im Gefühl mit sich selber und agiert auf der Basis.
+
+00:03:14.050 --> 00:03:22.680
+Und dass das anderthalbjährige kleine Menschen sind, die uns das häufig vor Augen führen, dass uns das selber manchmal nicht so gut gelingt.
+
+00:03:22.680 --> 00:03:30.900
+Oder auch, jetzt setze ich wieder den organisationalen Kontext, dass es auch in Organisationen so selten gelingt, das fand ich extrem beeindruckend.
+
+00:03:30.900 --> 00:03:42.130
+Und rausgegangen bin ich dann nur mit der harten Erkenntnis, hoffentlich prämieren wir ihm das niemals ab, weil du könntest total einfach sagen, guck mal Opa und Opa sind da, geh doch mal Hallo sagen und so weiter.
+
+00:03:42.130 --> 00:03:51.520
+Also so diese über die Bedürfnisse hinweggehen. Und ja, das hat sich ganz, ganz, ganz, ganz doll bei mir eingebrannt, der Gedanke.
+
+00:03:51.520 --> 00:03:53.520
+Und da kommt ganz viel Inspiration gerade her.
+
+00:03:53.520 --> 00:03:55.770
+Na cool. Ja, vielen Dank fürs Teilen.
+
+00:03:56.960 --> 00:03:59.960
+Dann als zwei Fragen für Sven.
+
+00:04:01.270 --> 00:04:03.530
+Erste Frage, wen hast du zuletzt gelobt?
+
+00:04:03.530 --> 00:04:05.500
+Das ist Daniel Schick vielleicht.
+
+00:04:06.500 --> 00:04:08.500
+Ich wünschte, es wäre der Daniel heute Morgen gewesen.
+
+00:04:08.500 --> 00:04:12.620
+Nee, tatsächlich, nur kann ich da direkt anschließen, das war auch mein Sohn.
+
+00:04:12.620 --> 00:04:21.620
+Und das Lustige ist ja, vielleicht auch für die Zuhörer, Daniel und ich sind beide Geschäftführer bei Work und haben beide auch noch einen Sohn im gleichen Alter.
+
+00:04:21.620 --> 00:04:23.520
+Und die heißen auch noch fast ähnlich.
+
+00:04:23.520 --> 00:04:25.840
+Also von dem her ganz viele Parallelen.
+
+00:04:25.840 --> 00:04:27.900
+Und deswegen ist die Antwort, glaube ich, auch eine Parallele.
+
+00:04:27.900 --> 00:04:30.900
+Also ich kann Lob eigentlich fast nie genug aussprechen.
+
+00:04:30.900 --> 00:04:33.900
+Ich finde, wir tun das viel zu selten, auch vom Hintergrund.
+
+00:04:33.900 --> 00:04:36.900
+Ich mag die positive Psychologie ungemein gerne.
+
+00:04:36.900 --> 00:04:43.440
+Habe mich dort auch bei Gallup im Prinzip als Sterbencoach ausbilden lassen, weil mir da wirklich das Herz aufgeht.
+
+00:04:43.440 --> 00:04:51.690
+Und diese ganze Defizitorientierung, die wir haben in der Gesellschaft, von der Erziehung über die Schule, die Bildung, überall hinweg.
+
+00:04:51.690 --> 00:04:55.770
+Ich glaube, das tut uns allen nicht gut und wir bräuchten viel mehr von dem anderen.
+
+00:04:55.770 --> 00:05:00.000
+Von dem her, finde ich, kann man fast gar nicht genug loben und versucht das wirklich täglich.
+
+00:05:00.000 --> 00:05:04.000
+Und ich bin mir ganz sicher, ob es mein Sohn oder meine Frau war oder sonst irgendwer in meinem Umfeld.
+
+00:05:04.000 --> 00:05:09.180
+Ich weiß, dass Daniel nicht heute Morgen war. Entschuldigung Daniel, hole ich gleich nach dem Podcast gleich nach.
+
+00:05:09.180 --> 00:05:12.540
+Genau, das vielleicht als halblange Antwort auch die Frage.
+
+00:05:12.540 --> 00:05:19.070
+Die zweite Frage vielleicht ist auch ähnlich. Welche Wolle gibt dir derzeit Kraft?
+
+00:05:19.070 --> 00:05:22.090
+Ist es als Vater dann oder vielleicht eine andere?
+
+00:05:22.090 --> 00:05:26.610
+Wow, das ist jetzt gerade vor allem eine richtig schöne Frage.
+
+00:05:26.610 --> 00:05:29.610
+Ich könnte auch jetzt eine Dreiviertelstunde Doppel erwähnen, aber das tue ich jetzt nicht.
+
+00:05:29.610 --> 00:05:37.150
+Ich glaube, es ist das Gesamtzusammenspiel, die Balance zwischen den Rollen, die einen dann nachher total aufbühlen lässt.
+
+00:05:37.150 --> 00:05:41.150
+Also das ist, so wie man immer so schön sagt, zu viel von egal was ist nicht gut.
+
+00:05:41.150 --> 00:05:45.210
+Zu viel Sport ist auch nicht gut. Zu viel Schokolade ist leider sowieso nicht gut.
+
+00:05:45.210 --> 00:05:48.360
+Und so sind viele Dinge, wenn man sie zu viel macht, nicht gut.
+
+00:05:48.360 --> 00:05:52.390
+Und ich glaube, jede Rolle, die man zu sehr macht und sich zu sehr darüber identifiziert,
+
+00:05:52.390 --> 00:05:55.640
+weil identifiziert ist nicht gut, sondern die Balance macht es.
+
+00:05:55.640 --> 00:05:59.480
+Auch da, wenn wir so ein bisschen psychologisch rangehen mit dem DILS-Modell,
+
+00:05:59.480 --> 00:06:04.510
+wo wir sagen, verschiedene Purpose-Indianitäten, da haben wir diese Pyramide von ihm,
+
+00:06:04.510 --> 00:06:08.510
+aber eigentlich kann man das Ganze zirkulär als Kreis aufbauen, indem man eben verschiedene Rollen da reinlegt.
+
+00:06:08.510 --> 00:06:12.110
+Und so finde ich, glaube ich, Balance für mich.
+
+00:06:12.110 --> 00:06:15.070
+Und ich habe ehrlicherweise jetzt gerade ganz viel Kraft wieder aus der,
+
+00:06:15.070 --> 00:06:19.430
+ich weiß gar nicht, wie ich die Rolle bezeichnen soll, aber aus der Rolle mir selbst gegenüber wieder gezwungen.
+
+00:06:19.430 --> 00:06:23.450
+Ich habe gemerkt, dass ich mich selbst stark vernachlässigt habe die letzten zwei, drei Jahre
+
+00:06:23.450 --> 00:06:25.780
+und habe so ein, zwei private Projekte jetzt wieder angefangen.
+
+00:06:25.780 --> 00:06:28.780
+Sehbootsführer wahrscheinlich mache ich gerade, will jetzt mit Crossfit wieder anfangen.
+
+00:06:28.780 --> 00:06:31.810
+Ich merke, dass diese Zeit, die ich mir dazwischen durch immer wieder mal rausschneide,
+
+00:06:31.810 --> 00:06:32.810
+die gibt mir gerade ganz, ganz viel Kraft.
+
+00:06:32.810 --> 00:06:38.010
+Und ich glaube, dadurch entsteht die Balance, wie ich brauche, die anderen Rollen auch wieder gut zu leben.
+
+00:06:38.010 --> 00:06:43.590
+Ja, aber korrekterweise sollte ich wahrscheinlich sagen, ja, die Vaterrolle, die macht mich gerade ein ganz bisschen steils.
+
+00:06:43.590 --> 00:06:47.620
+Also vorher so gespoilert hast du?
+
+00:06:47.620 --> 00:06:51.740
+Nein, gespoilert, aber hervorgerufen.
+
+00:06:51.740 --> 00:06:55.970
+Ja, dann nochmal herzlich willkommen im Podcast.
+
+00:06:55.970 --> 00:07:00.280
+Wollen wir dann direkt ein Thema starten.
+
+00:07:00.280 --> 00:07:03.250
+Ihr hattet vor kurz so ein Changecamp gemacht.
+
+00:07:03.250 --> 00:07:05.250
+Wollt ihr da kurz vielleicht eure Erfahrung?
+
+00:07:05.250 --> 00:07:10.250
+Da waren ja relativ viele Unternehmen dabei, auch so aus der Region, aus Essen.
+
+00:07:10.250 --> 00:07:12.410
+Vielleicht könnt ihr kurz, was war vielleicht da rumgekommen?
+
+00:07:12.410 --> 00:07:14.410
+Gab es irgendwelche Aha-Erlebnisse?
+
+00:07:14.410 --> 00:07:20.800
+Oder lassen wir vielleicht kurz als Einstieg da damit starten?
+
+00:07:20.800 --> 00:07:26.890
+Ja, das größte Aha-Erlebnis war sicherlich, dass unsere Idee und unser Plan aufgegangen ist.
+
+00:07:26.890 --> 00:07:28.890
+Und das fühlt sich total gut an.
+
+00:07:28.890 --> 00:07:38.520
+Das Camp war aus unserer Perspektive, waren das zwei großartige Tage, die wir in Essen verbracht haben.
+
+00:07:38.520 --> 00:07:43.780
+Und vor allem sind die deswegen großartig aus meiner und aus unserer Sicht,
+
+00:07:43.780 --> 00:07:47.780
+weil das Feedback der Menschen, die dort waren, eben so ausgefallen ist, wie es ausgefallen ist.
+
+00:07:47.780 --> 00:07:55.220
+Wir haben super viele Leute proaktiv auf LinkedIn Sachen geteilt und am Ende hunderte Fotos gemacht.
+
+00:07:55.220 --> 00:07:59.350
+Also alles so Dinge, die aus sich heraus entstanden sind.
+
+00:07:59.350 --> 00:08:05.410
+Ich habe von ganz vielen Leuten gehört, die im Nachgang jetzt schon in Kontakt sind und sich verabredet haben.
+
+00:08:05.410 --> 00:08:08.630
+Auch das ist ein elementares Ziel von uns gewesen.
+
+00:08:08.630 --> 00:08:15.010
+Leute mit viel Erfahrung, mit viel Wissen, mit viel guter Intention rund um Kultur,
+
+00:08:15.010 --> 00:08:20.070
+rund um Change, rund um Transformationsszenen zusammenzubringen und in Austausch zu bringen
+
+00:08:20.070 --> 00:08:26.080
+von Unternehmerinnen und Unternehmern und Menschen aus Organisationen,
+
+00:08:26.080 --> 00:08:31.070
+viele aus Essen und im Ruhrgebiet, aber tatsächlich auch bis aus Österreich, Berlin, Hamburg, München,
+
+00:08:31.070 --> 00:08:35.100
+Bahnwürttemberg, Stuttgarter Region war dabei und so weiter und so fort.
+
+00:08:35.100 --> 00:08:37.280
+Also da haben viele Leute sich auf den Weg gemacht.
+
+00:08:37.280 --> 00:08:43.820
+Allein das ist auch ein cooles Lob und am Ende ist uns, glaube ich, eine Sache gut gelungen,
+
+00:08:43.820 --> 00:08:49.320
+nämlich einen Rahmen zu schaffen und vielleicht auch einen Self-Space zu bieten,
+
+00:08:49.320 --> 00:08:53.380
+wo die Leute hinkommen können mit ihren Themen, mit ihren Gedanken, mit den Dingen,
+
+00:08:53.380 --> 00:08:56.380
+mit denen sie sich auch gerade unsicher fühlen und den Dingen, mit denen sie sich gerade sicher fühlen
+
+00:08:56.380 --> 00:09:01.810
+und da in Austausch zu kommen. Und am Ende haben die Menschen aber den Rahmen ausgeführt.
+
+00:09:01.810 --> 00:09:04.800
+Ich habe heute morgen noch mit einem Kollegen geredet, der hat gesagt, naja, man,
+
+00:09:04.800 --> 00:09:07.770
+das ist wie eine gute Party, so du machst den Rahmen, du kümmerst dich um den Raum,
+
+00:09:07.770 --> 00:09:11.890
+ein bisschen Musik, vielleicht nicht allzu hell und so weiter, aber es kommt auch massiv darauf an,
+
+00:09:11.890 --> 00:09:17.010
+an welchen Menschen du einlädst. Und ich glaube, das ist uns ganz gut gelungen,
+
+00:09:17.010 --> 00:09:22.110
+da die tollen Menschen, die wir in unserem Umfeld wissen dürfen, anzusprechen und zu aktivieren.
+
+00:09:22.110 --> 00:09:28.160
+Das vielleicht mal zu der Veranstaltung an sich. Sven, wenn ich gerade zu dir rüberhöre
+
+00:09:28.160 --> 00:09:34.350
+und rüberschaue auf der Erkenntnisebene, damit ich nicht nur meine Sicht darauf gebe.
+
+00:09:34.350 --> 00:09:41.150
+Ja, vielen Dank. Also ich habe, glaube ich, zwei große Gedanken und Erkenntnisse,
+
+00:09:41.150 --> 00:09:44.150
+wenn ich daran denke, das eine war, und jetzt wollen wir schon mal das Lob für später,
+
+00:09:44.150 --> 00:09:47.150
+jetzt ab. Das habe ich Daniel, glaube ich, direkt danach gesagt.
+
+00:09:47.150 --> 00:09:51.310
+Also vielleicht als Hintergrund, das Ganze war sternstark Daniels kleiner Traum,
+
+00:09:51.310 --> 00:09:53.310
+den er sich da zusammengebaut hat, dieses Event ins Leben zu rufen,
+
+00:09:53.310 --> 00:09:57.310
+hat er lange daran gearbeitet und viel reingesteckt und dann wir alle als ganzes Team auch noch.
+
+00:09:57.310 --> 00:10:00.690
+Aber das zu sehen, wie dieser Traum in Erfüllung gegangen ist,
+
+00:10:00.690 --> 00:10:04.690
+von Menschen zusammenbringen zu dem Thema Change, diesen Austausch stattfinden zu lassen,
+
+00:10:04.690 --> 00:10:08.690
+diesen Menschen Erkenntnissen zu schenken und nicht nur ihnen und selbst auch,
+
+00:10:08.690 --> 00:10:11.820
+das war so ein Höhepunkt für mich. Und das waren, glaube ich, auch die ersten Worte,
+
+00:10:11.820 --> 00:10:13.820
+die ich danach dir mitgegeben hatte, Daniel.
+
+00:10:13.820 --> 00:10:20.270
+Dein Baby ist hier ins Leben gerufen worden und das hat einfach Spaß gemacht, ihn strahlend zu sehen.
+
+00:10:20.270 --> 00:10:24.420
+Und das Zweite war, wenn man so an die Vision von WORK denkt, wo wir sagen,
+
+00:10:24.420 --> 00:10:31.050
+vielleicht ist WORK irgendwann so dieses Hub, dieses Zentrum von allen Change-Aktivitäten im Unternehmen.
+
+00:10:31.050 --> 00:10:34.370
+Also wir denken jetzt mal ganz groß, man hat vielleicht so ein Riesennetzwerk an Leuten,
+
+00:10:34.370 --> 00:10:39.400
+die sich gegenseitig ungemein befruchten und neue Impulse geben, neue Inspirationen setzen.
+
+00:10:39.400 --> 00:10:42.750
+Und die rotieren vielleicht irgendwann auch mal durch die Unternehmen durch,
+
+00:10:42.750 --> 00:10:44.750
+sodass immer so ein frischer Wind in ein Unternehmen reinkommt.
+
+00:10:44.750 --> 00:10:47.750
+Man merkt ja den Bedarf, man hat den Bedarf beim Changecamp gemerkt, die sich auszutauschen,
+
+00:10:47.750 --> 00:10:49.750
+neue Impulse zu haben, neue Modelle.
+
+00:10:49.750 --> 00:10:51.710
+Modelle war sowieso das größte Stichwort, glaube ich.
+
+00:10:51.710 --> 00:10:56.860
+Viele wollten immer Modelle haben, aber immer wieder ganz neue Erkenntnisse zu bekommen.
+
+00:10:56.860 --> 00:11:00.240
+Und wenn man das einfach im Alltag verstetigen könnte,
+
+00:11:00.240 --> 00:11:02.240
+dadurch, dass man eigentlich immer so, nimm mal ein Beispiel,
+
+00:11:02.240 --> 00:11:04.240
+du hast zehn Leute in deinem Team, du hast besetzt neun Leute,
+
+00:11:04.240 --> 00:11:07.400
+aber eine Position ist immer so ein flexible Spot,
+
+00:11:07.400 --> 00:11:11.400
+der eigentlich immer von so einer Outside-In-Perspektive besetzt wird.
+
+00:11:11.400 --> 00:11:14.880
+Das wäre so diese grobe Vision und das hat man da so ein Stück weit
+
+00:11:14.880 --> 00:11:18.880
+ins Leben gerufen gefühlt an dem Tag.
+
+00:11:18.880 --> 00:11:24.300
+Dieser unglaubliche Mehrwert im Raum, aus anderen Leben zu,
+
+00:11:24.300 --> 00:11:28.400
+aus anderen Erfahrungen zu hören, zu schöpfen und dann wieder was für sich mitzumählen.
+
+00:11:28.400 --> 00:11:30.770
+Das war sehr bereichernd.
+
+00:11:30.770 --> 00:11:34.470
+Das ist ja auch so im Austausch, dass man dann erst sieht,
+
+00:11:34.470 --> 00:11:37.470
+okay, andere Unternehmen haben die gleichen Probleme.
+
+00:11:37.470 --> 00:11:41.560
+Das habe ich schon selber oft gemerkt bei Unternehmen oder bei Veranstaltungen.
+
+00:11:41.560 --> 00:11:45.620
+Man denkt immer nur, ach, nur bei uns im Konzern oder bei uns im Unternehmen ist das,
+
+00:11:45.620 --> 00:11:51.030
+aber dann kommt mein Austausch und alle anderen sagen auch, ja, genau das Gleiche.
+
+00:11:51.030 --> 00:11:53.320
+Das fand ich auch immer gut so.
+
+00:11:53.320 --> 00:11:55.750
+You are not alone.
+
+00:11:55.750 --> 00:12:04.100
+Das ist auch eine Sache, die Zusammengehörigkeit und Zugehörigkeit dann dort natürlich treibt,
+
+00:12:04.100 --> 00:12:09.830
+nämlich Leute mit echt ähnlichen Schmerzen in der Organisation
+
+00:12:09.830 --> 00:12:14.980
+und gleichzeitig Leute, die bei sich gute Wege gefunden haben, wie man damit umgehen kann.
+
+00:12:14.980 --> 00:12:18.200
+Die einzige Sache, bei der du dann noch aufpassen musst, glaube ich,
+
+00:12:18.200 --> 00:12:22.550
+die Themen, die wir beackern, ist, dass du die Erkenntnis aus einer anderen Organisation
+
+00:12:22.550 --> 00:12:27.030
+nicht einfach zu dir mitnimmst und glaubst, dass das dann da funktioniert.
+
+00:12:27.030 --> 00:12:32.310
+Wenn es, glaube ich, eine ganz zentrale Erkenntnis gibt, neben so einigen weiteren,
+
+00:12:32.310 --> 00:12:40.480
+dann ist es die, dass gerade Kultur und Change-Themen auch individuell in Organisation sind
+
+00:12:40.480 --> 00:12:47.420
+und eben so ein aus dem Internet runtergeladenes Playbook, wie man doch jetzt bitte zu arbeiten hat,
+
+00:12:47.420 --> 00:12:53.540
+üblicherweise zwar schön aussieht, aber in der Wirkung doch gen null zentiert.
+
+00:12:53.540 --> 00:12:59.740
+Das finde ich total interessant, weil das auch so ein bisschen dem widerspricht,
+
+00:12:59.740 --> 00:13:03.740
+was Sven eben gesagt hatte, was so ein bisschen die Anforderung war
+
+00:13:03.740 --> 00:13:07.740
+oder das, womit die Leute gekommen sind, dass ganz, ganz oft immer nach diesem,
+
+00:13:07.740 --> 00:13:11.740
+habt ihr nicht eine neue Methode oder ein neues Framework oder sonst irgendwas,
+
+00:13:11.740 --> 00:13:16.740
+was da drauf passt und das ja immer, also was ich immer sehe, ist immer,
+
+00:13:16.740 --> 00:13:21.740
+dass ganz, ganz oft in Unternehmen immer irgendwelche Frameworks oder Methoden eingeführt werden,
+
+00:13:21.740 --> 00:13:25.740
+aber eigentlich sich kulturell oder Mindset-mäßig eigentlich gar nichts ändern,
+
+00:13:25.740 --> 00:13:28.740
+sondern dass man sich dadurch verspricht, dass man jetzt irgendwie so eine Art Checklist
+
+00:13:28.740 --> 00:13:35.830
+oder Blaupause für etwas bekommt, versucht dann irgendwie Änderungen darüber quasi zu initiieren,
+
+00:13:35.830 --> 00:13:39.830
+was meistens halt überhaupt nicht funktioniert, seien es irgendwelche,
+
+00:13:39.830 --> 00:13:43.830
+also Agile war ja ein ganz, ganz großes Thema, wo man sehr, sehr viel mit Methodik gemacht hat,
+
+00:13:43.830 --> 00:13:46.830
+wo man sehr, sehr viel in Rollen halt unterwegs war,
+
+00:13:46.830 --> 00:13:51.830
+dass man auf einmal irgendwie Scrum Master, Product Owner und sonst irgendwas da mit reingebracht hat,
+
+00:13:51.830 --> 00:13:55.800
+die dann irgendwie alle so ein bisschen verloren waren an der Stelle,
+
+00:13:55.800 --> 00:13:58.830
+weil sie dann versucht haben, eine Methodik, vielleicht auch das Mindset,
+
+00:13:58.830 --> 00:14:00.830
+was sie selber irgendwann mal mitbekommen haben,
+
+00:14:00.830 --> 00:14:02.830
+weil sie sich für so eine Rolle entschieden haben, da reinzubringen,
+
+00:14:02.830 --> 00:14:08.830
+aber die Organisation das gar nicht hergab, weil man eher nur quasi an Prozessen gearbeitet hat,
+
+00:14:08.830 --> 00:14:12.830
+anstatt wirklich an dem, was dahinter liegt, wie ein Unternehmen funktioniert.
+
+00:14:12.830 --> 00:14:17.020
+Und da würde mich eure Perspektive mal interessieren.
+
+00:14:17.020 --> 00:14:20.020
+Was habt ihr so mitgenommen quasi aus der Veranstaltung, was das angeht?
+
+00:14:20.020 --> 00:14:22.020
+Ist das immer noch so ein hoher Druck?
+
+00:14:22.020 --> 00:14:25.020
+Ich brauche dieses eine Mittel, das mir irgendwie hilft
+
+00:14:25.020 --> 00:14:28.020
+oder seht ihr da schon mehr Veränderungen?
+
+00:14:28.020 --> 00:14:33.720
+Also ich würde gleich mal anfangen und dann darf ich den Ball gleich mal einmal darüber, Daniel.
+
+00:14:33.720 --> 00:14:38.880
+Weil das sofort bei mir auch totale Zustimmung gestoßen ist, Sebastian.
+
+00:14:38.880 --> 00:14:44.060
+Und gleichzeitig, wenn wir an Kultur oder Arbeit an der Kultur oder Kulturarbeit denken,
+
+00:14:44.060 --> 00:14:48.060
+dann gibt es immer diesen Leitsatzverhältnis zu schaffen Verhalten.
+
+00:14:48.060 --> 00:14:52.030
+Also direkt die Kultur beeinflussen ist halt schwierig, sondern du musst das über Bande spielen.
+
+00:14:52.030 --> 00:14:54.220
+Mit anderen Worten, wenn ich Modelle nehme und die einführe,
+
+00:14:54.220 --> 00:14:57.220
+dann kann ich nicht erwarten, dass dadurch sich jetzt eine neue kulturautomatische ergibt,
+
+00:14:57.220 --> 00:14:58.220
+da bin ich 100 pro bei dir.
+
+00:14:58.220 --> 00:15:04.720
+Und es gibt ja auch diese ganzen tool-orientierten Menschen, die immer wieder sagen,
+
+00:15:04.720 --> 00:15:07.720
+das brauche ich und nehmen wir das Beispiel Agilität, Scrum.
+
+00:15:07.720 --> 00:15:11.720
+Ich führe das jetzt ein laut Bibel, aber immer mal laut Scrum-Bibel.
+
+00:15:11.720 --> 00:15:13.720
+Wenn ich aber nachschaue, was dieses Dokument eigentlich ist,
+
+00:15:13.720 --> 00:15:16.720
+ist es ein Framework und ich finde, dieser Framework-Gedanke ist genau der richtige.
+
+00:15:16.720 --> 00:15:21.840
+Zu sagen, ey, es gibt Orientierungspunkte für strukturelle Elemente, die wir einführen können.
+
+00:15:21.840 --> 00:15:23.900
+Das Allerwichtigste, was du aber machen sollst,
+
+00:15:23.900 --> 00:15:26.900
+nachdem du dieses Modell reinstellst, in den Raum stellst, Dinge umänderst,
+
+00:15:26.900 --> 00:15:30.090
+Sense and Respond. Ja, wir kommen da gleich auch nochmal in dem Modell drauf zu sprechen,
+
+00:15:30.090 --> 00:15:33.090
+aber wir befinden uns bei Kulturarbeit in einem komplexen Umfeld.
+
+00:15:33.090 --> 00:15:36.220
+Das heißt, wir können nicht mehr wie in einem einfachen Umfeld alles vorhersehen,
+
+00:15:36.220 --> 00:15:39.220
+keine Glaskugel, wir können nicht durchplanen, wir können keine Meilsteine setzen,
+
+00:15:39.220 --> 00:15:42.530
+sondern wir müssen durch Sense and Respond agieren.
+
+00:15:42.530 --> 00:15:45.520
+Und ich glaube, wenn du das dann machst, also Modelle nimmst,
+
+00:15:45.520 --> 00:15:48.640
+neue Impulse nimmst, die einführst, vielleicht nicht ganz blind,
+
+00:15:48.640 --> 00:15:50.640
+mit ein paar Vorüberlegungen, wo es auch Sinn macht,
+
+00:15:50.640 --> 00:15:52.730
+und dann aber einfach erst mal darauf achten, was passiert?
+
+00:15:52.730 --> 00:15:54.730
+In was für einen Austausch kommen die Leute?
+
+00:15:54.730 --> 00:15:58.210
+Wie reagiert das System, die Kultur auf diesen Fremdkörper,
+
+00:15:58.210 --> 00:16:00.210
+der jetzt auf einmal reinkommt?
+
+00:16:00.210 --> 00:16:04.210
+Da entsteht Lernen, da entsteht Reflexion, wenn es zulässt.
+
+00:16:04.210 --> 00:16:06.210
+Und da können Weichen gestellt werden für neues Verhalten,
+
+00:16:06.210 --> 00:16:09.210
+für neue Denkarten, für neue Insights, für neue Glaubenssätze und so weiter.
+
+00:16:09.210 --> 00:16:14.590
+Das wäre für mich mal eine halbwegs kurz gefasste Reaktion und Antwort darauf.
+
+00:16:14.590 --> 00:16:17.770
+Und zu der letzten Frage, die du hattest, der Hunger ist immer da.
+
+00:16:17.770 --> 00:16:20.770
+Also deswegen sagte ich gerade so spaßhalber, Modelle, das ist also das Stichwort.
+
+00:16:20.770 --> 00:16:23.860
+In jedem Workshop, den ich auf dem Changecamp gemacht habe,
+
+00:16:23.860 --> 00:16:27.830
+war immer wieder das Thema, und was ist das Modell? Welches Modell können wir?
+
+00:16:27.830 --> 00:16:32.170
+Und das ist, glaube ich, auch dadurch zu erklären, dass das einfacher zu verstehen ist.
+
+00:16:32.170 --> 00:16:35.170
+Wir Menschen können leichter mit Modellen arbeiten, wir können es abstrahieren.
+
+00:16:35.170 --> 00:16:40.350
+Und gleichzeitig hat es neben dem blöden Tool-Stempel trotzdem den Mehrwert,
+
+00:16:40.350 --> 00:16:44.470
+dass, wenn man es ordentlich macht, mit dem Nachgang des Lernens und des Reflektierens
+
+00:16:44.470 --> 00:16:46.630
+eine unglaubliche Macht, Kultur verändern zu können.
+
+00:16:46.630 --> 00:16:50.140
+Aber Daniel, du hast bestimmt noch mal drei schlauere Worte dazu,
+
+00:16:50.140 --> 00:16:52.140
+deswegen den Ball einmal zu dir rübergeworfen.
+
+00:16:52.140 --> 00:16:57.170
+Schlauere natürlich nicht, aber hoffnungsfrohe.
+
+00:16:57.170 --> 00:17:02.660
+Ich finde eine Sache ganz bemerkenswert, wenn ich mir so die Entwicklung
+
+00:17:02.660 --> 00:17:05.660
+in dem ganzen Change- und Kulturentwicklungsumfeld
+
+00:17:05.660 --> 00:17:07.660
+vielleicht in den letzten zehn Jahren angucke.
+
+00:17:07.660 --> 00:17:14.250
+Das Selbstverständnis, was heute bei Menschen, die sich damit beschäftigen,
+
+00:17:14.250 --> 00:17:18.720
+und das waren im Wesentlichen dann auch ganz, ganz viele Leute, die bei uns auf dem Change-Camp waren,
+
+00:17:18.720 --> 00:17:23.140
+ist, dass du an der systemischen Betrachtungsweise der Situation
+
+00:17:23.140 --> 00:17:25.650
+eigentlich nicht mehr vorbeikommst.
+
+00:17:25.650 --> 00:17:31.690
+Und das inkludiert eben das Selbstverständnis,
+
+00:17:31.690 --> 00:17:34.970
+dass Dinge immer auf das jeweilige System passen müssen.
+
+00:17:34.970 --> 00:17:39.010
+Das inkludiert das Selbstverständnis, dass du nicht in einem lustfältigen Raum agierst
+
+00:17:39.010 --> 00:17:42.030
+und hier etwas tun kannst und glaubst, das ist eine direkte Verbindung von
+
+00:17:42.030 --> 00:17:46.350
+dieser Handlung zu folgendem Ergebnis gibt und so weiter und so fort.
+
+00:17:46.350 --> 00:17:49.730
+Das inkludiert natürlich auch den Schmerz der großen Komplexität.
+
+00:17:49.730 --> 00:17:51.760
+Ich glaube, vielleicht eine Klammer auf dazu.
+
+00:17:51.760 --> 00:17:56.000
+Ich glaube, eine Sache, die ganz wichtig ist für Teams,
+
+00:17:56.000 --> 00:17:59.000
+für Menschen, die sich mit Transformationen, Veränderungen,
+
+00:17:59.000 --> 00:18:06.810
+mit Kulturthemen beschäftigen, dass man als Fachleute diese Komplexität umarmt,
+
+00:18:06.810 --> 00:18:09.810
+ja, und so viel versucht aufzunehmen, wie es nun irgendwie geht.
+
+00:18:09.810 --> 00:18:13.900
+Man muss aber irgendwann auch die Übersetzung in die Organisation schaffen,
+
+00:18:13.900 --> 00:18:20.440
+weil wenn du natürlich mit klassischen systemischen Erläuterungen
+
+00:18:20.440 --> 00:18:25.410
+und hochkomplexen Modellen versuchst, in die Organisation eine Motivation
+
+00:18:25.410 --> 00:18:27.410
+und eine Aufbruchstimmung für Veränderungen reinzukommunizieren,
+
+00:18:27.410 --> 00:18:29.410
+naja, das wird nicht wirklich funktionieren.
+
+00:18:29.410 --> 00:18:34.400
+Die Leute sind heute ja schon häufig überfordert, was die Kommunikationsmenge angeht.
+
+00:18:34.400 --> 00:18:36.400
+Die Klammer mache ich wieder zu.
+
+00:18:36.400 --> 00:18:41.780
+Wie gesagt, was ich sagen wollte und möchte ist, ich sehe in der Community
+
+00:18:41.780 --> 00:18:48.470
+und ich sehe unter den Fachleuten ein mittlerweile vorhandenes Selbstverständnis,
+
+00:18:48.470 --> 00:18:50.980
+systemisch an Dinge ranzugehen.
+
+00:18:50.980 --> 00:18:55.070
+Und deswegen halten sie auch das Paradoxe aus, was wir manchmal sagen.
+
+00:18:55.070 --> 00:18:59.100
+Das heißt nämlich, es gibt keine Masterformel für Transformation und für Change.
+
+00:18:59.100 --> 00:19:00.090
+Hier sind unsere Modelle.
+
+00:19:00.090 --> 00:19:06.310
+Ich finde das ganz spannend, was ihr beide gesagt habt.
+
+00:19:06.310 --> 00:19:09.310
+Und das schließt so ein bisschen auch sogar an die Eröffnung an
+
+00:19:09.310 --> 00:19:15.340
+und die eine Frage, die Manuel gestellt hat, in Bezug auf Lob.
+
+00:19:15.340 --> 00:19:18.370
+Weil ich glaube tatsächlich, das Thema Lob ist gar nicht so das Große,
+
+00:19:18.370 --> 00:19:21.370
+sondern auch in Bezug auf Sense and Response.
+
+00:19:21.370 --> 00:19:25.370
+Ich glaube, das ist das Thema Wertschätzung am Ende des Tages.
+
+00:19:25.370 --> 00:19:29.370
+Ich glaube, Wertschätzung ist der größte Faktor an Rückmeldungen,
+
+00:19:29.370 --> 00:19:30.370
+die man jemandem geben kann.
+
+00:19:30.370 --> 00:19:34.370
+Und das hat nichts damit zu tun, dass ich jemanden loben kann oder muss an der Stelle,
+
+00:19:34.370 --> 00:19:38.370
+sondern tatsächlich, ich nehme das wahr, dass du etwas tust.
+
+00:19:38.370 --> 00:19:41.560
+Und das kann einfach in dem sein, ich akzeptiere,
+
+00:19:41.560 --> 00:19:43.560
+dass du jetzt gerade eine andere Handlung machst an der Stelle.
+
+00:19:43.560 --> 00:19:45.520
+Und das ist auch okay für mich an der Stelle.
+
+00:19:45.520 --> 00:19:47.520
+Oder ich gebe dir Feedback dazu.
+
+00:19:47.520 --> 00:19:48.520
+Aber es ist mir nicht egal.
+
+00:19:48.520 --> 00:19:51.490
+Und ich glaube, das ist das große Problem, was wir speziell,
+
+00:19:51.490 --> 00:19:53.900
+ich sehe das in deutschen Organisationen,
+
+00:19:53.900 --> 00:19:56.900
+ich sehe das ganz, ganz häufig in großen Organisationen,
+
+00:19:56.900 --> 00:20:01.900
+dass genau diese Response, also dass Leute senden mit Handlungen,
+
+00:20:01.900 --> 00:20:05.900
+mit Methodiken, mit Dingen, die sie tun an der Stelle.
+
+00:20:05.900 --> 00:20:10.900
+Und ganz, ganz häufig dieser Response einfach fehlt in Bezug auf Wertschätzung.
+
+00:20:10.900 --> 00:20:14.900
+Dass das wahrgenommen wird, dass da was passiert, dass da vielleicht mal eine positive,
+
+00:20:14.900 --> 00:20:17.900
+aber auch eventuell eine negative Rückmeldung,
+
+00:20:17.900 --> 00:20:20.900
+wobei negativ immer in Anführungsstrichen.
+
+00:20:20.900 --> 00:20:22.900
+Das ist halt an der Stelle auch Feedback,
+
+00:20:22.900 --> 00:20:24.900
+dass einem ja auch die Chance gibt, Dinge nochmal anzupassen,
+
+00:20:24.900 --> 00:20:26.900
+weil sie vielleicht anders wahrgenommen werden,
+
+00:20:26.900 --> 00:20:28.900
+als man sie vielleicht ausdrücken möchte an der Stelle.
+
+00:20:28.900 --> 00:20:31.900
+Und ich glaube, dass das nochmal ein riesengroßes Thema ist.
+
+00:20:31.900 --> 00:20:35.900
+Deswegen finde ich das so spannend, wie ihr das Thema Lob
+
+00:20:35.900 --> 00:20:38.900
+oder Sense & Response eben mit reingebracht habt in diese ganze Thematik,
+
+00:20:38.900 --> 00:20:42.900
+weil ich glaube, dass da so ein bisschen der Leer ist, der da drunter liegt.
+
+00:20:42.900 --> 00:20:44.960
+Wie findet ihr das so als Idee?
+
+00:20:44.960 --> 00:20:55.490
+Also wir haben uns hier gerade, wir sind hier parallel im Zoom-Strend
+
+00:20:55.490 --> 00:20:59.610
+und ich habe uns gerade hier digital angeguckt und gegenseitig aufgefordert,
+
+00:20:59.610 --> 00:21:03.580
+doch den Vortritt zu nehmen, jetzt nehme ich den einfach gerade mal.
+
+00:21:03.580 --> 00:21:07.400
+Dickes Plus Eins, wie wir sagen würden.
+
+00:21:07.400 --> 00:21:12.990
+Und ich glaube, wir könnten jetzt hier auch noch ein bisschen
+
+00:21:12.990 --> 00:21:16.950
+in den Podcast zum Thema gewaltfreie Kommunikation abrutschen,
+
+00:21:16.950 --> 00:21:21.110
+was ich ein wunderbares Modell und Konzept im Übrigen finde
+
+00:21:21.110 --> 00:21:24.140
+und ein häufig falsch verstandenes im Sinne von
+
+00:21:24.140 --> 00:21:30.170
+wir nutzen keine starken Ausdrücke oder keine Ahnung, was das im Ersten beinhaltet,
+
+00:21:30.170 --> 00:21:36.470
+ist doch einfach nur die Tatsache, hey, ich sehe dich und ich nehme dich wahr
+
+00:21:36.470 --> 00:21:39.470
+und ich akzeptiere dich als Person mit deiner Meinung.
+
+00:21:39.470 --> 00:21:41.410
+Ich muss diese Meinung nicht teilen.
+
+00:21:41.410 --> 00:21:46.350
+Ich kann sogar Art anderer Meinung sein, aber ich akzeptiere,
+
+00:21:46.350 --> 00:21:49.410
+dass du als Mensch hier da bist und diese Position hast.
+
+00:21:49.410 --> 00:21:52.630
+Und auf der Basis können wir auch im Zweifel in einen Konflikt reingehen
+
+00:21:52.630 --> 00:21:54.630
+und darüber inhaltlich diskutieren.
+
+00:21:54.630 --> 00:21:57.820
+Ich spreche dir aber niemals die Berechtigung ab,
+
+00:21:57.820 --> 00:22:01.680
+dass du selber diese Position haben darfst.
+
+00:22:01.680 --> 00:22:04.680
+Und von daher ein dickes Plus Eins für das, was da drunter liegt.
+
+00:22:04.680 --> 00:22:10.490
+Und jetzt aber wirklich den Finger und den Pink zu Sven.
+
+00:22:10.490 --> 00:22:14.480
+Mir kam erst mal auch totale Zustimmung,
+
+00:22:14.480 --> 00:22:17.480
+also auch ein dickes Plus Eins hier auf meiner Seite, Sebastian.
+
+00:22:17.480 --> 00:22:19.480
+Und ich glaube, das ist auch etwas, wir haben von uns mal überlegt,
+
+00:22:19.480 --> 00:22:21.480
+wie wollen wir denn, wenn wir in die Zusammenarbeit gehen,
+
+00:22:21.480 --> 00:22:23.480
+in die Kulturarbeit, wie wollen wir das tun?
+
+00:22:23.480 --> 00:22:25.480
+Viele Wies definiert, also Co-Kreieren zum Beispiel ein Stichwort,
+
+00:22:25.480 --> 00:22:29.760
+aber auch, und das haben wir nicht in einem Wort zusammenfassen können,
+
+00:22:29.760 --> 00:22:32.790
+aber das Thema, gib den Leuten Raum und Zeit,
+
+00:22:32.790 --> 00:22:34.820
+die Veränderung für sich entdecken zu können,
+
+00:22:34.820 --> 00:22:37.760
+im Anschluss zu deinem Thema Wertschätzung.
+
+00:22:37.760 --> 00:22:39.880
+Da steckt dieses Co-Kreieren ja schon drin.
+
+00:22:39.880 --> 00:22:43.880
+in dem wir genau das tun, nicht die Modelle vordenken für die Leute
+
+00:22:43.880 --> 00:22:45.880
+und vorfertigen und im stillen Kämmerchen versuchen,
+
+00:22:45.880 --> 00:22:47.880
+irgendwie vorzuentwickeln und anzupassen in der Organisation,
+
+00:22:47.880 --> 00:22:49.850
+was sowieso gar nicht möglich ist,
+
+00:22:49.850 --> 00:22:51.850
+weil genau das geht ja nicht bei Sense and Response,
+
+00:22:51.850 --> 00:22:53.850
+sondern reinzugehen, das Modell vorzustellen,
+
+00:22:53.850 --> 00:22:56.170
+so wie man es selber auch kennengelernt hat,
+
+00:22:56.170 --> 00:22:58.170
+und einfach gemeinsam ausprobieren.
+
+00:22:58.170 --> 00:23:00.170
+Auch gerne merken, wo es klar schon knietscht,
+
+00:23:00.170 --> 00:23:02.710
+das muss gar nicht perfekt sein.
+
+00:23:02.710 --> 00:23:04.710
+Ich glaube, dieser Druck, da können wir auch schon wieder abschweifen,
+
+00:23:04.710 --> 00:23:06.710
+wo da alles herkommt und wo in der Schule das schon anfängt,
+
+00:23:06.710 --> 00:23:08.710
+aber das tragen wir alle irgendwie mit uns mit, glaube ich,
+
+00:23:08.710 --> 00:23:10.710
+immer glauben, die richtige Antwort direkt liefern zu müssen.
+
+00:23:10.710 --> 00:23:12.710
+Und das braucht es eben nicht an der Stelle,
+
+00:23:12.710 --> 00:23:14.710
+weil die richtige Antwort, die gibt es ja gar nicht.
+
+00:23:14.710 --> 00:23:16.800
+Was ist denn falsch und richtig?
+
+00:23:16.800 --> 00:23:18.800
+Guckt die andere Firmen an, die machen alles unterschiedlich.
+
+00:23:18.800 --> 00:23:20.800
+Was ist denn jetzt richtig und falsch? Geht ja gar nicht.
+
+00:23:20.800 --> 00:23:23.180
+Das muss nur passend sein.
+
+00:23:23.180 --> 00:23:25.300
+Vielleicht das auch nochmal zu der Einstiegsfrage, was ist Erfolg?
+
+00:23:25.300 --> 00:23:27.300
+Ich glaube, das ist die passende Antwort zu der Frage,
+
+00:23:27.300 --> 00:23:29.330
+die man hat, vielleicht auch auf der ganz abstrakten Ebene.
+
+00:23:29.330 --> 00:23:31.330
+Und das passiert in diesem Raum.
+
+00:23:31.330 --> 00:23:33.330
+Und der Charme daran ist, A, es ist wertschätzend,
+
+00:23:33.330 --> 00:23:35.330
+B, die Leute lernen ganz anders,
+
+00:23:35.330 --> 00:23:37.330
+als wenn ich das vorgefertigt in Häppchen da hinlege
+
+00:23:37.330 --> 00:23:39.290
+und sie müssen gar nichts mehr machen.
+
+00:23:39.290 --> 00:23:41.320
+Ich befähige meine Leute dadurch,
+
+00:23:41.320 --> 00:23:43.320
+dass sie selber merken, was funktioniert, was funktioniert nicht.
+
+00:23:43.320 --> 00:23:46.320
+Weil sobald sie mal beim Funktionieren doch über einen Stein stolpern,
+
+00:23:46.320 --> 00:23:48.320
+wissen sie, was sie vielleicht anders machen können,
+
+00:23:48.320 --> 00:23:50.320
+ohne wieder abhängig zu sein.
+
+00:23:50.320 --> 00:23:52.320
+Und das dritte Wunderbare daran ist meistens,
+
+00:23:52.320 --> 00:23:55.420
+die Nachhaltigkeit ist deutlich gesteigert,
+
+00:23:55.420 --> 00:23:57.420
+anstatt wenn ich das vorfertige.
+
+00:23:57.420 --> 00:24:00.550
+Weil eben genau dieser, ich habe mit dran gearbeitet,
+
+00:24:00.550 --> 00:24:02.550
+das ist auch mit meinem Modell, was wir entworfen haben.
+
+00:24:02.550 --> 00:24:04.550
+Die Stimme, das Modell ist jetzt im Raum, im Team
+
+00:24:04.550 --> 00:24:06.550
+und es ist nicht mehr jemand von außen, der da steht und sagt,
+
+00:24:06.550 --> 00:24:10.550
+ihr müsst aber, sondern wir haben das selber für uns gemerkt,
+
+00:24:10.550 --> 00:24:11.570
+das hat einen Mehrwert.
+
+00:24:11.570 --> 00:24:13.870
+Also ganz, ganz, ganz viel Zustimmung.
+
+00:24:13.870 --> 00:24:17.220
+Und bevor ich dann noch weiter in einen Monolog verfalle,
+
+00:24:17.220 --> 00:24:18.220
+mache ich auch da mal einen Punkt.
+
+00:24:18.220 --> 00:24:21.470
+Denn wir hätten ja auch noch mal so zwei Ideen,
+
+00:24:21.470 --> 00:24:24.470
+die wir teilen wollten im Raum, wenn das okay ist für euch,
+
+00:24:24.470 --> 00:24:26.470
+Sebastian Manuel, wenn wir dann mal rüber gehen.
+
+00:24:26.470 --> 00:24:28.530
+Genau, wollte ich auch gerade überleiten.
+
+00:24:28.530 --> 00:24:30.530
+Genau, ihr hattet im Vorbesprecher auch gesagt,
+
+00:24:30.530 --> 00:24:34.850
+dass ihr aus den eigenen Rollen, die ihr über die Jahre gemacht habt
+
+00:24:34.850 --> 00:24:35.850
+und Beratungen,
+
+00:24:35.850 --> 00:24:38.850
+seht ihr da so zwei Modelle?
+
+00:24:38.850 --> 00:24:41.300
+Oder habe ich das jetzt so verstanden?
+
+00:24:41.300 --> 00:24:43.300
+Ich könnte ja das nochmal sagen.
+
+00:24:43.300 --> 00:24:44.300
+Oder Frameworks.
+
+00:24:44.300 --> 00:24:46.420
+Und zwar einmal Set up for change
+
+00:24:46.420 --> 00:24:48.420
+und einmal Cultural Value Stream.
+
+00:24:48.420 --> 00:24:51.830
+Vielleicht könnt ihr da einfach mal mehr zu erzählen
+
+00:24:51.830 --> 00:24:54.820
+und wie ihr darauf gekommen seid.
+
+00:24:54.820 --> 00:25:01.330
+Ja, mach gerne den Anfang.
+
+00:25:01.330 --> 00:25:03.550
+Vielleicht nochmal zwei, drei Sätze im Hintergrund.
+
+00:25:03.550 --> 00:25:04.550
+Wo komme ich her?
+
+00:25:04.550 --> 00:25:05.550
+Daniel, du vielleicht dann auch nochmal.
+
+00:25:05.550 --> 00:25:08.580
+Ich glaube, das zeigt nochmal genauer auch,
+
+00:25:08.580 --> 00:25:09.580
+woher kommen die Erkenntnisse.
+
+00:25:09.580 --> 00:25:11.580
+Denn es waren jetzt nicht zwei Väter, die einfach Langeweile hatten
+
+00:25:11.580 --> 00:25:15.570
+und mal irgendwie, während die Kleinen mit den Bällen gespielt haben,
+
+00:25:15.570 --> 00:25:17.570
+die Väter mit den großen Bällen gespielt haben.
+
+00:25:17.570 --> 00:25:21.550
+Sondern ich persönlich selber komme zum Beispiel
+
+00:25:21.550 --> 00:25:22.550
+erstmal stark aus der Beratungsschiene.
+
+00:25:22.550 --> 00:25:25.550
+Habe dort viel Veränderung externe leiten dürfen.
+
+00:25:25.550 --> 00:25:27.450
+Bin dann aber auch relativ zeitnah zu Bosch.
+
+00:25:27.450 --> 00:25:30.840
+Und habe dort dann auch nochmal viel, viel, viel Organisationsentwicklung,
+
+00:25:30.840 --> 00:25:34.840
+Kulturarbeit sehr international verantworten dürfen.
+
+00:25:34.840 --> 00:25:37.970
+Nachher dann auch im ganz nordamerikanischen Raum.
+
+00:25:37.970 --> 00:25:40.890
+Aber mit Abstechern links und rechts immer wieder in andere Länder und Kulturen.
+
+00:25:40.890 --> 00:25:45.320
+Ich glaube, allein das, also es war so ein bisschen zweigeteilt.
+
+00:25:45.320 --> 00:25:47.320
+Das erste ist, am Anfang hatten wir vier Schablone
+
+00:25:47.320 --> 00:25:52.600
+von einem großen Beratungsunternehmen, deren Name ich jetzt mal hier rauslasse,
+
+00:25:52.600 --> 00:25:56.660
+aber bekommen abgekauft, im Unternehmen eingeführt und erstmal mit der Schablone losgerannt.
+
+00:25:56.660 --> 00:25:58.660
+Und du hast schon gemerkt, allein wenn du die gleiche Schablone nimmst,
+
+00:25:58.660 --> 00:26:04.080
+aber auf unterschiedliche, es reicht ja, wenn du an unterschiedliche Teams und Standorte in Deutschland gehen würdest,
+
+00:26:04.080 --> 00:26:06.050
+aber dadurch, dass man in unterschiedlichen Ländern war,
+
+00:26:06.050 --> 00:26:09.060
+da hast du schon mal gemerkt, nee, da klappt's, da klappt's nicht, da klappt's.
+
+00:26:09.060 --> 00:26:15.670
+Also im Raum ist direkt, in der Luft ist sofort klar, es braucht etwas, was Anpassung heißt.
+
+00:26:15.670 --> 00:26:18.670
+Man muss sich Gedanken machen, wie nehme ich etwas und passe es an die Leute an.
+
+00:26:18.670 --> 00:26:22.670
+Das heißt, selber irgendwie in der Rolle gewesen zu sein, Kultur zu treiben, zu verantworten,
+
+00:26:22.670 --> 00:26:25.670
+umzusetzen in Teams, nachher dann aber eben auch Teams aufgebaut,
+
+00:26:25.670 --> 00:26:29.730
+die das Ganze weiterhin getrieben haben in den verschiedenen Ländern,
+
+00:26:29.730 --> 00:26:32.970
+sowohl eine Zentralabteilung als auch lokale Teams und so weiter und so fort.
+
+00:26:32.970 --> 00:26:37.070
+Nachher dann nochmal über Energy hin zu E.ON, dort Gleiches getan.
+
+00:26:37.070 --> 00:26:41.790
+Das heißt, auf der einen Seite das selber irgendwie Unternehmen verantwortlich gemacht
+
+00:26:41.790 --> 00:26:44.790
+und auf der anderen Seite dann aber eben auch durch die externe Beratung,
+
+00:26:44.790 --> 00:26:49.010
+durch die Gründung der eigenen Firma mit Daniel zusammen das Ganze extern auch begleitet,
+
+00:26:49.010 --> 00:26:52.010
+so eine Rundumperspektive auf das Thema bekommen.
+
+00:26:52.010 --> 00:26:56.010
+Und da sind mir so ein oder andere Sachen aufgefallen, die eigentlich immer wieder,
+
+00:26:56.010 --> 00:27:00.260
+du sagst es so schön Manuel, die Leute beim Changecamp, das war tatsächlich so.
+
+00:27:00.260 --> 00:27:02.260
+Ja, man hat die gleichen Probleme nur in anderen Unternehmen.
+
+00:27:02.260 --> 00:27:03.260
+Man muss das Rad nicht immer neu erfinden.
+
+00:27:03.260 --> 00:27:05.260
+Und es gibt so ein paar grundlegende Bausteine, glaube ich,
+
+00:27:05.260 --> 00:27:10.800
+die bei aller Individualisierung, die es braucht, auf einer Framework-Ebene
+
+00:27:10.800 --> 00:27:11.800
+dennoch immer wieder Sinn machen.
+
+00:27:11.800 --> 00:27:14.990
+Und ich glaube, das ist das, was wir so jetzt mal hier zusammengefasst haben.
+
+00:27:14.990 --> 00:27:17.990
+Aber ich werfe den Ball, bevor wir auf die Modelle gehen, nochmal rüber an dich, Daniel.
+
+00:27:17.990 --> 00:27:22.310
+Ich glaube, deine Historie ist an der Stelle genauso wichtig und wertvoll.
+
+00:27:22.310 --> 00:27:28.540
+Inwiefern sind diese Bausteine entstanden und wo haben wir die hergenommen?
+
+00:27:28.540 --> 00:27:33.840
+Ja, ich glaube, Sven und ich haben sehr ähnliche Erkenntnisse
+
+00:27:33.840 --> 00:27:35.840
+in unterschiedlichen Rollen, in unterschiedlichen Firmen gehabt.
+
+00:27:35.840 --> 00:27:41.090
+Also deine Zeit beim Bosch und meine Zeit ursprünglich dann noch bei RWE.
+
+00:27:41.090 --> 00:27:44.150
+und dann später bei Innoji war von sehr ähnlichen Erkenntnissen getrieben.
+
+00:27:44.150 --> 00:27:50.140
+Nämlich, dass diese klassisch-mechanistischen Vorgehensweisen nicht so gut funktionieren.
+
+00:27:50.140 --> 00:27:55.330
+Jetzt haben wir bei RWE und Innoji seinerzeit mit dem New Ways of Working Programm,
+
+00:27:55.330 --> 00:28:02.750
+glaube ich, den Luxus gehabt, ein Experiment oder eine Kulturtransformation
+
+00:28:02.750 --> 00:28:08.980
+mit ganz vielen Experimenten, die diese beinhaltet hat, in einem Umfang durchführen zu dürfen,
+
+00:28:08.980 --> 00:28:13.040
+wie es zumindest in meinem Kenntnisstand nach in der letzten Dekade
+
+00:28:13.040 --> 00:28:16.000
+in der deutschen Wirtschaft nichts Vergleichbares in dieser Größenordnung gab.
+
+00:28:16.000 --> 00:28:22.430
+Das wirkt natürlich ganz viel Potenzial für, wir probieren hier Dinge aus, wir scheitern ganz, ganz häufig
+
+00:28:22.430 --> 00:28:26.480
+und nehmen dann trotzdem zum 30. Mal Anlauf und schaffen es dann irgendwie auf eine Erkenntnisweise.
+
+00:28:26.480 --> 00:28:30.670
+Und da sind so ein paar grundlegende Erkenntnisse, Meta-Erkenntnisse, gar nichts von,
+
+00:28:30.670 --> 00:28:35.770
+dieses Tool ist total super und das kann hier total super sein und woanders vielleicht total schlecht,
+
+00:28:35.770 --> 00:28:43.960
+aber auf der Grundsatzebene, worauf muss ich achten, wie nehme ich eine mechanistische Vorhergehensweise raus
+
+00:28:43.960 --> 00:28:47.430
+und worauf muss ich eher achten, da ist ganz, ganz viel entstanden.
+
+00:28:47.430 --> 00:28:51.430
+Und die letzten Jahre in der eigenen Beratungsfirma bestätigen das eigentlich umso mehr.
+
+00:28:51.430 --> 00:28:57.420
+Also ob du in den Automotive-Bereich, ob du in die Softwareentwicklungskonzerne reingehst,
+
+00:28:57.420 --> 00:29:01.420
+ob du in die Versicherung und Bankenwelt reingehst, ob du in die öffentliche Verwaltung reingehst,
+
+00:29:01.420 --> 00:29:07.870
+da sind wir quasi so ein bisschen reingerutscht, ohne dass wir das wirklich mal als Zielgruppe auf dem Zettel hatten
+
+00:29:07.870 --> 00:29:09.870
+und machen da mittlerweile auch eine ganze Menge.
+
+00:29:09.870 --> 00:29:14.380
+Du findest die gleichen Erkenntnisse überall wieder.
+
+00:29:14.380 --> 00:29:17.380
+Und hier sind wir wieder bei dem verbindenden Punkt, was alle Leute zusammenbringt.
+
+00:29:17.380 --> 00:29:18.600
+You're not alone.
+
+00:29:18.600 --> 00:29:23.850
+Und das haben wir versucht mal zu kondensieren und das Kondensat so aufzubereiten,
+
+00:29:23.850 --> 00:29:30.570
+dass es vielleicht einen Rahmen bilden kann, ohne dass es innerlich zu viel vorgibt.
+
+00:29:30.570 --> 00:29:35.490
+Ja, ist dann auch individuell. Also ihr habt jetzt beide diese grundlegenden Bausteine.
+
+00:29:35.490 --> 00:29:38.610
+Vielleicht sind es ziemlich viele?
+
+00:29:38.610 --> 00:29:40.670
+Fragezeichen, sind es ziemlich viele?
+
+00:29:40.670 --> 00:29:44.670
+Vielleicht könnt ihr mal so ein bisschen Einblick darin geben, was für Bausteine wären das?
+
+00:29:44.670 --> 00:29:46.790
+Ein, zwei.
+
+00:29:46.790 --> 00:29:51.350
+Das können vielleicht auch Unternehmen oder Unternehmer, die hier zuhören,
+
+00:29:51.350 --> 00:29:56.530
+vielleicht irgendwie mal mitnehmen, einbringen, weiß ich nicht.
+
+00:29:56.530 --> 00:30:01.180
+Also was wäre denn so mal so ein Baustein?
+
+00:30:01.180 --> 00:30:07.750
+Also wir werden jetzt auf zwei größere Bausteinkisten gucken
+
+00:30:07.750 --> 00:30:09.940
+und in den Kisten sind dann ganz viele Bausteine drin.
+
+00:30:09.940 --> 00:30:12.940
+Noch an der Stelle gar nicht mit Anspruch auf Vollständigkeit,
+
+00:30:12.940 --> 00:30:15.940
+sondern so im Sinne von, das sind die ersten Grundbausteine, die man mit Sicherheit braucht
+
+00:30:15.940 --> 00:30:22.110
+und dann auch eben jedes Fundament und jedes Haus nochmal seine eigenen Bausteine dazugelegt.
+
+00:30:22.110 --> 00:30:28.310
+Also die erste Bausteinkiste wäre, wo wir mal draufgeschrieben haben, Set up 4 change.
+
+00:30:28.310 --> 00:30:30.660
+Also im Prinzip der Rahmen gebildet.
+
+00:30:30.660 --> 00:30:34.910
+Fangen wir mal ganz, ganz vorne an und zwar, ich würde es damit anfangen,
+
+00:30:34.910 --> 00:30:37.910
+wir haben mal draufgeschrieben auf einen Baustein Clarity und Strategic Fit.
+
+00:30:37.910 --> 00:30:38.900
+Was meinen wir damit?
+
+00:30:38.900 --> 00:30:42.250
+Mit anderen Worten, wenn wir jetzt mal überlegen, es gibt ein Unternehmen,
+
+00:30:42.250 --> 00:30:44.250
+dann gibt es immer so diese Warum, Was und Wie.
+
+00:30:44.250 --> 00:30:46.250
+Ich glaube, das haben wir mittlerweile auch zu Genüge gehört,
+
+00:30:46.250 --> 00:30:48.250
+kann man auch ganz viel zu finden.
+
+00:30:48.250 --> 00:30:50.780
+Und Warum, Was, Wie.
+
+00:30:50.780 --> 00:30:52.780
+Wenn wir sagen, warum gibt es ein Unternehmen und was wollen wir erreichen?
+
+00:30:52.780 --> 00:30:55.780
+Diese beiden Fragen, wenn wir die erstmal so unter Strategie verordnen,
+
+00:30:55.780 --> 00:30:58.740
+im Sinne von, warum sind wir eigentlich hier, was ist der Business-Zweck,
+
+00:30:58.740 --> 00:31:02.700
+was ist die Value-Proposition und was wollen wir auch konkret machen?
+
+00:31:02.700 --> 00:31:06.430
+Wenn wir das mal unter Strategie, ohne dass ich jetzt sagen möchte,
+
+00:31:06.430 --> 00:31:09.460
+ist das die klare Definition von Strategies, verorten,
+
+00:31:09.460 --> 00:31:13.480
+dann muss es da auch eine Antwort geben, wie wir das Ganze überhaupt nur erreichen können.
+
+00:31:13.480 --> 00:31:15.480
+Das heißt, wir brauchen eine gewisse Art der Zusammenarbeit,
+
+00:31:15.480 --> 00:31:18.400
+wir brauchen eine gewisse Kultur, um das stemmen zu können.
+
+00:31:18.400 --> 00:31:20.660
+Und dieses Wie ist dann die passende Kultur zu der Strategie.
+
+00:31:20.660 --> 00:31:23.690
+Also mit anderen Worten, wir haben eigentlich eine klare Ausrichtung,
+
+00:31:23.690 --> 00:31:24.690
+warum wir da sind, was wir machen wollen.
+
+00:31:24.690 --> 00:31:27.680
+Und auf der anderen Seite steht diese große Wolke Kultur.
+
+00:31:27.680 --> 00:31:31.840
+Also wie müssen wir zusammenarbeiten, wie müssen wir funktionieren, damit das passt.
+
+00:31:31.840 --> 00:31:34.900
+Ein ganz abstraktes oder plakatives Beispiel kann sein,
+
+00:31:34.900 --> 00:31:37.960
+wenn wir uns dafür entscheiden, eine innovative Firma sein zu wollen,
+
+00:31:37.960 --> 00:31:40.960
+die ganz innovative Produkte in zwei Jahren auf den Markt bringt,
+
+00:31:40.960 --> 00:31:45.110
+dann brauchen wir mit Sicherheit sowas wie Federtoleranz oder Neugierde oder Growth Mindset.
+
+00:31:45.110 --> 00:31:48.110
+Also viele Faktoren, die das ermöglichen, das enablen.
+
+00:31:48.110 --> 00:31:53.190
+Während wenn wir jetzt sagen würden, wir wollen einfach nur die nächste,
+
+00:31:53.190 --> 00:31:57.190
+super billigste Produktionsfirma von Salz sein, dann brauchen wir bestimmt nicht so viel.
+
+00:31:57.190 --> 00:32:00.190
+Fehler tolerant, sondern im Gegenteil, wir müssen eigentlich dafür sorgen,
+
+00:32:00.190 --> 00:32:03.190
+dass das hochstandardisiert sehr, sehr fehlerfrei ablaufen kann
+
+00:32:03.190 --> 00:32:06.170
+und brauchen eine ganz andere Kultur und Zusammenarbeit.
+
+00:32:06.170 --> 00:32:13.460
+Das heißt, die Frage auf das Was ist und bildet für uns erstmal den Startpunkt zu sagen,
+
+00:32:13.460 --> 00:32:17.460
+ist die Strategie überhaupt klar, weil sonst können wir Kultur diskutieren, wie wir wollen,
+
+00:32:17.460 --> 00:32:19.740
+aber es hängt so ein bisschen im luftleeren Raum.
+
+00:32:19.740 --> 00:32:22.740
+Und gleichzeitig steckt dahinter auch die Erkenntnis, okay, Strategie geht irgendwie vor,
+
+00:32:22.740 --> 00:32:25.740
+wir müssen erstmal ein Was haben und warum, um dann das Wie zu definieren,
+
+00:32:25.740 --> 00:32:29.950
+siehe Innovativität oder siehe Kostenführerschaft.
+
+00:32:29.950 --> 00:32:33.080
+Und gleichzeitig steht und fällt aber am Ende alles mit der Kultur.
+
+00:32:33.080 --> 00:32:36.080
+Es gibt dieses schöne Hashtag CultureEatsStrategyForBreakfast.
+
+00:32:36.080 --> 00:32:39.200
+Ich glaube, das kommt nicht von irgendwoher und wenn man sich ein bisschen
+
+00:32:39.200 --> 00:32:42.200
+mit Kulturarbeit beschäftigt hat, dann kann man es, glaube ich, auch gut nachvollziehen.
+
+00:32:42.200 --> 00:32:46.360
+Also man ist irgendwie in diesem Spannungsreif von eigentlich geht die Strategie vor,
+
+00:32:46.360 --> 00:32:50.450
+rein ökonomisch betrachtet und auf der anderen Seite ist es elementar,
+
+00:32:50.450 --> 00:32:54.730
+diese Kultur am Leben zu erhalten und passend darauf ausrichten zu können.
+
+00:32:54.730 --> 00:32:58.080
+Und auch die Strategie nicht in einem Vakuum zu definieren,
+
+00:32:58.080 --> 00:33:00.080
+sondern diese Kultur, die auch schon vorhanden ist.
+
+00:33:00.080 --> 00:33:02.080
+Weil Kultur wird ja nicht morgen dann erst definiert und angefangen.
+
+00:33:02.080 --> 00:33:03.080
+Kultur ist ja immer da.
+
+00:33:03.080 --> 00:33:06.330
+Inwiefern hat die auch einen Platz in der strategischen Diskussion?
+
+00:33:06.330 --> 00:33:08.480
+Ich glaube, da würde ich mal anfangen.
+
+00:33:08.480 --> 00:33:14.520
+Daniel, du nix ganz viel, ich werfe den Ball trotzdem nochmal rüber zu dir.
+
+00:33:14.520 --> 00:33:19.980
+Ich glaube, du hast den Kern eindeutig gesagt.
+
+00:33:19.980 --> 00:33:27.630
+Nämlich Strategie ist immer führend in der Frage von, wohin soll die Richtung gehen?
+
+00:33:27.630 --> 00:33:29.630
+In der Frage, was passiert wirklich?
+
+00:33:29.630 --> 00:33:34.620
+Da ist Kultur immer führend und nicht das Papier, auf dem irgendeine Strategie geschrieben ist.
+
+00:33:34.620 --> 00:33:40.160
+Deswegen auch die ganz, ganz herzliche Einladung an alle Menschen, die Unternehmensentwicklung,
+
+00:33:40.160 --> 00:33:44.310
+die Strategieprozesse führen und leiten in Organisationen.
+
+00:33:44.310 --> 00:33:48.850
+Wir merken das häufig, dass wir in Beratungsmandaten dann reinkommen,
+
+00:33:48.850 --> 00:33:52.770
+wenn es eine neue Strategie gibt und sich alle fragen, ja, wie bringen wir die jetzt eigentlich ins Leben?
+
+00:33:52.770 --> 00:33:58.350
+Aus meiner Sicht würde es Sinn machen, den kulturellen Aspekt in der Strategieentwicklung
+
+00:33:58.350 --> 00:34:04.330
+schon sauber mitzudenken und auch ganz bewusst zu sagen, auf diesem strategischen Pfad,
+
+00:34:04.330 --> 00:34:10.290
+da haben wir noch einen relativ großen Gap im kulturellen Fit.
+
+00:34:10.290 --> 00:34:14.510
+Das heißt nicht, ich möchte damit auf gar keinen Fall sagen, wir sollen diesen strategischen Pfaden nicht gehen,
+
+00:34:14.510 --> 00:34:19.660
+aber wir sollten uns der Herausforderung bewusst sein, wenn wir diese strategische Richtung einschlagen wollen,
+
+00:34:19.660 --> 00:34:24.750
+was das an der Arbeit im Inneren der Organisation bedeutet, dem Selbstverständnis an der Kultur,
+
+00:34:24.750 --> 00:34:29.930
+um überhaupt auf diese Pfad kommen zu können und potenziell in diesem Pfad erfolgreich sein zu können.
+
+00:34:29.930 --> 00:34:41.890
+Das finde ich wieder ganz, ganz schön, weil so wie ich das erlebe, ist das genauso wie du das gerade, Daniel, gesagt hattest.
+
+00:34:41.890 --> 00:34:47.890
+Bei Strategie wird immer ganz, ganz schnell definiert, wo wollen wir sein, aber nicht wer wollen wir sein.
+
+00:34:47.890 --> 00:34:52.890
+Und das ist, glaube ich, ist immer der Aspekt, der da komplett drin fehlt, dass man immer sagt,
+
+00:34:52.890 --> 00:34:58.890
+ey, ich will sowas wie eine Marktführerschaft oder ich will das und das damit erreichen, ich will das und das.
+
+00:34:58.890 --> 00:35:06.890
+Dass man ganz, ganz schnell irgendwie so eine Art Ziel, wo man sich hin entwickeln will, aber nicht in Bezug auf das Unternehmen.
+
+00:35:06.890 --> 00:35:09.890
+Also wer wollen wir sein oder was für ein Unternehmen wollen wir sein?
+
+00:35:09.890 --> 00:35:16.060
+Das wird immer ganz, ganz hart da ausgeblendet, gerade bei ganz, ganz vielen Unternehmen.
+
+00:35:16.060 --> 00:35:24.420
+Was wäre denn aus eurer Sicht so ein Hebel, um das vielleicht ein bisschen besser auch da rein zu bekommen, auch in so ein Strategiedenken an der Stelle?
+
+00:35:24.420 --> 00:35:31.020
+Vielleicht Sven, damit es einfacher ist, damit ihr euch nicht wieder angucken müsst, fängst du ab vielleicht an?
+
+00:35:31.020 --> 00:35:36.770
+Sehr gut. Auch hier entsteht gerade eine Kultur, eine Art Zusammenarbeit. Sehr gut, wir dann auch.
+
+00:35:36.770 --> 00:35:44.180
+Also ein ganz toller, und das sind so diese Mini-Hacks, von denen man so schön spricht, aber ein ganz, ganz toller Weg kann sein,
+
+00:35:44.180 --> 00:35:48.180
+bei der Strategiediskussion bewusst eine Stimme der Kultur mit einspinnen.
+
+00:35:48.180 --> 00:35:52.300
+Also die Strategiediskussion geht häufigerweise vor oder findet auch vorher statt.
+
+00:35:52.300 --> 00:35:59.300
+Und damit ist eben nicht diese reine, was wollen wir und Ziele aufmalen und neue moderne OKRs vermeintlicherweise definieren,
+
+00:35:59.300 --> 00:36:01.520
+sondern bewusst diese Kulturstimme reinzubringen.
+
+00:36:01.520 --> 00:36:06.490
+Es kann sein, dass ich einfach jemandem Kulturhut aufziehe, der die Stimme der Kultur widerspiegelt.
+
+00:36:06.490 --> 00:36:11.830
+Es kann ein bisschen quantitativer stattfinden im Sinne von, ich gehe vorher schon mal in eine Kulturanalyse.
+
+00:36:11.830 --> 00:36:17.870
+Klammer auf, Klammer zu, Kulturanalyse ist die zweite Bausteinkiste, die wir noch mitgebracht haben, wo wir gleich mal reingucken können.
+
+00:36:17.870 --> 00:36:26.060
+Das heißt, ich beschäftige mich vorher bewusst erstmal damit, was ist denn überhaupt die Ist-Kultur, um diese Stimme auch ein bisschen quantitativ in die Diskussion reinführen zu können.
+
+00:36:26.060 --> 00:36:34.180
+Und dann gleichzeitig eben aber auf der anderen Seite sofort anzufangen, mit diesem strategischen Rahmen in die Diskussion mit den Teams zu gehen.
+
+00:36:34.180 --> 00:36:39.300
+Häufig passiert ja auch die Strategie mit hinter verschlossenen Türen immer nur für den Häuptling geführt.
+
+00:36:39.300 --> 00:36:43.300
+Ganz, ganz, also rein subjektive Meinung, ganz, ganz großer Fehler.
+
+00:36:43.300 --> 00:36:48.300
+Es gibt genug Prozesse und Modelle wieder an der Stelle, die ermöglichen würden, das Ganze anders aufzubauen.
+
+00:36:48.300 --> 00:36:53.550
+Eine simple Antwort kann sein so etwas, was man auch Landkarte, Team-Landkarte nennen kann.
+
+00:36:53.550 --> 00:37:02.730
+Nachdem wir den Strategie-Rahmen gebildet haben, gehen wir dann mal rein in die Teams und mit diesem Rahmen, bewusst gesagt Rahmen, bilden wir dann die Landkarte in dem Rahmen.
+
+00:37:02.730 --> 00:37:08.860
+Die Landkarte beinhaltet drei Kernfragen. Das ist immer abgeleitet von diesen strategischen Rahmenbedingungen.
+
+00:37:08.860 --> 00:37:16.260
+Warum gibt es uns, mit anderen Worten auch, wer wollen wir sein als Team, also der Existenzgrund, der Purpose des Teams?
+
+00:37:16.260 --> 00:37:18.260
+Dann, was ist dann unsere Vision in zwei Jahren?
+
+00:37:18.260 --> 00:37:24.290
+Ja, Abteilung, ich weiß nicht, Forschung und Entwicklung oder Abteilung Vertrieb oder Abteilung Controlling.
+
+00:37:24.290 --> 00:37:27.290
+Jere für sich abgeleitet daraus, was ist unser Visionsbild daraus in zwei Jahren?
+
+00:37:27.290 --> 00:37:30.610
+Und dann die dritte, dritte Bausteine auf der Landkarte.
+
+00:37:30.610 --> 00:37:39.100
+Was sind dann in dem Sinne unsere Ziele und Zwischenziele und Projekte, die wir in den nächsten drei bis sechs Monaten angehen müssen,
+
+00:37:39.100 --> 00:37:42.160
+um in Richtung dieses Zwei-Jahres-Bildes nach vorne zu arbeiten?
+
+00:37:42.160 --> 00:37:48.320
+Das kann unglaublich viel Aufschluss darüber geben und eben den Raum für Diskussion und auch die Findung dieser,
+
+00:37:48.320 --> 00:37:53.660
+wie wollen wir dann auf diese Art und Weise, auf welche Art und Weise wollen wir dabei zusammenarbeiten, wenn das die Strategie ist?
+
+00:37:53.660 --> 00:38:02.760
+Also die Strategie erlebbar machen, nahbar machen fürs Team und mit einem Purpose zu füllen, um das Ganze auch in Richtung wer und wie anzuführen.
+
+00:38:02.760 --> 00:38:15.010
+Das wären so ein, zwei, drei Ideen vielleicht und ich folge mal dein Beispiel, Sebastian, und ich reiche den Ball Quarty weiter. Daniel, einmal rüber zu dir.
+
+00:38:15.010 --> 00:38:28.510
+Ich glaube, man könnte, oder was eine hilfreiche Intervention auf der Ebene von Verhältnissen wäre, anstatt zu sagen, die Leute müssen jetzt bitte auch Kultur mitdenken,
+
+00:38:28.510 --> 00:38:41.500
+ist zu sagen, dort wo ein Strategieentwicklungsprozess stattfindet, liegt auch gleichzeitig die Verantwortung für die Strategie Implementierung und eine entsprechende Nachverfolgung,
+
+00:38:41.500 --> 00:38:48.810
+wie sehr sind wir auf dem Pfad damit. Da kommst du eigentlich ganz automatisch zu der Frage, wo sind denn meine potenziellen Roadblocks,
+
+00:38:48.810 --> 00:38:53.150
+die uns das schwierig machen könnten, diesen strategischen Pfad wirklich ins Leben zu bringen.
+
+00:38:53.150 --> 00:39:00.380
+Und naja, da stolperst du gar nicht über die Kultur, sondern da wird sie dich von allen Seiten rechts und links schützen und bewegen und so weiter,
+
+00:39:00.380 --> 00:39:06.150
+weil da bist du mitten im Selbstverständnis von in der Art und Weise, wie Menschen agieren.
+
+00:39:06.150 --> 00:39:14.520
+Jetzt könnte man ja vermeintlich hoffnungsfroh sein, das haben wir glaube ich irgendwie alle gelesen,
+
+00:39:14.520 --> 00:39:19.490
+vor zwei, drei Monaten kam ein Artikel im Manager Magazin und im Spiegel dann auch nochmal veröffentlicht,
+
+00:39:19.490 --> 00:39:26.900
+Umfrage unter 500 CEOs, Kultur ist mittlerweile das Top 1 Thema noch vor Strategie zum Beispiel.
+
+00:39:26.900 --> 00:39:30.900
+Ja, also ich würde das im Übrigen nicht so formulieren oder wir würden das so nicht formulieren.
+
+00:39:30.900 --> 00:39:40.510
+Wir glauben, sonst bist du bei einem Zufallsprodukt in der Organisation, ob dich deine Kultur ohne Strategie irgendwo hinführt.
+
+00:39:40.510 --> 00:39:46.660
+Das ist auch ein nettes Experiment, haben wir aber glaube ich aktuell noch nicht das Wirtschafts- und Gesellschaftssystem für,
+
+00:39:46.660 --> 00:39:52.930
+in dem das funktionieren kann. Von daher weiß ich gar nicht, ob ich Kultur über Strategie stellen würde.
+
+00:39:52.930 --> 00:39:57.690
+Aber warum habe ich gerade gesagt, man könnte vermeintlich hoffnungsfroh sein?
+
+00:39:57.690 --> 00:40:05.450
+Ich habe so ein bisschen die Befürchtung, dass der Kulturbegriff, wenn du auf so einer C-Level-Ebene nach Kultur fragst,
+
+00:40:05.450 --> 00:40:08.450
+ohne in eine böse Unterstellung reingehen zu wollen.
+
+00:40:08.450 --> 00:40:12.440
+Aber ich komme jetzt aus der Erfahrung unserer Gespräche mit vielen Geschäftsführern,
+
+00:40:12.440 --> 00:40:18.780
+Vorständen, Präsidenten von Landesbehörden und so weiter und so fort.
+
+00:40:18.780 --> 00:40:20.960
+Da ist der Kulturbegriff, der ist im Raum.
+
+00:40:20.960 --> 00:40:26.530
+Er ist aber noch nicht in diesem systemischen Selbstverständnis,
+
+00:40:26.530 --> 00:40:31.520
+von dem ich vorhin geredet habe, was wir bei den Fachexpertinnen und Experten längst mittlerweile haben.
+
+00:40:31.520 --> 00:40:37.930
+Das ist im C-Level-Bereich noch nicht in dieser Komplexität, noch nicht in dieser systemischen Denkweise angekommen,
+
+00:40:37.930 --> 00:40:42.900
+sondern da wird dann eher über Change-Kommunikation und wir müssen ein paar Veranstaltungen machen,
+
+00:40:42.900 --> 00:40:46.960
+wo die Leute was erleben können und sich damit identifizieren können, gedacht.
+
+00:40:46.960 --> 00:40:50.880
+Und weniger in Richtung, boah, wenn die hier Kultur bewegen wollen,
+
+00:40:50.880 --> 00:40:56.860
+dann ist das eigentlich ein Prozess, der viele, viele Jahre intensive Arbeit bedeutet.
+
+00:40:56.860 --> 00:40:59.670
+So, vielleicht noch mal die Klammer dazu.
+
+00:40:59.670 --> 00:41:03.800
+Aber ich glaube, macht die Leute, die die Strategie machen, auch mit für die Implementierung
+
+00:41:03.800 --> 00:41:06.900
+und das Echte ins Leben bringen, beantwortlich.
+
+00:41:06.900 --> 00:41:12.000
+Da kommst du an der Kultur gar nicht vorbei.
+
+00:41:12.000 --> 00:41:14.000
+Das finde ich an der Stelle nochmal ganz interessant,
+
+00:41:14.000 --> 00:41:18.000
+weil es, also ich kenne persönlich selber aus Beispielen ein paar Unternehmen,
+
+00:41:18.000 --> 00:41:21.000
+die tatsächlich das Thema Kultur vor Strategie gestellt haben,
+
+00:41:21.000 --> 00:41:22.000
+wo das ganz, ganz gut funktioniert.
+
+00:41:22.000 --> 00:41:25.180
+Ich glaube, ein gutes Beispiel dafür ist sowas wie Patagonia,
+
+00:41:25.180 --> 00:41:29.180
+die ganz hart nur nach ihrer Kultur leben und wenig nach einer Strategie,
+
+00:41:29.180 --> 00:41:34.200
+was halt so weit geht, dass man das ja jetzt quasi als Anteilseigner
+
+00:41:34.200 --> 00:41:38.200
+komplett übertragen hat in der Stiftung und nicht irgendwie den Weg gegangen ist,
+
+00:41:38.200 --> 00:41:41.200
+das irgendwie über die Börse zu spielen oder sonst irgendwas
+
+00:41:41.200 --> 00:41:45.200
+oder als Unternehmen irgendwie weiter zu vererben oder weiter zu verkaufen,
+
+00:41:45.200 --> 00:41:50.200
+sondern da tatsächlich zu sagen, ey, der Owner dieses Unternehmens ist am Ende der Planet
+
+00:41:50.200 --> 00:41:54.320
+und nicht irgendeine Person oder eine Gruppe an der Stelle,
+
+00:41:54.320 --> 00:41:56.320
+sondern das tatsächlich so weit zu führen.
+
+00:41:56.320 --> 00:42:01.320
+Also was mich interessieren würde, ist sowas denkbar tatsächlich aus eurer Sicht,
+
+00:42:01.320 --> 00:42:04.320
+vielleicht auch in dem deutschen oder europäischen Raum,
+
+00:42:04.320 --> 00:42:07.320
+einfach auch in so eine Denke zu gehen.
+
+00:42:07.320 --> 00:42:10.320
+Also es gibt ganz, ganz viele Initiativen, B-Corp-Unternehmen,
+
+00:42:10.320 --> 00:42:13.320
+die sich das ganz klassisch dann auch quasi verpflichtend,
+
+00:42:13.320 --> 00:42:16.320
+damit sie diese B-Corp-Zertifizierung bekommen,
+
+00:42:16.320 --> 00:42:19.320
+überhaupt erstmal wirklich in die Satzung schreiben müssen,
+
+00:42:19.320 --> 00:42:23.320
+dass sie wirklich verantwortungsvoll gegenüber anderen Menschen,
+
+00:42:23.320 --> 00:42:27.320
+gegenüber der Natur, des Planeten handeln und so weiter.
+
+00:42:27.320 --> 00:42:29.320
+Ich sehe, da gibt es halt wirklich Ansätze tatsächlich,
+
+00:42:29.320 --> 00:42:33.280
+sowas wie Kultur auch in eine Unternehmenssatzung zu schreiben.
+
+00:42:33.280 --> 00:42:37.240
+Oder wofür will ich stehen als Unternehmer am Ende des Tages?
+
+00:42:37.240 --> 00:42:42.270
+Wie soll dieser Impact auf vielleicht die Gesellschaft oder diesen Planeten dann sein?
+
+00:42:42.270 --> 00:42:44.720
+Meint ihr, dass das tatsächlich auch ein Modell ist,
+
+00:42:44.720 --> 00:42:49.760
+was vielleicht sich viel stärker auch langsam bei uns durchsetzen wird?
+
+00:42:49.760 --> 00:42:51.870
+Diesmal würde ich einfach mit Daniel anfangen.
+
+00:42:51.870 --> 00:42:55.430
+Ja, danke dir, weil ich liebe dein Beispiel.
+
+00:42:55.430 --> 00:42:58.430
+Und das ist genau das, was ich meinte, als ich gerade gesagt habe,
+
+00:42:58.430 --> 00:43:02.000
+wenn wir Kultur vor Strategie stellen,
+
+00:43:02.000 --> 00:43:07.980
+da sind wir in unserem Gesellschafts- und Wirtschaftsmodell häufig noch nicht so wirklich.
+
+00:43:07.980 --> 00:43:09.980
+Patagonia ist ein wunderbares Beispiel.
+
+00:43:09.980 --> 00:43:13.010
+Patagonia sagt nämlich, wir brechen aus diesem Modell aus,
+
+00:43:13.010 --> 00:43:15.010
+wir gehen auch unser Verantwortungseigentum,
+
+00:43:15.010 --> 00:43:17.010
+wir nennen das ja im Deutschen etwas sperrig,
+
+00:43:17.010 --> 00:43:20.030
+Verantwortungseigentum in die Überführung von
+
+00:43:20.030 --> 00:43:22.130
+die Firma gehört irgendwie allen dem Planeten
+
+00:43:22.130 --> 00:43:25.220
+oder den Menschen, die da jetzt gerade da drin sind,
+
+00:43:25.220 --> 00:43:27.220
+aber keiner darf Kapital daraus nehmen.
+
+00:43:27.220 --> 00:43:33.080
+Da bist du schon sehr bei Gesellschaftsordnungsfragen fast,
+
+00:43:33.080 --> 00:43:35.040
+auch überspattend,
+
+00:43:35.040 --> 00:43:38.140
+müssten wir wahrscheinlich in den Abend hinein podcasten
+
+00:43:38.140 --> 00:43:40.140
+und noch ein bisschen Wein mit dazu nehmen,
+
+00:43:40.140 --> 00:43:42.230
+aber auch super spannend.
+
+00:43:42.230 --> 00:43:46.610
+Es gibt diese Entwicklungen und diese Beispiele ja,
+
+00:43:46.610 --> 00:43:48.610
+und die gibt es auch in Deutschland.
+
+00:43:48.610 --> 00:43:50.640
+Also B Corp-zertifizierte Unternehmen,
+
+00:43:50.640 --> 00:43:53.630
+jetzt in Patagonia glaube ich einen der höchsten B Corp-Scores,
+
+00:43:53.630 --> 00:43:54.690
+den es so gibt,
+
+00:43:54.690 --> 00:43:59.750
+aber natürlich siehst du auch mehr und mehr B Corp-Unternehmen in Deutschland,
+
+00:43:59.750 --> 00:44:01.750
+wo mehr und mehr Leute wissen, was das eigentlich bedeutet
+
+00:44:01.750 --> 00:44:04.750
+und trotzdem ist es noch ein relativ kleiner Anteil.
+
+00:44:04.750 --> 00:44:06.850
+Ich glaube, gerade bei den Organisationen,
+
+00:44:06.850 --> 00:44:10.850
+die jetzt klassisch Kapitalmarkt orientiert sind
+
+00:44:10.850 --> 00:44:14.850
+und da auch irgendwie mit Aktien der Börse gelistet sind und so weiter,
+
+00:44:14.850 --> 00:44:18.420
+da gibt es natürliche Belange über den reinen Begriff
+
+00:44:18.420 --> 00:44:19.420
+des Shareholder-Values hinaus.
+
+00:44:19.420 --> 00:44:21.420
+Wir sind schon lange beim Stakeholder-Value.
+
+00:44:21.420 --> 00:44:22.610
+Die Frage ist,
+
+00:44:22.610 --> 00:44:25.610
+was kann eigentlich die nächste spannende Entwicklungsstufe davon sein?
+
+00:44:25.610 --> 00:44:30.060
+Es gibt solche Begriffe wie Right-Holder-Value-Ship und so weiter und so fort,
+
+00:44:30.060 --> 00:44:32.070
+also auch alle Leute an den Tisch zu bringen,
+
+00:44:32.070 --> 00:44:34.100
+die vermeidlich einen,
+
+00:44:34.100 --> 00:44:36.260
+die keine Stimme haben,
+
+00:44:36.260 --> 00:44:39.450
+aber vermeidlich ein Interesse an dem haben,
+
+00:44:39.450 --> 00:44:42.510
+was die Firma macht und so weiter und so fort.
+
+00:44:42.510 --> 00:44:44.110
+Ich glaube,
+
+00:44:44.110 --> 00:44:46.200
+das erhält langsam Einzug
+
+00:44:46.200 --> 00:44:48.200
+und wir haben natürlich total Spaß,
+
+00:44:48.200 --> 00:44:50.330
+auch in solchen Organisationen zu arbeiten.
+
+00:44:50.330 --> 00:44:52.330
+Die Realität, die wir da draußen sehen,
+
+00:44:52.330 --> 00:44:55.640
+ist, dass über weite 90 Prozent der Organisationen
+
+00:44:55.640 --> 00:44:57.570
+eben noch sehr klassisch agieren
+
+00:44:57.570 --> 00:44:58.790
+und ich glaube,
+
+00:44:58.790 --> 00:45:00.790
+unser Job kann und wird auch mit sein,
+
+00:45:00.790 --> 00:45:03.040
+vielleicht eine Unterstützung dafür zu sein
+
+00:45:03.040 --> 00:45:05.460
+und die Unterstützung dafür zu geben,
+
+00:45:05.460 --> 00:45:07.360
+diesem Kulturbegriff
+
+00:45:07.360 --> 00:45:09.490
+mehr Leben, mehr Selbstverständnis,
+
+00:45:09.490 --> 00:45:10.490
+mehr Relevanz
+
+00:45:10.490 --> 00:45:16.840
+und mehr Raum in Organisationen zu ermöglichen,
+
+00:45:16.840 --> 00:45:19.900
+dass daraus vielleicht irgendwann mal das entstehen kann.
+
+00:45:19.900 --> 00:45:23.590
+Aber ich glaube,
+
+00:45:23.590 --> 00:45:25.620
+man muss die Treppenstufen so nehmen,
+
+00:45:25.620 --> 00:45:26.620
+wie sie vor einem liegen
+
+00:45:26.620 --> 00:45:27.620
+und nicht den Versuch unternehmen,
+
+00:45:27.620 --> 00:45:29.620
+50 Treppenstufen mit einem Sprung zu überspringen.
+
+00:45:29.620 --> 00:45:31.680
+Da fällt man nämlich üblicherweise runter.
+
+00:45:31.680 --> 00:45:33.930
+Deswegen braucht es, glaube ich,
+
+00:45:33.930 --> 00:45:34.930
+one step at a time.
+
+00:45:34.930 --> 00:45:38.870
+Ich will gerade eine Sache auch greifen,
+
+00:45:38.870 --> 00:45:39.870
+Daniel, die du gesagt hast,
+
+00:45:39.870 --> 00:45:40.870
+weil die verbindet, glaube ich,
+
+00:45:40.870 --> 00:45:41.870
+von dir, Sebastian,
+
+00:45:41.870 --> 00:45:42.870
+die da vorne, die jetzige,
+
+00:45:42.870 --> 00:45:43.870
+um jetzt auch auf einer eher
+
+00:45:43.870 --> 00:45:47.790
+noch mal höheren Ebene zu antworten.
+
+00:45:47.790 --> 00:45:49.790
+Fredrik Lallou, Reinventing Organisations,
+
+00:45:49.790 --> 00:45:50.790
+kennen wir, glaube ich,
+
+00:45:50.790 --> 00:45:51.790
+haben viele gelesen,
+
+00:45:51.790 --> 00:45:52.790
+es sind viele Leute im Munde sozusagen.
+
+00:45:52.790 --> 00:45:53.790
+Und ich glaube,
+
+00:45:53.790 --> 00:45:54.790
+die Antwort auf,
+
+00:45:54.790 --> 00:45:55.790
+egal was wir jetzt hier thematisch diskutieren,
+
+00:45:55.790 --> 00:45:57.790
+ist immer Raum schaffen.
+
+00:45:57.790 --> 00:45:58.790
+Das hast du gerade auch so schön gesagt,
+
+00:45:58.790 --> 00:45:59.790
+den Raum schaffen,
+
+00:45:59.790 --> 00:46:00.790
+um das überhaupt zu thematisieren.
+
+00:46:00.790 --> 00:46:02.940
+Ich glaube, da fängt alles an.
+
+00:46:02.940 --> 00:46:05.030
+Die meisten Firmen schaffen diese Räume,
+
+00:46:05.030 --> 00:46:06.030
+die Zeit am Ende,
+
+00:46:06.030 --> 00:46:08.030
+heißt es ja mit anderen Worten,
+
+00:46:08.030 --> 00:46:09.030
+die Zeit nicht dafür,
+
+00:46:09.030 --> 00:46:10.030
+sondern die Zeit,
+
+00:46:10.030 --> 00:46:11.030
+der Wert der Zeit wird immer daran gemessen,
+
+00:46:11.030 --> 00:46:12.030
+waren wir operativ tätig,
+
+00:46:12.030 --> 00:46:14.030
+also sind wir dem Tagesgeschäft nachgekommen
+
+00:46:14.030 --> 00:46:15.030
+und legen noch die nächste Schippe drauf,
+
+00:46:15.030 --> 00:46:16.030
+für die nächste Schippe.
+
+00:46:16.030 --> 00:46:19.350
+Und es wird viel zu wenig Zeit und Raum eingeräumt
+
+00:46:19.350 --> 00:46:20.350
+für diese Themen.
+
+00:46:20.350 --> 00:46:21.350
+Und wenn du das schaffst,
+
+00:46:21.350 --> 00:46:22.350
+dann kannst du die Antwort beantworten,
+
+00:46:22.350 --> 00:46:23.350
+die Frage beantworten,
+
+00:46:23.350 --> 00:46:24.350
+die du hattest mit,
+
+00:46:24.350 --> 00:46:25.440
+wie schafft ihr die Kultur
+
+00:46:25.440 --> 00:46:27.440
+in die Strategie einfließen zu lassen?
+
+00:46:27.440 --> 00:46:28.470
+Wie schafft ihr es,
+
+00:46:28.470 --> 00:46:30.470
+das Thema Nachhaltigkeit
+
+00:46:30.470 --> 00:46:31.470
+mit einfließen zu lassen?
+
+00:46:31.470 --> 00:46:32.470
+Wie schafft ihr es,
+
+00:46:32.470 --> 00:46:33.470
+XXXYYY,
+
+00:46:33.470 --> 00:46:36.470
+ersetzt diese X und Y mit Thema,
+
+00:46:36.470 --> 00:46:37.720
+egal welches Thema?
+
+00:46:37.720 --> 00:46:38.720
+Es geht immer darum,
+
+00:46:38.720 --> 00:46:39.720
+haben wir die Zeit dafür?
+
+00:46:39.720 --> 00:46:42.000
+In so einem Alleinstrategie-Workshop immer ausgerichtet auch,
+
+00:46:42.000 --> 00:46:43.000
+okay, wie lange braucht man die Themen,
+
+00:46:43.000 --> 00:46:44.000
+die Ziele zu definieren?
+
+00:46:44.000 --> 00:46:45.000
+Vier Stunden,
+
+00:46:45.000 --> 00:46:46.000
+dann schaffst du die Ziele,
+
+00:46:46.000 --> 00:46:46.970
+aber wann ist mal die Zeit zu sagen,
+
+00:46:46.970 --> 00:46:48.220
+okay, zwei Stunden danach,
+
+00:46:48.220 --> 00:46:50.370
+wie haben wir uns gerade selbst erlebt?
+
+00:46:50.370 --> 00:46:51.370
+Wie war eigentlich die Kultur in dem Raum,
+
+00:46:51.370 --> 00:46:53.370
+während wir die Strategie geprägt haben?
+
+00:46:53.370 --> 00:46:55.560
+Was sagt das schon über uns aus?
+
+00:46:55.560 --> 00:46:56.560
+Es gibt da schöne Beispiele,
+
+00:46:56.560 --> 00:46:58.560
+deswegen hatte ich das Buch gerade angesprochen,
+
+00:46:58.560 --> 00:46:59.560
+die Heiligenfeld-Kliniken,
+
+00:46:59.560 --> 00:47:00.560
+die den Schwerpunkt
+
+00:47:00.560 --> 00:47:01.560
+der psychosomatischen Behandlung haben,
+
+00:47:01.560 --> 00:47:04.530
+die der Frederik Lalu ja auch erwähnt.
+
+00:47:04.530 --> 00:47:05.620
+Die haben zum Beispiel gesagt,
+
+00:47:05.620 --> 00:47:06.620
+jeden Dienstagmorgen
+
+00:47:06.620 --> 00:47:08.620
+kommen die ganze 350 Mitarbeiter
+
+00:47:08.620 --> 00:47:09.570
+alle zusammen
+
+00:47:09.570 --> 00:47:12.710
+und reflektieren und reden über ein kulturelles Thema,
+
+00:47:12.710 --> 00:47:13.710
+das kann sein eine Konfliktlösung,
+
+00:47:13.710 --> 00:47:14.710
+das kann sein was auch immer,
+
+00:47:14.710 --> 00:47:16.710
+die nehmen sich einfach die Zeit
+
+00:47:16.710 --> 00:47:17.710
+und ich glaube,
+
+00:47:17.710 --> 00:47:18.710
+da sind wir beim nächsten Thema,
+
+00:47:18.710 --> 00:47:19.710
+wie wichtig es ist,
+
+00:47:19.710 --> 00:47:21.680
+das Top-Management mit an Bord zu haben,
+
+00:47:21.680 --> 00:47:23.680
+weil am Ende werden da die Weichen für diese,
+
+00:47:23.680 --> 00:47:24.680
+und da wird es vorgelebt
+
+00:47:24.680 --> 00:47:25.680
+und die Weichen gestellt,
+
+00:47:25.680 --> 00:47:26.680
+um diese Zeit einzuräumen.
+
+00:47:26.680 --> 00:47:28.740
+Ja, wenn immer wir mit Kulturarbeit reinkommen,
+
+00:47:28.740 --> 00:47:31.060
+ist ja immer die große Angst,
+
+00:47:31.060 --> 00:47:33.060
+das kommt jetzt on top.
+
+00:47:33.060 --> 00:47:34.120
+Nein.
+
+00:47:34.120 --> 00:47:35.120
+Kultur kommt nicht on top,
+
+00:47:35.120 --> 00:47:36.120
+Kultur ist gerade genau hier,
+
+00:47:36.120 --> 00:47:37.120
+während wir reden,
+
+00:47:37.120 --> 00:47:38.120
+es ist überall präsent.
+
+00:47:38.120 --> 00:47:41.310
+Wir nehmen nur nie die dedizierte Zeit,
+
+00:47:41.310 --> 00:47:42.310
+das mal zu thematisieren,
+
+00:47:42.310 --> 00:47:43.310
+darüber zu reden,
+
+00:47:43.310 --> 00:47:44.310
+Meinungen austauschen,
+
+00:47:44.310 --> 00:47:45.310
+ein gemeinsames Bild zu entwickeln.
+
+00:47:45.310 --> 00:47:46.310
+Und ich glaube,
+
+00:47:46.310 --> 00:47:48.410
+das ist ganz, ganz wichtig an der Stelle
+
+00:47:48.410 --> 00:47:49.410
+und das wäre auch jetzt theoretisch
+
+00:47:49.410 --> 00:47:51.600
+der zweite Baustein,
+
+00:47:51.600 --> 00:47:53.920
+den wir in dieser Kiste haben.
+
+00:47:53.920 --> 00:47:54.920
+Ich gucke aber gerade auch noch mal
+
+00:47:54.920 --> 00:47:56.920
+auf die Uhr und in deine Richtung, Manuel.
+
+00:47:56.920 --> 00:47:57.920
+Vielleicht gebe ich erst mal
+
+00:47:57.920 --> 00:47:58.920
+das Wort noch mal an dich
+
+00:47:58.920 --> 00:48:00.920
+unter Berücksichtigung der Zeit
+
+00:48:00.920 --> 00:48:01.920
+und du gibst uns ein Signal,
+
+00:48:01.920 --> 00:48:02.920
+was wir jetzt machen
+
+00:48:02.920 --> 00:48:04.150
+mit den Verbleinern.
+
+00:48:04.150 --> 00:48:05.240
+Genau.
+
+00:48:05.240 --> 00:48:06.240
+Also wir haben uns ja auch
+
+00:48:06.240 --> 00:48:08.400
+im Vorgespräch schon mal überlegt,
+
+00:48:08.400 --> 00:48:09.390
+dass wir es vielleicht thematisch
+
+00:48:09.390 --> 00:48:11.580
+nicht alles jetzt in einer Folge
+
+00:48:11.580 --> 00:48:12.580
+unterkriegen,
+
+00:48:12.580 --> 00:48:13.580
+dass wir vielleicht mal
+
+00:48:13.580 --> 00:48:14.580
+einen zweiten Teil machen.
+
+00:48:14.580 --> 00:48:15.740
+Vielleicht fände ich auch
+
+00:48:15.740 --> 00:48:16.740
+noch mal interessant,
+
+00:48:16.740 --> 00:48:17.740
+du hast eben gesagt,
+
+00:48:17.740 --> 00:48:19.830
+diese Kulturanalyse als Baustein.
+
+00:48:19.830 --> 00:48:21.560
+So persönlich finde ich es
+
+00:48:21.560 --> 00:48:22.560
+immer schwierig,
+
+00:48:22.560 --> 00:48:23.560
+das messbar zu machen.
+
+00:48:23.560 --> 00:48:24.560
+Also Kultur,
+
+00:48:24.560 --> 00:48:25.560
+wie macht man Kultur messbar?
+
+00:48:25.560 --> 00:48:27.560
+Also fände ich sehr interessant,
+
+00:48:27.560 --> 00:48:28.560
+mal da noch mehr Infos
+
+00:48:28.560 --> 00:48:30.720
+von euch zu bekommen.
+
+00:48:30.720 --> 00:48:32.720
+Aber vielleicht das mal
+
+00:48:32.720 --> 00:48:33.720
+in der zweiten Folge
+
+00:48:33.720 --> 00:48:35.720
+kann man da ja aufbauen.
+
+00:48:36.740 --> 00:48:38.750
+Wenn jetzt die Zuhörerinnen
+
+00:48:38.750 --> 00:48:39.750
+und Zuhörer
+
+00:48:39.750 --> 00:48:40.750
+jetzt zum Ende der Folge
+
+00:48:40.750 --> 00:48:42.750
+eins mitnehmen müssten
+
+00:48:42.750 --> 00:48:43.750
+aus der Folge,
+
+00:48:43.750 --> 00:48:44.750
+was wäre das
+
+00:48:44.750 --> 00:48:45.750
+eurer Meinung nach?
+
+00:48:45.750 --> 00:48:50.530
+Vielleicht
+
+00:48:50.530 --> 00:48:53.050
+mache ich noch mal
+
+00:48:53.050 --> 00:48:53.150
+ja,
+
+00:48:53.050 --> 00:48:54.190
+vielleicht mache ich noch mal
+
+00:48:54.190 --> 00:48:55.170
+plus eins an das,
+
+00:48:55.170 --> 00:48:56.380
+an das,
+
+00:48:56.380 --> 00:48:57.470
+was Sven gerade gesagt hat.
+
+00:48:57.470 --> 00:49:00.390
+Sich mit dem Thema
+
+00:49:00.390 --> 00:49:01.390
+Kultur
+
+00:49:01.390 --> 00:49:02.710
+und dem Versuch,
+
+00:49:02.710 --> 00:49:03.710
+die Kultur,
+
+00:49:03.710 --> 00:49:04.710
+die sowieso da ist
+
+00:49:04.710 --> 00:49:05.710
+und die sich sowieso
+
+00:49:05.710 --> 00:49:06.710
+jeden Tag weiterentwickelt
+
+00:49:06.710 --> 00:49:07.710
+von ganz alleine,
+
+00:49:07.710 --> 00:49:08.770
+der einen kleinen Schubs
+
+00:49:08.770 --> 00:49:09.770
+in eine Richtung zu geben,
+
+00:49:09.770 --> 00:49:10.770
+die vermeintlich
+
+00:49:10.770 --> 00:49:12.310
+schöner,
+
+00:49:12.310 --> 00:49:13.310
+besser,
+
+00:49:13.310 --> 00:49:14.310
+strategiepassender
+
+00:49:14.310 --> 00:49:15.310
+Erfolgsversprechender,
+
+00:49:15.310 --> 00:49:17.890
+was auch immer ist.
+
+00:49:17.890 --> 00:49:19.620
+Es braucht
+
+00:49:19.620 --> 00:49:21.670
+viel
+
+00:49:21.670 --> 00:49:22.920
+Aufmerksamkeit,
+
+00:49:22.920 --> 00:49:23.920
+Liebe
+
+00:49:23.920 --> 00:49:24.890
+und Zeit.
+
+00:49:24.890 --> 00:49:27.360
+Und wenn ich mir die nicht nehme,
+
+00:49:27.360 --> 00:49:28.740
+dann
+
+00:49:28.740 --> 00:49:30.250
+sollte ich im besten Fall
+
+00:49:30.250 --> 00:49:31.250
+auch gar nicht mit
+
+00:49:31.250 --> 00:49:32.250
+diesem Kulturbegriff
+
+00:49:32.250 --> 00:49:33.250
+so mutig um mich werfen,
+
+00:49:33.250 --> 00:49:34.250
+weil dann ist es
+
+00:49:34.250 --> 00:49:35.250
+ehrlicherweise nur
+
+00:49:35.250 --> 00:49:36.250
+Augenwischerei
+
+00:49:36.250 --> 00:49:37.510
+und vermutlich
+
+00:49:37.510 --> 00:49:38.820
+ruhig
+
+00:49:38.820 --> 00:49:40.100
+dem Kulturselbstverständnis
+
+00:49:40.100 --> 00:49:41.100
+der Organisation
+
+00:49:41.100 --> 00:49:42.100
+sogar eher
+
+00:49:42.100 --> 00:49:43.100
+was Schlechtes
+
+00:49:43.100 --> 00:49:44.550
+als was Gutes,
+
+00:49:44.550 --> 00:49:45.800
+wenn ich den Eindruck
+
+00:49:45.800 --> 00:49:46.800
+vermittle,
+
+00:49:46.800 --> 00:49:47.800
+wenn ich den Eindruck
+
+00:49:47.800 --> 00:49:48.990
+vermittle,
+
+00:49:48.990 --> 00:49:50.090
+ich könnte mit ein paar
+
+00:49:50.090 --> 00:49:52.180
+punktuellen Nuancen
+
+00:49:52.180 --> 00:49:54.370
+die Kultur in der Organisation bewegen.
+
+00:49:54.370 --> 00:49:55.370
+Das nimmt dann
+
+00:49:55.370 --> 00:49:56.370
+Kultur und die Menschen,
+
+00:49:56.370 --> 00:49:57.370
+die diese Kultur prägen,
+
+00:49:57.370 --> 00:49:59.560
+eben nicht ausreichend wahr.
+
+00:49:59.560 --> 00:50:01.620
+Das ist nicht die ausreichende Wertschätzung
+
+00:50:01.620 --> 00:50:02.620
+gegenüber der Kultur
+
+00:50:02.620 --> 00:50:03.620
+und den Menschen,
+
+00:50:03.620 --> 00:50:04.560
+die diese Kultur machen
+
+00:50:04.560 --> 00:50:05.580
+und es auch nicht das echte
+
+00:50:05.580 --> 00:50:06.580
+gesehen werden von dem,
+
+00:50:06.580 --> 00:50:07.580
+was tatsächlich da ist.
+
+00:50:07.580 --> 00:50:08.700
+Von daher
+
+00:50:08.700 --> 00:50:10.760
+seid mutig,
+
+00:50:10.760 --> 00:50:11.760
+nehmt euch die Zeit heraus
+
+00:50:11.760 --> 00:50:12.760
+und lasst uns dazu kommen,
+
+00:50:12.760 --> 00:50:14.170
+dass es
+
+00:50:14.170 --> 00:50:16.220
+zu einem Selbstverständnis wird,
+
+00:50:16.220 --> 00:50:18.300
+an
+
+00:50:18.300 --> 00:50:19.390
+uns selber
+
+00:50:19.390 --> 00:50:20.390
+und an unserer Kultur
+
+00:50:20.390 --> 00:50:21.390
+zu arbeiten,
+
+00:50:21.390 --> 00:50:22.390
+genauso wie wir
+
+00:50:22.390 --> 00:50:23.390
+operativen To-dos erledigen.
+
+00:50:23.390 --> 00:50:24.390
+Das muss
+
+00:50:24.390 --> 00:50:25.390
+Bestandteil unserer
+
+00:50:25.390 --> 00:50:26.480
+Tagesaufgabe
+
+00:50:26.480 --> 00:50:27.480
+in einer Organisation sein,
+
+00:50:27.480 --> 00:50:28.480
+in der Zukunft,
+
+00:50:28.480 --> 00:50:29.670
+wenn wir
+
+00:50:29.670 --> 00:50:30.730
+rückrundsorientiert
+
+00:50:30.730 --> 00:50:31.730
+agieren wollen
+
+00:50:31.730 --> 00:50:32.700
+und bestehen wollen.
+
+00:50:32.700 --> 00:50:37.380
+Ich kann mich da auch
+
+00:50:37.380 --> 00:50:38.380
+nur anschließen.
+
+00:50:38.380 --> 00:50:38.480
+Ich würde es
+
+00:50:38.380 --> 00:50:39.380
+genau noch einmal
+
+00:50:39.380 --> 00:50:40.380
+auf den Punkt bringen,
+
+00:50:40.380 --> 00:50:41.380
+zumindest auf den Punkt,
+
+00:50:41.380 --> 00:50:43.380
+den ich mitgeben würde.
+
+00:50:43.380 --> 00:50:44.380
+Nehmt euch einfach Zeit.
+
+00:50:44.380 --> 00:50:45.380
+Also fangt an,
+
+00:50:45.380 --> 00:50:47.890
+Zeiten und Räume einzurichten,
+
+00:50:47.890 --> 00:50:48.890
+wo über solche Themen
+
+00:50:48.890 --> 00:50:49.890
+gesprochen wird.
+
+00:50:49.890 --> 00:50:50.890
+Und macht nicht eine 5-Tage-Rocker,
+
+00:50:50.890 --> 00:50:51.890
+40-Stunden-Woche
+
+00:50:51.890 --> 00:50:52.890
+voll mit operativen
+
+00:50:52.890 --> 00:50:53.890
+Tätigkeiten,
+
+00:50:53.890 --> 00:50:54.890
+sondern plant
+
+00:50:54.890 --> 00:50:55.890
+im besten Fall
+
+00:50:55.890 --> 00:50:57.890
+da gibt es wirklich schöne Beispiele.
+
+00:50:57.890 --> 00:50:58.890
+Wie gesagt,
+
+00:50:58.890 --> 00:51:00.180
+Heiligenfeld einfach mal eingeben.
+
+00:51:00.180 --> 00:51:01.180
+Wenn man das,
+
+00:51:01.180 --> 00:51:02.180
+das ist auch so nochmal
+
+00:51:02.180 --> 00:51:03.180
+in der Theorie der,
+
+00:51:03.180 --> 00:51:04.180
+wie kann ich Veränderungen
+
+00:51:04.180 --> 00:51:05.180
+auf einer gesellschaftlichen Ebene skalieren.
+
+00:51:05.180 --> 00:51:06.150
+Also,
+
+00:51:06.150 --> 00:51:07.150
+sobald wir merken,
+
+00:51:07.150 --> 00:51:08.150
+es ist ein Standard vermeintlicher.
+
+00:51:08.150 --> 00:51:09.150
+Alle machen mit,
+
+00:51:09.150 --> 00:51:10.330
+alle sind dabei.
+
+00:51:10.330 --> 00:51:11.330
+Das ist ein ganz anderes,
+
+00:51:11.330 --> 00:51:12.330
+ganz anderes Momentum,
+
+00:51:12.330 --> 00:51:13.280
+was da entsteht.
+
+00:51:13.280 --> 00:51:13.380
+Also,
+
+00:51:13.280 --> 00:51:14.710
+richtet Zeit ein
+
+00:51:14.710 --> 00:51:15.710
+regelmäßig.
+
+00:51:15.710 --> 00:51:16.710
+Freitag,
+
+00:51:16.710 --> 00:51:18.710
+Vormittag ist einfach Kulturzeit.
+
+00:51:18.710 --> 00:51:19.710
+Nennt es Kulturzeit,
+
+00:51:19.710 --> 00:51:20.740
+nennt es was auch immer.
+
+00:51:20.740 --> 00:51:21.740
+Und macht es am besten
+
+00:51:21.740 --> 00:51:22.930
+überall gleich.
+
+00:51:22.930 --> 00:51:23.930
+Hängt draußen das Schild ein
+
+00:51:23.930 --> 00:51:24.930
+für die Kunden.
+
+00:51:24.930 --> 00:51:25.930
+Wir sind freitags von 9-12
+
+00:51:25.930 --> 00:51:26.930
+beschlossen.
+
+00:51:26.930 --> 00:51:27.930
+Da beschäftigen wir uns mit uns,
+
+00:51:27.930 --> 00:51:28.830
+was auch immer es ist.
+
+00:51:28.830 --> 00:51:30.180
+Und ihr müsst noch nicht
+
+00:51:30.180 --> 00:51:31.180
+alle Antworten mitbringen
+
+00:51:31.180 --> 00:51:32.180
+auf die Themen,
+
+00:51:32.180 --> 00:51:33.530
+die dann hochkommen.
+
+00:51:33.530 --> 00:51:34.530
+Lernt gemeinsam,
+
+00:51:34.530 --> 00:51:35.530
+erkundet es gemeinsam,
+
+00:51:35.530 --> 00:51:36.530
+erforscht es gemeinsam.
+
+00:51:36.530 --> 00:51:37.590
+Wenn ihr Hilfe braucht,
+
+00:51:37.590 --> 00:51:38.590
+holt euch die externen.
+
+00:51:38.590 --> 00:51:39.590
+Dafür gibt es diese Leute.
+
+00:51:39.590 --> 00:51:41.750
+Wenn ich ein Haus planen möchte,
+
+00:51:41.750 --> 00:51:42.750
+bestätige ich auch mich erstmal selber.
+
+00:51:42.750 --> 00:51:43.750
+Wie soll es aussehen?
+
+00:51:43.750 --> 00:51:44.750
+Meine Vision des Hauses.
+
+00:51:44.750 --> 00:51:45.750
+Aber dann fange ich nicht an,
+
+00:51:45.750 --> 00:51:47.850
+selbst die Gas- und Wasserleitung
+
+00:51:47.850 --> 00:51:48.850
+und Elektroleitung einzuziehen,
+
+00:51:48.850 --> 00:51:50.810
+wenn ich es nicht selbst gelernt habe.
+
+00:51:50.810 --> 00:51:52.010
+Aber ich brauche erstmal die Zeit,
+
+00:51:52.010 --> 00:51:53.010
+mich zu sortieren.
+
+00:51:53.010 --> 00:51:53.110
+Und ich glaube,
+
+00:51:53.010 --> 00:51:54.010
+das würde ich erstmal mitgeben.
+
+00:51:54.010 --> 00:51:55.010
+Nennt euch die Zeit,
+
+00:51:55.010 --> 00:51:56.010
+sortiert euch,
+
+00:51:57.330 --> 00:51:58.330
+und schaut dann,
+
+00:51:58.330 --> 00:51:59.330
+wie braucht ihr das
+
+00:51:59.330 --> 00:52:01.320
+und wer kann da helfen?
+
+00:52:01.320 --> 00:52:02.320
+Ja, das sind doch schöne letzte Worte
+
+00:52:02.320 --> 00:52:03.320
+für diese Folge.
+
+00:52:03.320 --> 00:52:04.320
+Also wir werden sicher
+
+00:52:04.320 --> 00:52:07.320
+noch eine zweite Folge dazu machen.
+
+00:52:07.320 --> 00:52:08.320
+Ja, dann vielen Dank schon mal
+
+00:52:08.320 --> 00:52:09.320
+für die Zeit
+
+00:52:09.320 --> 00:52:10.810
+und für die Input heute.

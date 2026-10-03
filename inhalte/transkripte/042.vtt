@@ -1,0 +1,2302 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #42: #42 Team Topologies mit Felix Stein
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:00.800 --> 00:00:10.130
+Im Idealfall ist möglichst viel in diesen Screen-Aline-Teams drin, weil je mehr ich da rausnehme, desto mehr Abhängigkeiten habe ich.
+
+00:00:10.130 --> 00:00:16.530
+Selbst wenn ich sage, ich habe bei diesem Zusammenarbeitstyp Collaboration, dann machen wir einfach das möglichst strukturiert, aber trotzdem einfach.
+
+00:00:16.530 --> 00:00:22.750
+Es ist ja doch ein Verzögerungsfaktor. Und die spannende Frage, die man nicht genau beantworten kann,
+
+00:00:22.750 --> 00:00:29.570
+ab welcher Stelle würde eben die kognitive Mehrbelastung durch das Reinnehmen eines Themas so hoch werden,
+
+00:00:29.570 --> 00:00:35.200
+dass es den Gewinn wieder aufrisst, der dadurch entstanden wird, dass das Team alles Mögliche selber kann.
+
+00:00:35.200 --> 00:00:42.300
+VUCA Blaster.
+
+00:00:42.300 --> 00:00:51.220
+Ja, herzlich willkommen zu einer neuen Folge des VUCA Blasters. Heute mit den Hosts Dörte und Manuel.
+
+00:00:51.220 --> 00:01:01.120
+Und wir haben als Gast Felix Stein. Er ist seit 2010 Geschäftsführer, Agile Transformation Coach bei Agile Process GmbH.
+
+00:01:01.120 --> 00:01:10.060
+Die begleiten agile Teams und agile Unternehmens-Transformationen. Ist auch der Autor von Agile Missions Impossible.
+
+00:01:10.060 --> 00:01:16.830
+Ich glaube noch relativ frisch, wie ich auf LinkedIn gesehen habe. Und genau, herzlich willkommen in der Folge, Felix.
+
+00:01:16.830 --> 00:01:18.960
+Ja, schön, dass ich da sein kann.
+
+00:01:18.960 --> 00:01:27.130
+Fehlt dir noch was, was für die Zuhörerinnen und Zuhörer vielleicht wichtig sein könnte, was dir wichtig ist, was sie über dich wissen sollten?
+
+00:01:27.130 --> 00:01:34.890
+Vielleicht, um nicht den gesamten Ruhm alleine einzuheißen, das gerade genannte Buch Agile Missions Impossible ist nicht alleine von mir.
+
+00:01:34.890 --> 00:01:38.660
+Das ist eine Kurzgeschichtensammlung und ich habe eine von 50 beigetragen.
+
+00:01:38.660 --> 00:01:39.660
+Okay.
+
+00:01:39.660 --> 00:01:44.800
+In meiner ersten Veröffentlichung, also ähnlich wie ihr, habe ich ja vermutlich die große Schwierigkeit,
+
+00:01:44.800 --> 00:01:48.040
+auf Partys Leuten niemals erklären zu können, was ich eigentlich beruflich mache.
+
+00:01:48.040 --> 00:01:51.840
+Ich kann jetzt immer sagen, ich bin Autor. Das steht dann jeder sofort.
+
+00:01:51.840 --> 00:01:53.030
+Das klar.
+
+00:01:53.030 --> 00:01:59.070
+Hast du es ja nicht zusammengefasst. Ja, also was meine Firma ist und was sie tut, ist ganz klar.
+
+00:01:59.070 --> 00:02:03.790
+Unterstützung von Agilen Teams und Transitionen, da mache ich auch gerne immer wieder mit.
+
+00:02:03.790 --> 00:02:08.100
+Und das eben seit über zehn Jahren. Das heißt, ich glaube, das eine oder andere habe ich schon gesehen,
+
+00:02:08.100 --> 00:02:11.840
+was dann eben auch schönen Stoff für Auftritte wie den hier ist.
+
+00:02:11.840 --> 00:02:14.930
+Als allerletztes vielleicht noch...
+
+00:02:14.930 --> 00:02:19.630
+Vielleicht auch für das Buch ist ja auch interessant mal so ein paar...
+
+00:02:19.630 --> 00:02:22.510
+Ja, definitiv. Definitiv.
+
+00:02:22.510 --> 00:02:27.760
+Als letztes vielleicht noch, ich bin einer der Mitorganisatoren des Adler Meetup in Bonn,
+
+00:02:27.760 --> 00:02:29.320
+des Bonner Sprumtisch.
+
+00:02:29.320 --> 00:02:36.190
+Das heißt, jeder, der mal das Bedürfnis hat, über Agilität im entspannten Rahmen zu reden,
+
+00:02:36.190 --> 00:02:41.390
+kann immer am zweiten Dienstag im Monat vorbeikommen, wird als Open Space durchgeführt.
+
+00:02:41.390 --> 00:02:43.440
+Da freuen wir uns über jeden der Tage.
+
+00:02:43.440 --> 00:02:48.740
+Genau, aber ich glaube, das ist es in aller Schnelle und aller Klasse zu mir.
+
+00:02:48.740 --> 00:02:53.110
+Dann kommen auch zu den Check-in Fragen.
+
+00:02:53.110 --> 00:02:56.110
+Manche mögen es, manche nicht. Mal schauen.
+
+00:02:56.110 --> 00:02:57.290
+Lass mich überraschen.
+
+00:02:57.290 --> 00:02:58.960
+Ich mische mal durch.
+
+00:02:58.960 --> 00:03:04.520
+Die erste Frage wäre, worauf bist du stolz?
+
+00:03:04.520 --> 00:03:07.520
+Das ist eine sehr spannende Frage.
+
+00:03:07.520 --> 00:03:15.170
+Also tatsächlich würde ich sagen, bis zu einem gewissen Grad natürlich auf beruflichen Erfolg.
+
+00:03:15.170 --> 00:03:21.160
+Also dass wir meine Firma jetzt schon seit über zehn Jahren auf dem doch intensiven Beratermarkt
+
+00:03:21.160 --> 00:03:25.400
+immer noch am Leben gehalten und erfolgreich gemacht haben, das glaube ich, ist schon eine Sache.
+
+00:03:25.400 --> 00:03:27.450
+Das kann nicht jeder von sich sagen.
+
+00:03:27.450 --> 00:03:28.740
+Das ist gut.
+
+00:03:28.740 --> 00:03:35.860
+Und auch wenn wir in dem beruflichen Kontext bleiben, dass ich regelmäßig das Feedback
+
+00:03:35.860 --> 00:03:40.410
+von verschiedensten Leuten bekomme, dass das, was ich da mache, denen irgendwas gebracht.
+
+00:03:40.410 --> 00:03:45.410
+Und sei es von irgendwo Geschäftsführungsebene oben, dass sie sagen, okay, unser Unternehmen
+
+00:03:45.410 --> 00:03:47.410
+läuft jetzt als Ganzes ein bisschen besser.
+
+00:03:47.410 --> 00:03:49.500
+Oder ganz unten von der Team-Ebene.
+
+00:03:49.500 --> 00:03:52.590
+Das heißt, mir macht die Arbeit jetzt mehr Freude als vorher.
+
+00:03:52.590 --> 00:03:55.430
+Das sind Sachen, die einfach toll sind.
+
+00:03:55.430 --> 00:03:58.490
+Und ansonsten die Kleinigkeiten natürlich.
+
+00:03:58.490 --> 00:04:02.490
+Also wie viele andere Leute bin ich begeistert, wenn mir mal irgendwann ein besonders leckeres
+
+00:04:02.490 --> 00:04:04.490
+Essen gelungen ist, was nicht angebrannt ist.
+
+00:04:04.490 --> 00:04:07.610
+Aber das ist dann der kleine Stolz nebenbei.
+
+00:04:07.610 --> 00:04:11.880
+Ja, aber es ist ja schön, wenn man so positives Feedback auch bekommt.
+
+00:04:11.880 --> 00:04:18.910
+Die zweite Check-in-Frage ist, welche Eigenschaft schätzt du an dir?
+
+00:04:18.910 --> 00:04:22.360
+An mir selbst, um Gottes Willen.
+
+00:04:22.360 --> 00:04:26.360
+Ich habe ja irgendwann mal aufgehört, mich selber beurteilen zu wollen und habe mir gedacht,
+
+00:04:26.360 --> 00:04:28.410
+das überlasse ich lieber anderen Menschen.
+
+00:04:28.410 --> 00:04:37.540
+Aber vermutlich, würde ich sagen, dass es sehr schwer ist, mich über irgendetwas nachhaltig aufzubringen.
+
+00:04:37.540 --> 00:04:42.830
+Es ist etwas, was mir sowohl im Privaten als auch im Beruflichen an der einen oder anderen Stelle
+
+00:04:42.830 --> 00:04:44.830
+durchaus mal was gebracht hat.
+
+00:04:44.830 --> 00:04:48.890
+Nicht direkt bei verschiedensten Anlässen in die Luft zu gehen, sondern zu sagen,
+
+00:04:48.890 --> 00:04:52.800
+okay, hören wir es uns mal an, selbst wenn es auf dem Herzen nicht komisch klingt.
+
+00:04:52.800 --> 00:04:56.960
+Ich glaube, das macht das Leben auf Dauer sehr viel entspannter und schöner.
+
+00:04:56.960 --> 00:05:00.740
+Hast du eine Offenheit oder emotionale Intelligenz?
+
+00:05:00.740 --> 00:05:03.730
+Auch, ja, aber tatsächlich.
+
+00:05:03.730 --> 00:05:07.760
+Also ich meine, es gibt ja viele Sachen, über die man sich aufregen könnte.
+
+00:05:07.760 --> 00:05:13.760
+Sei es jetzt privat, mein Fußballverein hat verloren bis hin tatsächlich, beruflich.
+
+00:05:13.760 --> 00:05:15.760
+Ich habe doch recht und keiner hört auf mich.
+
+00:05:15.760 --> 00:05:20.880
+Und ich glaube, in beiden Fällen, wenn man es nicht zu persönlich nimmt
+
+00:05:20.880 --> 00:05:26.220
+und sich auch selbst weniger Stress macht, ist das etwas, wovon man selbst profitiert.
+
+00:05:26.220 --> 00:05:29.220
+Und ganz nebenbei, glaube ich, auch die anderen, die rund um ihn rum sind,
+
+00:05:29.220 --> 00:05:32.780
+die dann auch ein entspannteres Leben haben.
+
+00:05:32.780 --> 00:05:36.800
+Dann die letzte Frage. Hast du es geschafft?
+
+00:05:36.800 --> 00:05:40.080
+Oder hast du noch eine? Nee, okay.
+
+00:05:40.080 --> 00:05:43.080
+Was war dein letzter Aha-Moment?
+
+00:05:43.080 --> 00:05:46.870
+Mein letzter Aha-Moment?
+
+00:05:46.870 --> 00:05:53.530
+Das ist eine sehr gute Frage.
+
+00:05:53.530 --> 00:05:59.230
+Also tatsächlich würde ich sagen, perverserweise habe ich einen, der sich ständig wiederholt,
+
+00:05:59.230 --> 00:06:03.320
+weil es eine bestimmte Sache gibt, die mir permanent entfällt.
+
+00:06:03.320 --> 00:06:09.730
+Nämlich, wie sehr das, was ich beruflich mache, sich von dem normalen Alltag,
+
+00:06:09.730 --> 00:06:13.240
+von dem Großteil der Menschheit unterscheidet.
+
+00:06:13.240 --> 00:06:16.240
+Wir sind ja wie ganz viele andere Leute auch irgendwann,
+
+00:06:16.240 --> 00:06:18.240
+wie man es auch immer nennen möchte, in einer Filterblase,
+
+00:06:18.240 --> 00:06:21.620
+in einer leichten Fachiduity oder sonst was.
+
+00:06:21.620 --> 00:06:25.620
+Und ich habe immer wieder den Punkt, wo ich mit irgendwem dann auf der Party,
+
+00:06:25.620 --> 00:06:27.750
+in der Familie oder sonst wo rede.
+
+00:06:27.750 --> 00:06:32.840
+Und aus meiner Sicht total offensichtlich erkläre, womit ich mich gerade beschäftige,
+
+00:06:32.840 --> 00:06:34.840
+und immer noch ratlos angeguckt werde und merke,
+
+00:06:34.840 --> 00:06:39.820
+okay, es ist alles doch irgendwo zu abgefahren und gar nicht so banal,
+
+00:06:39.820 --> 00:06:41.980
+wie ich es mir immer vorstelle.
+
+00:06:41.980 --> 00:06:45.980
+Und ich muss mich dann doch wieder einordnen, dass die Welt da draußen
+
+00:06:45.980 --> 00:06:50.130
+das Ganze mit ganz anderen und auch viel erstauntere Augen sieht als ich.
+
+00:06:50.130 --> 00:06:53.350
+Denn, ich meine, das ist der andere Punkt.
+
+00:06:53.350 --> 00:06:56.350
+Also ich habe ja viel Zeit in Großorganisationen und Veränderungsformen
+
+00:06:56.350 --> 00:07:00.440
+und so weiter verbracht, womit kommen einem auch manche Sachen normal vor.
+
+00:07:00.440 --> 00:07:02.500
+Und der Aha-Moment ist der Moment.
+
+00:07:02.500 --> 00:07:06.530
+Das ist gar nicht normal, einen zweiwöchigen Planungsvorlauf zu brauchen,
+
+00:07:06.530 --> 00:07:08.880
+um Vorstellungsbestellen zu dürfen.
+
+00:07:08.880 --> 00:07:14.040
+Wunderbar.
+
+00:07:14.040 --> 00:07:17.040
+Dann ergänze ich doch nochmal vielleicht die Check-in-Runde.
+
+00:07:17.040 --> 00:07:19.040
+Sag auch nochmal ganz herzlich willkommen, Felix.
+
+00:07:19.040 --> 00:07:21.040
+Voll schön, dass du da bist.
+
+00:07:21.040 --> 00:07:27.030
+Und mich interessiert ja immer so ein bisschen, was dich sozusagen geprägt hat
+
+00:07:27.030 --> 00:07:33.030
+oder wer der kleine Felix war und was von ihm sozusagen in dir noch übrig geblieben ist,
+
+00:07:33.030 --> 00:07:37.980
+warum du das geworden bist, was du heute bist und was du tust.
+
+00:07:37.980 --> 00:07:42.810
+Auch eine spannende Frage.
+
+00:07:42.810 --> 00:07:49.820
+Also ich glaube insofern auch passend, weil das, was ich geworden bin und wie ich es geworden bin,
+
+00:07:49.820 --> 00:07:53.270
+eigentlich so eine Art kleiner Betriebsunfall ist.
+
+00:07:53.270 --> 00:08:00.460
+Ich habe vor ganz langer Zeit mal etwas studiert, was mit dem, was ich heute tue, wenig zu tun hat.
+
+00:08:00.460 --> 00:08:02.460
+Nämlich Politikwissenschaft und Psychologie.
+
+00:08:02.460 --> 00:08:08.720
+Und naheliegenderweise bin ich dann nach der Universität in ein Ministerium gegangen,
+
+00:08:08.720 --> 00:08:10.620
+habe da in einer Pressestelle gearbeitet.
+
+00:08:10.620 --> 00:08:16.450
+Und damals war es schon so, dass es auch da natürlich irgendwas mit IT gab.
+
+00:08:16.450 --> 00:08:22.800
+Einladungsdaten, Banken, Internetportale, sei es was auch immer, CRM-Geschichten.
+
+00:08:22.800 --> 00:08:25.800
+Ich war mit Abstand der Jüngste, die anderen waren nicht so technikaffin
+
+00:08:25.800 --> 00:08:30.050
+und alles, was mit Computern zu tun hat, hieß man, das soll der Herr Stein machen.
+
+00:08:30.050 --> 00:08:34.050
+Ich bin praktisch gegen meinen Willen zum IT-Projektmanager geschult worden.
+
+00:08:34.050 --> 00:08:38.200
+Und von da ist ja dann der Sprung zu dem, was ich heute mache, gar nicht mehr so weit.
+
+00:08:38.200 --> 00:08:42.460
+Aber ich glaube, was das Ganze eben dann bis heute noch mit sich bringt,
+
+00:08:42.460 --> 00:08:45.460
+ist so immer noch so ein gewisses Rest-Erstaunen des Menschen,
+
+00:08:45.460 --> 00:08:49.490
+der mal aus einer ganz anderen Welt kommt und sich in dieser IT-Entwicklungsumgebung,
+
+00:08:49.490 --> 00:08:53.800
+wo ja der Großteil der Agilität bis heute stattfindet, immer wieder umguckt und sagt,
+
+00:08:53.800 --> 00:08:56.800
+das ist eigentlich schon ziemlich abgefahren hier alles.
+
+00:08:56.800 --> 00:09:02.020
+Ja, und ich glaube so dieses Erstaunen, das an der einen oder anderen Stelle immer noch durchbringt,
+
+00:09:02.020 --> 00:09:08.620
+das ist was, was mit Sicherheit einiges von dem ausmacht, was man an mir so wahrnehmen kann
+
+00:09:08.620 --> 00:09:10.620
+und was ich auch an mir selber mache.
+
+00:09:10.620 --> 00:09:16.400
+Ja, vielen Dank. Jetzt haben wir ein bisschen besseres Bild auch von dir,
+
+00:09:16.400 --> 00:09:19.400
+die Zuhörerinnen und Zuhörer hoffentlich auch.
+
+00:09:19.400 --> 00:09:23.350
+Wollen wir direkt ins Thema mal starten.
+
+00:09:23.350 --> 00:09:26.350
+Ich hatte das Thema Team Topolo,
+
+00:09:26.350 --> 00:09:29.310
+ich empfinde es immer sehr schwierig auszusprechen,
+
+00:09:29.310 --> 00:09:32.310
+ich hoffe, ich spreche es jetzt richtig aus,
+
+00:09:32.310 --> 00:09:38.300
+gesehen, da ich mich jetzt auch viel mit Biz-of-Ops beschäftige
+
+00:09:38.300 --> 00:09:41.970
+und wollte mich eigentlich schon immer damit beschäftigen,
+
+00:09:41.970 --> 00:09:45.030
+aber irgendwie bin ich noch nicht dazu gekommen.
+
+00:09:45.030 --> 00:09:48.030
+Deswegen finde ich es sehr spannend, jetzt ein bisschen mehr von dir zu erfahren.
+
+00:09:48.030 --> 00:09:52.510
+Was versteht man darunter? Wie wendet man das vielleicht an?
+
+00:09:52.510 --> 00:09:56.470
+Ich kann es dir erstmal kurz erzählen, was ist das überhaupt?
+
+00:09:56.470 --> 00:09:59.470
+Team Topologies und ob ich das richtig ausgesprochen habe.
+
+00:09:59.470 --> 00:10:04.750
+Also ich kenne es tatsächlich nur auf Englisch als Team Topologies,
+
+00:10:04.750 --> 00:10:07.780
+was aber damit zu tun hat, dass ich die gesamte damit zusammenhängende
+
+00:10:07.780 --> 00:10:09.780
+Literatur auf Englisch gelesen habe.
+
+00:10:09.780 --> 00:10:11.930
+Ich glaube, auf Deutsch würde man es übersetzen,
+
+00:10:11.930 --> 00:10:14.890
+also Team übersetzt man ja mittlerweile nicht mehr.
+
+00:10:14.890 --> 00:10:16.890
+Da wären es eigentlich die Team Topologien,
+
+00:10:16.890 --> 00:10:21.200
+aber Team Topologies ist völlig ausreichend.
+
+00:10:21.200 --> 00:10:26.640
+Wie du gerade gesagt hast, das kommt ursprünglich aus dem DevOps Umfeld
+
+00:10:26.640 --> 00:10:30.860
+und hatte am Anfang noch eine etwas andere Ausrichtung als heute,
+
+00:10:30.860 --> 00:10:34.980
+wo man gesagt hat, okay, wenn wir jetzt Dev und Ops in ein Team zusammenpacken,
+
+00:10:34.980 --> 00:10:37.980
+welche Arten von Konstellationen gibt es dann?
+
+00:10:37.980 --> 00:10:39.980
+Da gibt es zwei Teams nach eines Teams
+
+00:10:39.980 --> 00:10:43.980
+oder gibt es nur Leute, die beides machen und so weiter und so weiter.
+
+00:10:43.980 --> 00:10:46.390
+Das hat sich irgendwann daraus entwickelt
+
+00:10:46.390 --> 00:10:49.930
+und ist jetzt sehr viel breiter anwendbar.
+
+00:10:49.930 --> 00:10:54.650
+Und wie ich da ursprünglich drauf gekommen bin,
+
+00:10:54.650 --> 00:10:58.060
+das war, dass wir vermutlich ganz viele andere
+
+00:10:58.060 --> 00:11:01.570
+oder möglicherweise sogar ohne den Begriff zu kennen,
+
+00:11:01.570 --> 00:11:03.630
+auf dieses Thema drauf kommen.
+
+00:11:03.630 --> 00:11:06.630
+Nämlich man kommt irgendwo hin als externer Begleiter,
+
+00:11:06.630 --> 00:11:09.630
+sei es als Change Manager, als Trainer, als Scrum Master,
+
+00:11:09.630 --> 00:11:14.010
+als Agile Coach, als Release Train Engineer oder sonst was
+
+00:11:14.010 --> 00:11:17.010
+und sagt, okay, mein Arbeitsauftrag von der Organisation,
+
+00:11:17.010 --> 00:11:20.010
+den mich als intern oder externer eingesetzt hat,
+
+00:11:20.010 --> 00:11:21.970
+mach doch mal dieser Einleiter hinten agil.
+
+00:11:21.970 --> 00:11:25.230
+Wir wissen, das gehört noch ein bisschen mehr dazu.
+
+00:11:25.230 --> 00:11:28.990
+Und wir merken dann relativ schnell, dass das wird so nicht funktionieren,
+
+00:11:28.990 --> 00:11:31.990
+weil zum Beispiel diese Einheit nicht cross-funktional ist.
+
+00:11:31.990 --> 00:11:35.210
+Was ganz banal ist, es ist nur ein Frontend-Team.
+
+00:11:35.210 --> 00:11:37.210
+Oder nur ein Test-Team oder ich weiß es nicht.
+
+00:11:37.210 --> 00:11:40.650
+Und die erste Reaktion, die man hat, ist zu sagen,
+
+00:11:40.650 --> 00:11:44.650
+okay, dann müssen wir das vermutlich besser umstrukturieren,
+
+00:11:44.650 --> 00:11:47.680
+damit dieses Team eben cross-funktional in dem Sinn ist,
+
+00:11:47.680 --> 00:11:49.680
+dass es alles selber erledigen kann, was es braucht,
+
+00:11:49.680 --> 00:11:51.680
+um ein Produkt-Increment zu erzeugen.
+
+00:11:51.680 --> 00:11:53.800
+Also ein Stück funktionierender Software.
+
+00:11:53.800 --> 00:11:59.360
+Und das ist so der Ursprung der ersten und der zentralen Team Topology
+
+00:11:59.360 --> 00:12:03.510
+oder Team-Topologie, wie auch immer wir das jetzt nennen wollen.
+
+00:12:03.510 --> 00:12:08.760
+Und das Ganze ist mittlerweile in einem Buch, das auch genauso heißt,
+
+00:12:08.760 --> 00:12:09.760
+zusammengefasst und beschrieben worden.
+
+00:12:09.760 --> 00:12:13.880
+Und dieses cross-funktionale Team, das mehr oder weniger alles kann,
+
+00:12:13.880 --> 00:12:17.880
+das ist als zentraler Typ das Stream-Aligned-Team.
+
+00:12:17.880 --> 00:12:20.880
+Weil es entlang der Wertschöpfungskette, also des Value-Streams,
+
+00:12:20.880 --> 00:12:23.970
+im Grunde alles kann, was man da gründen muss.
+
+00:12:23.970 --> 00:12:27.190
+Und an der Stelle könnte man sagen, hervorragend.
+
+00:12:27.190 --> 00:12:30.190
+Problem gelöst, weitere Organisationen sind nicht notwendig.
+
+00:12:30.190 --> 00:12:34.730
+Müssen wir einfach nur so machen und alles läuft.
+
+00:12:34.730 --> 00:12:35.730
+Wenn es denn so einfach wäre.
+
+00:12:35.730 --> 00:12:39.920
+Denn was die beiden Herren, die hinter dem Konzept stehen,
+
+00:12:39.920 --> 00:12:43.040
+ein Herr Skerten und ein Herr Pais,
+
+00:12:43.040 --> 00:12:45.040
+also ein Amerikaner und ein Spanier, glaube ich,
+
+00:12:45.040 --> 00:12:48.070
+dann gemerkt haben, es gibt ganz viele Kontexte,
+
+00:12:48.070 --> 00:12:52.070
+in denen einfach so viele verschiedene Tätigkeiten,
+
+00:12:52.070 --> 00:12:55.130
+so viele verschiedene Domänen, Technologien und Herausforderungen
+
+00:12:55.130 --> 00:12:59.260
+und Fachlichkeiten da sind, dass man ein einzelnes Team,
+
+00:12:59.260 --> 00:13:03.230
+das alles machen müsste, damit überfordern kann.
+
+00:13:03.230 --> 00:13:05.640
+Also ich habe vorhin gesagt,
+
+00:13:05.640 --> 00:13:06.640
+ich habe mal Psychologie studiert.
+
+00:13:06.640 --> 00:13:08.640
+Das heißt, ich habe mich noch irgendwo dumm verinnert,
+
+00:13:08.640 --> 00:13:11.640
+so die psychologische Belastung oder in Englisch
+
+00:13:11.640 --> 00:13:14.640
+die Cognitive Load, also die kognitive Belastung,
+
+00:13:14.640 --> 00:13:16.600
+die kann halt so hoch sein, dass irgendjemand sagt,
+
+00:13:16.600 --> 00:13:19.600
+das ist einfach zu viel, um es in meinem Gehirn verarbeiten zu können
+
+00:13:19.600 --> 00:13:23.590
+oder um es in dem kollektiven Gehirn meines Teams verarbeiten zu können.
+
+00:13:23.590 --> 00:13:26.450
+Also muss ich doch wieder hingehen und sagen,
+
+00:13:26.450 --> 00:13:29.450
+okay, kriege ich es möglicherweise irgendwie auseinandergenommen, getrennt
+
+00:13:29.450 --> 00:13:33.770
+und habe ich dann möglicherweise auch einen Zusammenarbeitsmodus
+
+00:13:33.770 --> 00:13:36.770
+für diese Teams, die dann diese zusammengehörigen Dinge erledigen.
+
+00:13:36.770 --> 00:13:39.240
+Und können wir jetzt gleich natürlich darauf kommen,
+
+00:13:39.240 --> 00:13:43.240
+was für verschiedene Arten von Teams und Zusammenarbeitsmodi das sind.
+
+00:13:43.240 --> 00:13:47.680
+Aber diese Summe aus diesen Teamtypen und diesen Zusammenarbeitstypen,
+
+00:13:47.680 --> 00:13:49.680
+das ist Team Topology.
+
+00:13:49.680 --> 00:13:53.850
+Da würde ich gerne nochmal nachhaken.
+
+00:13:53.850 --> 00:13:55.850
+Wir haben ja auch sicherlich Hörerinnen,
+
+00:13:55.850 --> 00:13:58.850
+die jetzt nicht so in dieser agilen Bubble unterwegs sind.
+
+00:13:58.850 --> 00:14:00.850
+DevOps hast du schon ein paar Mal erwähnt.
+
+00:14:00.850 --> 00:14:03.850
+Vielleicht kannst du das nochmal ein bisschen erläutern,
+
+00:14:03.850 --> 00:14:07.850
+die nicht ganz so affin sind mit dem Vokabular.
+
+00:14:07.850 --> 00:14:16.480
+Und ich würde gerne noch wissen, wofür ist das gut, die Team Topologien?
+
+00:14:16.480 --> 00:14:20.110
+Im Grunde genommen nochmal zurückgebracht,
+
+00:14:20.110 --> 00:14:24.110
+selbst wenn es mittlerweile in anderen Bereichen auch existieren und möglich ist,
+
+00:14:24.110 --> 00:14:27.070
+ist es ganz stark auf Softwareentwicklung konzentriert.
+
+00:14:27.070 --> 00:14:30.430
+Und in den Bereichen, in denen wir unterwegs sind,
+
+00:14:30.430 --> 00:14:33.560
+da agilen Softwareentwicklung, hat man irgendwann gesagt,
+
+00:14:33.560 --> 00:14:36.560
+ganz lange, ganz detailliert planen,
+
+00:14:36.560 --> 00:14:39.560
+Aufgaben runterbrechen in viele kleine Teilaufgaben,
+
+00:14:39.560 --> 00:14:41.560
+die ganz vielen verschiedenen Spezialisten geben,
+
+00:14:41.560 --> 00:14:43.780
+ganz lange warten, bis die fertig sind
+
+00:14:43.780 --> 00:14:45.780
+und das dann einfach zusammenschmeißen
+
+00:14:45.780 --> 00:14:47.780
+und erwarten, dass es sofort funktioniert.
+
+00:14:47.780 --> 00:14:49.780
+Das funktioniert extrem selten so.
+
+00:14:49.780 --> 00:14:53.350
+Und was viel besser funktioniert, ist zu sagen,
+
+00:14:53.350 --> 00:14:56.320
+wir nehmen kleine Arbeitspakete, die in sich genommen
+
+00:14:56.320 --> 00:14:59.410
+und vollkommen fertig und nutzbar sind,
+
+00:14:59.410 --> 00:15:01.410
+und sei es nur sowas total Banales,
+
+00:15:01.410 --> 00:15:06.460
+wie eine Login-Funktion oder das Angeben von meinen Profildaten,
+
+00:15:06.460 --> 00:15:08.460
+also Name, E-Mail-Adresse und so weiter.
+
+00:15:08.460 --> 00:15:10.650
+Solange das mal als Ganzes funktioniert,
+
+00:15:10.650 --> 00:15:13.650
+habe ich schon was Funktionierendes und kann was Zweites dran bauen
+
+00:15:13.650 --> 00:15:15.740
+und muss nicht Angst davor haben,
+
+00:15:15.740 --> 00:15:18.740
+dass später, wenn ich Frontend und Backend zusammensetze,
+
+00:15:18.740 --> 00:15:21.350
+das irgendwie rumst.
+
+00:15:21.350 --> 00:15:23.350
+Und eine andere Art eben,
+
+00:15:23.350 --> 00:15:26.330
+diese verschiedenen Aufteilungen zu sehen,
+
+00:15:26.330 --> 00:15:30.540
+ist ganz häufig bis heute noch die Development und Operations.
+
+00:15:30.540 --> 00:15:33.690
+Also irgendwelche Leute entwickeln neue Software,
+
+00:15:33.690 --> 00:15:35.690
+aber haben die, stark überspitzt gesagt,
+
+00:15:35.690 --> 00:15:37.690
+noch immer auf ihrem lokalen Computer.
+
+00:15:37.690 --> 00:15:42.980
+Und wenn das dann irgendwann mal für den Rest der Welt benutzbar ist,
+
+00:15:42.980 --> 00:15:44.980
+auf dem eigenen Server im Firmenkeller
+
+00:15:44.980 --> 00:15:47.070
+oder in irgendeiner Cloud-Anwendung,
+
+00:15:47.070 --> 00:15:49.070
+dann muss das ja irgendjemand anders da betreuen.
+
+00:15:49.070 --> 00:15:51.200
+Ist da wieder ein ganz banales Beispiel.
+
+00:15:51.200 --> 00:15:53.350
+Wenn das mal irgendwann abstürzt,
+
+00:15:53.350 --> 00:15:55.350
+den eigenen Server wieder neu starten,
+
+00:15:55.350 --> 00:15:57.350
+damit die Internetseite wieder erscheint,
+
+00:15:57.350 --> 00:15:58.350
+die dann kurzfristig weg war.
+
+00:15:58.350 --> 00:16:02.460
+Und ganz häufig ist es früher so gewesen,
+
+00:16:02.460 --> 00:16:04.460
+dass sich Entwicklungen und Operations gegenseitig
+
+00:16:04.460 --> 00:16:08.680
+so Verantwortlichkeiten oder Aufgaben zugeworfen haben
+
+00:16:08.680 --> 00:16:09.680
+und keiner gesagt hat,
+
+00:16:09.680 --> 00:16:12.960
+okay, ich übernehme die Gesamtverantwortung dafür.
+
+00:16:12.960 --> 00:16:13.960
+Die anderen haben gesagt,
+
+00:16:13.960 --> 00:16:14.960
+ich habe es doch fertig entwickelt.
+
+00:16:14.960 --> 00:16:16.960
+Ob es jetzt stabil läuft, ist euer Problem.
+
+00:16:16.960 --> 00:16:18.120
+Und die anderen haben gesagt,
+
+00:16:18.120 --> 00:16:20.240
+ich will Hauptsache alles hier stabil halten,
+
+00:16:20.240 --> 00:16:22.240
+neue Features so selten wie möglich.
+
+00:16:22.240 --> 00:16:24.740
+Um diesen Konflikt aufzulösen,
+
+00:16:24.740 --> 00:16:26.740
+hat man gesagt, lass doch einfach dieselben Leute
+
+00:16:26.740 --> 00:16:29.700
+für Entwicklung und Betrieb,
+
+00:16:29.700 --> 00:16:31.700
+also Operations zuständig sein,
+
+00:16:31.700 --> 00:16:33.950
+wodurch dann auch Kommunikation einfache,
+
+00:16:33.950 --> 00:16:35.950
+Konflikte geringer und so weiter und so weiter.
+
+00:16:35.950 --> 00:16:37.750
+Aber wie gesagt,
+
+00:16:37.750 --> 00:16:40.750
+das ist der Ursprung von Team Topologies.
+
+00:16:40.750 --> 00:16:43.940
+Mittlerweile ist das immer noch ein Teil davon,
+
+00:16:43.940 --> 00:16:45.940
+aber es gehen eben auch ganz viele andere Sachen da rein,
+
+00:16:45.940 --> 00:16:48.030
+wie jetzt die Zusammenarbeit,
+
+00:16:48.030 --> 00:16:50.050
+wenn wir weiter im IT-Bereich bleiben,
+
+00:16:50.050 --> 00:16:53.050
+zwischen Embedded Software und Cloud Software,
+
+00:16:53.050 --> 00:16:55.080
+zwischen Frontend und Backend
+
+00:16:55.080 --> 00:16:57.080
+oder von mir aus auch zwischen Entwicklung und Test,
+
+00:16:57.080 --> 00:17:00.130
+zwischen Anforderungsmanagement und Entwicklung.
+
+00:17:00.130 --> 00:17:03.160
+Das sind ja alles denkbare kleine Silos,
+
+00:17:03.160 --> 00:17:06.320
+die sich gegenseitig durch Kommunikation und Abhängigkeit
+
+00:17:06.320 --> 00:17:08.350
+in das Leben schwer machen können und die,
+
+00:17:08.350 --> 00:17:10.350
+wenn ich sie in einem dieser gerade genannten
+
+00:17:10.350 --> 00:17:12.510
+Stream-Aligned-Teams zusammenfasse,
+
+00:17:12.510 --> 00:17:14.510
+selber ganz viel alleine hinbekommen können,
+
+00:17:14.510 --> 00:17:16.510
+ohne auf jemanden anderen warten zu müssen.
+
+00:17:16.510 --> 00:17:23.780
+Das ist natürlich schneller und leicht.
+
+00:17:23.780 --> 00:17:27.840
+Das heißt also, dass das gar nicht mehr nur für DevOps-Teams,
+
+00:17:27.840 --> 00:17:29.900
+also es könnte auch welche,
+
+00:17:29.900 --> 00:17:34.420
+schon in der Softwareentwicklung oder könnte man das auch anwenden,
+
+00:17:34.420 --> 00:17:38.610
+wenn man gar nichts mit Software vielleicht am Hut hat.
+
+00:17:38.610 --> 00:17:40.610
+Also übertragbar ist es sicher nicht,
+
+00:17:40.610 --> 00:17:43.610
+aber es hat natürlich einen ganz starken Softwarebezug.
+
+00:17:43.610 --> 00:17:45.570
+Ich glaube, es wird vielleicht ein bisschen plastischer,
+
+00:17:45.570 --> 00:17:48.570
+wenn wir auf die anderen Team-Typen mal eingehen,
+
+00:17:48.570 --> 00:17:52.790
+weil dadurch erkennt man dann schon, wo es herkommt
+
+00:17:52.790 --> 00:17:54.790
+und dass es eben doch eine Softwareverwurzelung hat.
+
+00:17:54.790 --> 00:17:59.050
+Denn wie gerade vorhin gesagt,
+
+00:17:59.050 --> 00:18:03.040
+dieser Grundtyp des Stream-Aligned-Teams entlang der Wertschöpfungskette,
+
+00:18:03.040 --> 00:18:08.520
+der ist erstmal gut, aber ist in der Realität nicht immer umsetzbar.
+
+00:18:08.520 --> 00:18:13.830
+Und mitunter gibt es eben Teile von diesem gesamten riesigen System,
+
+00:18:13.830 --> 00:18:17.920
+an dem wer auch immer in einem IT-Projekt oder vor allem arbeitet,
+
+00:18:17.920 --> 00:18:20.980
+die für sich genommen so schwer verständlich, so kompliziert,
+
+00:18:20.980 --> 00:18:24.890
+so wenig nachvollziehbar ist, dass man da doch Spezialisten drauf setzt.
+
+00:18:24.890 --> 00:18:26.400
+Ein banales Beispiel.
+
+00:18:26.400 --> 00:18:29.400
+Ich habe vor einiger Zeit mal an einem Data Warehouse
+
+00:18:29.400 --> 00:18:31.400
+eines großen Autoherstellers gearbeitet.
+
+00:18:31.400 --> 00:18:34.940
+Und man hat nicht selber programmiert,
+
+00:18:34.940 --> 00:18:36.940
+sondern eben methodisch und qualitätssicher und begleitet.
+
+00:18:36.940 --> 00:18:40.100
+Und verschiedene Teams, die hat man damals schon,
+
+00:18:40.100 --> 00:18:43.100
+ohne den Begriff so zu benutzen, als Streamalign-Teams benutzt.
+
+00:18:43.100 --> 00:18:46.160
+Das heißt, das waren dann Teams für Fahrzeugserien,
+
+00:18:46.160 --> 00:18:49.350
+für Fahrzeugausstattung, für Fahrzeugzubehör,
+
+00:18:49.350 --> 00:18:55.480
+die von am Anfang, ich importiere diese Daten in das Data Warehouse,
+
+00:18:55.480 --> 00:18:58.540
+ich mache sie editierbar, ich verschlagworte sie
+
+00:18:58.540 --> 00:19:01.540
+und ich stelle sie anderen Leuten zur Verfügung,
+
+00:19:01.540 --> 00:19:03.600
+alles Mögliche schon machen konnten.
+
+00:19:03.600 --> 00:19:05.600
+Also wirklich so weit end-to-end, wie es geht.
+
+00:19:05.600 --> 00:19:09.950
+Das Problem hinten raus war dann der Export in andere Systeme.
+
+00:19:09.950 --> 00:19:12.950
+Das Redaktionssystem für eine Broschüre.
+
+00:19:12.950 --> 00:19:16.040
+Oder das CMS für den Autokonfigurator,
+
+00:19:16.040 --> 00:19:18.040
+wo man sich aus der Webseite sagen kann,
+
+00:19:18.040 --> 00:19:20.040
+okay, die Farbe, die Felgen und so weiter.
+
+00:19:20.040 --> 00:19:24.640
+Das war extrem aufwendig, weil da hinten eine Validierung stehen musste,
+
+00:19:24.640 --> 00:19:29.640
+die alle möglichen Datensätze untereinander auf Kompatibilität überprüft hat,
+
+00:19:29.640 --> 00:19:34.590
+damit nicht zufälligerweise zum Beispiel der Autokonfigurator auf der Webseite
+
+00:19:34.590 --> 00:19:37.600
+auf das Cabrio- und Dachgepäckträger konfiguriert wird.
+
+00:19:37.600 --> 00:19:38.600
+Sollte ja nicht sein.
+
+00:19:38.600 --> 00:19:42.240
+Und diese Überprüfung war in einem Ausmaß kompliziert,
+
+00:19:42.240 --> 00:19:45.240
+dass alle Teams gesagt haben, wenn wir das noch zusätzlich machen müssen,
+
+00:19:45.240 --> 00:19:48.240
+dann bläst uns halt das in den Kopf auseinander.
+
+00:19:48.240 --> 00:19:50.240
+Der vorhin erwähnte Cognitive Load.
+
+00:19:50.240 --> 00:19:53.620
+Darum hat man gesagt, okay, dafür setzen wir dann doch
+
+00:19:53.620 --> 00:19:56.620
+für diesen speziellen Fall ein Spezialistenteam darauf,
+
+00:19:56.620 --> 00:19:59.680
+die die anderen Leute von dieser abgefahrenen Aufgabe entlasten,
+
+00:19:59.680 --> 00:20:01.680
+aber dann doch darin extrem gut sind.
+
+00:20:01.680 --> 00:20:06.250
+Und das wäre in den Team Topologies der zweite Teamtyp.
+
+00:20:06.250 --> 00:20:09.440
+Der hat den schönen Namen complicated subsystem team.
+
+00:20:09.440 --> 00:20:11.660
+Ja, also das komplizierte Untersystem Team.
+
+00:20:11.660 --> 00:20:13.660
+Das ist auch, glaube ich, total selbsterklärend.
+
+00:20:13.660 --> 00:20:18.940
+Eben genau dieses Teilsystem, das so kompliziert und auswendig ist,
+
+00:20:18.940 --> 00:20:22.940
+dass man es den anderen ersparen will, sich auch darum nutzen.
+
+00:20:22.940 --> 00:20:27.180
+Und hinten raus, ich habe es ja vorhin gesagt,
+
+00:20:27.180 --> 00:20:31.180
+Team Topologies sind nicht nur Teamtypen, sondern auch Zusammenarbeitstypen.
+
+00:20:31.180 --> 00:20:34.210
+Es kommt auch direkt der erste Typ der Zusammenarbeit.
+
+00:20:34.210 --> 00:20:38.460
+Und der ist an der Stelle wieder erst mal relativ banal.
+
+00:20:38.460 --> 00:20:41.490
+Nennt sich Collaboration, einfach Zusammenarbeit.
+
+00:20:41.490 --> 00:20:45.830
+Ja, also die Leute, die dieses komplizierte Untersystem bauen,
+
+00:20:45.830 --> 00:20:49.890
+was in anderen Kontexten zum Beispiel auch das Bezahlvorgangsuntersystem
+
+00:20:49.890 --> 00:20:53.950
+oder sonst was sein kann, müssen halt mit den eigentlichen Feature
+
+00:20:53.950 --> 00:20:56.950
+oder Produktteams, also Streamline-Teams, so zusammenarbeiten,
+
+00:20:56.950 --> 00:20:58.950
+dass zusammengehörige Sachen gleichzeitig fertig sind.
+
+00:20:58.950 --> 00:21:02.840
+Wie das passiert, ist nochmal eine spannende andere Frage.
+
+00:21:02.840 --> 00:21:05.930
+Da gehen Team Topologies gar nicht mal so im Detail drauf ein,
+
+00:21:05.930 --> 00:21:08.930
+aber da kommen wir dann in die Welt der Skalierungs-Frameworks
+
+00:21:08.930 --> 00:21:13.120
+von Less über Safe über Flight Levels über ich weiß es nicht.
+
+00:21:13.120 --> 00:21:15.210
+Das ist dann alles sehr anschlussfähig.
+
+00:21:15.210 --> 00:21:20.520
+Aber wieder zusammengefasst, zweiter Team-Typ, kompliziertes Sondersystem-Team
+
+00:21:20.520 --> 00:21:26.800
+und erster Zusammenarbeitstyp, die einfach Collaboration, also Zusammenarbeit.
+
+00:21:26.800 --> 00:21:34.030
+Wow. Da kommt eine Frage nach der nächsten auf.
+
+00:21:34.030 --> 00:21:40.110
+Okay, also ich habe jetzt verstanden, Team-Typologien baut Brücken,
+
+00:21:40.110 --> 00:21:50.300
+setzt auf cross-funktionale Teams, ist eher im Kontext, setzt auf den Kontext Software-Branche,
+
+00:21:50.300 --> 00:21:59.090
+meistens, üblicherweise oder idealerweise. Gibt es denn ganz konkrete Vorgehensweisen
+
+00:21:59.090 --> 00:22:05.090
+oder Methodiken, die dahinter stecken, beziehungsweise machen wir alle im Team einen Test
+
+00:22:05.090 --> 00:22:11.660
+und dann gucken wir, zu welchem Team-Typ wir gehören? Oder was macht es jetzt?
+
+00:22:11.660 --> 00:22:15.630
+Also beschreibt es nur oder gibt es auch Handlungsempfehlungen?
+
+00:22:15.630 --> 00:22:19.720
+Das ist mir noch nicht ganz klar. Also grundlegend beschreibt es bei allem.
+
+00:22:19.720 --> 00:22:23.810
+Also wenn man sich das Buch holt oder die gesamten Webartikel durchliest,
+
+00:22:23.810 --> 00:22:27.810
+Blog-Einträge und so weiter, gibt es natürlich dann auch ganz viele Hilfestellungen, wo man sagt,
+
+00:22:27.810 --> 00:22:33.030
+okay, wenn ihr irgendwo bei Null anfangt, so könnt ihr identifizieren,
+
+00:22:33.030 --> 00:22:37.380
+was für Teams ihr überhaupt habt. Also zum Beispiel, dass bei ganz vielen Unternehmen
+
+00:22:37.380 --> 00:22:42.410
+gar nicht von Beginn an klar ist, wo verläuft überhaupt eine meiner Wertschöpfungsketten durch?
+
+00:22:42.410 --> 00:22:48.690
+Wer muss dann in welcher Abfolge von welchen Vorgängen was tun, damit am Ende ein Produkt entsteht?
+
+00:22:48.690 --> 00:22:52.690
+Und häufig ist es ja erst so, wenn ich das sehe, dann kann ich ja erst sagen,
+
+00:22:52.690 --> 00:22:56.690
+die Teams, die da drauf sitzen, sind die möglicherweise eher schon stream-aligned,
+
+00:22:56.690 --> 00:23:03.180
+end-to-end verantwortlich oder sind das alles im augenblicklichen Zustand Subsystem-Teams,
+
+00:23:03.180 --> 00:23:06.250
+die alle einen extrem komplizierten Zusammenarbeitsmodus haben,
+
+00:23:06.250 --> 00:23:10.520
+weil nur ganz viele zusammen von denen etwas fertig stellen können.
+
+00:23:10.520 --> 00:23:15.840
+Und das Ganze, was man daraus dann macht, im Idealfall, in unserer agilen Zielwelt,
+
+00:23:15.840 --> 00:23:19.830
+sollten das natürlich möglichst viele dieser end-to-end Stream-aligned Teams sein
+
+00:23:19.830 --> 00:23:23.820
+und möglichst andere Team-Typen, weil das eben eine sehr schnelle,
+
+00:23:23.820 --> 00:23:25.820
+sehr einfache Zusammenarbeit ermöglicht.
+
+00:23:25.820 --> 00:23:30.230
+Aber wie man da hinkommt, da lassen die Leute einen bewusst frei.
+
+00:23:30.230 --> 00:23:38.340
+Und das hat dann auch zur Folge, dass Team Topologies auch in andere agile Frameworks praktisch adoptiert
+
+00:23:38.340 --> 00:23:41.780
+und eingebaut worden ist, weil man da gesagt hat, das ist eine schöne Ergänzung.
+
+00:23:41.780 --> 00:23:48.480
+Also zum Beispiel ist es mittlerweile Teil von Unfix, von Jörg Athelo oder Teil von Safe geworden
+
+00:23:48.480 --> 00:23:51.770
+und lässt sich auch in andere Sachen integrieren.
+
+00:23:51.770 --> 00:23:58.630
+Also es ist wenig deskriptiv in dem Sinn, dass es keine Meetings und keine Rollen und Liefergegenstände vorgibt.
+
+00:23:58.630 --> 00:24:04.850
+Sondern es ist tatsächlich erstmal ein Analyse-Tool, um zu sagen, okay, was für Arten von Teams habe ich dann?
+
+00:24:04.850 --> 00:24:13.140
+Und welche Arten von Zusammenarbeit wären für diese Teams ideal, um eben einfach und flexibel und schnell liefern zu können?
+
+00:24:13.140 --> 00:24:18.680
+Denn, wie gerade gesagt, die beiden Typen, die wir jetzt haben, sind noch nicht alle.
+
+00:24:18.680 --> 00:24:20.680
+Und auch diese eine Art der Zusammenarbeit ist noch nicht alle.
+
+00:24:20.680 --> 00:24:24.860
+Da kommen noch andere dazu, die das Ganze noch weiter ergänzen.
+
+00:24:24.860 --> 00:24:32.610
+Ich fände das mal total spannend an so einem konkreten Beispiel vielleicht zu beschreiben.
+
+00:24:32.610 --> 00:24:36.610
+Angenommen, Felix, du kommst jetzt in das Team von Manuel.
+
+00:24:36.610 --> 00:24:44.890
+Wie würdest du die Team-Typologien da beschreiben bzw. herausfinden, was seid ihr jetzt für Typen?
+
+00:24:44.890 --> 00:24:52.010
+Oder was sind das ja für Kategorien? Wie könntest du das anwenden, umsetzen?
+
+00:24:52.010 --> 00:24:58.830
+Tatsächlich eine einfache und gute Möglichkeit ist hinzugehen und Value Stream Mapping zu machen.
+
+00:24:58.830 --> 00:25:04.830
+Das bedeutet ganz rechts, kurz bevor irgendein Kunde zum ersten Mal glücklich dadurch wird, dass ein Ergebnis in der Hand hält, zu sagen,
+
+00:25:04.830 --> 00:25:07.860
+okay, was ist das Letzte, was wir davor machen müssen?
+
+00:25:07.860 --> 00:25:10.810
+Das wäre jetzt im Software-Kontext ein Produktions-Deployment.
+
+00:25:10.810 --> 00:25:15.280
+Ja, und dann wäre die Frage, was müsste als letztes davor gemacht werden?
+
+00:25:15.280 --> 00:25:21.310
+Und das, wenn wir es jetzt mal etwas verkürzt darstellen, wäre das dann ein End-to-End- oder Integrationstest.
+
+00:25:21.310 --> 00:25:24.310
+Und was müsste davor gemacht werden? Dafür müsste irgendjemand Features bauen.
+
+00:25:24.310 --> 00:25:28.370
+Und was müsste davor gemacht werden? Da müsste jemand Anforderungen schreiben.
+
+00:25:28.370 --> 00:25:31.360
+Und alles entlang dieser Linie bildet erstmal den Wertschirm.
+
+00:25:31.360 --> 00:25:44.280
+Und dann kann ich mich fragen, okay, Teams, die ihr jetzt da seid, seid ihr in der Lage, diese ganze Strecke zu bedienen?
+
+00:25:44.280 --> 00:25:50.310
+Wenn ja, und manchmal ist das tatsächlich schon so, dann Glückwunsch, seid ihr ein Streamline-Team
+
+00:25:50.310 --> 00:25:53.310
+und habt möglicherweise kaum Abhängigkeiten nach außen.
+
+00:25:53.310 --> 00:25:58.850
+Umgekehrt ist es so, möglicherweise haben wir so etwas wie das vorhin genannte Team,
+
+00:25:58.850 --> 00:26:02.290
+das eben den Datenexport und die Validierung macht.
+
+00:26:02.290 --> 00:26:07.290
+Und wenn man sich das anguckt, sagt man, okay, erkennbar, ihr seid ein kompliziertes Subsystem-Team.
+
+00:26:07.290 --> 00:26:10.350
+Das ist erstmal nicht schlimm, sondern nur eine Zustandsbeschreibung.
+
+00:26:10.350 --> 00:26:13.320
+Weil man kann sich dann fragen, ist das das ideale Setting?
+
+00:26:13.320 --> 00:26:18.380
+Also macht das wirklich Sinn, euch da auszugliedern, weil ihr den anderen dadurch das Leben einfacher macht?
+
+00:26:18.380 --> 00:26:24.180
+Oder seid ihr nicht möglicherweise eine Abhängigkeit, die man auflösen kann,
+
+00:26:24.180 --> 00:26:27.180
+um andere Leute dadurch mit weniger Abhängigkeiten und Hilfungsfähigkeit zu machen?
+
+00:26:27.180 --> 00:26:31.200
+Und darüber hinaus gibt es natürlich noch weitere.
+
+00:26:31.200 --> 00:26:34.480
+Das sind auch gar nicht mehr so viele. Wir sind jetzt noch bei zwei Team-Typen.
+
+00:26:34.480 --> 00:26:37.540
+Und ich glaube, die Idee kann man dann relativ schnell nennen.
+
+00:26:37.540 --> 00:26:40.450
+Das eine wäre ein Plattform-Team.
+
+00:26:40.450 --> 00:26:45.980
+Der ganz große Klassiker ist, ich biete eine Entwicklungstest- oder Abnahmeumgebung.
+
+00:26:45.980 --> 00:26:51.840
+Also über spitz gesagt irgendeinen Server, auf dem ich dann eine Website oder sonst was liegen kann.
+
+00:26:51.840 --> 00:26:58.160
+Und andere Beispiele, die ich gehabt habe, waren zum Beispiel in einem Projekt im Stromumfeld
+
+00:26:58.160 --> 00:27:03.510
+eine Plattform, die einfach eine Simulation eines Kraftwerks war.
+
+00:27:03.510 --> 00:27:04.510
+Kann man sich denken.
+
+00:27:04.510 --> 00:27:08.510
+Wenn ich neue Kraftwerk-Steuerungssoftware entwickle, soll ich die nicht live betrieben,
+
+00:27:08.510 --> 00:27:10.510
+einem neuen Kraftwerk oder einem echten Kraftwerk testen?
+
+00:27:10.510 --> 00:27:13.470
+Weil wenn da was schief geht, tendenziell schlecht.
+
+00:27:13.470 --> 00:27:18.180
+Also brauche ich einen Simulator, der so tut, als wäre er ein Kraftwerk.
+
+00:27:18.180 --> 00:27:21.180
+Und den kann ich als Plattform-Dienstleistung zur Verfügung stellen.
+
+00:27:21.180 --> 00:27:25.200
+Dass jemand sagt, ich gehe im Portal und ich hätte gerne einen Simulator für ein Kraftwerk,
+
+00:27:25.200 --> 00:27:28.190
+mit so und so viel Stromleistung, das hinten rauskommt.
+
+00:27:28.190 --> 00:27:31.290
+Und vielleicht noch Typ Solarkraftwerk, der mir simuliert,
+
+00:27:31.290 --> 00:27:35.290
+dass immer, wenn die Sonne untergeht, da kein Strom mehr rauskommt und so weiter und so weiter.
+
+00:27:35.290 --> 00:27:39.850
+Und damit überprüfe ich mal meine Steuerungssoftware.
+
+00:27:39.850 --> 00:27:44.960
+Der Zusammenarbeitsmodus, der daran hängt, ist eine As-a-Service-Anbietung.
+
+00:27:44.960 --> 00:27:51.130
+Also ich muss nicht irgendetwas groß beantragen und fragen und der andere muss das erstmal bauen,
+
+00:27:51.130 --> 00:27:54.250
+sondern ich habe es vereinfacht gesagt über einen zusammenklickbares Portal.
+
+00:27:54.250 --> 00:27:58.500
+Ja, genau wie ich sagen kann, ich hätte diese Art von Kraftwerk, kann ich auch sagen,
+
+00:27:58.500 --> 00:28:01.630
+ich hätte gerne so und so viel Speicherplatz, die und die Datenbank,
+
+00:28:01.630 --> 00:28:06.810
+kann ich mir zum Beispiel bei Amazon Web Services auf einer Benutzeroberfläche auch zusammenklicken.
+
+00:28:06.810 --> 00:28:11.280
+Das wäre dann der dritte Typ und der dritte Zusammenarbeitstyp,
+
+00:28:11.280 --> 00:28:14.870
+also Plattform-Team und As-a-Service-Zusammenarbeit.
+
+00:28:14.870 --> 00:28:19.170
+Und das letzte, das wäre das, wie man es dann nennt, das Enabling-Team.
+
+00:28:19.170 --> 00:28:25.000
+Das ist einfach ein unterstützendes Team, das dabei hilft, bestimmte Dinge,
+
+00:28:25.000 --> 00:28:28.000
+die vielleicht die anderen Teams jetzt noch nicht ganz so genau können,
+
+00:28:28.000 --> 00:28:31.120
+wie sie es irgendwann mal können sollten, dass die dahin gebracht werden.
+
+00:28:31.120 --> 00:28:35.120
+Also sei es Teams, die den Leuten sagen, so und so baue ich eine Build-Publine,
+
+00:28:35.120 --> 00:28:39.340
+so und so automatisiere ich das. Sobald wir es euch erklärt haben, könnt ihr es selber.
+
+00:28:39.340 --> 00:28:42.330
+Herzlichen Glückwunsch, willkommen in der Freiheit.
+
+00:28:42.330 --> 00:28:46.590
+Das können aber auch Leute sein, die sagen, ich bringe euch Design Thinking bei oder irgendwas mehr.
+
+00:28:46.590 --> 00:28:52.130
+Und das ist dann der letzte Zusammenarbeitstyp, heißt auf Englisch so für Facilitation,
+
+00:28:52.130 --> 00:28:57.510
+also die Ermöglichung, das ja möglich machen. Und da wird es auch ganz klar aus,
+
+00:28:57.510 --> 00:29:02.470
+diese Teams wollen sich nicht selber dauerhaft einsetzen und unersetzbar machen,
+
+00:29:02.470 --> 00:29:05.490
+sondern die wollen den anderen dabei helfen, so viel wie möglich selber hinzubekommen.
+
+00:29:05.490 --> 00:29:11.930
+Genau, und solche Teamtypen kann ich ja, wenn ich jetzt zu Manuel in die Firma gehe,
+
+00:29:11.930 --> 00:29:16.930
+relativ schnell identifizieren. Wir können, wenn wir nachher noch ein bisschen Zeit haben drauf kommen,
+
+00:29:16.930 --> 00:29:20.930
+dass andere Leute noch drauf gekommen sind, ein, zwei weitere Typen dazu zu erfinden.
+
+00:29:20.930 --> 00:29:25.700
+Aber ich glaube, in den meisten Umfällen wird man sich schon denken können.
+
+00:29:25.700 --> 00:29:28.760
+Wenn ich mit Leuten ein bisschen rede, finde ich sehr schnell raus,
+
+00:29:28.760 --> 00:29:32.950
+zu welchem der vier Typen die gehören und habe dann auch eine Idee,
+
+00:29:32.950 --> 00:29:34.950
+was da der ideale Zusammenarbeit ist.
+
+00:29:34.950 --> 00:29:41.500
+Ist denn da, so habe ich das richtig verstanden, dass immer der Teamtyp
+
+00:29:41.500 --> 00:29:47.610
+gleich zusammen mit einem Teamzusammenarbeitstyp, also du hast immer gesagt,
+
+00:29:47.610 --> 00:29:51.830
+zum Beispiel das Enabling Team Facilitation könnte rein theoretisch
+
+00:29:51.830 --> 00:29:57.110
+auch Plattform Team Facilitation oder gehört das immer zusammen?
+
+00:29:57.110 --> 00:30:01.320
+Also es gibt in der Realität im Zweifel immer Möglichkeiten,
+
+00:30:01.320 --> 00:30:06.320
+alles zu kombinieren und aufzubauen, aber grundlegend ein Plattform Team,
+
+00:30:06.320 --> 00:30:09.320
+so wie es gedacht ist, bietet seine Dienstleistung as a Service an.
+
+00:30:09.320 --> 00:30:14.330
+Denn die andere Möglichkeit wäre auch, jetzt nehmen wir das banale Beispiel,
+
+00:30:14.330 --> 00:30:19.300
+ich habe ein Plattform Team, das einfach, weil zwischen ein Fall erklärbar ist,
+
+00:30:19.300 --> 00:30:22.900
+Entwicklungsumgebungen anbietet und hätte jetzt nicht diesen as a Service
+
+00:30:22.900 --> 00:30:28.050
+Zusammenarbeitsansatz, sondern Collaboration. Das bedeutet, das Entwicklungsteam sagt,
+
+00:30:28.050 --> 00:30:32.050
+ich brauche eben die und die Entwicklungsumgebung, so und so viel Speicherplatz,
+
+00:30:32.050 --> 00:30:35.050
+die und die Datenbank, die und die vorinstallierte Software.
+
+00:30:35.050 --> 00:30:38.460
+Und die andere würde sagen, hervorragend, wir arbeiten ja zusammen,
+
+00:30:38.460 --> 00:30:41.420
+jetzt haben wir es von euch erfahren, wir ziehen uns mal eine Woche zurück
+
+00:30:41.420 --> 00:30:47.520
+und bauen das für euch. Würde vermutlich diese Kategorie Zusammenarbeit,
+
+00:30:47.520 --> 00:30:53.150
+also Collaboration erfüllen, wäre aber für das ursprüngliche Entwicklungsteam,
+
+00:30:53.150 --> 00:30:56.150
+ist das Streamalign-Team nicht besonders praktikabel,
+
+00:30:56.150 --> 00:31:00.490
+weil die dann auf einmal warten müssen. Das heißt, es macht dann schon extrem viel Sinn,
+
+00:31:00.490 --> 00:31:03.490
+diesen As-a-Service-Ansatz durch die Plattform-Teams zu haben.
+
+00:31:03.490 --> 00:31:08.220
+Und bei dem letzten Beispiel von gerade den Enabling-Teams,
+
+00:31:08.220 --> 00:31:12.500
+in dem Moment, wo die nicht sagen, alles, was wir tun, soll dazu führen,
+
+00:31:12.500 --> 00:31:16.720
+dass ihr anderen das alleine könnt, würden die sich ja selber zum Flaschenhals machen,
+
+00:31:16.720 --> 00:31:20.720
+weil alles dann nur noch durch die möglich gemacht wird und ohne sie nicht mehr.
+
+00:31:20.720 --> 00:31:23.720
+Und im schlimmsten Fall müssten alle auf sie warten,
+
+00:31:23.720 --> 00:31:26.720
+wenn die immer zu viel zu tun haben und sie würden alle anderen ausbrennen.
+
+00:31:26.720 --> 00:31:30.740
+Und in der Realität wird es immer wieder Grenzfälle geben,
+
+00:31:30.740 --> 00:31:34.830
+das ist ja das Schöne an der Realität, aber die Grundidee ist natürlich,
+
+00:31:34.830 --> 00:31:39.990
+diese Zuordnung von Typen zu Zusammenarbeitsarten einigermaßen klar zu werden.
+
+00:31:39.990 --> 00:31:44.620
+Es ist mich noch so ein bisschen gefragt, was macht man dann?
+
+00:31:44.620 --> 00:31:50.620
+Also ist es so, dass du sagst, du kommst jetzt in unser Team und stellst Fragen,
+
+00:31:50.620 --> 00:31:56.540
+dann kann man das zuordnen. Ich verstehe noch nicht so ganz diesen Mehrwert.
+
+00:31:56.540 --> 00:32:00.540
+Ist es dann, dass man sagt, okay, der Enabling-Team fehlt vielleicht
+
+00:32:00.540 --> 00:32:04.540
+oder dass allen klar wird, okay, ich bin in dem Team,
+
+00:32:04.540 --> 00:32:07.570
+meine Hauptzusammenarbeit ist zu faszinieren?
+
+00:32:07.570 --> 00:32:11.920
+Oder wo ist das? Das fehlt mir noch.
+
+00:32:11.920 --> 00:32:16.210
+Der Hauptmehrwert würde ich tatsächlich sagen, ist das gemeinsame Verständnis.
+
+00:32:16.210 --> 00:32:20.400
+Also wenn ich mit Leuten rede und das erkläre, dann gibt es ganz häufig die Reaktion,
+
+00:32:20.400 --> 00:32:22.400
+ja, kenne ich schon, aber endlich hat es einen Namen.
+
+00:32:22.400 --> 00:32:26.750
+Und das ist dann ja der Punkt, wodurch ich in der Lage bin, mit anderen Leuten
+
+00:32:26.750 --> 00:32:31.220
+auf einmal viel effektiver rüber zu reden und auch viel effektiver zu analysieren,
+
+00:32:31.220 --> 00:32:33.220
+warum denn bestimmte Sachen nicht klappen.
+
+00:32:33.220 --> 00:32:37.630
+Denn wenn ich mich auf diese Idee einlasse und sage, okay, ich habe eben diese Typen
+
+00:32:37.630 --> 00:32:40.630
+und ich merke, für diese Typen machen bestimmte Zusammenarbeitsthemen
+
+00:32:40.630 --> 00:32:44.950
+besonders viel Sinn, dann kann ich auf einmal sagen, okay, ja, jetzt,
+
+00:32:44.950 --> 00:32:48.200
+ich kann jetzt mal einen Finger drauflegen, dieses Enabling-Team,
+
+00:32:48.200 --> 00:32:52.200
+das allen Leuten eigentlich beibringen soll, wie man Build-Pipelines baut,
+
+00:32:52.200 --> 00:32:55.260
+aber es de facto selber immer macht und dadurch zu flaschen als wird,
+
+00:32:55.260 --> 00:32:58.210
+das ist eins der Probleme, das uns langsamer gemacht wird.
+
+00:32:58.210 --> 00:33:01.790
+Das hätte man mit anderen Worten vorher auch beschreiben können.
+
+00:33:01.790 --> 00:33:06.170
+Ja, und das meiste ist ja auch mehr oder weniger intuitiv,
+
+00:33:06.170 --> 00:33:09.280
+aber in dem Moment, wo ich wirklich einfache und prägnante Narben dafür habe,
+
+00:33:09.280 --> 00:33:12.430
+die von allen gleich verstanden werden, kann ich sehr viel klarer sagen,
+
+00:33:12.430 --> 00:33:16.780
+okay, hier ist die Ausgangslage, hier könnten wir was tun, um besser zu werden.
+
+00:33:16.780 --> 00:33:21.000
+Das ist der angestrebte Team- oder Zusammenarbeitsmodus.
+
+00:33:21.000 --> 00:33:23.250
+Lass uns zusammen hingehen und daran arbeiten.
+
+00:33:23.250 --> 00:33:27.310
+Und das erleichtert halt Analyse und Zielsetzung ganz stark.
+
+00:33:27.310 --> 00:33:32.420
+Und aufbauend darauf kann ich dann natürlich noch sagen,
+
+00:33:32.420 --> 00:33:35.550
+okay, habe ich weitere Zusatznutzen, die ich mache?
+
+00:33:35.550 --> 00:33:37.810
+Ein anales Beispiel, ich habe ja vorhin gesagt,
+
+00:33:37.810 --> 00:33:39.810
+es ist mal in SAVE auch übernommen worden.
+
+00:33:39.810 --> 00:33:42.960
+Und die Grundeinheit von SAVE ist ja der Release-Train,
+
+00:33:42.960 --> 00:33:46.960
+also eine Einheit aus, ich glaube, vier bis sechs Teams, irgendwas in der Richtung.
+
+00:33:46.960 --> 00:33:53.320
+Dann sagt SAVE zum Beispiel, um einen solchen Release-Train arbeitsfähig zu machen,
+
+00:33:53.320 --> 00:33:57.510
+brauchen wir von jedem dieser Team-Typen eines dabei,
+
+00:33:57.510 --> 00:34:00.540
+weil nur die im Gänze halt im Zweifel in der Lage sein werden,
+
+00:34:00.540 --> 00:34:03.020
+ein vernünftiges Ergebnis abzuliehen.
+
+00:34:03.020 --> 00:34:06.050
+Also auch die brauchen dann in dem Release-Train X,
+
+00:34:06.050 --> 00:34:08.050
+nehmen wir das Beispiel von vorhin das Data Warehouse,
+
+00:34:08.050 --> 00:34:11.150
+zwei oder ich weiß nicht wie viele dieser Streamline-Teams,
+
+00:34:11.150 --> 00:34:14.150
+die ihre Features oder in dem Fall Produkttypen
+
+00:34:14.150 --> 00:34:16.150
+inklusive der redaktionellen Vorgänge bauen können,
+
+00:34:16.150 --> 00:34:20.880
+und das Plattform-Team für die Entwicklungsumgebungen und Ähnliches
+
+00:34:20.880 --> 00:34:23.880
+und das Complicated Subsystem-Team für diese komplizierte Validierung
+
+00:34:23.880 --> 00:34:29.390
+am Ende, und wenn ich das habe, dann können die am Ende alle,
+
+00:34:29.390 --> 00:34:32.490
+wie auch immer da die Zeiträume sind, zwei Wochen, zwei Monate,
+
+00:34:32.490 --> 00:34:36.700
+ein neues Produkt-Inkrement rausbringen, und umgekehrt merke ich vielleicht,
+
+00:34:36.700 --> 00:34:39.690
+wenn ich mir das angucke, ja Moment, jetzt wollen wir noch mal reden,
+
+00:34:39.690 --> 00:34:43.720
+dieses komplizierte Untersystem, das war bisher in diesem Train nicht drin,
+
+00:34:43.720 --> 00:34:47.870
+das könnte ja der Grund dafür sein, dass hinten Sachen scheinbar fertig waren,
+
+00:34:47.870 --> 00:34:50.150
+aber in der Realität nicht anwendbar gewesen.
+
+00:34:50.150 --> 00:34:54.690
+Und ich kann sofort sagen, okay, wir haben doch alle den gemeinsamen Namen dafür gefunden,
+
+00:34:54.690 --> 00:34:58.690
+und da ist das komplizierte Untersystem, das fehlt uns, lass uns das reinnehmen,
+
+00:34:58.690 --> 00:35:00.910
+und sofort sind wir lieferfähiger.
+
+00:35:00.910 --> 00:35:06.070
+Und das ist der, in der der Mehrwert herauskommt, einfach Dinge, die sehr abstrakt sind,
+
+00:35:06.070 --> 00:35:08.070
+beschreibbar und für alle gleichverständlich.
+
+00:35:08.070 --> 00:35:13.110
+Super Felix, vielen, vielen Dank.
+
+00:35:13.110 --> 00:35:17.260
+Stell dir vor, es klingelt gerade an deiner Tür, deine Oma steht vor der Tür und sagt,
+
+00:35:17.260 --> 00:35:21.260
+Junge, was machst du denn? Erklär mir mal, was du tust.
+
+00:35:21.260 --> 00:35:25.860
+Wie würdest du das deiner Oma erklären, die vielleicht nicht in dieser Welt ist,
+
+00:35:25.860 --> 00:35:27.920
+sodass deine Oma das verstehen würde?
+
+00:35:27.920 --> 00:35:34.780
+Also tatsächlich, was hilfreich ist bei Leuten, die aus einer anderen Welt kommen,
+
+00:35:34.780 --> 00:35:38.780
+und gerade in meiner Familie gibt es ja auch solche, ich glaube, wie in jeder anderen Familie auch,
+
+00:35:38.780 --> 00:35:44.060
+ist, wenn man das Glück gehabt hat, schon mal in einem kombinierten Hardware-Software-Kontext zu arbeiten,
+
+00:35:44.060 --> 00:35:49.090
+dann sobald das irgendwas ist, was man ansehen kann oder was beim Umfeld ein Geräusch macht,
+
+00:35:49.090 --> 00:35:51.250
+können die Leute das sehr viel einfacher verstehen.
+
+00:35:51.250 --> 00:35:56.690
+Und da würde ich jetzt zum Beispiel, wenn ich irgendwo diese Familiensituation habe,
+
+00:35:56.690 --> 00:36:03.810
+sagen, okay, vielleicht haben wir was ganz Schlichtes, wie ein Projekt, das einen kleinen Roboter braucht,
+
+00:36:03.810 --> 00:36:07.870
+ja, den Mars Rover oder einen Rasenmäher-Roboter oder was auch immer.
+
+00:36:07.870 --> 00:36:13.250
+Und würde dann sagen, okay, dann gibt es eben, stark vereinfacht gesagt, das eine Team, das baut die Hardware,
+
+00:36:13.250 --> 00:36:19.470
+Räder, Bremsen, Gas geben, was auch immer. Das zweite Team baut die Software, also wenn man so will,
+
+00:36:19.470 --> 00:36:24.470
+die kleine Intelligenz, die da drinnen ist und dem Ding sagt, wann ist es zu fahren, zu bremsen und was auch immer.
+
+00:36:24.470 --> 00:36:29.850
+Und da ist jedem sofort klar, das kann ich beides separat entwickeln, es gehört aber beides zusammen,
+
+00:36:29.850 --> 00:36:37.140
+um ein vernünftiges Ergebnis zu bringen. Und möglicherweise habe ich dann noch in dem Beispiel was, wo ich sagen kann,
+
+00:36:37.140 --> 00:36:42.300
+und das ist dann am Ende dieses besonders komplizierte Teiling, zum Beispiel die Objekterkennung,
+
+00:36:42.300 --> 00:36:48.360
+also dass der Mars Rover merkt, okay, da vorne ist ein Abhang, da soll ich nicht rüberfahren, weil falle ich runter.
+
+00:36:48.360 --> 00:36:53.510
+Und da kann sich auch jeder sofort erklären, okay, ja, dass überhaupt eine Kamera das aufnehmen kann,
+
+00:36:53.510 --> 00:36:57.510
+dass das Bild analysiert werden kann, dass daraus Schlüsse gezogen werden können,
+
+00:36:57.510 --> 00:37:01.700
+dass daraus Rückmeldungen gegeben werden können. Das wäre dann so ein kompliziertes Untersystem.
+
+00:37:01.700 --> 00:37:07.170
+Und das Schöne an diesem Beispiel ist, ähnlich wie beim Kraftwerk-Beispiel vorhin,
+
+00:37:07.170 --> 00:37:14.380
+habe ich auch da so eine As-a-Service-Dienstleistung, denn dieser Roboter, egal ob für den Mars oder für den Rasen,
+
+00:37:14.380 --> 00:37:18.670
+der muss ja irgendwo getestet werden. Ja, und würde man jetzt von den Erweckungsteams verlangen,
+
+00:37:18.670 --> 00:37:22.670
+ihr baut außerdem noch die Testumgebung mit Hindernissen, mit Kameras unter der Decke,
+
+00:37:22.670 --> 00:37:27.760
+die alles aufnehmen, mit Stoppohren, die stoppen, wie lange da gefahren wird und so weiter und so weiter.
+
+00:37:27.760 --> 00:37:31.040
+Das wäre wieder unglaublich viel. Und stattdessen zu sagen, okay,
+
+00:37:31.040 --> 00:37:36.040
+da baut euch ein anderes Team dieses Testlabor mit kleiner Arm und der Rampe und dem Hindernis
+
+00:37:36.040 --> 00:37:41.300
+und vielleicht mit kleinen künstlich angelegten Sumpf, den es auf dem Mars vermutlich nicht geben wird,
+
+00:37:41.300 --> 00:37:46.300
+aber ein anderes Thema. Und das kann einfach jeder benutzt, kann einfach sagen, ja, will ich haben.
+
+00:37:46.300 --> 00:37:50.300
+Und natürlich mit der kleinen Einschränkung, dass es nicht sofort zusammenklickbar ist,
+
+00:37:50.300 --> 00:37:54.430
+sondern dass es dann frei sein muss. Das wird dann die Plattform-Dienstleistung.
+
+00:37:54.430 --> 00:37:59.490
+Und ich hoffe mal sehr, dass das dann eine Erklärung ist, bei der wir dann auch wieder folgen können.
+
+00:37:59.490 --> 00:38:05.440
+Also die Oma hast du überzeugt, Felix. Die Oma hast du überzeugt.
+
+00:38:05.440 --> 00:38:12.470
+Mich würde jetzt noch interessieren, du hast ja unfassbar viele Zertifikate in allen agilen Methoden erworben.
+
+00:38:12.470 --> 00:38:16.880
+Für dich persönlich, welche Lücke hat es geschlossen?
+
+00:38:16.880 --> 00:38:27.650
+Was hat dieses fehlende Puzzleteil für dich das Bild zum großen Ganzen werden lassen? Was war es konkret?
+
+00:38:27.650 --> 00:38:34.590
+Also tatsächlich auch für mich, wie vorhin gesagt, diese einfachere Erklärbarkeit.
+
+00:38:34.590 --> 00:38:41.670
+Selbst wenn Sachen bei mir im Kopf hinten drin vorher schon irgendwie gewesen sind und sie vorher mit anderen Worten noch mehr erklärt gehabt haben,
+
+00:38:41.670 --> 00:38:49.670
+dadurch, dass dieses Buch mittlerweile auch einigermaßen verbreitet ist, sind ganz viele Sachen jetzt auch einfach in Erklärung sehr viel schnell.
+
+00:38:49.670 --> 00:38:54.960
+Dass ich hingehen kann und sagen kann, okay, habt ihr schon mal dieses Buch gelesen oder davon gehört?
+
+00:38:54.960 --> 00:39:00.390
+Und die Antwort ist im besten Fall ja. Da kann ich sagen, okay, dann lass uns kurz darüber reden.
+
+00:39:00.390 --> 00:39:06.500
+Jetzt das Beispiel von vorhin. Ihr habt da ein Release Train gebaut, aber da fehlt das komplizierte Subsystem Team.
+
+00:39:06.500 --> 00:39:13.880
+Das heißt, wenn wir hier wirklich schnell und unkompliziert lieferfähig sein wollen, brauchen wir das dazu.
+
+00:39:13.880 --> 00:39:20.390
+Oder was eben auch noch so ein Punkt ist, wenn man sich einmal in diese Gedankenwelt rein begeben hat,
+
+00:39:20.390 --> 00:39:27.800
+dann lernt man ja auch mit dieser Abstraktion umzugehen und kommt auf Ideen, dass andere Sachen vielleicht noch nicht genannt sind,
+
+00:39:27.800 --> 00:39:33.240
+die da sinnvoll noch zu ergänzen wären. Und ich habe ja vorhin gesagt, ein anderes Framework,
+
+00:39:33.240 --> 00:39:39.370
+das diese Idee mal aufgegriffen hat von Jürgen Aplow-Anfix, der zum Beispiel als weiteren Team dazu erfunden hat, das Governance Team.
+
+00:39:39.370 --> 00:39:44.810
+Und das Governance Team ist ja überspitzt gesagt so eine Art Servant Leadership Management,
+
+00:39:44.810 --> 00:39:49.910
+das den Leuten sagt, okay, wir halten euch in bestimmter Art und Weise den Rücken frei,
+
+00:39:49.910 --> 00:39:54.390
+sowohl dahingehend, dass wir vielleicht administrative Sachen für euch abwickeln,
+
+00:39:54.390 --> 00:39:59.490
+als auch, dass wir euch auch vielleicht mal am Anfang den Rahmen mitgeben, in dem ihr dann selber entscheiden müsst.
+
+00:39:59.490 --> 00:40:04.100
+Ja, denn auch das ist ja für so ein Team, das dann End-to-End verantwortlich ist,
+
+00:40:04.100 --> 00:40:07.100
+durchaus immer eine spannende Frage, darf ich eigentlich hier wirklich alles?
+
+00:40:07.100 --> 00:40:11.380
+Und die meisten Teams finden es dann auf die Art und Weise raus, dass sie irgendwann,
+
+00:40:11.380 --> 00:40:14.380
+ohne es zu wissen, an den Punkt kommen, wo sie es eigentlich nicht mehr dürfen.
+
+00:40:14.380 --> 00:40:19.760
+Und dann gibt es meistens Ärger, weil sie ohne es zu wollen, dann einen wichtigen Kunden verärgert haben
+
+00:40:19.760 --> 00:40:23.300
+oder was auch immer. Ja, und vielleicht vorher darüber zu reden,
+
+00:40:23.300 --> 00:40:27.360
+komm, wir haben euch diese Leute als Governance-Team zur Seite gesetzt, die sagen,
+
+00:40:27.360 --> 00:40:31.390
+okay, wenn ihr das machen wollt, ab hier heißt das nicht, ihr dürft es nicht mehr,
+
+00:40:31.390 --> 00:40:35.740
+aber redet mit uns vorher darüber, wenn ihr es macht, wie zum Beispiel mit den wichtigen Kunden reden.
+
+00:40:35.740 --> 00:40:39.250
+Ja, und wenn ich das möchte, auch das ist dann in diesem Anfix drin,
+
+00:40:39.250 --> 00:40:44.310
+kann ich dann sogar hinten raus noch ein weiterer Schnittstellen-Team machen, das vielleicht Kunden-Support macht,
+
+00:40:44.310 --> 00:40:48.530
+der in sich wieder so speziell ist, dass es durchaus Sinn machen kann,
+
+00:40:48.530 --> 00:40:52.910
+da eigene Leute drauf zu setzen, aber nicht mehr ganz in diese Spezialisten-Idee
+
+00:40:52.910 --> 00:40:58.140
+des complicated Subsystem-Teams reinpassen, weil das hat ja einfach kein IT-System mehr,
+
+00:40:58.140 --> 00:41:02.350
+sondern einfach nur die zwischenmenschliche Komplexität, wenn man so will.
+
+00:41:02.350 --> 00:41:07.860
+Ja, und ich bin sofort in dieser Modellwelt ganz anders dabei zu sagen,
+
+00:41:07.860 --> 00:41:12.950
+welche Arten von Teams, welche Arten von Zusammenarbeiten, welche Arten von Abhängigkeiten.
+
+00:41:12.950 --> 00:41:17.140
+Und das Ganze natürlich immer mit dem Ziel, das am Ende möglichst einfach zu gestalten.
+
+00:41:17.140 --> 00:41:22.360
+Und ich mag es einfach sehr, weil es Dinge sehr viel klarer und übersichtlicher macht,
+
+00:41:22.360 --> 00:41:27.410
+wie bei allem anderen, was wir in diesem allgemeinen Kosmos tun, ist aber natürlich auch so.
+
+00:41:27.410 --> 00:41:31.500
+Das macht vor allem dann in Unterhaltung zwischen Methodikern extrem viel Sinn,
+
+00:41:31.500 --> 00:41:35.660
+diese Begrifflichkeiten zu benutzen. Je weiter wir aus unserer methodischen Blase rauskommen,
+
+00:41:35.660 --> 00:41:39.720
+desto mehr müssen wir da in die gerade genannte Großmuttererklärung reingehen.
+
+00:41:39.720 --> 00:41:41.950
+Aber ich denke, das ist ja auch völlig okay.
+
+00:41:41.950 --> 00:41:47.320
+Wenn du gerade so denkst, vielleicht ist das auch so ein bisschen wie Business Model Canvas.
+
+00:41:47.320 --> 00:41:52.700
+Also wie ich es verstehe, nutzt man es ja auch insbesondere, um Sachen diskutierbar zu machen.
+
+00:41:52.700 --> 00:41:58.980
+Wenn du mit dem Team darüber diskutieren kannst, vielleicht ist das hier auch so ein Teil davon.
+
+00:41:58.980 --> 00:42:06.640
+Was ich eben noch so ein bisschen gedacht habe, bei DevOps ist ja auch Business drin, Security,
+
+00:42:06.640 --> 00:42:11.640
+nicht nur die Entwickler, sind die einfach in diesem Stream Aligned Team?
+
+00:42:11.640 --> 00:42:17.790
+Oder je nachdem kann man das gar nicht so genau sagen? Oder wie sind die da mit drin?
+
+00:42:17.790 --> 00:42:24.160
+Also im Idealfall ist möglichst viel in diesen Stream Aligned Teams drin.
+
+00:42:24.160 --> 00:42:28.500
+Weil je mehr ich da rausnehme, desto mehr Abhängigkeiten habe ich.
+
+00:42:28.500 --> 00:42:32.620
+Selbst wenn ich sage, ich habe bei diesem Zusammenarbeitstyp Collaboration,
+
+00:42:32.620 --> 00:42:35.620
+dann machen wir einfach das möglichst strukturiert, aber trotzdem einfach.
+
+00:42:35.620 --> 00:42:41.250
+Es ist ja doch ein Verzögerungsfaktor. Und die spannende Frage, die man nicht genau beantworten kann,
+
+00:42:41.250 --> 00:42:47.570
+ab welcher Stelle würde eben die kognitive Mehrbelastung durch das Reinnehmen eines Themas so hoch werden,
+
+00:42:47.570 --> 00:42:54.110
+dass es den Gewinn wieder auffrisst, der dadurch entstanden wird, dass das Team alles Mögliche selber kann.
+
+00:42:54.110 --> 00:43:00.340
+Und am Ende gibt es da vor allem die Möglichkeit, mit den Leuten selber darüber zu sprechen.
+
+00:43:00.340 --> 00:43:03.590
+Ganz alleine deshalb, weil das ja auch kein stabiler Zustand ist.
+
+00:43:03.590 --> 00:43:13.000
+Es kann ja sein, dass da Teams nach und nach reinwachsen in ihre Aufgabe und irgendwann nicht mehr so völlig aufgeblasene Gehirne haben,
+
+00:43:13.000 --> 00:43:18.350
+wenn sie an dieses komplizierte Untersystem rein wollen, weil einfach die Übungen Dinge einfacher machen.
+
+00:43:18.350 --> 00:43:22.240
+Es ist auf der anderen Seite aber so, dass es ja ganz viele Anwendungen gibt,
+
+00:43:22.240 --> 00:43:27.240
+die über die Zeit immer größer werden und größer werden, neue Funktionen und neue Benutzer und was auch immer bekommen,
+
+00:43:27.240 --> 00:43:33.560
+wo man dann irgendwann sagt, mittlerweile wird es mir zu viel, obwohl ich früher alles beherrschen konnte,
+
+00:43:33.560 --> 00:43:38.710
+würde es nicht jetzt Sinn machen, hier an der Stelle ein kompliziertes Untersystem auszugliedern
+
+00:43:38.710 --> 00:43:45.990
+oder wie dem Beispiel Kundensupport, gerade da hinten raus ein anderes Team noch anzuschließen,
+
+00:43:45.990 --> 00:43:51.990
+das uns diese doch sehr aufwendige Aufgabe abnimmt. Ich glaube, das ist was wir in der Softwareentwicklung immer wieder haben.
+
+00:43:51.990 --> 00:43:57.340
+Wir fangen mit kleinen Anwendungen an und da können die Entwickler selber noch Nutzeranfragen beantworten.
+
+00:43:57.340 --> 00:44:03.910
+Ab einer bestimmten Menge skaliert das einfach nicht. Und dann kann ich eben anhand dieses Modells auch nach und nach sagen,
+
+00:44:03.910 --> 00:44:09.190
+haben sich unsere Rahmenbedingungen geändert? Und wenn ja, kann ich mit Hilfe der Begriffe,
+
+00:44:09.190 --> 00:44:14.240
+die mir dieses Modell gibt, erklären, wie ich jetzt unseren organisatorischen Aufbau fände.
+
+00:44:14.240 --> 00:44:16.640
+Auch das ist sicher ein ganz wesentlicher Punkt.
+
+00:44:16.640 --> 00:44:23.290
+Und dann vielleicht auch wie das Unfix-Model, also Jürgen Apello hatten wir auch schon mal bei uns im Podcast,
+
+00:44:23.290 --> 00:44:27.560
+das so ein bisschen selber dann je nach Bedarf zusammenstellen.
+
+00:44:27.560 --> 00:44:35.410
+Kannst du vielleicht noch sagen, ihr habt irgendwo gelesen, dass nicht mehr als neun Leute in so einem Team sein sollen?
+
+00:44:35.410 --> 00:44:39.920
+Ist das richtig oder je nachdem, wie es passt?
+
+00:44:39.920 --> 00:44:45.920
+Ja, also ich glaube, jetzt mal unabhängig von diesem konkreten Modell, ist diese Zahl grundlegend ja sinnvoll,
+
+00:44:45.920 --> 00:44:53.300
+weil alles, was darüber hinausgeht, sorgt natürlich wieder dafür, dass wir innerhalb eines Teams zu viele Kommunikationskanäle haben.
+
+00:44:53.300 --> 00:44:57.280
+Und das sind ja auch Muster, die sich, wenn man so will, durch die Weltgeschichte ziehen.
+
+00:44:57.280 --> 00:45:02.490
+Ja, also die kleinste Einheit der römischen Armee war ja die De Curie mit zehn Leuten.
+
+00:45:02.490 --> 00:45:06.490
+Das heißt, damals ist man schon auf die Idee gekommen, okay, das wäre mal eine ideale Größe.
+
+00:45:06.490 --> 00:45:10.580
+Und das zieht sich dann, wenn man so will, bis in die modernen Sprung-Teams durch.
+
+00:45:10.580 --> 00:45:16.710
+Ich persönlich bin da undogmatisch. Ja, also sag mal, wenn es denn dazu führt, dass wenige Abhängigkeiten da sind,
+
+00:45:16.710 --> 00:45:22.030
+können es von mir aus gerne auch 14 Leute sein. Das kommt immer sehr auf einen Einzelfall an.
+
+00:45:22.030 --> 00:45:28.760
+Aber so ungefähr zehn Leute als Zielgröße für ein Team, glaube ich, ist eine gute Idee,
+
+00:45:28.760 --> 00:45:33.760
+um eben ganz viele andere Sachen im Griff zu behalten, die ansonsten dadurch entstehen würden und Sachen auch aufwendig machen.
+
+00:45:33.760 --> 00:45:40.540
+Man würde vielleicht dann sagen, okay, wenn es mehr als zehn waren, kann man sich vielleicht hinterfragen,
+
+00:45:40.540 --> 00:45:45.540
+ein neues Team aufzumachen, wenn es dann zu diskutieren würde.
+
+00:45:45.540 --> 00:45:49.600
+Ja, da kommen wir in diese gesamten spannenden Nachfolgefragen rein.
+
+00:45:49.600 --> 00:45:54.750
+Denn ein Team halbieren geht vor allem dann, wenn, jetzt überspitzt gesagt,
+
+00:45:54.750 --> 00:46:00.030
+alle Leute im Team alles können. Es kann aber auch sein, dass ich möglicherweise innerhalb eines Teams
+
+00:46:00.030 --> 00:46:05.730
+zehn extreme Spezialisten drin habe. Oder wenn wir es teilen wollen, vielleicht zwölf.
+
+00:46:05.730 --> 00:46:09.880
+Ja, und dann ist das Team als ganzes cross-funktional und das will ich ja.
+
+00:46:09.880 --> 00:46:12.800
+Aber es ist nicht mehr teilbar, weil die Hälften es nicht mehr werden.
+
+00:46:12.800 --> 00:46:17.290
+Hätte ich auf der anderen Seite ein Team, in dem jeder alles kann, wäre diese Teilung problemlos möglich.
+
+00:46:17.290 --> 00:46:22.570
+Und schon bin ich in ganz vielen spannenden Diskussionen drin, denn am Ende wird es ja nicht so sein,
+
+00:46:22.570 --> 00:46:27.970
+jeder kann nur eine Sache oder alle können alles, sondern es wird irgendwo sich in der Mitte treffen.
+
+00:46:27.970 --> 00:46:33.240
+Und das ist dann die Frage, reicht dieses in der Mitte treffen als Konstellation für uns aus,
+
+00:46:33.240 --> 00:46:38.330
+um möglicherweise aus einem etwas großen Team kleinerer zu machen, die dann immer noch antwortfähig sind.
+
+00:46:38.330 --> 00:46:46.330
+Ja, ich hätte noch eine abschließende Frage jetzt von meiner Seite und zwar,
+
+00:46:46.330 --> 00:46:53.330
+wie wird man jetzt Team-Typologe oder Master of Typologies oder ist es einfach Learning by Doing?
+
+00:46:53.330 --> 00:46:59.490
+Lies mal das Buch oder gibt es ein Training? Ist man ein Certified Team-Typology-Expert?
+
+00:46:59.490 --> 00:47:02.330
+Vielleicht kannst du dazu noch was sagen.
+
+00:47:02.330 --> 00:47:08.620
+stark vereinfacht gesagt, dass das Buchlesen ist, glaube ich, ein sehr guter Anfang, der einen auch sehr weit bringt.
+
+00:47:08.620 --> 00:47:13.650
+Denn das Schöne an diesem Ding ist ja der AHA-Effekt, dass man sagt, okay, endlich hat es einen Namen,
+
+00:47:13.650 --> 00:47:16.680
+jetzt verstehe ich, jetzt kann ich es beschreiben, jetzt kann ich es benutzen.
+
+00:47:16.680 --> 00:47:22.710
+Und es gibt auch, anders als bei ganz vielen anderen Ansätzen, die wir in unserem agilen Kosmos haben,
+
+00:47:22.710 --> 00:47:29.670
+keine Team-Typology-Zertifizierung. Umgekehrt, glaube ich, ich muss wirklich nur im Internet suchen
+
+00:47:29.670 --> 00:47:34.700
+und werde Leute finden, die mir da irgendwelche Vorträge und Schulungen und Ähnliches anbieten.
+
+00:47:34.700 --> 00:47:39.980
+Und zumindest da, wo es an andere Frameworks mit integriert und aufgenommen worden ist,
+
+00:47:39.980 --> 00:47:46.240
+die beiden Fälle, die ich kenne, sind Safe und Unfix, werde ich mir sicher, von den Leuten, die mir da Hilfe anbieten,
+
+00:47:46.240 --> 00:47:51.590
+auch in diesem Rahmen ebenfalls Hilfe für die Team-Typology-Zertifizierung holen können.
+
+00:47:51.590 --> 00:47:57.790
+Aber ich persönlich, einer von euch hat es ja gesagt, ich habe tatsächlich irgendwann mal so ein Stapel-Zertifizierung gemacht,
+
+00:47:57.790 --> 00:48:01.980
+der einfach für mich als Berater aus Vertriebsgründen wichtig ist,
+
+00:48:01.980 --> 00:48:04.980
+weil die nicht beauftragten Unternehmen, die alle toll finden.
+
+00:48:04.980 --> 00:48:11.300
+Ich persönlich glaube aber, dass das Verständnis wichtiger ist als das Zertifikat.
+
+00:48:11.300 --> 00:48:17.700
+Und im Zweifel ich durch ein sehr gründliches und entspanntes Lesen des Buches weiterkomme,
+
+00:48:17.700 --> 00:48:24.660
+als ich durch den zweitägigen Team-Typology-Zertifizierungskurs, den es nicht gibt, kommen würde.
+
+00:48:24.660 --> 00:48:26.660
+Denn das ist ja immer sehr, sehr komponiert.
+
+00:48:26.660 --> 00:48:29.930
+Aber das ist jetzt natürlich meine persönliche Frage.
+
+00:48:29.930 --> 00:48:37.090
+Vielleicht gibt es den Zertifizierungsmarkt dafür, der nur noch nicht entdeckt ist, wer weiß.
+
+00:48:37.090 --> 00:48:40.090
+Das ist eine gute Unternehmensidee.
+
+00:48:40.090 --> 00:48:44.280
+Kommen wir langsam schon zum Ende.
+
+00:48:44.280 --> 00:48:49.140
+Vielleicht so als letzte Frage mal, gibt es vielleicht eine Frage oder irgendwas,
+
+00:48:49.140 --> 00:48:53.900
+was wir noch nicht gestellt haben, die du vielleicht erwartet hattest?
+
+00:48:53.900 --> 00:48:58.570
+Also tatsächlich überlege ich gerade.
+
+00:48:58.570 --> 00:49:02.570
+Also so indirekt das, was wir ganz zum Schluss gehabt haben,
+
+00:49:02.570 --> 00:49:04.570
+ist eine Sache, die mir ganz häufig gestellt wird.
+
+00:49:04.570 --> 00:49:07.570
+Wenn ich irgendwo bei Kundeneinsätzen das mal vorgestellt habe,
+
+00:49:07.570 --> 00:49:10.560
+kann ich mich dafür irgendwo zertifizieren lassen, wo ich immer sage, nein.
+
+00:49:10.560 --> 00:49:13.590
+Das ist auch nicht zwingend notwendig.
+
+00:49:13.590 --> 00:49:18.260
+Was auch immer wieder gefragt wird, ist das alles?
+
+00:49:18.260 --> 00:49:23.260
+Wenn man es einmal durchdrungen hat, klingt das ja unfassbar einfach und naheliegend,
+
+00:49:23.260 --> 00:49:27.510
+wo dann Leute sagen, ist das wirklich etwas, wo man da jetzt so ein großes Vorhaben machen muss,
+
+00:49:27.510 --> 00:49:31.480
+ein ganzes Buch und Riesenerklärung und so weiter.
+
+00:49:31.480 --> 00:49:37.860
+Und persönlich sagt dann, sobald der Erkenntnismoment da ist, kommt einem das so vor.
+
+00:49:37.860 --> 00:49:41.210
+Aber wenn man den zum ersten Mal hat und zum ersten Mal diesen Aha-Effekt hat
+
+00:49:41.210 --> 00:49:45.470
+und sich dann überlegt, okay, was kann ich jetzt im Vergleich zu vorher
+
+00:49:45.470 --> 00:49:48.420
+einfacher sowohl erfassen als auch erklären?
+
+00:49:48.420 --> 00:49:51.660
+Das ist dann das, wo man sich sagt, ja, okay, ich erkenne schon den Mehrwert.
+
+00:49:51.660 --> 00:49:56.300
+Aber vermutlich ist es ja auch eine Eigenschaft einer großen Idee,
+
+00:49:56.300 --> 00:50:00.430
+dass, wenn man sie einmal durchtrungen hat, sie sofort intuitiv da ist
+
+00:50:00.430 --> 00:50:03.330
+und man nicht immer ein Lexikon unten mal mittragen muss,
+
+00:50:03.330 --> 00:50:05.450
+um nachschlagen zu können, wie ich es zu verstehen habe.
+
+00:50:05.450 --> 00:50:08.050
+Das finde ich durchaus charmant.
+
+00:50:08.050 --> 00:50:13.180
+Und diesen Aha-Effekt hast du öfters, wenn du zu Kunden von dem gehst?
+
+00:50:13.180 --> 00:50:15.430
+Ja, also in verschiedener Art und Weise.
+
+00:50:15.430 --> 00:50:18.460
+Von, wie vorhin gesagt, endlich hat es einen Namen,
+
+00:50:18.460 --> 00:50:23.720
+über dieses andere, also was immer wieder auch kommt, diese Erkenntnis,
+
+00:50:23.720 --> 00:50:29.030
+für diese Teamtypen machen diese Zusammenarbeitstypen besonders gut.
+
+00:50:29.030 --> 00:50:33.030
+Ja, das ist auch was, wo Leute immer wieder sagen, ja, jetzt, okay, natürlich.
+
+00:50:33.030 --> 00:50:35.030
+Jetzt, wo wir drüber sprechen, ist total nachvollziehbar.
+
+00:50:35.030 --> 00:50:36.960
+Habe ich vorher noch nie drüber nachgedacht.
+
+00:50:36.960 --> 00:50:39.200
+Ja, das ist auch so ein Aha-Ding.
+
+00:50:39.200 --> 00:50:44.410
+Und auch eines, was dann immer wieder nachhaltig auch dafür sorgt,
+
+00:50:44.410 --> 00:50:48.410
+dass Leute ab da Dinge auch anders besprechen oder behandeln können.
+
+00:50:48.410 --> 00:50:51.750
+Das, wie ich finde, wirklich eine ganz bemerkenswerte Sache ist.
+
+00:50:51.750 --> 00:50:54.720
+So viele andere Ansätze können das nicht für mich sein.
+
+00:50:54.720 --> 00:50:57.960
+Ja, super. Vielen Dank.
+
+00:50:57.960 --> 00:50:59.960
+Dirk, hast du noch eine Frage?
+
+00:50:59.960 --> 00:51:03.680
+Also, ich sage Dankeschön. Ich habe keine Fragen mehr.
+
+00:51:03.680 --> 00:51:05.680
+Also, die Oma hat es auch verstanden.
+
+00:51:05.680 --> 00:51:08.710
+Vielen Dank, Felix.
+
+00:51:08.710 --> 00:51:12.700
+Ja, spannend. Ich glaube, wir schauen alle mal in das Buch rein.
+
+00:51:12.700 --> 00:51:13.890
+Genau.
+
+00:51:14.850 --> 00:51:17.490
+Super. Letzte Worte für diese Folge.
+
+00:51:17.490 --> 00:51:19.490
+Ja, dann vielen Dank nochmal.
+
+00:51:19.490 --> 00:51:23.070
+Und vielleicht sehen wir uns nochmal in dem Podcast zu anderen.
+
+00:51:23.070 --> 00:51:25.070
+Du hast ja ganz schön viele Themen.
+
+00:51:25.070 --> 00:51:26.070
+Habe ich gewählt.
+
+00:51:26.070 --> 00:51:27.070
+Würde mich freuen.
+
+00:51:27.070 --> 00:51:29.070
+Vielleicht laden wir dich einfach nochmal ein.
+
+00:51:29.070 --> 00:51:32.350
+Dann nochmal vielen Dank und gute Zeit.
+
+00:51:32.350 --> 00:51:34.350
+Genau. Glück auf aus dem Pott nach Bonn.
+
+00:51:35.350 --> 00:51:37.350
+Ja, Glück auf. Ich komme ursprünglich aus Dortmund.
+
+00:51:37.350 --> 00:51:39.350
+Ich kann es von Herzen zurückgeben.

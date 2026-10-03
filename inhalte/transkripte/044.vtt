@@ -1,0 +1,2188 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #44: #44 Innovation Flywheel mit Dennis Niederhagen
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:35.720
+VUCA Blaster. Ja, herzlich willkommen zu einer neuen Folge des VUCA Blasters. Heute haben wir als Gast Dennis Niederhaegen bei uns. Herzlich willkommen Dennis. Hi Manuel, freue mich, danke dir. Ich stelle dich kurz vor, dann kannst du vielleicht nochmal sagen, vielleicht fehlt dir da noch was. Ich habe schon bei LinkedIn gesehen, du hast sehr, sehr viel gemacht, in verschiedenen Unternehmen gearbeitet. Mal gucken, ob ich versuche, alles abzudecken, aber du kannst ja dann ein bisschen was dazu erzählen.
+
+00:00:36.720 --> 00:01:06.140
+Genau, Dennis ist Founder und CEO von Digital Valley, ist auch Podcast aktuell mit dem Podcast Digital Valley C-Talk, wo ich, by the way, auch gerade als Gast war. Könnt ihr euch gerne auch mal anhören. Er ist ausgebildeter Bankkaufmann, hat noch seinen Master bei der ESMT Berlin gemacht, auch in, genau, hat gerade seinen Pulli gezeigt.
+
+00:01:06.140 --> 00:01:11.140
+Ohne es zu wissen, ohne es zu wissen, habe ich meinen ESMT Hoodie sogar gerade an, genau.
+
+00:01:11.140 --> 00:01:26.540
+Hat in diversen Unternehmen gearbeitet, als Relationship Manager, als Sales Manager, Key Account Manager und genau, aktuell bist du bei Digital Valley.
+
+00:01:26.540 --> 00:01:36.400
+Hab auch gesehen, bei Aeon, du hast auch viel in der Energiebranche gemacht, bei Aeon, bei Trianel, fehlt dir noch was?
+
+00:01:36.400 --> 00:01:38.400
+Das ist sehr, sehr grob.
+
+00:01:38.400 --> 00:01:48.320
+Absolut, alles richtig. Ist ja auch alles Teil meines Lebens. Ich weiß tatsächlich ja schon ein bisschen länger ist, dass ich berufstätig bin.
+
+00:01:48.320 --> 00:01:56.500
+Ich würde es so zusammenfassen, dass ich sage, glücklicherweise durfte ich in meinem Berufsleben immer mich um das Neue kümmern.
+
+00:01:56.500 --> 00:02:03.590
+Also entweder waren es neue Produkte oder neue Bereiche oder teilweise auch ganz neue Firmen, die ich mit aufbauen durfte.
+
+00:02:03.590 --> 00:02:10.590
+Fintech auch für eine MDAX Bank, die wir dann weiter vermarktet haben an der französischen Bank und so weiter und so fort.
+
+00:02:10.590 --> 00:02:21.120
+Und genau aus dem Kontext habe ich mich immer um Innovationen gedreht und Startups und Venture Capital und habe halt Hintergründe im Investment Banking.
+
+00:02:21.120 --> 00:02:26.120
+Richtig, ich habe sogar mal, es war damals nach Hamburg, tatsächlich im Bankaufmann gelernt.
+
+00:02:26.120 --> 00:02:32.080
+Ich habe eine echte Ausbildung hinter mir und dann noch vier Studienabschlüsse.
+
+00:02:32.080 --> 00:02:38.900
+Aber genau deshalb, es drehte sich eigentlich immer um den Bereich, lass uns mal was Neues kreieren.
+
+00:02:38.900 --> 00:02:41.110
+Also immer Innovationen.
+
+00:02:41.110 --> 00:02:50.820
+Und so kam es dann eben auch, kam mir die Idee zu Digital Valley und zu sagen, wie schaffen wir es eigentlich, dass wir auch einen Ort für Innovationen haben.
+
+00:02:50.820 --> 00:02:53.970
+Und den haben wir jetzt mit Digital Valley geschaffen.
+
+00:02:53.970 --> 00:02:59.640
+Okay, du kannst vielleicht später noch ein bisschen mehr, aber vielleicht kommen wir auch auf das Thema so im Gespräch.
+
+00:02:59.640 --> 00:03:00.640
+Unbedingt.
+
+00:03:00.640 --> 00:03:08.880
+Sonst haben wir hier noch drei gefürchtete Check-In Fragen, die ich hier random aussuche.
+
+00:03:08.880 --> 00:03:09.970
+Sehr gut.
+
+00:03:09.970 --> 00:03:12.970
+Erste Frage, was löst Freude in dir aus?
+
+00:03:12.970 --> 00:03:16.790
+Meine Kinder.
+
+00:03:16.790 --> 00:03:17.790
+Schnell Antwort.
+
+00:03:17.790 --> 00:03:19.790
+Ja, ist auch einfach.
+
+00:03:19.790 --> 00:03:28.790
+Also ich liebe meine Kinder natürlich über alles und glücklicherweise haben die auch den Schalk im Nacken.
+
+00:03:28.790 --> 00:03:36.170
+Und ich bin für jeden Quatsch zu haben. Dementsprechend bin ich, glaube ich, ein guter Spielpartner auch für die Kids.
+
+00:03:36.170 --> 00:03:39.510
+Und wir denken uns immer viel Quatsch miteinander aus.
+
+00:03:39.510 --> 00:03:42.510
+Und deshalb, das lässt mein Herz höher hüpfen.
+
+00:03:42.510 --> 00:03:48.760
+Das lässt mich lachen und das lässt mir auch so manche Schwierigkeiten, die man vielleicht manchmal tagsüber hatte, dann auch ganz schnell vergessen.
+
+00:03:48.760 --> 00:03:49.760
+Genau.
+
+00:03:49.760 --> 00:03:50.760
+Cool.
+
+00:03:50.760 --> 00:03:52.680
+Schön.
+
+00:03:52.680 --> 00:03:56.600
+Die zweite Check-In-Frage ist, deine Definition von Glück ist?
+
+00:03:56.600 --> 00:03:59.980
+Oh, das ist gut.
+
+00:03:59.980 --> 00:04:04.610
+Ich glaube, Glück ist immer nur ein Moment.
+
+00:04:04.610 --> 00:04:11.420
+Und Glück kann es auch nur geben, wenn es vorher Unglück gab, einfach um im gleichen Wording zu bleiben.
+
+00:04:11.420 --> 00:04:21.530
+Es muss nicht immer ein Unglück passieren, aber es muss auch Phasen geben, die etwas nebliger, etwas bedrückter, etwas dunkler vielleicht sind, um überhaupt Glück empfinden zu können.
+
+00:04:21.530 --> 00:04:32.150
+Aber Glück ist in meiner Wahrnehmung, und sollte es auch irgendwie nicht sein, niemals ein Dauerzustand, weil dann würdest du ja gar nicht mehr Glück empfinden, wenn das der Dauerzustand ist.
+
+00:04:32.150 --> 00:04:41.880
+Also, Glück sind tolle Momente, die man hoffentlich häufig in seinem Leben empfinden darf.
+
+00:04:41.880 --> 00:04:49.900
+Okay, vielen Dank. Und die letzte Frage, dann hast du es geschafft. Worauf bist du stolz?
+
+00:04:49.900 --> 00:04:58.310
+Ich bin stolz darauf, wie sich meine Kinder entwickeln.
+
+00:04:58.310 --> 00:05:07.230
+Das klingt sehr pathetisch und ausgelutscht vielleicht, aber das ist wirklich ein tolles Gefühl, dass man sehen kann,
+
+00:05:07.230 --> 00:05:14.050
+wie die, und sind noch kleiner, also sind jetzt keine erwachsenen Kinder, sondern noch im Kindergarten- und Schulalter.
+
+00:05:14.050 --> 00:05:22.370
+Und wie die ihre Schritte gehen, ihre Selbstständigkeit entdecken, das macht einfach unfassbar viel Spaß, das zu sehen.
+
+00:05:22.370 --> 00:05:26.700
+Dann hast du es geschafft.
+
+00:05:26.700 --> 00:05:30.820
+Yes! War gar nicht so schlimm.
+
+00:05:30.820 --> 00:05:34.820
+Aber es gibt, manche mögen es halt, manche nicht.
+
+00:05:34.820 --> 00:05:36.820
+Alles gut.
+
+00:05:38.970 --> 00:05:42.970
+Wollen wir ins Thema, starten wolltest du ja schon mit Innovationen?
+
+00:05:42.970 --> 00:05:43.970
+Gerne.
+
+00:05:43.970 --> 00:05:49.250
+Vielleicht kannst du auch ein bisschen erzählen, was macht ihr bei Digital Valley, was macht ihr genau?
+
+00:05:49.250 --> 00:05:58.370
+Ja, also sehr gerne, da musst du mich im Zweifel auch stoppen, weil da rede ich natürlich am allerliebsten über Digital Valley.
+
+00:05:58.370 --> 00:06:01.370
+Aber warum haben wir das überhaupt gebaut?
+
+00:06:01.370 --> 00:06:08.850
+Also, wenn du dir mal überlegst, wir finden innerhalb von Millisekunden, können wir Ferienwohnungen über Airbnb finden.
+
+00:06:08.850 --> 00:06:15.980
+Und wir können Autos finden und wir können Wohnungen und Häuser finden über digitale Marktplätze.
+
+00:06:15.980 --> 00:06:27.960
+Aber es gab, muss ich jetzt sagen, keinerlei Chance eigentlich auch einen Platz zu haben, wo sich Innovatoren, also Startups und auch Innovationsmitarbeiter,
+
+00:06:27.960 --> 00:06:34.050
+Forschende, Leiter der Innovationsabteilung in Unternehmen selber mal treffen können.
+
+00:06:34.050 --> 00:06:39.490
+Und das ist etwas, was es aus unserer Wahrnehmung heraus, unserer Analyse heraus unbedingt aber geben muss.
+
+00:06:39.490 --> 00:06:48.030
+Und wir haben in, jetzt mal nur für Deutschland gesprochen, haben wir so 1000 sogenannte lokale Innovations-Ökosysteme.
+
+00:06:48.030 --> 00:06:56.150
+Also das ist einfach nur der Oberbegriff für Inkubatoren, Acceleratoren, Digital-Hubs, Tech-Hubs, wie auch immer wir die nennen wollen.
+
+00:06:56.150 --> 00:07:03.530
+Es gibt über 1000 Stück. Und vielleicht für Kontext, es gibt etwas mehr als 950 Stadtwerke in Deutschland.
+
+00:07:03.530 --> 00:07:09.950
+Ja, also um das mal von der Größenkategorie einzufordnen. Und das ist so in meiner Analyse
+
+00:07:09.950 --> 00:07:17.490
+als ob es alle Ferienwohnungen gibt. Es gibt so viele Orte, wo Innovation entsteht, aber es gibt eben noch kein Airbnb.
+
+00:07:17.490 --> 00:07:26.020
+Ja, und diese Problematik ist für viele Seiten vorhanden, dass man gar nicht weiß, wer arbeitet wo, an welcher Innovation.
+
+00:07:26.020 --> 00:07:33.580
+Wo ist eigentlich welches Startup? Weil die Startups wollen gefunden werden, weil die ja erfolgreich sein wollen.
+
+00:07:33.580 --> 00:07:41.310
+Aber gleichzeitig, und das ist ein spezielles Problem auch für die europäische Wirtschaft, müssen europäische
+
+00:07:41.310 --> 00:07:50.420
+Mittelständler und europäische große Unternehmen und Konzerne relativ schnell und barrierefrei Innovationen finden können.
+
+00:07:50.420 --> 00:07:56.890
+Und im Moment ist dieses Finden von Innovationen immer dem Prinzip Zufall überlassen in der Nutshell.
+
+00:07:56.890 --> 00:08:02.950
+Also ich kenne einen bei der Uni, ich kenne einen bei der FH, ich gehe mal zu dem Treffen im Digital ab,
+
+00:08:02.950 --> 00:08:08.950
+ich gehe mal zu dieser Pitchnacht und so weiter und so fort. Aber du hast gar keinen strukturierten Angang
+
+00:08:08.950 --> 00:08:13.270
+und auch kein Tool, in dem Fall kein Digital Valley, wenn du so willst,
+
+00:08:13.270 --> 00:08:22.220
+welches dir einen konzentrierten, transparenten und leicht zugänglichen Datenschatz gibt,
+
+00:08:22.220 --> 00:08:26.920
+wo welche Innovation entsteht, woran die Leute arbeiten und auch die Chance,
+
+00:08:26.920 --> 00:08:30.980
+direkt über die Plattform eben in Kollaboration zu treten.
+
+00:08:30.980 --> 00:08:35.570
+Und dann vielleicht zu ko-innovieren, eine Ko-Kreation zu machen,
+
+00:08:35.570 --> 00:08:39.600
+vielleicht einfach nur eine Kundenbeziehung aufzubauen, vielleicht sogar ein Investment zu tätigen.
+
+00:08:39.600 --> 00:08:44.980
+Und deshalb sagen wir, Digital Valley ist das Silicon Valley digital.
+
+00:08:44.980 --> 00:08:49.580
+Denn das Operating Model des Silicon Valley ist eigentlich nichts anderes,
+
+00:08:49.580 --> 00:08:52.580
+als dass man vier Nutzergruppen miteinander kombiniert,
+
+00:08:52.580 --> 00:08:57.870
+nämlich Startups, Investoren, etablierte Unternehmen und Experten
+
+00:08:57.870 --> 00:09:02.220
+oder in unserem Wording Ökosysteme. Und genau das schafft Digital Valley.
+
+00:09:02.220 --> 00:09:05.220
+Wir bringen also diese vier Nutzergruppen zusammen auf der Plattform,
+
+00:09:05.220 --> 00:09:09.470
+sodass alle sich im Innovationskontext finden und austauschen können,
+
+00:09:09.470 --> 00:09:13.490
+miteinander arbeiten können, investieren können, co-kreieren können.
+
+00:09:13.490 --> 00:09:17.710
+Alles, was du brauchst, um aus einer guten Idee ein Produkt zu bauen
+
+00:09:17.710 --> 00:09:19.710
+und aus einem Produkt eine Firma aufzubauen.
+
+00:09:19.710 --> 00:09:24.110
+Ich könnte ganz verknappt auch sagen, dass LinkedIn für Innovationen einfach nur,
+
+00:09:24.110 --> 00:09:27.110
+um irgendwie mal eine Crunchline zu kreieren.
+
+00:09:27.110 --> 00:09:30.110
+Aber wir sagen immer das Silicon Valley digital.
+
+00:09:30.110 --> 00:09:35.760
+Ja, ich hatte bei Silicon Valley mal gehört, dass halt auch viel diese Innovation da ist,
+
+00:09:35.760 --> 00:09:38.950
+weil alles relativ offen sind, auch bei den Unternehmen,
+
+00:09:38.950 --> 00:09:43.950
+dass sie halt auch da viel mit, wie du auch gesagt hast, so Co-Creation, Kollaboration.
+
+00:09:43.950 --> 00:09:49.550
+Wie ist so dein Eindruck? Ist das in Deutschland auch üblich,
+
+00:09:49.550 --> 00:09:55.550
+dass Unternehmen so offen und frei teilen Innovationen im Unternehmen
+
+00:09:55.550 --> 00:10:00.550
+und mit anderen kollaborieren, co-kreieren?
+
+00:10:00.550 --> 00:10:06.640
+Wenn ich so teilweise die Unternehmen selber sehe, sind da schon viel so Silos
+
+00:10:06.640 --> 00:10:09.640
+und manchmal will man das nicht teilen mit den anderen,
+
+00:10:09.640 --> 00:10:13.640
+weil man irgendwie Angst hat, dass jemand das wegnimmt.
+
+00:10:13.640 --> 00:10:16.500
+Wie ist so dein Eindruck da?
+
+00:10:16.500 --> 00:10:19.500
+Ja, das ist ein interessanter Punkt und ich glaube, was immer hilft,
+
+00:10:19.500 --> 00:10:23.810
+ist nochmal abzuschichten, wie kann eigentlich Innovation entstehen
+
+00:10:23.810 --> 00:10:25.810
+oder in welchen Bereichen.
+
+00:10:25.810 --> 00:10:30.290
+Es gibt im Kern drei maßgebliche Bereiche, in denen innoviert wird.
+
+00:10:30.290 --> 00:10:35.600
+Und das eine ist, man innoviert entweder den Prozess, das Produkt
+
+00:10:35.600 --> 00:10:38.980
+oder die Produkte oder das Geschäftsmodell.
+
+00:10:38.980 --> 00:10:45.450
+Und wo wir in Deutschland und in Europa, aber speziell in Deutschland
+
+00:10:45.450 --> 00:10:48.410
+extrem gut drin waren und auch immer noch sind,
+
+00:10:48.410 --> 00:10:51.760
+ist in der Produkt- und Prozessinnovation.
+
+00:10:51.760 --> 00:10:57.400
+Also wir sind sehr, sehr gut darin, gute Dinge perfekt zu machen.
+
+00:10:57.400 --> 00:11:00.650
+Mein plastisches Beispiel ist dann immer,
+
+00:11:00.650 --> 00:11:03.650
+unsere Autos sind die besten und schönsten und tollsten der Welt.
+
+00:11:03.650 --> 00:11:07.650
+Als Deutsche dürfen wir das ja gerne sagen und auch so denken.
+
+00:11:07.650 --> 00:11:14.020
+Und wir haben vielleicht ein Spaltmaß im Cockpit von zwei Millimetern
+
+00:11:14.020 --> 00:11:16.020
+und ein Tesla hat zwei Zentimeter.
+
+00:11:16.020 --> 00:11:18.210
+Aber ein Tesla ist das auch völlig egal,
+
+00:11:18.210 --> 00:11:22.530
+weil der Tesla will gar nicht das beste Produkt
+
+00:11:22.530 --> 00:11:25.550
+im Sinne der Hardware des Spaltmaßes bauen,
+
+00:11:25.550 --> 00:11:29.550
+sondern hat ein ganz anderes Geschäftsmodell aufgebaut,
+
+00:11:29.550 --> 00:11:36.090
+wo das die Hardware Auto einfach nur das Medium ist,
+
+00:11:36.090 --> 00:11:40.400
+um die Software und all die Produktkategorien,
+
+00:11:40.400 --> 00:11:43.400
+die in der Software auch verbaut sind, zu transportieren.
+
+00:11:43.400 --> 00:11:46.400
+Und deshalb bin ich bei dir.
+
+00:11:46.400 --> 00:11:50.880
+Eine Offenheit musst du natürlich mitbringen, um zu innovieren.
+
+00:11:50.880 --> 00:11:53.000
+Das beginnt auch damit, dass du,
+
+00:11:53.000 --> 00:11:55.220
+du kannst eigentlich nur was Neues entstehen lassen,
+
+00:11:55.220 --> 00:11:57.220
+wenn du unterschiedliche Disziplinen zusammenbringst.
+
+00:11:57.220 --> 00:12:01.220
+Also im Silo entsteht selten Innovation.
+
+00:12:01.220 --> 00:12:06.230
+Innovation ist immer kollaborativ.
+
+00:12:06.230 --> 00:12:08.350
+Also ein iPhone hätte es nie gegeben,
+
+00:12:08.350 --> 00:12:10.350
+wenn nicht auch ein Marketing-Mensch und Designer
+
+00:12:10.350 --> 00:12:12.350
+mit dem Techniker gesprochen hätten.
+
+00:12:12.350 --> 00:12:14.380
+Wenn da nur Techniker miteinander gesprochen hätten,
+
+00:12:14.380 --> 00:12:16.380
+hätten wir niemals ein iPhone entwickelt.
+
+00:12:16.380 --> 00:12:18.380
+Sondern du musst unterschiedliche Disziplinen
+
+00:12:18.380 --> 00:12:20.380
+zusammenbringen und Silos aufbrechen
+
+00:12:20.380 --> 00:12:24.560
+und diese Diversität einfach nutzen.
+
+00:12:24.560 --> 00:12:30.170
+Das fällt und auch das zu Recht wahrscheinlich Unternehmen schwieriger,
+
+00:12:30.170 --> 00:12:34.170
+wenn es um Produkte und Prozesse im Kern in der inkrementellen Verbesserung geht,
+
+00:12:34.170 --> 00:12:37.090
+weil es dann vielleicht auch nah an Patentwissen
+
+00:12:37.090 --> 00:12:40.260
+und interne Prozesse und Prozesswissen
+
+00:12:40.260 --> 00:12:43.260
+der internen Governance geht und dergleichen mehr.
+
+00:12:43.260 --> 00:12:46.260
+Das ist dann auch in vielen Fällen schützenswert
+
+00:12:46.260 --> 00:12:51.510
+und da muss man mit Sicherheit andere Sicherheitsmaßnahmen anlegen
+
+00:12:51.510 --> 00:12:55.510
+und kann nicht alles einfach komplett offen teilen.
+
+00:12:55.510 --> 00:12:57.510
+Wobei es natürlich auch da Strömungen gibt, wo man sagt,
+
+00:12:57.510 --> 00:13:01.480
+Patente sind eh alle Quatsch, lass uns das alles Open Source machen.
+
+00:13:01.480 --> 00:13:03.480
+Und das halte ich auch für eine gute Variante.
+
+00:13:03.480 --> 00:13:05.480
+Es ist übrigens auch kein Altruismus dahinter, sondern
+
+00:13:05.480 --> 00:13:11.480
+aktuellster Fall ist ja mit Metaverse und Meta und der Brille von Meta,
+
+00:13:11.480 --> 00:13:15.480
+dass da eigentlich die Patente dahinter liegen, alle auch offen geteilt werden,
+
+00:13:15.480 --> 00:13:18.480
+damit auch mehr Leute Anwendungen dafür bauen
+
+00:13:18.480 --> 00:13:20.480
+und dann hast du wieder so ein Ökosystem von Anwendungen,
+
+00:13:20.480 --> 00:13:23.480
+um das Produkt stärker und besser zu machen.
+
+00:13:23.480 --> 00:13:28.020
+Wo ich nur hin will ist, wenn wir, und da müssen wir in Deutschland und Europa
+
+00:13:28.020 --> 00:13:33.080
+auch sehr viel stärker werden und dass diesen Unternehmergeist und dieses Unternehmertum,
+
+00:13:33.080 --> 00:13:36.080
+was wir ja eigentlich kennen seit Ende des Zweiten Weltkriegs,
+
+00:13:36.080 --> 00:13:40.330
+wieder aufleben zu lassen, ist, dass wir neue Geschäftsmodelle entwickeln
+
+00:13:40.330 --> 00:13:43.460
+oder bestehende Geschäftsmodelle weiterentwickeln.
+
+00:13:43.460 --> 00:13:47.350
+Und dafür, glaube ich, ist es absolut notwendig,
+
+00:13:47.350 --> 00:13:51.350
+nur Offenheit nach draußen mitzubringen und auch Einflüsse von außen
+
+00:13:51.350 --> 00:13:55.340
+aufzunehmen, um sein Geschäftsmodell modern, besser, effizienter
+
+00:13:55.340 --> 00:13:58.370
+auf anderen Kanälen und auf anderen Wegen zu positionieren.
+
+00:13:58.370 --> 00:14:02.100
+Deshalb, wenn man innoviert, innoviert man in den drei Bereichen
+
+00:14:02.100 --> 00:14:05.160
+Produkt, Prozess und Geschäftsmodell.
+
+00:14:05.160 --> 00:14:08.640
+Und je nach Einzelanwendungsfall musst du vermutlich
+
+00:14:08.640 --> 00:14:11.640
+mal etwas zurückhaltend noch mal etwas offener diskutieren.
+
+00:14:11.640 --> 00:14:15.730
+Aber der Grundsatz der Offenheit für Innovation, der ist immer da.
+
+00:14:15.730 --> 00:14:17.730
+Sonst wird es nicht klappen.
+
+00:14:17.730 --> 00:14:22.740
+Warum glaubst du tun sich die Unternehmen so schwer mit den
+
+00:14:22.740 --> 00:14:23.740
+Geschäftsmodell?
+
+00:14:23.740 --> 00:14:26.740
+Ist es einfach irgendwie auch so ein, wie du eben gesagt hast,
+
+00:14:26.740 --> 00:14:28.740
+dass man es so perfekt machen will?
+
+00:14:28.740 --> 00:14:31.770
+Oder hat man dann den Blick nicht für?
+
+00:14:31.770 --> 00:14:36.820
+Also in meiner Wahrnehmung müssen wir da wahrscheinlich unterscheiden
+
+00:14:36.820 --> 00:14:39.820
+zwischen so deutsch-europäischem Wirtschaftsraum
+
+00:14:39.820 --> 00:14:42.820
+und amerikanischem Wirtschaftsraum.
+
+00:14:42.820 --> 00:14:46.560
+Die amerikanische Wirtschaft ist sehr viel stärker
+
+00:14:46.560 --> 00:14:49.560
+eine Service-Gesellschaft mit Service-Unternehmen.
+
+00:14:49.560 --> 00:14:54.230
+Das ist per se schlecht patentierbar, Services.
+
+00:14:54.230 --> 00:14:58.350
+Dementsprechend ist es da sowieso besser, sehr viel offener,
+
+00:14:58.350 --> 00:15:02.560
+sehr viel more outgoing mit seinem Produkt umzugehen,
+
+00:15:02.560 --> 00:15:04.560
+weil du ja auch einfach die Reichweite generieren musst.
+
+00:15:04.560 --> 00:15:06.970
+Und wir in Deutschland, wie gesagt,
+
+00:15:06.970 --> 00:15:09.970
+wenn es patentierbar war und ein Patent besitzt,
+
+00:15:09.970 --> 00:15:13.970
+dann willst du dein Firmengeheimnis nicht teilen.
+
+00:15:13.970 --> 00:15:17.000
+Und kürzlich nochmal auf dem,
+
+00:15:17.000 --> 00:15:21.970
+es gibt das sogenannte Impact Festival von enkelfähig e.V.
+
+00:15:21.970 --> 00:15:26.940
+da sprach die Gründerin, die liebe Frau Underberg von Underberg,
+
+00:15:26.940 --> 00:15:30.930
+ja, und da, das ist ein Kräuterschnaps, wer es nicht weiß,
+
+00:15:30.930 --> 00:15:33.960
+eben so Papiertütchen eingerollt.
+
+00:15:33.960 --> 00:15:37.020
+Und die Mischung, diese Kräutermischung,
+
+00:15:37.020 --> 00:15:41.020
+kennen genau drei Leute, die Frau Underberg selber,
+
+00:15:41.020 --> 00:15:45.100
+ihre Tochter und ein Pfarrer aus einem nahegelegenen Kloster.
+
+00:15:45.100 --> 00:15:48.530
+So, und das wird halt hart protected, ja.
+
+00:15:48.530 --> 00:15:52.530
+Coca-Cola wird ja auch nicht seine Coca-Cola-Rezeptur frei öffentlich teilen,
+
+00:15:52.530 --> 00:15:55.530
+weil das würde keinen Sinn machen, weil das das Geschäftsmodell kaputt macht.
+
+00:15:55.530 --> 00:15:58.520
+Das heißt, in Momenten, wo zu viel Informationspreisgabe
+
+00:15:58.520 --> 00:16:00.520
+das eigene Geschäftsmodell kaputt macht,
+
+00:16:00.520 --> 00:16:02.520
+sollte man das mit Sicherheit nicht tun.
+
+00:16:02.520 --> 00:16:06.710
+In allen anderen Fällen ist es aber sehr sinnvoll, das zu tun.
+
+00:16:06.710 --> 00:16:08.710
+In Deutschland, aber im Vergleich in Europa,
+
+00:16:08.710 --> 00:16:11.710
+zu dem Service-Gesellschaft USA, maßgebliche Firmen,
+
+00:16:11.710 --> 00:16:15.960
+sind wir ja aufgebaut auf Hardware, auf Engineering,
+
+00:16:15.960 --> 00:16:19.960
+auf Ingenieursleistungen, auf wirklich Maschinenbau,
+
+00:16:19.960 --> 00:16:25.180
+Industrie, wirklich Schwerindustrie und normale Industrie
+
+00:16:25.180 --> 00:16:26.180
+in Deutschland und Europa.
+
+00:16:26.180 --> 00:16:28.180
+Das heißt, wir haben produzierendes Gewerbe
+
+00:16:28.180 --> 00:16:31.400
+und auch da tut man sich ein bisschen schwerer,
+
+00:16:31.400 --> 00:16:34.400
+so die Geheimnisse seiner Maschine zu verraten.
+
+00:16:34.400 --> 00:16:39.400
+Und deshalb ist da, glaube ich, einfach auch ein Unterschied entstanden über Zeit.
+
+00:16:39.400 --> 00:16:43.390
+Und letzter Aspekt in meiner Wahrnehmung dabei ist aber auch,
+
+00:16:43.390 --> 00:16:48.080
+dass wir ja wirklich seit Ende des Zweiten Weltkrieges
+
+00:16:48.080 --> 00:16:52.300
+bis vor wenigen Monaten, wenigen Jahren
+
+00:16:52.300 --> 00:16:56.570
+sehr, sehr, sehr erfolgreich waren mit unserem Geschäftsmodell Deutschland.
+
+00:16:56.570 --> 00:17:03.250
+Also wir haben einfach riesen Absätze aus der Automobilbranche gehabt.
+
+00:17:03.250 --> 00:17:08.430
+Ein Drittel aller Jobs in Deutschland ist über erste, zweite, dritte Welle
+
+00:17:08.430 --> 00:17:10.550
+mit der Automobilbranche verbunden.
+
+00:17:10.550 --> 00:17:13.550
+Also Deutschland hat eine extrem hohe Abhängigkeit dahinter
+
+00:17:13.550 --> 00:17:16.550
+und das war ein extrem erfolgreiches Modell.
+
+00:17:16.550 --> 00:17:19.680
+Wir wissen, das war mit auf Klumpen Risiken gebaut.
+
+00:17:19.680 --> 00:17:24.800
+Das heißt, wir kriegen billige Energie, um Automobile zu produzieren aus Russland
+
+00:17:24.800 --> 00:17:28.800
+und wir verkaufen die produzierten Automobile nach China.
+
+00:17:28.800 --> 00:17:30.800
+So, das heißt, wir haben einen Supplier und einen Abnehmer.
+
+00:17:30.800 --> 00:17:33.800
+Das ist natürlich ein bisschen, würde man niemals so tun,
+
+00:17:33.800 --> 00:17:37.830
+wenn man nochmal das Wirtschaftsbuch der BWL aufschlägt auf Seite 1,
+
+00:17:37.830 --> 00:17:41.950
+aber haben wir halt so getan und haben damit ja auch sehr gut gelebt
+
+00:17:41.950 --> 00:17:46.070
+und Wohlstand aufgebaut, dann im Erfolgsfall hinterfragt man sich
+
+00:17:46.070 --> 00:17:48.070
+ja unglücklicherweise am wenigsten, ja.
+
+00:17:48.070 --> 00:17:53.080
+Deshalb ist auch das wahrscheinlich eine Routine geworden
+
+00:17:53.080 --> 00:17:57.090
+und damit haben wir das andere verlernt, das neue Denken, neue Geschäftsmodelle,
+
+00:17:57.090 --> 00:18:02.080
+neue Bezüge, neue Ideen, neue Wege auch Geschäfte zu betreiben,
+
+00:18:02.080 --> 00:18:04.580
+auch andere Geschäfte zu betreiben.
+
+00:18:04.580 --> 00:18:07.580
+So, das ist ja immer, wenn alles gut läuft, dann hinterfragst du wenig
+
+00:18:07.580 --> 00:18:11.580
+und das kam, glaube ich, on top auch mit dazu, dass wir einfach sehr erfolgsverwöhnt waren
+
+00:18:11.580 --> 00:18:13.580
+und deshalb uns nicht im Kern hinterfragen mussten.
+
+00:18:13.580 --> 00:18:18.920
+Das aber auch schieflaufen kann, zeigt ja so Nokia zum Beispiel.
+
+00:18:18.920 --> 00:18:22.920
+Also dieses, die haben ja auch dann sehr erfolgreich und dann plötzlich, jo.
+
+00:18:22.920 --> 00:18:27.920
+Aber es gibt so viele tolle Beispiele. Nokia ist natürlich ein grandioses Beispiel.
+
+00:18:27.920 --> 00:18:32.050
+Die ja das wissen die Zuhörer, die jetzt jünger sind, gar nicht mehr.
+
+00:18:32.050 --> 00:18:35.050
+Aber ich glaube, du und ich, wir hatten alle nochmal ein Nokia-Handy,
+
+00:18:35.050 --> 00:18:38.050
+so war vielleicht so eines der ersten Handys, die wir hatten.
+
+00:18:38.050 --> 00:18:41.050
+Da hat man dann so ein Spiel gespielt, das hieß Snake, das gibt es inzwischen auch wieder.
+
+00:18:41.050 --> 00:18:52.510
+Aber die waren der größte Mobiltelefon-Hersteller der Welt, bei weitem, der weiteste Abstand.
+
+00:18:52.510 --> 00:18:57.510
+Und dann kam Apple mit dem iPhone und hat den Markt komplett disrupted und gedreht.
+
+00:18:57.510 --> 00:19:00.510
+Und Nokia ist daran gescheitert.
+
+00:19:00.510 --> 00:19:05.630
+Kodak, das gleiche. Kodak hatte das Patent auf Digitalfotografie.
+
+00:19:05.630 --> 00:19:10.850
+Also sie hätten Digitalfotografie selber machen können, haben es sich aber selber nicht kannibalisiert,
+
+00:19:10.850 --> 00:19:19.140
+weil sie die analoge Fotografie war ihre Cash-Cow in ihrem Geschäftsmodell.
+
+00:19:19.140 --> 00:19:26.490
+Das heißt, wir verkaufen nicht nur die Fotokamera, sondern wir verkaufen auch noch den Film.
+
+00:19:26.490 --> 00:19:31.030
+Und wir verdienen sogar noch daran, dass der Film entwickelt wird später.
+
+00:19:31.030 --> 00:19:36.000
+Das heißt, wir haben drei Revenue-Streams, die man hätte töten können mindestens,
+
+00:19:36.000 --> 00:19:38.910
+oder zwei von drei mindestens, nämlich den Film und die Entwicklung,
+
+00:19:38.910 --> 00:19:42.120
+weil bei digitaler Fotografie das nicht entstanden ist.
+
+00:19:42.120 --> 00:19:44.120
+Und dann wurde auch das wieder überholt.
+
+00:19:44.120 --> 00:19:47.280
+Das nennt man so schön das Innovators Dilemma.
+
+00:19:47.280 --> 00:19:51.280
+Clayton Christensen ist ein Nobelpreisträger in der BWL, ist leider schon verstorben,
+
+00:19:51.280 --> 00:19:53.280
+hat das Buch geschrieben, die Innovators Dilemma.
+
+00:19:53.280 --> 00:19:56.500
+Und da wird das sehr gut beschrieben.
+
+00:19:56.500 --> 00:20:00.620
+Wir können das auch jetzt gerade Realtime verfolgen übrigens mit Google,
+
+00:20:00.620 --> 00:20:06.580
+weil dadurch, dass ChatGPT so groß geworden ist,
+
+00:20:06.580 --> 00:20:12.140
+ist ja auch die Anwendung, wie wir suchen, ganz anders geworden.
+
+00:20:12.140 --> 00:20:18.280
+Also wenn ich etwas prompte in ChatGPT, dann erhalte ich eine fertige Antwort.
+
+00:20:18.280 --> 00:20:22.390
+Und bei Google erhalte ich eine Liste von möglichen Quellen,
+
+00:20:22.390 --> 00:20:26.280
+die eine mögliche Antwort mehr liefern könnten.
+
+00:20:26.280 --> 00:20:31.240
+Und jetzt ist das aber, dass 90% des Revenues entsteht bei Google durch Search.
+
+00:20:31.240 --> 00:20:35.620
+Wenn ich jetzt aber Search umdrehe und ich helfe dir nicht mehr zu suchen,
+
+00:20:35.620 --> 00:20:39.160
+sondern ich gebe dir die Antwort, dann ist das eine Schwierigkeit,
+
+00:20:39.160 --> 00:20:42.250
+weil ich dann weniger Werbung schreiben kann.
+
+00:20:42.250 --> 00:20:47.410
+So, und das ist ein Realtime-Example. Google hat darauf, glaube ich, noch keine Antwort.
+
+00:20:47.410 --> 00:20:50.410
+Oder wenn sie eine Antwort haben, haben sie sie uns noch nicht mitgeteilt.
+
+00:20:50.410 --> 00:20:53.410
+Und das können wir alle jetzt jeden Tag weiter beobachten,
+
+00:20:53.410 --> 00:20:57.490
+wie sich Search eigentlich weiterentwickeln wird und ob Google ihr Modell
+
+00:20:57.490 --> 00:21:01.960
+eigentlich hart pivotieren muss und anpassen muss darauf,
+
+00:21:01.960 --> 00:21:07.490
+ohne nicht alle maßgeblichen Revenue-Streams dahinter zu verlieren.
+
+00:21:07.490 --> 00:21:11.490
+Also das ist wirklich sehr, sehr spannend, das mitzuverfolgen.
+
+00:21:11.490 --> 00:21:16.650
+Wer übrigens auch sehr tief, noch viel tiefer und analytischer spricht,
+
+00:21:16.650 --> 00:21:20.810
+sind die beiden Philippe aus dem Doppelgänger-Podcast.
+
+00:21:20.810 --> 00:21:22.810
+Da kann man auch gerne mal reinhören.
+
+00:21:22.810 --> 00:21:25.870
+Da ist es auch an der einen oder anderen Stelle schon mal besprochen worden.
+
+00:21:25.870 --> 00:21:28.120
+Ja, das ist schon sehr spannend.
+
+00:21:28.120 --> 00:21:32.340
+Also ich hätte früher nicht gedacht, dass Nokia so schnell dann weg ist.
+
+00:21:32.340 --> 00:21:34.340
+Also es ist ja auch, glaube ich, jetzt so ein bisschen die Zeit.
+
+00:21:34.340 --> 00:21:38.900
+Wie können Unternehmen denn, wie du eben schon gesagt hast,
+
+00:21:38.900 --> 00:21:45.990
+okay, wenn du hast so eine Cash-Co und denkst, okay, das will ich mich nicht selber dann in dem Bereich innovieren,
+
+00:21:45.990 --> 00:21:51.210
+weil dann fresse ich mich selber sozusagen mit meinem Geschäftsmodell.
+
+00:21:51.210 --> 00:21:58.190
+Wie kann man da dieses Dilemma denn irgendwie loswerden?
+
+00:21:58.190 --> 00:22:00.210
+Oder was könnte man da machen?
+
+00:22:00.210 --> 00:22:05.710
+Ja, das ist ja die goldene 1-Millionen-Euro-Frage.
+
+00:22:05.710 --> 00:22:07.710
+Wenn du das wüsstest.
+
+00:22:07.710 --> 00:22:15.890
+Ja, und es gibt natürlich Teile meiner Antwort würden sich verschrecken, oder wie ist das mal bei einem dieser Minister?
+
+00:22:15.890 --> 00:22:24.490
+Nein, es gibt eigentlich ganz coole Modelle, die, und jetzt stellen wir uns mal die beste Corporate-World vor, die wir uns vorstellen können,
+
+00:22:24.490 --> 00:22:30.490
+nämlich alle sind offen für Veränderungen, alle sehen immer nur das Rationale, das Richtige, das man tun sollte.
+
+00:22:30.490 --> 00:22:36.490
+Es gibt keine Politik im Konzern und man hat die Ressourcen zur Verfügung und weiß auch, die zu allokieren und kann das auch schnell tun.
+
+00:22:36.490 --> 00:22:45.490
+Also alles das, was ja eigentlich auch immer Hinderungsgründe im Konzern sind, nehmen wir das mal als vorausgesetzt hin, dass das so wäre.
+
+00:22:45.490 --> 00:22:55.730
+Dann würde das auch dazu führen, dass man regelmäßig einen eigenen Check-in in sein Geschäftsmodell macht und das nochmal hinterfragt und das beleuchtet.
+
+00:22:55.730 --> 00:23:06.590
+Und ein gutes Tool, das zu tun ist, wenn ich mir das Geschäftsmodell anschaue, dahinter das sogenannte Flywheel mir mal anzuschauen,
+
+00:23:06.590 --> 00:23:13.540
+oder andere nennen das auch den Growth Cycle. Also wie kann ich es schaffen, für mein Geschäftsmodell,
+
+00:23:13.540 --> 00:23:20.230
+für ein einzelnes Produkt, kann man das sogar denken, einen sich selbst verstärkenden Kreislauf zu bilden.
+
+00:23:20.230 --> 00:23:29.320
+Nämlich, da habe ich mir nicht ausgedacht, sondern das kommt wie so vieles in dem Fall aus der Amazon-Welt von Jeff Bezos,
+
+00:23:29.320 --> 00:23:37.050
+der dem Märchen nach der Sage nach, das mal für das aller allererste Geschäftsmodell von Amazon,
+
+00:23:37.050 --> 00:23:44.050
+was ja ein Bücher-Store war online, das mal auf eine Serviette geschrieben hat und einfach aufgeschrieben hat,
+
+00:23:44.050 --> 00:23:53.210
+wenn ich A, B, C, D, E habe, dann verstärken sich diese Punkte alle selber miteinander und führen dazu, dass ich erfolgreich bin.
+
+00:23:53.210 --> 00:24:01.430
+Deshalb an dem Beispiel war es auch so, dass er in der Voranalyse gesagt hat, ich baue einen Online-Shop
+
+00:24:01.430 --> 00:24:09.130
+und welches ist eigentlich das beste Produkt, Startprodukt, um einen Online-Shop, einen Online-Marktplatz zu bauen
+
+00:24:09.130 --> 00:24:19.450
+und kam in seiner Analyse dazu, dass Bücher das beste Produkt ist, weil ein Buch hat viele Commodity-Definitionen in sich.
+
+00:24:19.450 --> 00:24:26.700
+Also die Größe ist größtenteils standardisiert, man kann es perfekt verschicken, ist ja ein Online-Versand,
+
+00:24:26.700 --> 00:24:30.670
+war ein Online-Marktplatz, muss es also auch verschicken können. Du kannst es wunderbar lagern,
+
+00:24:30.670 --> 00:24:36.570
+weil du es toll nebeneinander und aufeinander stellen kannst, das kennen wir alle zu Hause von Regalen.
+
+00:24:36.570 --> 00:24:44.140
+Und du hast aber, obwohl alles so im Großen und Ganzen standardisiert ist von der Größe, von der Breite,
+
+00:24:44.140 --> 00:24:50.030
+von der Lagerung, von der Versendbarkeit, hast du gleichzeitig eines der größten Sortimente
+
+00:24:50.030 --> 00:24:53.990
+der Welt zur Auswahl, weil es gibt einfach unfassbar viele Bücher
+
+00:24:53.990 --> 00:24:58.300
+und es werden auch jedes Jahr sehr, sehr viele neue Bücher geschrieben.
+
+00:24:58.300 --> 00:25:03.330
+Das heißt, das war aus seiner Definition heraus das Beste, was du anbieten kannst
+
+00:25:03.330 --> 00:25:11.820
+und wo du auch einen direkten Mehrwert generierst, denn kein Bücherladen kann physisch so groß sein,
+
+00:25:11.820 --> 00:25:16.820
+wie eine Online-Datenbank an Büchern und damit alle möglichen Titel auch führen,
+
+00:25:16.820 --> 00:25:21.620
+sodass du, egal in welchen Bücherladen du gehst, im Zweifel hast du immer das Problem,
+
+00:25:21.620 --> 00:25:24.620
+dass das Buch, das du gerade haben willst, findest du da nicht.
+
+00:25:24.620 --> 00:25:30.670
+Aber du würdest es immer im Vergleich dazu damals in den Zeiten 90er Jahre bei Amazon finden.
+
+00:25:30.670 --> 00:25:37.850
+Und das war auch der USP. Das heißt, sein Flywheel, sein Wachstumszyklus,
+
+00:25:37.850 --> 00:25:43.370
+den er sich beschrieben hat, ist, ich habe ein Produkt, das ich selber operativ gut lagern kann,
+
+00:25:43.370 --> 00:25:49.910
+was die Breite, das breiteste Kundenangebot hat und weil der Kunde dann merkt,
+
+00:25:49.910 --> 00:25:53.580
+dass er bei mir fündig geworden ist, wann das nicht,
+
+00:25:53.580 --> 00:25:55.540
+und man kriegt es sogar noch nach Hause geschickt.
+
+00:25:55.540 --> 00:25:56.540
+Ich muss das Haus nicht verlassen.
+
+00:25:56.540 --> 00:25:59.540
+Ich habe keine Termine, die ich deswegen verschieben muss,
+
+00:25:59.540 --> 00:26:01.540
+weil ich noch schneller an der Bücherei vorbei sollte.
+
+00:26:01.540 --> 00:26:04.540
+Das führt dazu, dass ich einen Convenience Faktor für den Kunden habe.
+
+00:26:04.540 --> 00:26:06.540
+Ich habe ein breites Sortiment.
+
+00:26:06.540 --> 00:26:12.540
+Ich kann es sogar günstig anbieten, weil ich große Mengen abnehmen kann als Amazon
+
+00:26:12.540 --> 00:26:17.540
+und dann im Zweifel einen Discount bekomme bei den Verlagen, die das machen.
+
+00:26:17.540 --> 00:26:22.730
+Und weil die Kunden das für sich dann als Vorteil sehen, kommen sie auch immer wieder zurück zur Seite,
+
+00:26:22.730 --> 00:26:25.690
+weil sie eine sehr gute Kundenerfahrung haben.
+
+00:26:25.690 --> 00:26:31.680
+Und das verstärkt dann wiederum den Absatz und das erweitert auch wieder das Sortiment, was entsteht.
+
+00:26:31.680 --> 00:26:34.650
+Und so ist es ein sich selber verstärkender Kreislauf.
+
+00:26:34.650 --> 00:26:39.900
+Und das ist das, was man so inzwischen, muss man sagen, klassisch als Flywheel
+
+00:26:39.900 --> 00:26:42.960
+oder Wachstumskreislauf auch beschreibt.
+
+00:26:42.960 --> 00:26:49.810
+Und diesen Check-in sollte eigentlich jedes Unternehmen regelmäßig über sein Gesamtgeschäftsmodell,
+
+00:26:49.810 --> 00:26:55.770
+aber auch für die einzelnen Produktkategorien oder vielleicht sogar einzelne Produkte versuchen zu durchlaufen
+
+00:26:55.770 --> 00:26:59.930
+und zu sagen, was muss eigentlich so ein Produkt leisten?
+
+00:26:59.930 --> 00:27:03.240
+Was ist der USP? Was ist der Kundenvorteil?
+
+00:27:03.240 --> 00:27:07.530
+Und was führt dann dazu, dass sich das auch selber verstärkt, dass der Kunde dann auch wieder zurückkommt
+
+00:27:07.530 --> 00:27:10.620
+und den Prozess wieder durchläuft und wieder durchläuft?
+
+00:27:10.620 --> 00:27:14.570
+Weil auch das hat ja Amazon für sich selber ausgerufen.
+
+00:27:14.570 --> 00:27:18.750
+Sie wollen das kundenfreundlichste Unternehmen der Welt sein.
+
+00:27:18.750 --> 00:27:25.410
+So, und das war Grundlage auch auf all dem, was dann dahinter geschaffen wurde.
+
+00:27:25.410 --> 00:27:34.570
+Das heißt, wie würde man so als Unternehmen, fühle ich davon noch nicht so ganz greifbar mit dem Flywheel.
+
+00:27:34.570 --> 00:27:38.890
+Man hat so ein Produkt und würde dann sagen, okay, erstmal so sagen, okay, was ist eigentlich,
+
+00:27:38.890 --> 00:27:43.890
+vielleicht hat man, funktioniert es ja auch schon oder vielleicht als Startup ein Produkt und sagt,
+
+00:27:43.890 --> 00:27:46.890
+okay, was soll das Produkt können? Was ist der USB, was du gesagt hast?
+
+00:27:46.890 --> 00:27:53.120
+Und dann darauf, wenn da schon irgendwas ist, wird man das dann neu denken
+
+00:27:53.120 --> 00:27:56.120
+oder klar, wenn ein Startup, da gibt es dann vielleicht noch nichts.
+
+00:27:56.120 --> 00:28:01.010
+Und dann, wie wird man da so systematisch angehen?
+
+00:28:01.010 --> 00:28:07.700
+Also ja, im besten Fall musst du es so lange nicht neu denken,
+
+00:28:07.700 --> 00:28:12.860
+wie dieser Wachstumskreislauf nicht durchbrochen ist.
+
+00:28:12.860 --> 00:28:16.710
+Und das ist wie so ein Perpetuum mobile.
+
+00:28:16.710 --> 00:28:21.710
+Das dreht sich unendlich weiter, bis es gestört wird in seinem Ich-dreh-mich-weiter.
+
+00:28:21.710 --> 00:28:25.710
+Nur um es einmal irgendwie greifbarer physisch zu beschreiben.
+
+00:28:25.710 --> 00:28:31.740
+Das heißt, es ist ein Kreislauf, der sich selber verstärkt und damit sich nicht aufhört zu drehen.
+
+00:28:31.740 --> 00:28:34.890
+Und der würde sich im Zweifel ja auch nur aufhören, so zu drehen,
+
+00:28:34.890 --> 00:28:40.290
+wenn ein anderes Unternehmen ein besseres Geschäftsmodell entwickelt.
+
+00:28:40.290 --> 00:28:43.400
+Weil dann die Kunden sukzessive zu dem besseren Geschäftsmodell,
+
+00:28:43.400 --> 00:28:46.430
+zu dem besseren Produktangebot, zu dem besseren Service,
+
+00:28:46.430 --> 00:28:50.430
+was auch immer der Grund ist, des USPs, auch eine Kombination aus dem Ganzen,
+
+00:28:50.430 --> 00:28:55.710
+würden dann darüber wechseln und das würde die Drehgeschwindigkeit
+
+00:28:55.710 --> 00:28:59.930
+deines eigenen Geschäftes verlangsamen oder vielleicht sogar zerbrechen,
+
+00:28:59.930 --> 00:29:01.930
+sodass sich das Rad nicht mehr weiter dreht.
+
+00:29:01.930 --> 00:29:05.920
+Und bei Amazon, wie gesagt, bleiben wir ruhig bei dem Beispiel,
+
+00:29:05.920 --> 00:29:07.920
+fing es an mit dem breiten Sortiment an Büchern,
+
+00:29:07.920 --> 00:29:12.010
+die sich dann aber auch schnell auf andere Kategorien eben ausgeweitet haben.
+
+00:29:12.010 --> 00:29:16.040
+Also man hat den Kunden daran gewöhnt, ein Produkt online zu kaufen.
+
+00:29:16.040 --> 00:29:20.040
+Das war ja damals neu, ja, also das kann man sich heutzutage gar nicht vorstellen.
+
+00:29:20.040 --> 00:29:23.040
+Aber das war einfach neu, dass man über einen Online-Marktplatz,
+
+00:29:23.040 --> 00:29:25.040
+in dem Fall Amazon, Bücher gekauft hat.
+
+00:29:25.040 --> 00:29:28.040
+So, dann hat das geklappt, da habe ich mich als Kunde daran gewöhnt.
+
+00:29:28.040 --> 00:29:32.040
+Und dann wurden andere Kategorien, andere Produktkategorien mit in das Sortiment
+
+00:29:32.040 --> 00:29:36.040
+bei Amazon aufgenommen und in das virtuelle Regal sozusagen gestellt,
+
+00:29:36.040 --> 00:29:41.000
+des Kaufhauses Amazon, nämlich Elektronik und Haushaltswaren
+
+00:29:41.000 --> 00:29:47.180
+und auch Sachen, die sozusagen standardisiert gut verkaufbar sind.
+
+00:29:47.180 --> 00:29:55.220
+Und durch das sich dann wiederum immer größer und weiter erweiternde Produktsortiment
+
+00:29:55.220 --> 00:29:57.220
+zieht das ja auch wieder neue Kunden an.
+
+00:29:57.220 --> 00:30:00.350
+Also die Bücherwürmer hatten wir schon.
+
+00:30:00.350 --> 00:30:03.460
+Und auf einmal brauchst du ja mehr Kunden, die nicht nur Bücher kaufen,
+
+00:30:03.460 --> 00:30:06.490
+sondern auch mal, damals gab es noch CDs, ja.
+
+00:30:06.490 --> 00:30:10.520
+Die CD kauften oder eine Zahnbürste oder, oder, oder.
+
+00:30:10.520 --> 00:30:13.790
+Also andere Produktkategorien auch kauften.
+
+00:30:13.790 --> 00:30:17.320
+Und dann kam noch hinzu, dann haben sie es tatsächlich so geschafft,
+
+00:30:17.320 --> 00:30:23.550
+dass sie ja ein Subscription Model noch drüber gelegt haben, also ein Abo-Modell,
+
+00:30:23.550 --> 00:30:27.660
+in dem sie gesagt haben, okay, und du willst es sogar noch schneller geliefert bekommen
+
+00:30:27.660 --> 00:30:30.620
+als andere meiner Kunden, ja, dann nimm doch ein Prime Abo.
+
+00:30:30.620 --> 00:30:36.030
+Zahl doch dafür monatlich, regelmäßig an uns Geld,
+
+00:30:36.030 --> 00:30:40.170
+dass du immer bevorzugt beliefert wirst.
+
+00:30:40.170 --> 00:30:43.170
+Da gab es auch noch gar nicht Amazon Prime als Streaming-Dienst,
+
+00:30:43.170 --> 00:30:48.330
+sondern das Prime gab es ja, ist ja geboren aus dem Werteversprechen,
+
+00:30:48.330 --> 00:30:52.550
+dir liefere ich das in einer kürzeren Lieferzeit als anderen Kunden.
+
+00:30:52.550 --> 00:30:55.320
+Deshalb bist du bei uns ein Prime-Kunde.
+
+00:30:55.320 --> 00:30:58.350
+Auch das führt dann wieder dazu, dass wenn du Prime-Kunde bist
+
+00:30:58.350 --> 00:31:01.890
+und du weißt, ich kriege es auch sehr schnell geliefert,
+
+00:31:01.890 --> 00:31:05.530
+führt dazu, dass du auch wieder verstärkt bei Amazon bestellst
+
+00:31:05.530 --> 00:31:08.610
+und nicht in einen Shop in der Innenstadt gehst,
+
+00:31:08.610 --> 00:31:13.000
+weil da bist du unsicher, ob das Produkt da ist, ob es zu dem Preis da ist.
+
+00:31:13.000 --> 00:31:15.160
+Du musst es im Zweifel noch nach Hause schleppen
+
+00:31:15.160 --> 00:31:17.160
+und kriegst es nicht direkt zur Haustür geliefert.
+
+00:31:17.160 --> 00:31:20.160
+Und bei Amazon weißt du sofort, transparenter Preis,
+
+00:31:20.160 --> 00:31:23.220
+es ist schnell geliefert, ich weiß genau was ich bekomme,
+
+00:31:23.220 --> 00:31:26.220
+ich habe sogar Kundenrezessionen, ich habe auch Feedback da drin,
+
+00:31:26.220 --> 00:31:29.180
+ich kann es zurückschicken und so weiter und so fort.
+
+00:31:29.180 --> 00:31:32.180
+Also auch das hat sich alles aufeinander aufgebaut
+
+00:31:32.180 --> 00:31:35.180
+und den ganzen Kreislauf des, ich gehe immer häufiger
+
+00:31:35.180 --> 00:31:38.180
+als Konsument auf die Plattform Amazon, verstärkt.
+
+00:31:38.180 --> 00:31:41.520
+Und so kam es vom Buch zu anderen Produktkategorien,
+
+00:31:41.520 --> 00:31:43.520
+zu einer Prime-Mitgliedschaft, zu einem Wertversprechen,
+
+00:31:43.520 --> 00:31:46.520
+also das auch noch schnell zu bekommen, zu Lieferzeiten,
+
+00:31:46.520 --> 00:31:49.500
+die man dann im Zweifel sogar noch mitbestimmen kann.
+
+00:31:49.500 --> 00:31:53.190
+So, und das hat dann dazu geführt, dass die Gewinne auch,
+
+00:31:53.190 --> 00:31:58.640
+die Amazon erwirtschaftet hat, immer wieder in die Verbesserung
+
+00:31:58.640 --> 00:32:01.920
+der eigenen Produktangebote gesteckt hat.
+
+00:32:01.920 --> 00:32:03.920
+Amazon hat noch nie eine Dividende gezahlt
+
+00:32:03.920 --> 00:32:07.980
+und das finde ich übrigens eine extrem gute Variante als Unternehmen,
+
+00:32:07.980 --> 00:32:12.200
+weil das Geld, was man als Dividende zahlt,
+
+00:32:12.200 --> 00:32:16.390
+ist ja das Geld, was man einfach nur ausschüttet an seine Aktionäre.
+
+00:32:16.390 --> 00:32:19.390
+Und das ist ein Liquiditätsabfluss, der stattfindet
+
+00:32:19.390 --> 00:32:22.390
+und das Geld ist ja dann auch de facto einfach weg,
+
+00:32:22.390 --> 00:32:24.350
+weil es ist dann bei dir oder mir gelandet.
+
+00:32:24.350 --> 00:32:28.610
+Und wir sollen uns dann freuen, dass wir Aktionäre dieser Aktie sind
+
+00:32:28.610 --> 00:32:30.770
+und wir haben dazu Geld bekommen.
+
+00:32:30.770 --> 00:32:34.120
+Amazon hat aber immer gesagt, wir zahlen keine Dividende,
+
+00:32:34.120 --> 00:32:37.120
+weil das würde ja auch unterstellen, dass ich nicht wüsste,
+
+00:32:37.120 --> 00:32:39.120
+was ich mit dem Geld, was ich habe, noch anstellen sollte.
+
+00:32:39.120 --> 00:32:42.380
+Aber wir haben immer genug Ideen, das Geld,
+
+00:32:42.380 --> 00:32:45.540
+was wir im Unternehmen erwirtschaftet haben, nicht auszuschütten,
+
+00:32:45.540 --> 00:32:48.540
+sondern in Produktverbesserungen neue Produkte zu investieren.
+
+00:32:48.540 --> 00:32:53.760
+Das führt wiederum dazu, dass der Aktienkurs de facto wohl steigen wird,
+
+00:32:53.760 --> 00:32:55.760
+weil wir ja bessere Produkte gebaut haben,
+
+00:32:55.760 --> 00:32:57.720
+die den Wert des Unternehmens wieder steigern.
+
+00:32:57.720 --> 00:32:59.720
+Und deshalb ist der Aktionär trotzdem noch glücklich,
+
+00:32:59.720 --> 00:33:01.820
+weil er darüber partizipiert, dass die Aktie,
+
+00:33:01.820 --> 00:33:04.820
+weil das Unternehmen mehr wert geworden ist, die Aktie auch steigt.
+
+00:33:04.820 --> 00:33:07.080
+Also brauchen die gar nicht vorher die 5 Euro Dividende pro Aktie
+
+00:33:07.080 --> 00:33:09.080
+oder was auch immer der Wert gewesen wäre,
+
+00:33:09.080 --> 00:33:11.080
+sondern sind happy, Aktionär zu sein.
+
+00:33:11.080 --> 00:33:13.110
+Und weil Amazon in die eigenen Ideen,
+
+00:33:13.110 --> 00:33:15.110
+in die eigene Erweiterung investiert,
+
+00:33:15.110 --> 00:33:17.200
+ist das völlig in Ordnung.
+
+00:33:17.200 --> 00:33:20.230
+und man bleibt trotzdem ein glücklicher Aktionär.
+
+00:33:20.230 --> 00:33:25.230
+Also Dividendenausstellen kann man als Finanzanalyst auch immer so böse betrachten,
+
+00:33:25.230 --> 00:33:28.220
+dass man sagt, das Unternehmen weiß nicht, was es damit anstellen soll,
+
+00:33:28.220 --> 00:33:30.280
+deshalb gibt es das Geld seinen Aktionären.
+
+00:33:30.280 --> 00:33:32.280
+Oder ein anderer Move ist immer zu sagen,
+
+00:33:32.280 --> 00:33:34.280
+ich weiß nicht, was ich mit meinem Geld anstellen soll,
+
+00:33:34.280 --> 00:33:36.280
+also kaufe ich eigene Aktien zurück
+
+00:33:36.280 --> 00:33:40.280
+und stütze damit auch meinen Aktienkurs natürlich.
+
+00:33:40.280 --> 00:33:43.280
+Und das sind so die zwei Verfahren, warum viele immer sagen,
+
+00:33:43.280 --> 00:33:45.280
+das ist eigentlich ein schlechtes Zeichen,
+
+00:33:45.280 --> 00:33:48.280
+der Unternehmen gar nicht mehr weiß, was es mit seinen Gewinnen anstellen soll,
+
+00:33:48.280 --> 00:33:50.750
+hat anscheinend keine gute Ideen mehr.
+
+00:33:50.750 --> 00:33:55.790
+Das heißt nochmal so, auf dieses Flywheel würde man schauen,
+
+00:33:55.790 --> 00:34:02.410
+was kann ich tun, dass sich das Produkt selbst verstärkend growt.
+
+00:34:02.410 --> 00:34:05.590
+Also das heißt, wenn es eine Plattform ist,
+
+00:34:05.590 --> 00:34:07.590
+ist es dann immer, okay, die Leute kommen wieder drauf
+
+00:34:07.590 --> 00:34:09.590
+und dann so ähnlich wie jetzt bei Amazon.
+
+00:34:09.590 --> 00:34:11.590
+Wenn es vielleicht ein anderes Produkt ist, okay, wie,
+
+00:34:11.590 --> 00:34:14.130
+ich habe jetzt auch immer so ein bisschen im Kopf,
+
+00:34:14.130 --> 00:34:16.130
+so Growth Hacking, habe ich auch mal ein Buch zugelesen,
+
+00:34:16.130 --> 00:34:21.050
+vielleicht nochmal ein Teil ist vielleicht dann dieses Flywheel
+
+00:34:21.050 --> 00:34:24.120
+und dann schauen, okay, wo setzt man an,
+
+00:34:24.120 --> 00:34:28.120
+wie kann ich da Kunden schnellstmöglich bekommen.
+
+00:34:28.120 --> 00:34:34.970
+Also vielleicht auch, wenn ich darf, mache ich dann an den Überlegungen,
+
+00:34:34.970 --> 00:34:38.970
+wir haben das ja für uns selber mit Digital Valley auch betrachtet.
+
+00:34:38.970 --> 00:34:43.090
+Ich habe ja schon gesagt, wir sind platt gesagt das LinkedIn für Innovation.
+
+00:34:43.090 --> 00:34:49.410
+Also wir sind eine Community und eine Infrastruktur auf der Plattform Digital Valley,
+
+00:34:49.410 --> 00:34:55.410
+übrigens DGTLValley.com, wer Lust hat, vorbeizuschauen und sich anzumelden.
+
+00:34:55.410 --> 00:35:01.860
+Für Startups auch komplett kostenlos, also freuen uns auch über Feedback, jederzeit gerne.
+
+00:35:01.860 --> 00:35:08.080
+Aber da haben wir mal auf den Markt von Innovationsentwicklung und Startup-World sozusagen
+
+00:35:08.080 --> 00:35:13.670
+und den relevanten anderen Playern, die mit Startups auch was zu tun haben wollen,
+
+00:35:13.670 --> 00:35:19.970
+und Startups mit denen ja eben auch mal drauf geschaut.
+
+00:35:19.970 --> 00:35:24.920
+Und ich habe eben eingangs schon mal gesagt, es gibt, und jetzt schauen wir mal nur auf Deutschland,
+
+00:35:24.920 --> 00:35:28.160
+1000 dieser sogenannten lokalen Innovations-Ökosysteme.
+
+00:35:28.160 --> 00:35:36.020
+Also Digital-Hubs, Inkubatoren, Acceleratoren, Tech-Hubs, diese physischen Orte.
+
+00:35:36.020 --> 00:35:41.070
+Und das ist eine Zahl, die immer weiter wächst.
+
+00:35:41.070 --> 00:35:47.980
+Und gleichzeitig haben wir auch seit Covid verstärkt die Tendenz,
+
+00:35:47.980 --> 00:35:54.350
+und die wächst auch schnell und weiter, dass Gründer da ihr Unternehmen gründen,
+
+00:35:54.350 --> 00:35:57.410
+wo sie selber gründen wollen.
+
+00:35:57.410 --> 00:36:01.410
+Und nicht mehr klassischerweise nur in sogenannten Tech-Hubs,
+
+00:36:01.410 --> 00:36:07.410
+also in dem Fall Städte als Tech-Hubs benannt, so wie in Berlin oder in München oder in Paris
+
+00:36:07.410 --> 00:36:12.660
+oder in London oder in Stockholm oder in New York oder im Silicon Valley oder in Shenzhen.
+
+00:36:12.660 --> 00:36:18.000
+Oder in Tel Aviv. Und damit haben wir übrigens schon fast einmal die Welt umrundet.
+
+00:36:18.000 --> 00:36:20.960
+So viel mehr riesengroße Tech-Hubs gibt es uns dann gar nicht mehr.
+
+00:36:20.960 --> 00:36:28.230
+Aber ein prominentes Beispiel ist wahrscheinlich Aleph Alpha und der Gründer ist Jonas Androulis,
+
+00:36:28.230 --> 00:36:30.230
+der seine Firma in Heidelberg gebaut hat.
+
+00:36:30.230 --> 00:36:35.650
+Wer hätte denn jemals vorher Geld darauf gewettet, dass so eine Firma in Heidelberg entsteht
+
+00:36:35.650 --> 00:36:37.650
+und nicht in Berlin oder in München.
+
+00:36:37.650 --> 00:36:41.610
+So, das ist aber auch entstanden, einfach nur um das Beispiel zu nehmen,
+
+00:36:41.610 --> 00:36:47.700
+dass es ja möglich ist, remote irgendwo zu sitzen und trotzdem erfolgreich zu gründen.
+
+00:36:47.700 --> 00:36:52.750
+Das war aber vor Covid technologisch möglich, aber nicht gesellschaftlich akzeptiert.
+
+00:36:52.750 --> 00:36:58.990
+Und nach Covid haben wir uns alle daran gewöhnt, dass das ja auch ein Arbeitszustand ist,
+
+00:36:58.990 --> 00:37:00.990
+der einfach gut ist und der auch so bleibt.
+
+00:37:00.990 --> 00:37:04.990
+Wir hatten in dem Podcast, den wir vorher miteinander schon mal hatten, auch darüber gesprochen,
+
+00:37:04.990 --> 00:37:07.970
+welcher Vorteil ja gerade Remote Work auch mit sich bringen kann.
+
+00:37:07.970 --> 00:37:15.630
+Das heißt, es führt dazu, dass wir analytisch betrachtet in einer Welt leben, die nennt man im Innovationskontext
+
+00:37:15.630 --> 00:37:17.770
+Declustering of Innovation.
+
+00:37:17.770 --> 00:37:21.570
+Und dieses Declustering of Innovation beschreibt eigentlich nichts anderes,
+
+00:37:21.570 --> 00:37:25.710
+dass kluge Köpfe da sitzen, wo sie sitzen wollen.
+
+00:37:25.710 --> 00:37:35.580
+Beispiel in Neuss, in Heidelberg, in Kastrop-Rauxel, in Wittenherdecke, in Cuxhaven, in you name it.
+
+00:37:35.580 --> 00:37:37.930
+Und da auch ihre Firmen gründen.
+
+00:37:37.930 --> 00:37:41.180
+Und das auch remote ja möglich ist.
+
+00:37:41.180 --> 00:37:47.400
+Und gleichzeitig auch remote eine Arbeitsvariante bleiben wird, die ja hier ist, um zu bleiben.
+
+00:37:47.400 --> 00:37:52.400
+Auch das hatten wir in einem anderen Podcast besprochen, wer da Lust hat, kann da gerne nochmal reinhören.
+
+00:37:52.400 --> 00:38:00.830
+Das führt aber dazu, dass wir diese Declusterung, die wir sehen,
+
+00:38:00.830 --> 00:38:08.610
+führt ja dazu, dass wir noch schwieriger wissen, welche Innovation von wem gerade wo aufgebaut wird.
+
+00:38:08.610 --> 00:38:15.060
+Wenn man jetzt früher davon hätte ausgehen können, dass man einfach dreimal im Jahr Berlin und München besucht
+
+00:38:15.060 --> 00:38:17.990
+und sich da mit den relevanten Ökosystem-Playern auseinandersetzt,
+
+00:38:17.990 --> 00:38:25.420
+dann hätte man im Zweifel, ich verknappe jetzt, 80 Prozent der Innovationen in Deutschland irgendwie mitgekriegt.
+
+00:38:25.420 --> 00:38:27.450
+Ich mache es jetzt extra einfach.
+
+00:38:27.450 --> 00:38:31.610
+Jetzt ist es aber so, dass alle da sitzen, wo sie sitzen wollen und da gründen, wo sie gründen wollen.
+
+00:38:31.610 --> 00:38:34.080
+Wie finde ich die denn dann?
+
+00:38:34.080 --> 00:38:38.720
+Und das wird auch, das ist ein Zustand, der auch so bleiben wird, der wird ja nicht mehr zurückgehen.
+
+00:38:38.720 --> 00:38:43.720
+Also das kannst du ja auch nicht damit lösen, dass du einfach an jede Milchkanne einen Startup-Scout setzt,
+
+00:38:43.720 --> 00:38:46.680
+weil das einfach völlig ineffizient ist.
+
+00:38:46.680 --> 00:38:52.770
+Das sind schon mal zwei maßgebliche Inputfaktoren für unser eigenes Flywheel.
+
+00:38:52.770 --> 00:38:56.120
+Dazu kommt, das habe ich eben auch versucht zu erläutern,
+
+00:38:56.120 --> 00:39:01.300
+wir sind in Deutschland und Europa im Moment in einem strukturellen Umbruch,
+
+00:39:01.300 --> 00:39:08.290
+dass wir die Transformation des Kontinents Europa digitaler, nachhaltiger gestalten müssen,
+
+00:39:08.290 --> 00:39:18.130
+die sogenannte Twin-Transformation. Und das muss dazu führen, dass wir grundsätzlich innovativer werden müssen,
+
+00:39:18.130 --> 00:39:24.570
+um damit unsere Wettbewerbsfähigkeit zu halten oder im besten Fall sogar auszubauen.
+
+00:39:24.570 --> 00:39:31.240
+Innovation wird maßgeblich eben auch von Startups aufgebaut. Ja, auch in den Unternehmen selber,
+
+00:39:31.240 --> 00:39:41.430
+aber eine große Zutat in dieser Backrezeptur sind eben auch Startups und damit externe Innovationen.
+
+00:39:41.430 --> 00:39:47.390
+Jetzt haben wir aber das sogenannte Declustering, das sogenannte Remote-Arbeiten.
+
+00:39:47.390 --> 00:39:52.770
+Und wir brauchen trotzdem mehr innovatives Wachstum auf dem Kontinent Europa.
+
+00:39:52.770 --> 00:39:58.170
+Aber eigentlich gilt das ja für alle auf der Welt. Alle wollen innovatives Wachstum.
+
+00:39:58.170 --> 00:40:03.170
+Und das wird dazu führen, auch da, weil wir mehr innovatives Wachstum brauchen,
+
+00:40:03.170 --> 00:40:09.160
+um wettbewerbsfähig zu bleiben und unsere Märkte und unsere Wettbewerbskraft auch weltweit zu stärken,
+
+00:40:09.160 --> 00:40:14.570
+dass es ja auch mehr Gründungen geben wird. Weil es auch leichter geworden ist,
+
+00:40:14.570 --> 00:40:23.200
+in dieser Declustered Landscape zu gründen, weil ich auch geringere Kosten übrigens tragen muss.
+
+00:40:23.200 --> 00:40:31.520
+Wenn ich in München gründe, sind meine Kosten für Wohnungen, für Leben, für alles, für Gehälter und dergleichen mehr,
+
+00:40:31.520 --> 00:40:34.930
+deutlich höher, als wenn ich das Infrastruktur-Bauksum machen würde.
+
+00:40:34.930 --> 00:40:37.930
+Und ja, natürlich musst du trotzdem noch schauen, wo ist eigentlich das beste,
+
+00:40:37.930 --> 00:40:43.310
+auch physische Ökosystem für dich, was du brauchst, um deine Innovation voranzutreiben,
+
+00:40:43.310 --> 00:40:47.310
+aus deiner Idee ein Produkt zu bauen, aus deinem Produkt eine gute Firma zu bauen.
+
+00:40:47.310 --> 00:40:53.580
+Aber all diese Aspekte mal zusammengenommen, führt dazu, dass auch das
+
+00:40:53.580 --> 00:40:59.250
+ein sich selber verstärkender Kreislauf ist, der erstmal grundsätzlich
+
+00:40:59.250 --> 00:41:03.250
+wirtschaftlich, Makroebene betrachtet, stattfindet und auch weiter stattfinden wird
+
+00:41:03.250 --> 00:41:07.440
+über die nächsten mindestens zehn Jahre. Europa muss sich transformieren,
+
+00:41:07.440 --> 00:41:11.440
+wir brauchen mehr Innovation. Unternehmen müssen mehr mit externen Innovationen
+
+00:41:11.440 --> 00:41:15.690
+zusammenarbeiten. Auch das hatten wir eben bei Innovationen. Wo können wir
+
+00:41:15.690 --> 00:41:19.880
+innovieren? Geschäftsmodell, Prozess, Produkt besprochen. Da brauchen wir Einflüsse
+
+00:41:19.880 --> 00:41:23.880
+von externer Innovation, um jetzt etablierte Unternehmen innovativ zu halten.
+
+00:41:23.880 --> 00:41:30.830
+Und wenn wir all das für uns in den Annahmen, die ich gerade beschreibe,
+
+00:41:30.830 --> 00:41:35.180
+aber auch basiert auf den Analysen, die wir getätigt haben, jetzt für uns
+
+00:41:35.180 --> 00:41:40.260
+abnicken, dass das so wäre und auch so bleiben wird, dann ist für mich die einzige
+
+00:41:40.260 --> 00:41:45.320
+logische Konsequenz dahinter, dass es so etwas wie das Silicon Valley in
+
+00:41:45.320 --> 00:41:50.830
+digital, nämlich Digital Valley eben braucht, um diese ganzen Player, die es braucht,
+
+00:41:50.830 --> 00:41:58.320
+zusammenzuführen und das so effizient, so kostengünstig, so barrierefrei und so
+
+00:41:58.320 --> 00:42:06.630
+inklusiv wie möglich. Und das geht dann derzeit nur digital. Und dieser
+
+00:42:06.630 --> 00:42:12.790
+darunter liegende, sich selber verstärkende Makrotrend, den ich jetzt beschrieben habe, führt dazu,
+
+00:42:12.790 --> 00:42:17.890
+dass Leute Digital Valley nutzen werden, weil es anders gar nicht mehr handhabbar
+
+00:42:17.890 --> 00:42:24.960
+sein wird. Und das ist das Flywheel, was wir für uns analysiert haben. Und das
+
+00:42:24.960 --> 00:42:28.980
+verstärken wir dann. Was geben wir in diese Bug-Rezeptur, in diesen Kreislauf mit
+
+00:42:28.980 --> 00:42:37.820
+rein? Wir bringen über unsere Plattform, machen wir eigentlich maßgeblich, gehen
+
+00:42:37.820 --> 00:42:45.070
+wir in drei Schritten vor, die dann Mehrwerte dazu bringen. Und zwar fühlen wir zuerst,
+
+00:42:45.070 --> 00:42:51.410
+bilden wir ein zusammenhängendes Netzwerk aller Ökosysteme auf Digital Valley. Wie
+
+00:42:51.410 --> 00:42:56.720
+gesagt, ich habe ja gesagt, es gibt sehr viele zerklüftete Innovationsökosysteme, die
+
+00:42:56.720 --> 00:43:02.110
+werden zusammengeführt auf der Plattform, sodass es auch zugänglich, transparent
+
+00:43:02.110 --> 00:43:08.670
+ist, verständlich ist und auffindbar ist. Und wir führen digitale Werkzeuge ein, um
+
+00:43:08.670 --> 00:43:13.050
+einfach auch den Innovationsprozess effizient und effektiv verwalten zu
+
+00:43:13.050 --> 00:43:18.200
+können zu den Unternehmen. Das heißt, auch da haben wir bei Amazon gibt es dieses
+
+00:43:18.200 --> 00:43:22.200
+One-Click-Buy. Also ich kann mit einem Klick, wenn ich meine Zahlungsdaten und so
+
+00:43:22.200 --> 00:43:26.190
+hinterlegt habe, kann ich Produkte mit einem einzigen Klick kaufen. Ich habe gar
+
+00:43:26.190 --> 00:43:33.110
+keinen Checkout-Prozess mehr. Für uns umgedacht bedeutet das, wir haben auch
+
+00:43:33.110 --> 00:43:38.320
+One-Click-Varianten eingebaut. Die könnt ihr euch auf der Plattform gerne anschauen, wie
+
+00:43:38.320 --> 00:43:43.280
+das funktioniert, um Startups in dem, was sie tun wollen und tun müssen, um sich
+
+00:43:43.280 --> 00:43:49.620
+weiterzuentwickeln, direkt Zugang zu geben. Also wir ermöglichen Access und das auf
+
+00:43:49.620 --> 00:43:54.740
+digitaler, sehr einfacher Variante, sodass du sehr viele Vorgänge, die dich im Moment
+
+00:43:54.740 --> 00:43:58.900
+noch mehrere Stunden, manchmal sogar Tage kosten, die du in einem Klick bewältigen
+
+00:43:58.900 --> 00:44:02.900
+kannst. Und das ist natürlich ein super Effizienzgewinn und damit ein absoluter
+
+00:44:02.900 --> 00:44:06.900
+Mehrwert für die Nutzer unserer Plattform, die dann uns auch wieder
+
+00:44:06.900 --> 00:44:10.890
+weiterempfehlen, andere Nutzer das auch machen und darüber verstärkt sich genau
+
+00:44:10.890 --> 00:44:18.940
+dieser Kreislauf danach wieder. Und ich meine, jetzt so mal als kleiner
+
+00:44:18.940 --> 00:44:24.680
+Wirksamkeitsgedanke dahinter, auch als Impact-Gedanke, beschreibe ich dir das
+
+00:44:24.680 --> 00:44:29.810
+die ganze Zeit und wir reden darüber immer in dem Kontext Deutschland und Europa.
+
+00:44:29.810 --> 00:44:35.140
+Und in Deutschland und Europa haben wir eben genauso viele Ökosysteme schon
+
+00:44:35.140 --> 00:44:38.140
+physisch vorhanden, die ich eben auch schon hundertmal gesagt habe, nämlich über
+
+00:44:38.140 --> 00:44:42.330
+1000 Stück. Das heißt, selbst da könnte ich ja, wenn ich wollte, an jede Ecke gehen
+
+00:44:42.330 --> 00:44:47.640
+und habe einen Ort, wo ich mich hinsetzen kann. Und trotzdem macht es total viel Sinn,
+
+00:44:47.640 --> 00:44:51.640
+das auch digital als einen Overlayer zu haben. Also es gibt niemanden in über 200
+
+00:44:51.640 --> 00:44:55.640
+Interviews, der gesagt hat, es macht keinen Sinn, sondern es macht total viel Sinn.
+
+00:44:55.640 --> 00:44:58.640
+Es muss beides geben. Es ist eine und-verknüpfung. Es ist ja nicht entweder oder,
+
+00:44:58.640 --> 00:45:03.820
+sondern es ist immer und. Aber jetzt stell dir vor, du bist die schwarze
+
+00:45:03.820 --> 00:45:11.230
+20-jährige Gründerin in Ruanda, Afrika und hast eine super Idee, die dein Leben
+
+00:45:11.230 --> 00:45:15.550
+und auch das Leben anderer zum Besseren verändern kann. Da hast du nicht
+
+00:45:15.550 --> 00:45:20.550
+1000 Ökosysteme um dich rum, wo du dich austauschen kannst und Zugang bekommst.
+
+00:45:20.550 --> 00:45:26.560
+Aber du hast Internet und du kannst direkten Zugang also zur Digital Valley bekommen
+
+00:45:26.560 --> 00:45:31.770
+und da dich mit einem motivierten und wissenden Netzwerk auseinandersetzen,
+
+00:45:31.770 --> 00:45:36.020
+um aus deiner Idee auch ein Produkt zu bauen und auch vielleicht eine Firma aufzubauen
+
+00:45:36.020 --> 00:45:41.590
+und damit einfach wirklich eine echte Wirksamkeit in Remote Locations.
+
+00:45:41.590 --> 00:45:47.590
+und jetzt ist Remote nicht Castro Brauchsel wie eben, sondern das kann irgendwo in Afrika sein,
+
+00:45:47.590 --> 00:45:52.590
+aber das kann irgendwo im tiefen Asien sein, das kann in Südamerika sein, das kann überall auf der Welt sein.
+
+00:45:52.590 --> 00:45:58.170
+Und genau das ist es, was wir damit schaffen wollen.
+
+00:45:58.170 --> 00:46:00.850
+Cool. Danke.
+
+00:46:00.850 --> 00:46:06.640
+Aber da habe ich jetzt schon so ein bisschen besseren Eindruck auch mit diesen Startups kommen drauf,
+
+00:46:06.640 --> 00:46:16.850
+schlauen sich doch gleich auf und dann erzählen es weiter und die nächsten Startups.
+
+00:46:16.850 --> 00:46:20.850
+Und dadurch, dass immer mehr Startups kommen, halt auch die anderen, dann kommen
+
+00:46:20.850 --> 00:46:24.850
+größere Firmen, die dann vielleicht auch Interesse haben oder vielleicht Venture Capitalist
+
+00:46:24.850 --> 00:46:29.000
+und sozusagen dann geht es immer weiter sozusagen. Das wäre dann so dieses Flywheel.
+
+00:46:29.000 --> 00:46:32.200
+Genau. Also diese vier Nutzergruppen.
+
+00:46:32.200 --> 00:46:39.190
+Absolut, absolut. Und du kannst aber jetzt auch schon jetzt sofort, wenn du dich als Startup anmelden würdest,
+
+00:46:39.190 --> 00:46:47.140
+unter www.dgtlvalley.com kannst du über die Plattform zum Beispiel auch direkt nach Feedback
+
+00:46:47.140 --> 00:46:53.060
+für deinen Pitch Deck fragen. Und dein Pitch Deck, das präsentierst du sowieso bei Pitch-Nächten,
+
+00:46:53.060 --> 00:46:58.060
+auf Award-Shows, bei Events. Du erzählst es deinen Freunden und dergleichen mehr.
+
+00:46:58.060 --> 00:47:01.860
+Nur, das hilft ja meistens nicht, wenn du es nur deinen Freunden und deiner Familie erzählst,
+
+00:47:01.860 --> 00:47:05.860
+was du für eine Geschäftsidee hast, weil, machen wir uns jetzt vor, die sind ja alle biased.
+
+00:47:05.860 --> 00:47:11.860
+Die mögen dich. Die wollen dir Mut zusprechen. Die sind aber vielleicht nicht immer die besten
+
+00:47:11.860 --> 00:47:16.800
+Feedback-Geber. So, und jetzt kannst du aber auf der Plattform explizit nach Feedback fragen
+
+00:47:16.800 --> 00:47:22.390
+oder sofort spezifizieren, wenn du das willst und sagen, du kannst, bitte schau doch nur
+
+00:47:22.390 --> 00:47:27.390
+dir Seite 7 bis 11 an in meinem Pitch Deck. Da geht es um Produkt und Markt.
+
+00:47:27.390 --> 00:47:31.960
+Und gib mir dein Feedback dazu, ob das verständlich ist, ob das Sinn macht.
+
+00:47:31.960 --> 00:47:36.370
+Oder du fragst ein spezielles Unternehmen und sagst, ist denn das, was ich hier vorhabe,
+
+00:47:36.370 --> 00:47:40.370
+überhaupt für euch interessant? Ist das eine Lösung, die für euch neu ist?
+
+00:47:40.370 --> 00:47:47.040
+Und bekommst das Feedback. Und das ist übrigens auch deshalb so spannend, weil, wenn du dann im weiteren Verlauf
+
+00:47:47.040 --> 00:47:53.340
+auf deiner Reise irgendwann nach Geld fragst bei Investoren und die ernsthaftes Interesse an dir
+
+00:47:53.340 --> 00:47:58.560
+und deinem Pitch und deinem Pitch Deck und deiner Überlegungen zeigen, dann machen die als natürlichen
+
+00:47:58.560 --> 00:48:03.560
+nächsten Schritt allgemein und machen sogenannte Reference Calls. Also die rufen einfach in der
+
+00:48:03.560 --> 00:48:09.590
+Industrie an bei Firmen, die in der Industrie und da in deinem Segment unterwegs sind und fragen,
+
+00:48:09.590 --> 00:48:15.150
+du, ich habe hier ein Startup vor mir, die wollen das so und so lösen. Hältst du das überhaupt für machbar?
+
+00:48:15.150 --> 00:48:20.240
+Ist das überhaupt sinnvoll? Sondern jetzt bist du auch da in einer eigenen Wirksamkeit angelangt
+
+00:48:20.240 --> 00:48:25.550
+und kannst das proaktiv vorher schon selber abfragen über die Plattform und dir Feedback aus
+
+00:48:25.550 --> 00:48:30.700
+vielen Quellen, von vielen Stack oder von vielen Nutzergruppen, von Firmen, von anderen Startups,
+
+00:48:30.700 --> 00:48:35.850
+von Ökosystemen, von Experten einholen und kannst die als Report auch einfach direkt mitschicken
+
+00:48:35.850 --> 00:48:39.910
+und sagen, guck mal, hier, das ist meine Idee, das ist mein Pitch Deck und hier ist schon Feedback
+
+00:48:39.910 --> 00:48:45.130
+von zehn Leuten unterteilt aus den unterschiedlichen Gruppen, die dazu schon eine echte
+
+00:48:45.130 --> 00:48:51.130
+wertige und tiefes Feedback gegeben haben. Mach trotzdem gerne deine Reference Calls, lieber Investor,
+
+00:48:51.130 --> 00:48:55.250
+aber das ist schon mal ein Einblick, den ich dir schon direkt als Service mitliefern kann.
+
+00:48:55.250 --> 00:48:59.280
+Und es hilft ja auch, dieses Feedback zu bekommen, um sich einfach weiterzuentwickeln.
+
+00:48:59.280 --> 00:49:04.300
+Egal, ob man das einem Investor zeigen will oder nicht, es macht es ja eh besser, das Feedback zu bekommen
+
+00:49:04.300 --> 00:49:08.300
+für sein Produkt, für sein Go-to-Market, für sein Geschäftsmodell, um sich weiterzuentwickeln.
+
+00:49:08.300 --> 00:49:15.310
+Und da ist jetzt vielleicht auch wieder diese Offenheit. Also ich weiß auch noch, als ich mal selber gründen wollte,
+
+00:49:15.310 --> 00:49:18.310
+war auch immer so, boah, ich habe so eine Idee, boah, will ich nicht teilen und weiß nicht was.
+
+00:49:18.310 --> 00:49:23.510
+Das war eigentlich genau dieser Fehler, wo ich dann dachte, okay, eigentlich, wenn...
+
+00:49:23.510 --> 00:49:28.180
+Also klar, wenn es jetzt irgendwie so wirklich das Wichtigste, wirst du halt nicht teilen,
+
+00:49:28.180 --> 00:49:30.180
+was halt vielleicht essentiell ist, was vielleicht andere nicht wissen wollen.
+
+00:49:30.180 --> 00:49:35.170
+Aber das meiste kann man eigentlich teilen und was ich da gemerkt habe, je mehr ich das geteilt habe,
+
+00:49:35.170 --> 00:49:38.170
+desto mehr Feedback, desto mehr hat sich die Idee nochmal weiterentwickelt,
+
+00:49:38.170 --> 00:49:43.170
+das Geschäftsmodell weiterentwickelt. Also es war so fruchtbar, dass ich das geteilt habe.
+
+00:49:43.170 --> 00:49:49.260
+Und seitdem mache ich das auch nicht mehr, dieses Mindset, okay, boah, nee, ich darf das nicht teilen,
+
+00:49:49.260 --> 00:49:52.380
+nachher klaut mir jemand die Idee. Und letztendlich geht es ja auch um die Umsetzung.
+
+00:49:52.380 --> 00:49:59.410
+Also Ideen kann man viele haben. Meine Ideen habe ich auch beide nicht umgesetzt oder drei,
+
+00:49:59.410 --> 00:50:02.410
+oder wie viele ich schon hatte. Also eigentlich geht es ja darum.
+
+00:50:02.410 --> 00:50:06.370
+Und ich fand halt diese Offenheit eigentlich auch echt super,
+
+00:50:06.370 --> 00:50:09.370
+also dass man da sich dann die Feedback direkt einholt, ja.
+
+00:50:09.370 --> 00:50:15.950
+Also 100 Prozent Zustimmung sehe ich exakt genauso und so gehen wir auch selber vor.
+
+00:50:15.950 --> 00:50:22.530
+Und es mag den One in a Million Case geben, wo es wirklich Sinn macht,
+
+00:50:22.530 --> 00:50:27.850
+dass du dich in deinem Keller einschließt und an dein Produkt so lange baust
+
+00:50:27.850 --> 00:50:32.940
+und die magische chemische Rezeptur kreierst und dir das patentieren lässt
+
+00:50:32.940 --> 00:50:39.500
+und erst dann darüber redest. So eben das Beispiel auch von, du hast Coca-Cola erfunden,
+
+00:50:39.500 --> 00:50:44.500
+dann ist dein Pitch Deck nicht die Rezeptur, wie man Coca-Cola zusammensetzt.
+
+00:50:44.500 --> 00:50:51.590
+Also das verrätst du natürlich nicht. In allen anderen Fällen ist das der einzige Weg,
+
+00:50:51.590 --> 00:50:55.590
+um aus einer Idee überhaupt ein Produkt zu generieren, in dem du darüber redest.
+
+00:50:55.590 --> 00:51:00.650
+Weil das darüber reden, das Feedback bekommen, das wirklich auch darum ringen,
+
+00:51:00.650 --> 00:51:04.650
+das Problem auch nochmal richtig zu kneten und mögliche Lösungen herauszufinden,
+
+00:51:04.650 --> 00:51:09.680
+das geht ja nicht alleine mit deinem eigenen Kopf. Ja, bis zu einem gewissen Grad geht das.
+
+00:51:09.680 --> 00:51:17.120
+Aber dann brauchst du Feedback von Dritten. Und im besten Fall ist das auch ein diverses Feedback
+
+00:51:17.120 --> 00:51:22.150
+von unterschiedlichen Nutzergruppen, von unterschiedlichen Alterskohorten,
+
+00:51:22.150 --> 00:51:29.140
+von unterschiedlichen Genderkohorten, von unterschiedlichen Kulturkohorten und so weiter und so fort.
+
+00:51:29.140 --> 00:51:34.730
+Das macht dann dein Produkt besser. Und genau wie du sagst, am Ende des Tages
+
+00:51:34.730 --> 00:51:40.400
+hat ja auch keiner die gleiche Leidenschaft für die Idee wie du selber.
+
+00:51:40.400 --> 00:51:44.400
+Also selbst wenn ich eine Idee von einem anderen Gründer höre und ich sehe ja jeden Tag
+
+00:51:44.400 --> 00:51:51.120
+jetzt durch die Plattform richtig viele richtig geile Ideen, wo ich immer denke so,
+
+00:51:51.120 --> 00:51:56.500
+ja wow, das kann echt was werden. Aber ich würde ja selber nie die Leidenschaft dafür aufbringen
+
+00:51:56.500 --> 00:52:00.560
+und mich da so reinknien, das dann einfach zu machen, weil es nicht mein Baby ist.
+
+00:52:00.560 --> 00:52:03.560
+Es ist nicht meine Idee. Ich habe auch wahrscheinlich nicht die Kompetenz,
+
+00:52:03.560 --> 00:52:10.750
+die der Gründer hat, der gerade daran arbeitet. Also deshalb ist das, kann man das nicht vom Tisch runter
+
+00:52:10.750 --> 00:52:20.470
+erwischen, aber die Fälle, wo eine Offenheit und ein Feedback Seeking Vorteile bringt,
+
+00:52:20.470 --> 00:52:27.110
+ist so viel mehr als es nicht zu tun, dass es das komplett überwiegt.
+
+00:52:27.110 --> 00:52:32.200
+Also genauso funktioniert auch Silicon Valley, genauso funktioniert Startup Nation Israel,
+
+00:52:32.200 --> 00:52:37.260
+genauso funktionieren Innovations Ökosysteme, weil die Leute sitzen im gleichen Coworking
+
+00:52:37.260 --> 00:52:42.260
+und reden miteinander und sagen, hey, lies mir mein Pitch, so was ich da geschrieben habe
+
+00:52:42.260 --> 00:52:47.260
+oder habe ich das völlig Kafkaesque mit 20 Schachtelsätzen aufgeschrieben
+
+00:52:47.260 --> 00:52:51.420
+und man versteht gar nicht, was ich will. Also das macht es ja nachher besser.
+
+00:52:51.420 --> 00:52:57.230
+Könnten dann Unternehmen, also jetzt nicht nur Startups eigentlich auch,
+
+00:52:57.230 --> 00:53:02.610
+weil wir eben so ein bisschen Innovationen in Corporates oder mittelständischen Unternehmen geredet haben,
+
+00:53:02.610 --> 00:53:06.700
+rein theoretisch eigentlich auch Ideen da verproben.
+
+00:53:06.700 --> 00:53:07.700
+Absolut.
+
+00:53:07.700 --> 00:53:21.300
+Es ist genau so auch vorgesehen und es ist auch dieses, der Oberbegriff ist Startup Awards.
+
+00:53:21.300 --> 00:53:26.960
+Also das sind ja immer diese Preise, wo man sich drauf bewerben kann.
+
+00:53:26.960 --> 00:53:29.960
+Und wir haben das, nehmen wir das Beispiel HessNatur.
+
+00:53:29.960 --> 00:53:34.210
+HessNatur hat mit uns den sogenannten IFTA, schöne Abkürzung,
+
+00:53:34.210 --> 00:53:38.300
+das steht für Innovations for Tomorrow Award, schon zweimal durchgeführt,
+
+00:53:38.300 --> 00:53:43.680
+weil sie externe Innovation gesucht haben für ihre Produkte, für ihr Geschäftsmodell,
+
+00:53:43.680 --> 00:53:49.670
+für ihre Firma HessNatur. HessNatur ist der Pionier nachhaltiger Mode, wer sie nicht kennt.
+
+00:53:49.670 --> 00:53:54.620
+Tolle Modefirma, weil wirklich seit den 50er Jahren deutsche Firma,
+
+00:53:54.620 --> 00:53:59.840
+alles was nachhaltige Mode betrifft, da machen die sehr, sehr vieles sehr, sehr richtig.
+
+00:53:59.840 --> 00:54:03.400
+Und trotzdem brauchen die externe Innovation.
+
+00:54:03.400 --> 00:54:08.460
+So und die haben das mit uns gemacht und haben auch gesagt, naja, bin mal gespannt, ob überhaupt
+
+00:54:08.460 --> 00:54:13.680
+Startups und Innovationen finden, die wir noch gar nicht kennen, weil eigentlich kennen wir ja alles.
+
+00:54:13.680 --> 00:54:19.060
+Aber wie ist der Zufall und die Statistik so will, natürlich kannten sie nicht alles
+
+00:54:19.060 --> 00:54:24.060
+und haben sehr, sehr viele sehr, sehr gute Startups und damit sehr, sehr gute Innovationen gefunden.
+
+00:54:24.060 --> 00:54:29.470
+Und haben das natürlich für ihren Einsatzbereich,
+
+00:54:29.470 --> 00:54:32.560
+neue Leute für ihre Use Cases auch formuliert.
+
+00:54:32.560 --> 00:54:38.680
+Deshalb ja, wenn ich Innovation brauche, dann sollte ich am besten einfach einen Award ausschreiben
+
+00:54:38.680 --> 00:54:44.680
+und sagen, ich bin der Tillmann Jäger Award, sage ich, weil der gerade bei uns auf der Plattform sogar ausgeschrieben ist.
+
+00:54:44.680 --> 00:54:49.680
+Oder ich bin von der Bergischen Krankenkasse der Health Tech Award, der ist auch bei uns ausgeschrieben.
+
+00:54:49.680 --> 00:54:53.960
+Und ich beschreibe das Problem, was ich gelöst haben will und sage, liebe Startups,
+
+00:54:53.960 --> 00:54:57.960
+alle, die ihr glaubt, dass ihr mir dieses Problem lösen könnt, dann meldet euch da bitte für diesen Award an.
+
+00:54:57.960 --> 00:55:00.020
+Weil ich will euch dann alle kennenlernen.
+
+00:55:00.020 --> 00:55:06.690
+Also das ist ja nichts anderes als ein Vehikel, um genau das zu schaffen, dass man Innovationssuchende
+
+00:55:06.690 --> 00:55:11.550
+und Innovationsproduzierende, wenn du so willst, zusammensieht.
+
+00:55:11.550 --> 00:55:18.010
+Dann kommen wir schon langsam. Ich glaube, wir hatten noch wahrscheinlich viele Themen.
+
+00:55:18.010 --> 00:55:23.140
+Ich habe ja gesagt, du musst mich stoppen. Da kann ich tagelang darüber reden.
+
+00:55:23.140 --> 00:55:26.140
+Keinen großen Redeanteil.
+
+00:55:26.140 --> 00:55:32.060
+Die restlichen drei Minuten sind alle für dich.
+
+00:55:32.060 --> 00:55:41.680
+Nee, cool. Vielleicht noch eine letzte Frage. Gab es irgendwas, was ich noch nicht gefragt habe, was dir vielleicht noch wichtig ist?
+
+00:55:41.680 --> 00:55:47.740
+Die stelle ich auch immer. Die stelle ich auch immer. Hätte ich dich noch irgendwas fragen sollen, was ich nicht gefragt habe.
+
+00:55:47.740 --> 00:55:51.740
+Und die ist super, aber es ist immer so für alle immer. Ah, was hättest du fragen sollen?
+
+00:55:51.740 --> 00:56:02.690
+Also ich, die Frage wäre vielleicht gewesen, wie entwickelt ihr euch denn eigentlich weiter?
+
+00:56:02.690 --> 00:56:11.320
+Und meine Antwort wäre jetzt tatsächlich, wir haben es gerade auch lange besprochen, auch wir können ja nur besser werden, wenn wir Feedback bekommen.
+
+00:56:11.320 --> 00:56:21.890
+Deshalb, jeder, der bei uns auf der Plattform ist, kriegt auch immer direkt den Wunsch und die Bitte mitgeteilt, sagt uns, was euch nicht gefällt oder was euch fehlt.
+
+00:56:21.890 --> 00:56:26.880
+Sagt uns auch gerne, was euch gefällt. Ja, aber sagt uns, wo ihr noch Verbesserungsbedarf seht.
+
+00:56:26.880 --> 00:56:33.360
+Und wir werden alles dafür tun, dass wir das dann dahingehend auch das Produkt erweitern und ausbauen.
+
+00:56:33.360 --> 00:56:46.330
+Und auch wir sind also auf der Suche nach Feedback. Und deshalb mein Shoutout wäre, wenn euch das jetzt interessiert, dann geht wirklich mal auf digitalvalley, also dgtlvalley.com.
+
+00:56:46.330 --> 00:57:01.090
+Wenn ihr ein Startup seid, meldet euch auch gerne an. Ist kostenlos für Startups. Und testet es. Und wenn euch irgendwas nicht gefällt, gebt uns einfach direkt eine Rückmeldung unter contact-at-digitalvalley.com.
+
+00:57:01.090 --> 00:57:03.150
+Dann habt ihr auch diese Offenheit dann.
+
+00:57:03.150 --> 00:57:10.150
+Ja, also 1000 Prozent. Das ist exakt unsere DNA, auf der wir die Firma aufgebaut haben, ehrlicherweise.
+
+00:57:10.150 --> 00:57:14.630
+Ja, dann vielen Dank für die Folge und für den ganzen Input.
+
+00:57:14.630 --> 00:57:16.630
+Ja, ich danke dir.
+
+00:57:16.630 --> 00:57:18.630
+Das war's für Folge, das werden wir mal sehen.
+
+00:57:18.630 --> 00:57:22.630
+Unbedingt gerne, dann lass ich auch ein bisschen mehr Rede anteilen.
+
+00:57:22.630 --> 00:57:24.950
+Okay, dann bis dahin.

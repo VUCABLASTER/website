@@ -1,0 +1,3607 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #54: #54 Resilienz durch Agil & Lean mit Kristian Schweitzer
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:13.650
+Ja hallo und herzlich willkommen zu einer neuen Folge des VUCA Blasters. Heute haben wir wieder einen sehr spannenden Gast und zwar
+
+00:00:13.650 --> 00:00:26.880
+Kristian Schweitzer. Er ist Wirtschaftsingenieur, Lean und Agile Coach mit rund 15 Jahren Erfahrung in Lean Management, Operational Excellence und agilen Transformation in verschiedenen Unternehmen und Branchen.
+
+00:00:26.880 --> 00:00:35.860
+Er verbindet klassische Lean Prinzipien mit agilen Arbeitsweisen wie Scrum, Kanban und legt dabei großen Wert auf pragmatische, im Alltag tatsächlich
+
+00:00:35.880 --> 00:00:51.800
+umsetzbare Lösungen. Zumindest hat das so Perplexity rausgegeben. Stimmt das jetzt noch oder fehlt dir da noch was Wichtiges? Klar sind es sehr sehr kurz nur gehalten, aber ist dir irgendwas wichtig, was die Zuhörerinnen noch über dich wissen sollten?
+
+00:00:51.800 --> 00:01:05.060
+Ich glaube, ich finde das ganz wichtig, dass du das Pragmatische mit drin hast. Ich war schon sehr gespannt auf dieses Kondensat, was du da erzeugst. Ein paar von euren Teilnehmern kenne ich ja schon und da kann man sich ein gutes Bild bilden, aber ich finde das passt gut.
+
+00:01:05.060 --> 00:01:17.610
+Super. Dann kommen die, wie wahrscheinlich dann auch von den anderen Folgen kennst, schon die berüchtigten Fragen. In welchem Moment hast du dich gewertschätzt gefühlt in letzter Zeit?
+
+00:01:17.610 --> 00:01:37.120
+Boah, das ist gar nicht mal so leicht. Die Fragen sind schon tricky. Gewertschätzt gefühlt, das ist eigentlich immer, wenn ich merke, dass Leute auf eine Aktion, auf etwas, was ich gemacht habe, reagieren. Also das muss jetzt nicht zwingend super positiv sein, aber so
+
+00:01:37.120 --> 00:01:53.570
+dieses, ja, ich habe verstanden, du hast mir zugehört. Wir hatten gerade in der Firma schwierige Situationen und da habe ich das auf jeden Fall, ich glaube, das wäre das konkrete Beispiel, ja. So, danke, dass du uns zugehört hast und auch wenn du nichts machen kannst, danke fürs Zuhören, ja.
+
+00:01:53.570 --> 00:02:01.430
+Vielen Dank. Dann eine gute Frage, die du in letzter Zeit gehört hast. Ich hoffe mal nicht die erste Frage, die ich gerade bestellt habe.
+
+00:02:01.430 --> 00:02:09.500
+Boah, das wäre jetzt ein bisschen gemein, ne? Ja, eine gute Frage ist immer, wofür machen wir das?
+
+00:02:09.500 --> 00:02:23.480
+Und die habe ich in letzter Zeit öfters gehört und ich stelle die auch sehr gerne, weil manchmal läuft man so in blindem Aktionismus los, weil ja irgendwas irgendwie ist, aber so diesen kurzen Stopp, einmal kurz innehalten, ne?
+
+00:02:23.480 --> 00:02:30.410
+Was ist, was ist der Hintergrund? Was ist der Schmerz dahinter? Warum machen wir das? Was soll rauskommen? Und ich finde, das ist immer eine gute Frage.
+
+00:02:30.410 --> 00:02:40.390
+Das müsste ich mir vielleicht manchmal auch ein bisschen öfters stellen, als du gerade gesagt hast, so blind vielleicht nicht, aber ich habe Pfeil auch schnell in so Aktionismus.
+
+00:02:40.390 --> 00:02:45.390
+Aber ich glaube, das ist dann ganz gut, nochmal so ein bisschen einen Schritt zurück, dann nochmal darüber nachzudenken, ja.
+
+00:02:45.390 --> 00:02:50.380
+Dann die letzte Frage, da hast du auch schon geschafft. Deine Definition von Glück ist?
+
+00:02:50.380 --> 00:03:02.340
+Die ist auf jeden Fall in der Gegenwart. Also ich sehe Glück nicht als etwas, einen Zustand, wo ich jetzt irgendwie 30 Jahre drauf zuarbeite oder so,
+
+00:03:02.340 --> 00:03:07.330
+sondern Glück ist für mich etwas, was in der Gegenwart ist und das können auch ganz kleine Sachen sein.
+
+00:03:07.330 --> 00:03:15.390
+Das kann im privaten Umfeld, hat das meistens was mit Kindern zu tun, wo irgendwas gelingt und man sich an anderen Leuten erfreuen kann.
+
+00:03:15.390 --> 00:03:23.580
+Und einfach so eine Zufriedenheit und auch so ein bisschen Freiraum, etwas machen zu können, ist auch schon ein kleines Glück.
+
+00:03:23.580 --> 00:03:27.000
+Haben wir schon geschafft.
+
+00:03:27.000 --> 00:03:31.180
+Was mich mal interessieren würde, wie viele von den Fragen hast du?
+
+00:03:31.180 --> 00:03:35.590
+Das sind ja physische Zeppel, die du da hast, ne?
+
+00:03:35.590 --> 00:03:37.570
+Das sind, glaube ich, so um die 50.
+
+00:03:37.570 --> 00:03:38.930
+Tag.
+
+00:03:38.930 --> 00:03:42.600
+Die heute eine Frage hatten wir nämlich auch noch nicht.
+
+00:03:42.600 --> 00:03:47.600
+Manchmal denke ich auch so, ach so, die Frage interessant, manchmal automatisch vielleicht dann doch die gleichen.
+
+00:03:47.600 --> 00:03:50.590
+Ja, ungefähr so 50 Fragen sind das, ja.
+
+00:03:52.520 --> 00:04:02.960
+Wollen wir ins Thema, also wir wollen heute so ein bisschen über Agilität, Lean und wie das so mit Resilienz zusammenhängt starten.
+
+00:04:02.960 --> 00:04:08.960
+Jetzt von diesen drei Begriffen, Lean, Agilität und Resilienz, wie starten wir da am besten?
+
+00:04:08.960 --> 00:04:13.960
+Ist es, dass wir erstmal ein bisschen über Lean reden und macht das dann Sinn dann in diese Agilität?
+
+00:04:13.960 --> 00:04:18.960
+Oder was würdest du sagen, ist so der Startpunkt, um ein bisschen in dieses Gespräch, in dieses Thema reinzukommen?
+
+00:04:18.960 --> 00:04:24.370
+Ja, lass uns ruhig mit dem Thema Lean starten. Ich glaube, auf die Resilienz kommen wir automatisch.
+
+00:04:24.370 --> 00:04:27.370
+Und die Agilität ist jetzt auch ein Thema, was bei mir ohnehin später dazugekommen ist.
+
+00:04:27.370 --> 00:04:30.400
+Deswegen passt das von der Reihenfolge ganz gut.
+
+00:04:30.400 --> 00:04:35.940
+Vielleicht für die Leute, die noch lean, also ich habe auch noch nicht, muss ich sagen,
+
+00:04:35.940 --> 00:04:38.940
+vielleicht darf ich das gar nicht so laut sagen, aber lean auch noch nicht so viel gemacht.
+
+00:04:38.940 --> 00:04:42.940
+Man hört das immer und vielleicht kannst du erstmal so ein bisschen grob umreißen.
+
+00:04:42.940 --> 00:04:49.670
+Worum geht es da? Was sind das, ja genau, worum geht es da vielleicht als Startfrage?
+
+00:04:49.670 --> 00:04:53.670
+Ja, am Ende ist das Thema entstanden. Man hat sich in den 80er Jahren gewundert,
+
+00:04:53.670 --> 00:04:56.670
+die japanischen Automobilfirmen werden immer besser.
+
+00:04:56.670 --> 00:05:01.120
+Und dann gab es zwei Amerikaner, die haben eine Studienreise gemacht,
+
+00:05:01.120 --> 00:05:07.120
+haben sich das angeschaut und das beobachtete mit nach USA und dann auch nach Europa mitgebracht.
+
+00:05:07.120 --> 00:05:13.440
+So der prominenteste Einsatz in Deutschland oder wo es angefangen hat, ist Porsche.
+
+00:05:13.440 --> 00:05:20.690
+Wiedeking hat das Thema sehr stark getrieben und diese ganze Lean-Bewegung hat auch eine Reise hinter sich.
+
+00:05:20.690 --> 00:05:25.690
+Also manchmal wird es missbraucht als Kosteneinsparungsreduktionsprogramm.
+
+00:05:25.690 --> 00:05:31.100
+Viele Firmen haben angefangen und das Beobachtbare, 5S ist so eine Ordnungssystematik,
+
+00:05:31.100 --> 00:05:36.100
+da siehst du, kommst du in wenigen Schritten recht schnell zum ordentlichen Arbeitsumfeld.
+
+00:05:36.100 --> 00:05:41.220
+Das siehst du natürlich sofort. Und man hat so angefangen mit diesen Sachen, die man sehen konnte.
+
+00:05:41.220 --> 00:05:44.220
+Und die versucht auch Gedeih- und Verderben zu übertragen.
+
+00:05:44.220 --> 00:05:50.630
+Und das muss ja nicht immer passen, aber das ist wirklich ein Methodenbaukasten, den man aufgebaut hat.
+
+00:05:50.630 --> 00:05:57.000
+Und dann hat man irgendwann erkannt, okay, der Methodenbaukasten ist zwar gut, irgendwie funktioniert er nicht,
+
+00:05:57.000 --> 00:06:01.000
+aber vielleicht steckt noch mehr dahinter. Und da steckt tatsächlich halt eine ganze Philosophie,
+
+00:06:01.000 --> 00:06:07.670
+eine Herangehensweise hinter. Und da geht es halt sehr viel um den Kunden.
+
+00:06:07.670 --> 00:06:11.670
+Also was ist der Kundennutzen von meinen Produkten? Und ganz viel auch um den Flow.
+
+00:06:11.670 --> 00:06:15.860
+Also wie läuft das Produkt durch die Firma? Wie kann ich das besser machen, schneller machen?
+
+00:06:15.860 --> 00:06:23.200
+Und ja, mich kontinuierlich verbessern. Und das ist so ein großer Kern von Lean.
+
+00:06:23.200 --> 00:06:28.410
+Also auch dieser Wertstrom-Gedanke ist ein sehr starkes Ding, was ich auch immer wieder einsetze,
+
+00:06:28.410 --> 00:06:32.410
+auch in Nicht-Produktionssachen. Aber es kommt zumindest aufgrund der Beobachtung,
+
+00:06:32.410 --> 00:06:38.460
+die man zuerst gemacht hat, aus der Produktion. Die japanischen Unternehmen machen das aber als ganzheitlichen Ansatz.
+
+00:06:38.460 --> 00:06:46.390
+Und da gibt es irgendwie so verschiedene Prinzipien? Und da ist es noch nicht so ganz greifbar.
+
+00:06:46.390 --> 00:06:52.390
+Prinzipien und hinter diesen Prinzipien stecken verschiedene Methoden, die man dann anwendet?
+
+00:06:52.390 --> 00:06:57.390
+Genau. Es gibt Methoden, die führen dich halt dahin. Also du sollst möglichst wenig Verschwendung erzeugen.
+
+00:06:57.390 --> 00:07:02.480
+Verschwendung. Es gibt verschiedene Arten von Verschwendung. Und die können halt in deinen Prozessen liegen.
+
+00:07:02.480 --> 00:07:09.510
+Also du hast so Lagerbestände, weil du irgendwelche Fehler puffern musst, die du in der Produktionskette machst.
+
+00:07:09.510 --> 00:07:15.510
+Also du guckst dir immer jetzt in den Produktionsbereich so die ganze Herstellung, Wertschöpfung des Produktes an.
+
+00:07:15.510 --> 00:07:21.600
+Und dann schaust du, wo ist denn da was, was nicht effizient ist? Wo müssen Nacharbeiten gemacht werden?
+
+00:07:21.600 --> 00:07:29.950
+Zum Beispiel Porsche. Wir haben eine hohe Qualität gehabt, aber auf Kosten einer Nacharbeit bei jedem Auto.
+
+00:07:29.950 --> 00:07:32.950
+Und das ist natürlich, das kostet dich als Unternehmen Geld.
+
+00:07:32.950 --> 00:07:40.290
+Und wenn du es direkt richtig machst, ist es das halt. Also Dinge richtig machen. Da geht es viel drum.
+
+00:07:40.290 --> 00:07:46.500
+Und dieser Kundenfokus ist ja auch dann bei agilen Arbeiten großer Punkt.
+
+00:07:46.500 --> 00:07:48.500
+Totale Schnittmenge.
+
+00:07:48.500 --> 00:07:50.500
+Wie dann diese Überschnittmenge dann ist, oder?
+
+00:07:50.500 --> 00:07:55.810
+Das ist so, Kundenfokus ist eine starke Schnittmenge, so diese Flow-Geschichte.
+
+00:07:55.810 --> 00:08:00.970
+Du versuchst, die Sachen gut durch den Prozess zu bekommen. Das passt alles sehr gut zusammen.
+
+00:08:00.970 --> 00:08:03.970
+Und dann gibt es halt noch verschiedene Methoden, die sich irgendwie ähneln.
+
+00:08:03.970 --> 00:08:09.030
+Und gerade so diese Themen, wenn du jetzt guckst, ein Daily ist ja was.
+
+00:08:09.030 --> 00:08:12.030
+Das fühlt jeder, der irgendwas mit Agil gemacht hat.
+
+00:08:12.030 --> 00:08:16.030
+Man macht Dailies, Weeklys, was auch immer. Und das gibt es halt auch im Lean.
+
+00:08:16.030 --> 00:08:20.120
+Also selbst auf Shopfloor-Ebene, so in der Fabrik, machst du Shopfloor-Meetings.
+
+00:08:20.120 --> 00:08:24.120
+Das machst du zur Schichtübergabe und je nachdem, wie du organisiert bist.
+
+00:08:24.120 --> 00:08:27.120
+Da gucken alle mal schnell, was gut gelaufen, was nicht, wo stehen wir.
+
+00:08:27.120 --> 00:08:31.290
+Wir gucken auf die Kennzahlen, um dann weitermachen zu können.
+
+00:08:31.290 --> 00:08:34.290
+Und das machst du in Agilen ja grundsätzlich auch nicht anders.
+
+00:08:35.570 --> 00:08:40.300
+Wo genau ist dann der Unterschied? Also das sind dann so die Schnittmenge?
+
+00:08:40.300 --> 00:08:48.150
+Der Unterschied, also ich glaube, dass die ITler, die irgendwann mal gesagt haben,
+
+00:08:48.150 --> 00:08:51.150
+wir haben einen Schmerz, weil dieses ganze Agile kommt ja aus der IT und auch nicht ohne Grund.
+
+00:08:51.150 --> 00:08:55.500
+Also offensichtlich hat man Ineffizienzen gehabt.
+
+00:08:55.500 --> 00:08:56.500
+Man war nicht schnell genug.
+
+00:08:56.500 --> 00:08:59.500
+Man hat sich irgendwie verloren und hat dann diese Strukturelemente aufgebaut.
+
+00:08:59.500 --> 00:09:03.630
+Und ich glaube einfach, dass das gar nicht bekannt war, dass es das Lean gibt.
+
+00:09:03.630 --> 00:09:06.630
+Und man ist trotzdem dann zu ähnlichen Wegen gekommen.
+
+00:09:06.630 --> 00:09:09.600
+Weil am Ende, du musst gucken, was hast du für Aufgaben?
+
+00:09:09.600 --> 00:09:11.810
+Wie priorisierst du die?
+
+00:09:11.810 --> 00:09:18.690
+Und wie kannst du die möglichst gut schnell abarbeiten, ohne viel zwischendrin liegen zu haben?
+
+00:09:18.690 --> 00:09:22.020
+Und das ist ja, das muss nicht nur ein Produkt sein, was zwischen zwei Produktschritten liegt,
+
+00:09:22.020 --> 00:09:26.180
+sondern das kann ja auch ein Programm sein.
+
+00:09:26.180 --> 00:09:30.180
+Du hast auf einmal zehn Programme offen und kriegst keins irgendwie an Kunden ran.
+
+00:09:30.180 --> 00:09:32.370
+Und dann musst du halt überlegen, priorisierst du das richtig?
+
+00:09:32.370 --> 00:09:36.620
+Oder wo steckst du die Arbeit rein? Und das ist bei beidem absolut gleich.
+
+00:09:36.620 --> 00:09:40.850
+Ja, alles, was du sagst, ist richtig.
+
+00:09:40.850 --> 00:09:44.850
+Und das ist auch ein schöner Punkt, um da an der Stelle einmal einhaken zu können,
+
+00:09:44.850 --> 00:09:51.900
+ist tatsächlich das Thema Lean und Agil hat ja an der Stelle in der Ausprägung,
+
+00:09:51.900 --> 00:09:56.900
+in der es die letzten oder die letzten zehn, 15, 20 Jahre erfahren hat,
+
+00:09:56.900 --> 00:09:59.990
+eine Optimierung zum einen, eine Prozessoptimierung.
+
+00:09:59.990 --> 00:10:00.990
+Wie mache ich Dinge?
+
+00:10:00.990 --> 00:10:04.950
+Und zum anderen auch einen ganz, ganz harten Cut oder Einschnitt
+
+00:10:04.950 --> 00:10:06.950
+in Bezug auf Ressourcenoptimierung.
+
+00:10:06.950 --> 00:10:12.950
+Was aus meiner Sicht speziell in den letzten Jahren mit so schwarzen Schwäden,
+
+00:10:12.950 --> 00:10:17.920
+die passieren, dann genau dazu führt, dass eigentlich diese Ressourcenoptimierung,
+
+00:10:17.920 --> 00:10:21.920
+die eigentlich in der Prozessoptimierung eigentlich am Anfang gar nicht vorhanden war,
+
+00:10:21.920 --> 00:10:24.920
+dazu geführt hat, dass viele Dinge einfach gar nicht gut funktionieren
+
+00:10:24.920 --> 00:10:27.920
+in so Methodiken Lieferkettenprobleme.
+
+00:10:27.920 --> 00:10:31.920
+Ich produziere relativ on demand, das heißt, ich bestelle auch Ressourcen on demand.
+
+00:10:31.920 --> 00:10:34.920
+Das halt funktioniert natürlich nicht, wenn du eine Welthirtschaft hast,
+
+00:10:34.920 --> 00:10:39.920
+die aktuell irgendwie ein Problem hat, irgendwie Lieferketten zu nennen.
+
+00:10:39.920 --> 00:10:43.950
+Das Gleiche hast du aber auch tatsächlich im Agilen, wo man sagt, okay,
+
+00:10:43.950 --> 00:10:49.040
+ich kann einen Prozess relativ gut quasi strukturieren über agile Methoden
+
+00:10:49.040 --> 00:10:54.040
+und baue darauf auf, dass Teams auf Zulieferung von anderen angewiesen sind.
+
+00:10:54.040 --> 00:10:57.040
+Das Problem ist, dass es tatsächlich auch sehr stark Ressourcen gewunden sind.
+
+00:10:57.040 --> 00:11:01.040
+Da stecken ja Menschen dahinter, die alle nicht in derselben Geschwindigkeit
+
+00:11:01.040 --> 00:11:03.040
+immer arbeiten können oder auch nicht immer verfügbar sind.
+
+00:11:03.040 --> 00:11:06.040
+Was ich genau im Agilen immer gesehen habe, ist tatsächlich immer,
+
+00:11:06.040 --> 00:11:10.040
+dass viele dann immer denken, ich kann ja jetzt mit der gleichen Anzahl an Leuten
+
+00:11:10.040 --> 00:11:17.570
+viel mehr machen, anstatt dann irgendwie relativ gut mit denen und zu gehen und zu sagen,
+
+00:11:17.570 --> 00:11:22.560
+ich kann eigentlich die beste Qualität liefern von dem, was ich vorher gemacht habe.
+
+00:11:22.560 --> 00:11:26.630
+Aber das muss nicht unbedingt immer nur schneller sein an der Stelle.
+
+00:11:26.630 --> 00:11:30.630
+Das ist mit weniger Fehlern verbunden, was Dinge dann schneller macht.
+
+00:11:30.630 --> 00:11:35.240
+Aber ich kann zum Beispiel nicht sowas machen, dass ich Ressourcen irgendwie sehr,
+
+00:11:35.240 --> 00:11:39.240
+sehr ad hoc ohne Pausen oder ohne Umgriffszeiten irgendwie tatsächlich doppelt verplane
+
+00:11:39.240 --> 00:11:44.240
+oder mehrfach verplane, was halt genau dazu geführt hat, dass Agilität in vielen Unternehmen
+
+00:11:44.240 --> 00:11:49.210
+ja auch genau einfach mittlerweile auch ein Schimpfwort ist und Mitarbeiter die Augen verdrehen,
+
+00:11:49.210 --> 00:11:56.210
+weil es halt nicht zu einem Prozess, sondern eigentlich zu einer Ressourcen-Oktivierung genutzt wird.
+
+00:11:56.210 --> 00:11:59.940
+Genau, also bin ich bei dir. Also wo kommt das hinher von Toyota?
+
+00:11:59.940 --> 00:12:02.940
+Die haben die Nachkriegsmangelwirtschaft, die mussten halt gucken,
+
+00:12:02.940 --> 00:12:04.940
+wie können sie aus dem, was sie haben, das Beste machen?
+
+00:12:04.940 --> 00:12:08.930
+Und wie finden sie gleichzeitig einen Markt, einen Kunden, wie befriedigen sie den Kunden am besten?
+
+00:12:08.930 --> 00:12:16.090
+Und das ist dieser Missbrauch, wenn ich es jetzt mal von Methoden,
+
+00:12:16.090 --> 00:12:21.180
+die Gefahr hast du immer bei jeder Methode. Das kannst du irgendwie nicht vermeiden.
+
+00:12:21.180 --> 00:12:26.180
+Es laufen irgendwie auf einmal 100 Leute los und sagen, wir machen jetzt Agil oder Lean
+
+00:12:26.180 --> 00:12:33.210
+oder Scrum oder was auch immer. Dann hast du noch recht gut skalierbare Varianten wie Scrum.
+
+00:12:33.210 --> 00:12:37.210
+Du kannst dir Scrum Master holen, dann hast du auch schon Experten dafür und und und.
+
+00:12:37.210 --> 00:12:41.400
+Wenn du das so stumpf machst, das funktioniert auch nicht.
+
+00:12:41.400 --> 00:12:44.460
+Also du musst es schon immer auf die Bedürfnisse des Unternehmens anpassen.
+
+00:12:44.460 --> 00:12:46.460
+Es muss halt auch ernst gemeint sein.
+
+00:12:46.460 --> 00:12:51.460
+Also wenn es nur das Deckwort ist, um irgendwas einzusparen,
+
+00:12:51.460 --> 00:12:55.290
+es ist halt auch immer den Besten und der braucht ein bisschen.
+
+00:12:55.290 --> 00:13:00.920
+Da haben wir aber auch einen ganz guten Übergang zum Thema Resilienz.
+
+00:13:00.920 --> 00:13:06.590
+Das wollte ich tatsächlich gerade auch anführen, weil da bist du ja automatisch bei dem Thema Resilienz.
+
+00:13:06.590 --> 00:13:13.550
+Also aus meiner Sicht Resilienz ist tatsächlich auch etwas, wo du mit Puffer arbeitest
+
+00:13:13.550 --> 00:13:18.550
+oder genau mit dieser Achtsamkeit in Bezug auf deine Ressourcen, dass du sagst,
+
+00:13:18.550 --> 00:13:23.510
+ich kann ein System bauen, das so resilient ist an der Stelle oder ein Prozess, der so resilient ist,
+
+00:13:23.510 --> 00:13:29.790
+weil er halt auch über genug Puffer verfügt oder halt auch über genug Stärkung verfügt,
+
+00:13:29.790 --> 00:13:34.880
+in dem Sinne, dass ich eben nicht bis an den Anschlag fahre, das System, damit es nicht brechen kann.
+
+00:13:34.880 --> 00:13:40.880
+Aber was ist es aus deiner Sicht oder was macht Resilienz aus deiner Sicht in Verbindung zu Lean
+
+00:13:40.880 --> 00:13:43.880
+und Agil tatsächlich noch so interessant?
+
+00:13:43.880 --> 00:13:47.260
+Es gibt ja verschiedene Ebenen. Also wenn du dir jetzt ein Team anschaust,
+
+00:13:47.260 --> 00:13:51.640
+so eine Resilienz auf Team-Ebene, du wirst das immer haben.
+
+00:13:51.640 --> 00:13:55.640
+Du hast Projekte, die haben Deadline, das ist irgendwie ein super wichtiges Projekt.
+
+00:13:55.640 --> 00:14:02.830
+Du hast gerade irgendwas, ich habe ja auch Beratung gemacht, da kannst du dir manchmal Prozesse nur nachts angucken.
+
+00:14:02.830 --> 00:14:09.790
+Trotzdem gehst du dann nicht um 8 Uhr morgens nach Hause oder so, sondern du hast immer mal so Spitzen drin,
+
+00:14:09.790 --> 00:14:13.790
+aber die Gefahr ist natürlich, wenn du nur in diesem Notmodus arbeitest,
+
+00:14:13.790 --> 00:14:17.920
+dann kommst du da irgendwann nicht mehr raus und dann hast du halt auch ein Performance-Problem.
+
+00:14:17.920 --> 00:14:25.200
+Und dann, also zum einen ist es unethisch, die Leute ständig die ganze Zeit auf Dauerstrom zu halten
+
+00:14:25.200 --> 00:14:28.200
+und du verlierst aber auch irgendwann Leistung.
+
+00:14:28.200 --> 00:14:33.200
+Also die tausendste Präsentation abends im Hotel nach einem Zwölf-Stunden-Tag,
+
+00:14:33.200 --> 00:14:38.580
+da wäre ich oft auch besser einfach eine Runde laufen gegangen und hätte das morgens gemacht,
+
+00:14:38.580 --> 00:14:41.580
+da wäre das Ergebnis sicherlich besser gewesen.
+
+00:14:41.580 --> 00:14:49.990
+Und das ist für mich viel so dieses, ja, darauf achten, dass du die Leute nicht komplett kaputt fährst.
+
+00:14:49.990 --> 00:14:55.080
+Das ist die eine Sache und die andere Sache, du hast natürlich auch auf Organisationsebene,
+
+00:14:55.080 --> 00:14:59.040
+du hattest eben gesagt, Lieferketten brechen zusammen und und und.
+
+00:14:59.040 --> 00:15:05.070
+Wenn ich gut aufgestellte Teams habe, die die richtigen Skills haben, die eine Flexibilität haben,
+
+00:15:05.070 --> 00:15:10.360
+und das ist ja Resilienz auch, es passiert was Schlimmes und ich überlege,
+
+00:15:10.360 --> 00:15:14.680
+was kann ich machen und mache weiter und gebe nicht vollkommen auf,
+
+00:15:14.680 --> 00:15:19.280
+hilft dir natürlich auch deine Organisation anpassungsfähig zu halten,
+
+00:15:19.280 --> 00:15:22.280
+auch auf irgendwelche Corona-Werte, das klassische Beispiel.
+
+00:15:22.280 --> 00:15:28.310
+Was mache ich auf einmal? Ja, ich habe coole Leute da und die schaffen es dann irgendwie,
+
+00:15:28.310 --> 00:15:36.690
+den Turnaround zu kriegen und sich einzustellen auf neue Geschehnisse.
+
+00:15:36.690 --> 00:15:41.690
+Es gibt ja auch immer wieder Leute, die sagen so, Agilität ist sehr stressvoll
+
+00:15:41.690 --> 00:15:45.640
+und dann, dass sie das falsch leben oder was sind so deine Erfahrungen?
+
+00:15:45.640 --> 00:15:50.840
+Also die Leute sicherlich nicht. Das ist dann wahrscheinlich eher das, was gewollt ist
+
+00:15:50.840 --> 00:15:55.000
+vom Unternehmen oder du hast dann irgendwelche Berater drin gehabt.
+
+00:15:55.000 --> 00:16:02.470
+Du musst Agilität dann auch richtig, richtig leben und eigentlich hilft dir das.
+
+00:16:02.470 --> 00:16:07.430
+Du hast nicht diesen Overload. Sagen wir mal, du hast ein vernünftiges Backlog gemacht.
+
+00:16:07.430 --> 00:16:12.520
+Du planst deinen Sprint. Du weißt, was du machen willst und ziehst das dann durch.
+
+00:16:12.520 --> 00:16:16.520
+Das gibt dir ja auch vom Gehirn her eine Sicherheit. Du musst weniger priorisieren.
+
+00:16:16.520 --> 00:16:24.650
+Du hast diese Gehirnbereiche, den präfrontaler Cortex, der für Emotionsregulation und auch Priorisieren und sowas sehr stark ist.
+
+00:16:24.650 --> 00:16:32.060
+Das ist wie ein kleiner Akku. Und wenn der Akku leer ist, dann hast du echt ein Problem.
+
+00:16:32.060 --> 00:16:38.060
+Du reagierst schnell, falsch und und und. Und wenn du aber eine gute Struktur hast,
+
+00:16:38.060 --> 00:16:43.060
+jetzt in dem agilen Projekt, wie auch immer du das aufgesetzt hast, ob es jetzt Kanban, Scrum oder was auch immer du nimmst.
+
+00:16:43.060 --> 00:16:50.370
+Also du hast einen Fokus, du hast deinen Backlog, du hast eine Priorisierung drin und du kannst dann als Team deine Sachen abarbeiten,
+
+00:16:50.370 --> 00:16:57.370
+gibt dir das so fürs Gehirn auch eine Entlastung. Du hast weniger Multitasking drin, du hast keine Chefaufträge,
+
+00:16:57.370 --> 00:17:02.370
+du hast nicht noch 10.000 Sachen, die auf einmal reinkommen, sondern du arbeitest deine Sachen ab.
+
+00:17:02.370 --> 00:17:10.900
+So diese diese Erwartbarkeit gibt dir so ein bisschen psychologische Sicherheit auch und auch so ein Rhythmus.
+
+00:17:10.900 --> 00:17:19.320
+Du musst es dann auch nur gut leben. Und da hakt es wahrscheinlich meistens dann, wenn alle schreien, oh nein, Agilität.
+
+00:17:19.320 --> 00:17:24.540
+Also es ist vielleicht nicht customized auf die Bedürfnisse des Teams. Wir haben das auch gemacht.
+
+00:17:24.540 --> 00:17:30.800
+Wir haben im großen HR-Bereich agil eingeführt und haben es auch mit Scrum gemacht. Das ist schon was her.
+
+00:17:30.800 --> 00:17:35.830
+Alle fangen ja immer mit Scrum an, du hast eine gute Struktur. Dann hast du gesehen, für manche Teams war das total hilfreich,
+
+00:17:35.830 --> 00:17:41.370
+auch weil die Führungskraft, also die oberste Führungskraft das auch wirklich mitgetragen hat,
+
+00:17:41.370 --> 00:17:45.370
+dass nicht zwischendurch immer noch was reinkommt. Dann hast du aber Teams gehabt, die haben was Neues.
+
+00:17:45.370 --> 00:17:48.370
+Also die, die haben was Neues entwickelt, für die war die Scrum-Logik gut.
+
+00:17:48.370 --> 00:17:53.320
+Aber wenn du einfach so eine Abarbeitung hast von Tickets oder Sachen, die reinkommen,
+
+00:17:53.320 --> 00:17:58.700
+war das Kanban einfach eine viel bessere Lösung. Und das musst du da halt einfach offen ausprobieren
+
+00:17:58.700 --> 00:18:04.920
+und gucken, was hilft dem Team wirklich. Da brauchst du halt eine gewisse Erfahrung in verschiedenen Methoden.
+
+00:18:04.920 --> 00:18:09.590
+Und wenn du dann die richtige wählst, hilft das dann auch.
+
+00:18:09.590 --> 00:18:14.450
+Ja, du hast ja schon jetzt gerade so mit der Priorisierung, Sicherheit gibt das.
+
+00:18:14.450 --> 00:18:18.480
+Vielleicht auch so den Fokus, weil es auch dann OKRs, weil es ja nicht agil vielleicht,
+
+00:18:18.480 --> 00:18:22.440
+aber es ist ja auch so ein bisschen, dass man nicht so viel Ablenkung hat,
+
+00:18:22.440 --> 00:18:25.440
+dass das so ein bisschen die Resilienz stärkt.
+
+00:18:25.440 --> 00:18:28.920
+Vielleicht erstmal genau, was ist denn genau Resilienz?
+
+00:18:28.920 --> 00:18:35.520
+Was bedeutet, das ist ja glaube ich dieses, man knickt nicht ein, sondern kommt wieder zurück oder irgendwie so?
+
+00:18:35.520 --> 00:18:38.520
+Ja, also eine Widerstandsfähigkeit am Ende.
+
+00:18:38.520 --> 00:18:42.930
+Was sind da noch so für Aspekte, die dann da rein spielen?
+
+00:18:42.930 --> 00:18:49.170
+Ja, das ist also so eine Sicherheit, die du irgendwie haben musst.
+
+00:18:49.170 --> 00:18:52.170
+Also wenn du dir jetzt jeden Tag Gedanken um deinen Job machen musst
+
+00:18:52.170 --> 00:18:58.230
+oder gibt es das nächste Projekt noch und und und, dann wirst du das auch nach außen ausstrahlen
+
+00:18:58.230 --> 00:19:01.230
+und auch übertragen auf die Leute, mit denen du arbeitest.
+
+00:19:01.230 --> 00:19:06.480
+Und das ist halt dieses, ja dann einfach eine Situation zu bewerten.
+
+00:19:06.480 --> 00:19:10.480
+Du siehst, du hast eine Situation, was bedeutet das jetzt für mich?
+
+00:19:10.480 --> 00:19:15.660
+Ist das schlimm? Muss ich reagieren oder geht es einfach so weiter?
+
+00:19:15.660 --> 00:19:19.660
+Und dann eben die richtige Methode zu ziehen, das ist das irgendwie.
+
+00:19:19.660 --> 00:19:22.620
+Also diese, ja es ist einfach eine Widerstandsfähigkeit.
+
+00:19:22.620 --> 00:19:27.800
+Und das hast du immer im Unternehmen. Es gibt Umstrukturierung, Transformation.
+
+00:19:27.800 --> 00:19:34.640
+Du hast ja ständig irgendeinen Wandel und da dann gut mit umgehen zu können,
+
+00:19:34.640 --> 00:19:38.610
+das richtig neutral bewerten zu können und weiter zu machen.
+
+00:19:38.610 --> 00:19:43.210
+Das ist so diese Resilienz auf der Ebene, würde ich sagen.
+
+00:19:43.210 --> 00:19:47.490
+Du hattest auch im Vorgespräch gesagt, dass ihr da irgendwie mal so
+
+00:19:47.490 --> 00:19:51.030
+Leaders Mind da irgendwie so eine Workshop-Reihe hattet.
+
+00:19:51.030 --> 00:19:55.770
+Also haben Führungskräfte da auch einen großen Einfluss auf diese Resilienz
+
+00:19:55.770 --> 00:20:00.270
+zusammen mit Agilität? Oder was habt ihr da genau trainiert?
+
+00:20:00.270 --> 00:20:05.870
+Ja, also wir haben viel Sachen wie Achtsamkeit und sowas auch trainiert,
+
+00:20:05.870 --> 00:20:10.060
+also auch Meditation ausprobiert. Ich fand das früher immer schwierig.
+
+00:20:10.060 --> 00:20:13.060
+Also für mich war das was, wo ich nicht runterkommen konnte,
+
+00:20:13.060 --> 00:20:15.060
+sondern ich habe gesagt, boah nee, ich will jetzt hier nicht dumm rumsitzen.
+
+00:20:15.060 --> 00:20:17.060
+Also das ist ein Prozess, wo ich darauf einlassen muss.
+
+00:20:17.060 --> 00:20:21.330
+Und du hast, wenn du sowas machst, hast du auch oft Leute,
+
+00:20:21.330 --> 00:20:23.330
+die aus so einer esoterischeren Ecke kommen.
+
+00:20:23.330 --> 00:20:26.550
+Und da fehlt mir einfach total der Zugang zu.
+
+00:20:26.550 --> 00:20:30.580
+Das ist nicht meins. Und ich habe mich damals darauf eingelassen,
+
+00:20:30.580 --> 00:20:35.580
+derjenige, der das Beratungsunternehmen zum Thema Lean hatte.
+
+00:20:35.580 --> 00:20:39.830
+Und eine Geschäftspartnerin von ihm, beides Ingenieure.
+
+00:20:39.830 --> 00:20:42.910
+Sie promovierte Ingenieurin, glaube ich sogar.
+
+00:20:42.910 --> 00:20:44.960
+Hatte ein Logistikunternehmen.
+
+00:20:44.960 --> 00:20:46.960
+Das sind so Leute, die sind weit von der esoterischen Ecke weg.
+
+00:20:46.960 --> 00:20:49.870
+Und dann habe ich gedacht, wenn die sich darauf einlassen,
+
+00:20:49.870 --> 00:20:52.990
+dass es Sinn macht, sich mal hinzusetzen und mal nichts zu machen,
+
+00:20:52.990 --> 00:20:54.990
+machte das auch mal.
+
+00:20:54.990 --> 00:20:59.330
+Und das hat halt viel Energie gekostet im ersten Moment.
+
+00:20:59.330 --> 00:21:01.330
+Aber irgendwann hat es mir halt auch was gegeben.
+
+00:21:01.330 --> 00:21:03.330
+Und da muss halt jeder aber für sich selber finden.
+
+00:21:03.330 --> 00:21:06.550
+Da gibt es verschiedene Methoden, was du da machen kannst.
+
+00:21:06.550 --> 00:21:07.550
+Das muss jetzt nicht Meditation sein.
+
+00:21:07.550 --> 00:21:10.550
+Das kann auch irgendwie Sport sein oder was auch immer.
+
+00:21:10.550 --> 00:21:13.550
+Aber so diese Klarheit wieder herzustellen.
+
+00:21:13.550 --> 00:21:16.550
+Aus diesem Dauerbefeuerungsmodus raus,
+
+00:21:16.550 --> 00:21:18.550
+das Gehörens ein bisschen runterzubringen.
+
+00:21:18.550 --> 00:21:20.580
+Du machst ja sonst den ganzen Tag Multitasking.
+
+00:21:20.580 --> 00:21:23.580
+Das kostet dich auch nur Energie, weil du immer hin und her springst.
+
+00:21:23.580 --> 00:21:26.710
+Und dieses wieder zur Ruhe kommen, das hilft halt total.
+
+00:21:26.710 --> 00:21:29.710
+Und das haben wir in diesem Programm halt auch selber trainiert.
+
+00:21:29.710 --> 00:21:31.710
+Und wir haben auch so Reflexionsräume eingebaut,
+
+00:21:31.710 --> 00:21:35.700
+sodass die Führungskräfte dann auch wirklich mal sich die Ruhe nehmen,
+
+00:21:35.700 --> 00:21:37.700
+mal zu überlegen, wo stehen wir?
+
+00:21:37.700 --> 00:21:38.700
+Was machen wir?
+
+00:21:38.700 --> 00:21:39.700
+Wie funktioniert das Gehirn?
+
+00:21:39.700 --> 00:21:42.730
+Ich hatte ja eben schon mal den präfrontalen Vortex erwähnt.
+
+00:21:42.730 --> 00:21:47.360
+Da hast du halt die logische Verarbeitung, Priorisierung, Emotionsregulation.
+
+00:21:47.360 --> 00:21:50.450
+Und das zu trainieren ist halt ultra wichtig,
+
+00:21:50.450 --> 00:21:54.420
+weil du willst jetzt auch keine super populäre Führungskräfte haben.
+
+00:21:54.420 --> 00:22:01.800
+Und die tragen das ans Team weiter und dann hast du wieder das Team,
+
+00:22:01.800 --> 00:22:03.800
+was so am Limit ist.
+
+00:22:03.800 --> 00:22:07.150
+Und das war die Idee, da was mitzumachen.
+
+00:22:07.150 --> 00:22:11.140
+Haben wir auch eine Kombination angeboten mit Agilitätstrainings.
+
+00:22:11.140 --> 00:22:14.390
+Also diese Kombination war halt einmal Inhalte.
+
+00:22:14.390 --> 00:22:15.390
+Was gibt es in der Agilität?
+
+00:22:15.390 --> 00:22:22.060
+Und dann, was gibt es so auf der Ebene Neurowissenschaften, Gehirn, Emotionen?
+
+00:22:22.060 --> 00:22:24.310
+Was macht das mit mir?
+
+00:22:24.310 --> 00:22:27.940
+Und das war eine Kombination, die ist auch total gut angekommen.
+
+00:22:27.940 --> 00:22:33.440
+Ich finde das spannend in der Kombination, weil es tatsächlich so ein bisschen,
+
+00:22:33.440 --> 00:22:36.440
+Ich glaube, immer unterschiedliche Denkwelten antriggert.
+
+00:22:36.440 --> 00:22:40.440
+In der Agilität hast du ja immer dieses, wir müssen schnell auf Dinge reagieren,
+
+00:22:40.440 --> 00:22:44.440
+wir müssen die ganze Zeit irgendwie quasi das Ohr an der Schiene haben,
+
+00:22:44.440 --> 00:22:47.440
+um zu hören, ob sich was ändert, um schnell da reinzugehen.
+
+00:22:47.440 --> 00:22:51.440
+Und das, was du jetzt gerade beschrieben hast, ist ja auch wirklich dieser Schritt,
+
+00:22:51.440 --> 00:22:54.440
+einfach einmal zurückzutreten und zu reflektieren.
+
+00:22:54.440 --> 00:22:58.440
+Ist das, was ich bis dato getan habe oder was aktuell passiert, das Richtige?
+
+00:22:58.440 --> 00:23:00.440
+Oder kann man das eventuell auch anders machen?
+
+00:23:00.440 --> 00:23:06.440
+Und ich glaube, das ist genau dieser Punkt, wo es den Leuten auch immer schwer fällt,
+
+00:23:06.440 --> 00:23:07.440
+da zu unterscheiden.
+
+00:23:07.440 --> 00:23:12.500
+Bin ich da jetzt gerade schnell genug unterwegs, so wie ich das jetzt in der Methode hätte?
+
+00:23:12.500 --> 00:23:15.500
+Oder ist das der Moment, wo ich nochmal reflektiere?
+
+00:23:15.500 --> 00:23:18.500
+Wobei das natürlich in vielen agilen Methoden, also gerade so was,
+
+00:23:18.500 --> 00:23:20.500
+die mit Retro als Reflexion ja auch da ist.
+
+00:23:20.500 --> 00:23:25.500
+Aber das ist ja auch meistens das Event, was am häufigsten geskippt wird im Agil,
+
+00:23:25.500 --> 00:23:27.500
+habe ich gelernt, tatsächlich.
+
+00:23:27.500 --> 00:23:29.500
+Ich dachte, die Retro, diese Woche brauchen wir die nicht.
+
+00:23:29.500 --> 00:23:31.600
+Da ist alles super geklappt.
+
+00:23:31.600 --> 00:23:35.600
+Weil viele immer denken, so was brauche ich halt immer nur,
+
+00:23:35.600 --> 00:23:37.600
+wenn irgendwas wirklich schlecht läuft.
+
+00:23:37.600 --> 00:23:42.790
+Aber anstatt, also es ist ja genau das in Bezug auf Reflexion,
+
+00:23:42.790 --> 00:23:44.790
+was funktioniert wirklich gerade gut und was müsste ich erhalten.
+
+00:23:44.790 --> 00:23:47.790
+Und das gucken sich die Leute aus meiner Sicht viel zu selten an.
+
+00:23:47.790 --> 00:23:49.830
+Wie ist deine Erfahrung mit sowas?
+
+00:23:49.830 --> 00:23:51.850
+Ja, Retro ist eines meiner Lieblingsthemen.
+
+00:23:51.850 --> 00:23:54.850
+Also das ist tatsächlich was, was ich neu gelernt habe,
+
+00:23:54.850 --> 00:23:58.970
+in Bezug zur Agilität oder auf der agilen Reise.
+
+00:23:58.970 --> 00:24:01.090
+Weil das ist genau das, was du sagst.
+
+00:24:01.090 --> 00:24:04.090
+Nee, haben wir keine Zeit für und, und, und, und, und.
+
+00:24:04.090 --> 00:24:06.090
+Wir müssen arbeiten und so weiter und so fort.
+
+00:24:06.090 --> 00:24:08.060
+Also du musst immer für die Retros kämpfen.
+
+00:24:08.060 --> 00:24:10.280
+Auf der anderen Seite habe ich die Erfahrung gemacht,
+
+00:24:10.280 --> 00:24:13.280
+nach langem Kampf, du machst die Retros und die sagen,
+
+00:24:13.280 --> 00:24:15.340
+das hat ja doch was gebracht.
+
+00:24:15.340 --> 00:24:18.340
+Und das ist einfach so cool an diesem Retro-Format,
+
+00:24:18.340 --> 00:24:21.340
+dass du da eben nicht die Tagesthemen unbedingt besprichst,
+
+00:24:21.340 --> 00:24:24.480
+sondern dir diesen Reflexionszeitraum nimmst.
+
+00:24:24.480 --> 00:24:27.720
+Und gerade bei neuen Teams macht das auch durchaus Sinn,
+
+00:24:27.720 --> 00:24:29.720
+das am Anfang öfters mal zu machen.
+
+00:24:29.720 --> 00:24:31.720
+Da kriegst du auch raus,
+
+00:24:31.720 --> 00:24:33.720
+was hast du denn vielleicht für Strukturelemente falsch gemacht?
+
+00:24:33.720 --> 00:24:36.720
+Passt das nicht mit Dailies, Weeklys,
+
+00:24:36.720 --> 00:24:39.720
+das Tool, was du nutzt, was auch immer?
+
+00:24:39.720 --> 00:24:43.670
+Und ich mache die Retros immer sehr simpel.
+
+00:24:43.670 --> 00:24:46.670
+Es gibt da ja die wildesten Formate, die man machen kann,
+
+00:24:46.670 --> 00:24:48.670
+was auch mal ganz gut sein kann.
+
+00:24:48.670 --> 00:24:50.700
+Ich mache es immer relativ einfach.
+
+00:24:50.700 --> 00:24:52.700
+Also was ist uns gut gelungen?
+
+00:24:52.700 --> 00:24:53.700
+Das ist meine erste Frage.
+
+00:24:53.700 --> 00:24:55.700
+Und die zweite ist, wo können wir besser werden?
+
+00:24:55.700 --> 00:25:00.020
+Und ich bestehe immer darauf, das zu separieren.
+
+00:25:00.020 --> 00:25:03.020
+Also start von der Retro, kurz ankommen,
+
+00:25:03.020 --> 00:25:05.210
+dann einmal schauen,
+
+00:25:05.210 --> 00:25:07.210
+was haben wir mit den Ergebnissen von den letzten Retro gemacht?
+
+00:25:07.210 --> 00:25:08.210
+Das ist nämlich auch so eine Falle.
+
+00:25:08.210 --> 00:25:10.210
+Du machst Retro um Retro um Retro und es ändert sich nichts.
+
+00:25:10.210 --> 00:25:13.210
+Dann haben die Leute berechtigterweise irgendwann keinen Bock mehr.
+
+00:25:13.210 --> 00:25:15.560
+Also das als erstes abklären
+
+00:25:15.560 --> 00:25:17.560
+und dann in diese beiden Fragen rein,
+
+00:25:17.560 --> 00:25:19.560
+aber die erste Frage komplett getrennt von der zweiten.
+
+00:25:19.560 --> 00:25:22.560
+Also, weil es fangen alle immer sofort an zu schreiben.
+
+00:25:22.560 --> 00:25:25.560
+Und da kommt immer sofort das Negative.
+
+00:25:25.560 --> 00:25:27.560
+Weil sich keiner Zeit nimmt,
+
+00:25:27.560 --> 00:25:29.560
+einmal kurz fünf Minuten auf das Positive,
+
+00:25:29.560 --> 00:25:31.560
+was gut gelungen ist, zu fokussieren.
+
+00:25:31.560 --> 00:25:33.560
+Und das ist immer ein großer Mehrwert, finde ich.
+
+00:25:33.560 --> 00:25:37.230
+Dieser erzwungener Fokus kurz darauf.
+
+00:25:37.230 --> 00:25:39.420
+Und dann schließt auch ein gutes Ergebnis draus.
+
+00:25:39.420 --> 00:25:43.610
+Ja, diese Erfahrung habe ich nämlich auch gerade gemacht.
+
+00:25:43.610 --> 00:25:47.580
+Ich hatte eigentlich auch gerade eine Retro bei uns im Team gemacht.
+
+00:25:47.580 --> 00:25:49.580
+Und dann war dieses erste,
+
+00:25:49.580 --> 00:25:51.580
+was läuft denn gerade positiv auch in der Transformation.
+
+00:25:51.580 --> 00:25:54.580
+Und da war dann das Feedback danach,
+
+00:25:54.580 --> 00:25:56.580
+ja, was wir verbessern können,
+
+00:25:56.580 --> 00:25:57.580
+was wir groß verbessern können,
+
+00:25:57.580 --> 00:25:58.580
+das war easy.
+
+00:25:58.580 --> 00:26:00.580
+Aber dieses, okay, was läuft denn eigentlich ganz gut,
+
+00:26:00.580 --> 00:26:02.580
+da mussten die erstmal nachdenken.
+
+00:26:02.580 --> 00:26:03.580
+Und ich glaube meist auch ein bisschen
+
+00:26:03.580 --> 00:26:05.580
+vielleicht durch diesen Negativity-Bias,
+
+00:26:05.580 --> 00:26:07.580
+dass man eher so guckt, okay, was für Fehler,
+
+00:26:07.580 --> 00:26:09.580
+wo gibt es was Schlechtes,
+
+00:26:09.580 --> 00:26:10.580
+was können wir verbessern.
+
+00:26:10.580 --> 00:26:13.580
+Dieses Positive bleibt mir so ein bisschen außen vor.
+
+00:26:13.580 --> 00:26:16.540
+Bei Retro ist ja auch eigentlich,
+
+00:26:16.540 --> 00:26:18.540
+wenn ich jetzt so drüber nachdenke,
+
+00:26:18.540 --> 00:26:20.540
+auch so ein Resilienzfaktor.
+
+00:26:20.540 --> 00:26:22.540
+Man arbeitet ja auch so da,
+
+00:26:22.540 --> 00:26:23.540
+so an der psychologischen Sicherheit,
+
+00:26:23.540 --> 00:26:26.540
+auch wie wir als Team zusammenarbeiten,
+
+00:26:26.540 --> 00:26:28.500
+dass man irgendwie da auch guckt,
+
+00:26:28.500 --> 00:26:29.500
+okay, was lief schlecht,
+
+00:26:29.500 --> 00:26:31.500
+wo war es vielleicht zu viel,
+
+00:26:31.500 --> 00:26:33.500
+wo war Stress, keine Ahnung.
+
+00:26:33.500 --> 00:26:34.500
+Willst du das auch so sehen?
+
+00:26:34.500 --> 00:26:36.170
+Ja, genau.
+
+00:26:36.170 --> 00:26:38.170
+Also es ist immer wie du es ausprägst.
+
+00:26:38.170 --> 00:26:40.170
+Das macht natürlich auch einen Unterschied,
+
+00:26:40.170 --> 00:26:41.170
+ob du jetzt ein Retro machst
+
+00:26:41.170 --> 00:26:42.170
+von einem Projektteam,
+
+00:26:42.170 --> 00:26:44.460
+was irgendwie eines von vielen,
+
+00:26:44.460 --> 00:26:46.460
+in einem von vielen Projekten zusammenarbeitet,
+
+00:26:46.460 --> 00:26:47.460
+oder ob du jetzt ein Team hast,
+
+00:26:47.460 --> 00:26:49.460
+was kontinuierlich zusammenarbeitet,
+
+00:26:49.460 --> 00:26:50.460
+für einen längeren Zeitraum.
+
+00:26:50.460 --> 00:26:52.520
+Da kannst du auch dann schon mal,
+
+00:26:52.520 --> 00:26:53.520
+da kommst du auf eine andere Ebene
+
+00:26:53.520 --> 00:26:55.520
+bei manchen Sachen sicherlich.
+
+00:26:55.520 --> 00:26:57.990
+Ich habe auch die Erfahrung gemacht,
+
+00:26:57.990 --> 00:26:58.990
+ich habe ja auch mal
+
+00:26:58.990 --> 00:27:01.990
+ein Wellbeing-Manifesto erstellt,
+
+00:27:01.990 --> 00:27:05.240
+basierend auf Fragen mit Führungskräften,
+
+00:27:05.240 --> 00:27:07.240
+aktuellen Trends,
+
+00:27:07.240 --> 00:27:08.240
+mehreren Schleifen,
+
+00:27:08.240 --> 00:27:10.240
+die wir da im Team gemacht haben.
+
+00:27:10.240 --> 00:27:13.940
+Und da hatten wir auch ein paar Schwerpunkte rausgearbeitet
+
+00:27:13.940 --> 00:27:15.940
+und daraus dann ein Workshop-Format gemacht
+
+00:27:15.940 --> 00:27:19.960
+und da dann auch tatsächlich Fragen gestellt.
+
+00:27:19.960 --> 00:27:21.960
+Fühlst du dich wohl?
+
+00:27:21.960 --> 00:27:23.960
+Irgendwelche Probleme zu benennen,
+
+00:27:23.960 --> 00:27:27.050
+sei es jetzt privater oder beruflicher Natur.
+
+00:27:27.050 --> 00:27:29.050
+Da haben wir ein bisschen so eine Skalierung
+
+00:27:29.050 --> 00:27:30.050
+daraus gemacht.
+
+00:27:30.050 --> 00:27:32.300
+Und die Teams haben dann geschaut,
+
+00:27:32.300 --> 00:27:34.300
+okay, was sind jetzt die Sachen,
+
+00:27:34.300 --> 00:27:36.300
+wo wir als nächstes dran arbeiten wollen.
+
+00:27:36.300 --> 00:27:38.300
+Das ist im Prinzip auch wie eine große Retro
+
+00:27:38.300 --> 00:27:40.300
+auf dieser Ebene der Themen.
+
+00:27:40.300 --> 00:27:43.330
+Also Empathie, psychologische Sicherheit,
+
+00:27:43.330 --> 00:27:44.330
+Caring und sowas.
+
+00:27:44.330 --> 00:27:46.360
+Wie wohl fühlen sich die Teams
+
+00:27:46.360 --> 00:27:47.360
+und wo kann man was machen?
+
+00:27:47.360 --> 00:27:49.360
+Da hast du auch manchmal Leute,
+
+00:27:49.360 --> 00:27:52.550
+die dann, wo du wirklich siehst, die berührt hast.
+
+00:27:52.550 --> 00:27:54.550
+Da hast du jetzt irgendwie einen Punkt getroffen.
+
+00:27:54.550 --> 00:27:56.800
+Aber irgendwie musst du da ja auch hinkommen.
+
+00:27:56.800 --> 00:27:58.800
+Also du willst ja helfen.
+
+00:27:58.800 --> 00:28:00.920
+Am Ende ist es ja immer ein Team,
+
+00:28:00.920 --> 00:28:01.920
+was sich wohlfühlt.
+
+00:28:01.920 --> 00:28:03.920
+Das ist ja auch die Basis
+
+00:28:03.920 --> 00:28:05.920
+oder die Erkenntnis dieser Studie gewesen
+
+00:28:05.920 --> 00:28:07.920
+zur psychologischen Sicherheit von Google.
+
+00:28:07.920 --> 00:28:10.920
+Das Team, was sich wohl miteinander fühlt,
+
+00:28:10.920 --> 00:28:12.920
+Themen offen ansprechen kann,
+
+00:28:12.920 --> 00:28:13.850
+ist auch ein performanteres Team.
+
+00:28:13.850 --> 00:28:18.450
+Was mir noch gerade ist,
+
+00:28:18.450 --> 00:28:21.700
+wir haben ja den Namen von dem VUCA Blaster.
+
+00:28:21.700 --> 00:28:24.240
+Würdest du dann auch sagen,
+
+00:28:24.240 --> 00:28:25.240
+dass Agilität,
+
+00:28:25.240 --> 00:28:27.870
+aber auch, dass das dann auch
+
+00:28:27.870 --> 00:28:28.870
+klar so ein bisschen Sicherheit,
+
+00:28:28.870 --> 00:28:32.540
+also auch diese Resilienz fördert,
+
+00:28:32.540 --> 00:28:34.850
+dass das halt mit Lean zusammen
+
+00:28:34.850 --> 00:28:36.850
+halt auch gute Instrumente sind,
+
+00:28:36.850 --> 00:28:38.810
+um die VUCA-Welt zu begegnen?
+
+00:28:38.810 --> 00:28:39.950
+Ja, klar.
+
+00:28:39.950 --> 00:28:40.950
+Ja, genau.
+
+00:28:40.950 --> 00:28:43.950
+Also dieser VUCA-Begriff ist ja auch mittlerweile,
+
+00:28:43.950 --> 00:28:44.950
+das ist ja alles so ein bisschen verbrannt,
+
+00:28:44.950 --> 00:28:46.950
+weil du hast dann irgendwelche Leute,
+
+00:28:46.950 --> 00:28:47.950
+die mit Hausieren gegangen sind.
+
+00:28:47.950 --> 00:28:50.950
+Aber diese sich schnell ändernde Welt,
+
+00:28:50.950 --> 00:28:51.950
+also wenn ich jetzt meine Oma,
+
+00:28:51.950 --> 00:28:52.950
+die ist schon lange tot,
+
+00:28:52.950 --> 00:28:53.950
+fragen würde,
+
+00:28:53.950 --> 00:28:56.010
+wie oft sich für die die Welt
+
+00:28:56.010 --> 00:28:57.010
+mit zwei Weltkriegen
+
+00:28:57.010 --> 00:28:58.010
+und ich weiß nicht,
+
+00:28:58.010 --> 00:28:59.010
+was allem geändert hat.
+
+00:28:59.010 --> 00:29:00.010
+Hast du das auch?
+
+00:29:00.010 --> 00:29:01.010
+Das ist ja dieses kurzzyklischere.
+
+00:29:01.010 --> 00:29:03.010
+Wir sind ja wirklich immer schnell.
+
+00:29:03.010 --> 00:29:04.100
+Hast du Unternehmen,
+
+00:29:04.100 --> 00:29:05.100
+die schießen hoch,
+
+00:29:05.100 --> 00:29:06.100
+dann ist es doch nichts.
+
+00:29:06.100 --> 00:29:07.100
+Bestehende Unternehmen,
+
+00:29:07.100 --> 00:29:09.100
+das siehst du in Deutschland ja
+
+00:29:09.100 --> 00:29:10.100
+gerade sehr stark,
+
+00:29:10.100 --> 00:29:12.480
+der klassische deutsche Maschinenbau,
+
+00:29:12.480 --> 00:29:13.480
+mit den meisten,
+
+00:29:13.480 --> 00:29:14.480
+mit denen du dich unterhältst,
+
+00:29:14.480 --> 00:29:15.480
+die machen sich große Sorgen
+
+00:29:15.480 --> 00:29:16.830
+um die Zukunft.
+
+00:29:16.830 --> 00:29:18.830
+Und da brauchst du halt auch Methoden,
+
+00:29:18.830 --> 00:29:20.830
+wie du zum einen als Unternehmen
+
+00:29:20.830 --> 00:29:22.830
+schnell einen Wandel hinkriegst,
+
+00:29:22.830 --> 00:29:23.830
+weil kontinuierliche Verbesserung
+
+00:29:23.830 --> 00:29:24.830
+ist ja, sag ich mal,
+
+00:29:24.830 --> 00:29:25.830
+was langsamer.
+
+00:29:25.830 --> 00:29:26.950
+Aber du hast ja schon
+
+00:29:26.950 --> 00:29:27.950
+in dem Methodenkoffer
+
+00:29:27.950 --> 00:29:28.950
+der agilen Sachen
+
+00:29:28.950 --> 00:29:30.950
+schnelle Reaktionsmöglichkeiten
+
+00:29:30.950 --> 00:29:33.950
+und dann hast du aber auch Mitarbeiter.
+
+00:29:33.950 --> 00:29:36.950
+Manche sämen sich nach einer Sicherheit.
+
+00:29:36.950 --> 00:29:37.950
+Also die brauchen einfach
+
+00:29:37.950 --> 00:29:38.950
+so eine Beständigkeit
+
+00:29:38.950 --> 00:29:41.110
+und dann hast du welche,
+
+00:29:41.110 --> 00:29:42.110
+denen ist das egaler.
+
+00:29:42.110 --> 00:29:43.110
+Und dann musst du halt auch
+
+00:29:43.110 --> 00:29:44.110
+so ein bisschen schauen,
+
+00:29:44.110 --> 00:29:46.110
+wo du die Leute einsetzt.
+
+00:29:46.110 --> 00:29:48.290
+Und weil sonst hast du
+
+00:29:48.290 --> 00:29:49.290
+einen riesen Impact
+
+00:29:49.290 --> 00:29:51.290
+auf deren persönliche Resilienz,
+
+00:29:51.290 --> 00:29:54.380
+ihr ganzes Leben irgendwo.
+
+00:29:54.380 --> 00:29:57.740
+Und ich finde,
+
+00:29:57.740 --> 00:29:58.740
+das ist ganz interessant.
+
+00:29:58.740 --> 00:29:59.740
+Also ich habe mal vor Jahren
+
+00:29:59.740 --> 00:30:01.800
+auch im Mittelstand
+
+00:30:01.800 --> 00:30:04.180
+bei einem produzierenden Unternehmen
+
+00:30:04.180 --> 00:30:06.180
+klassische Fertigungen,
+
+00:30:06.180 --> 00:30:08.180
+Mitarbeiter oder Mitarbeiterinnen,
+
+00:30:08.180 --> 00:30:10.340
+meistens waren es Mitarbeiterinnen,
+
+00:30:10.340 --> 00:30:13.340
+haben Schritte des Produktes gefertigt,
+
+00:30:13.340 --> 00:30:14.340
+die eine Kiste getan,
+
+00:30:14.340 --> 00:30:15.340
+die hatten ihren eigenen Platz,
+
+00:30:15.340 --> 00:30:16.340
+ihre eigenen Werkzeuge
+
+00:30:16.340 --> 00:30:17.340
+und dann hat die Nächste
+
+00:30:17.340 --> 00:30:18.340
+irgendwann die Kiste genommen
+
+00:30:18.340 --> 00:30:19.340
+und hat da wieder was mitgemacht.
+
+00:30:19.340 --> 00:30:20.340
+Also du hast einen
+
+00:30:20.340 --> 00:30:22.430
+recht langen Weg gehabt,
+
+00:30:22.430 --> 00:30:24.350
+bis das Produkt durchgelaufen ist.
+
+00:30:24.350 --> 00:30:26.390
+Und wir haben das
+
+00:30:26.390 --> 00:30:28.390
+in einer Inselfertigung,
+
+00:30:28.390 --> 00:30:29.390
+also so eine U-Form.
+
+00:30:29.390 --> 00:30:31.450
+Du fängst am ersten Schritt an,
+
+00:30:31.450 --> 00:30:32.450
+hast alle Teile vorrätig
+
+00:30:32.450 --> 00:30:33.450
+und gehst dann
+
+00:30:33.450 --> 00:30:34.450
+von Arbeitsstation
+
+00:30:34.450 --> 00:30:35.450
+zu Arbeitsstation,
+
+00:30:35.450 --> 00:30:36.450
+bis das Ding am Ende
+
+00:30:36.450 --> 00:30:38.540
+eingepackt und versandfertig ist.
+
+00:30:38.540 --> 00:30:40.540
+Das ist ein totaler Change.
+
+00:30:40.540 --> 00:30:41.660
+Du musst es einmal
+
+00:30:41.660 --> 00:30:45.070
+technisch irgendwie hinbekommen
+
+00:30:45.070 --> 00:30:47.070
+und du musst aber auch irgendwie
+
+00:30:47.070 --> 00:30:50.290
+schnell diesen Wandel hinbekommen.
+
+00:30:50.290 --> 00:30:52.290
+Und da haben wir es nicht agil genannt,
+
+00:30:52.290 --> 00:30:53.290
+aber was haben wir gemacht?
+
+00:30:53.290 --> 00:30:56.760
+Wir haben mit einem interdisziplinären Team,
+
+00:30:56.760 --> 00:30:57.760
+also da war auch der Vertrieb,
+
+00:30:57.760 --> 00:30:58.760
+da waren alle dabei,
+
+00:30:58.760 --> 00:30:59.760
+die Mitarbeiterinnen
+
+00:30:59.760 --> 00:31:00.760
+haben uns das halt vorgemacht.
+
+00:31:00.760 --> 00:31:02.790
+Und wir haben dann geguckt,
+
+00:31:02.790 --> 00:31:03.790
+okay, welche Schritte gibt es,
+
+00:31:03.790 --> 00:31:04.790
+um das Produkt zu fertigen?
+
+00:31:04.790 --> 00:31:06.880
+Haben das dann in Pappe
+
+00:31:06.880 --> 00:31:07.940
+in Arbeitsstationen gebaut,
+
+00:31:07.940 --> 00:31:09.940
+also wirklich in Pappe.
+
+00:31:09.940 --> 00:31:10.940
+Das fanden dann manche
+
+00:31:10.940 --> 00:31:11.940
+auch nicht so cool.
+
+00:31:11.940 --> 00:31:13.940
+Wir sind ja nicht beim Basteln.
+
+00:31:13.940 --> 00:31:14.970
+Das hat aber den Vorteil,
+
+00:31:14.970 --> 00:31:16.970
+du konntest dir wirklich vorstellen,
+
+00:31:16.970 --> 00:31:19.120
+wie diese neue Produktionsweise
+
+00:31:19.120 --> 00:31:21.120
+am Ende aussieht.
+
+00:31:21.120 --> 00:31:22.120
+Du hast dann auch wirklich
+
+00:31:22.120 --> 00:31:23.120
+so einen Schrauber
+
+00:31:23.120 --> 00:31:24.120
+einfach aus Pappe nachgebaut
+
+00:31:24.120 --> 00:31:25.120
+und so, dass man das
+
+00:31:25.120 --> 00:31:26.120
+so einmal vorführen kann.
+
+00:31:26.120 --> 00:31:27.080
+Und das haben wir dann
+
+00:31:27.080 --> 00:31:28.080
+am Ende der Woche,
+
+00:31:28.080 --> 00:31:29.080
+das war auch im Prinzip
+
+00:31:29.080 --> 00:31:30.080
+eine Sprintlogik,
+
+00:31:30.080 --> 00:31:33.080
+dem Management-Team vorgestellt.
+
+00:31:33.080 --> 00:31:34.080
+Und dann haben die ihr Go gegeben.
+
+00:31:34.080 --> 00:31:36.080
+Das ist ein Review eigentlich.
+
+00:31:36.080 --> 00:31:37.080
+Und dann haben wir das
+
+00:31:37.080 --> 00:31:38.080
+nach und nach
+
+00:31:38.080 --> 00:31:39.080
+interaktiv aufgebaut
+
+00:31:39.080 --> 00:31:40.080
+innerhalb von,
+
+00:31:40.080 --> 00:31:41.080
+ich weiß gar nicht,
+
+00:31:41.080 --> 00:31:42.080
+drei Monaten oder sowas
+
+00:31:42.080 --> 00:31:43.080
+und immer nur nebenbei,
+
+00:31:43.080 --> 00:31:44.080
+also immer mal mit einer Woche
+
+00:31:44.080 --> 00:31:45.080
+oder drei Tagen,
+
+00:31:45.080 --> 00:31:46.080
+wo dann nur
+
+00:31:46.080 --> 00:31:47.080
+da dran gearbeitet worden ist
+
+00:31:47.080 --> 00:31:48.080
+und nach drei Monaten
+
+00:31:48.080 --> 00:31:49.080
+war das Ding fertig.
+
+00:31:49.080 --> 00:31:50.230
+Komplett andere Art,
+
+00:31:50.230 --> 00:31:51.230
+was zu fertigen.
+
+00:31:51.230 --> 00:31:52.250
+Für die Mitarbeiter
+
+00:31:52.250 --> 00:31:54.250
+ein Riesenthema,
+
+00:31:54.250 --> 00:31:56.570
+weil die statt Sitzen
+
+00:31:56.570 --> 00:31:57.570
+und eigener Platz
+
+00:31:57.570 --> 00:31:58.570
+verschiedene Plätze,
+
+00:31:58.570 --> 00:31:59.570
+ich muss mich gleichzeitig bewegen
+
+00:31:59.570 --> 00:32:00.570
+und und und.
+
+00:32:00.570 --> 00:32:03.660
+Da musst du die auch ehrlich abholen.
+
+00:32:03.660 --> 00:32:05.840
+Alle haben es mitgestaltet
+
+00:32:05.840 --> 00:32:06.840
+und das ist
+
+00:32:06.840 --> 00:32:08.840
+eine agile Vorgehensweise.
+
+00:32:08.840 --> 00:32:10.840
+Das kriegst du so
+
+00:32:10.840 --> 00:32:11.840
+mit diesen Lean-Methoden
+
+00:32:11.840 --> 00:32:12.840
+nicht so hin,
+
+00:32:12.840 --> 00:32:13.790
+aber irgendwann hast du einen Punkt,
+
+00:32:13.790 --> 00:32:15.280
+wo du sagst,
+
+00:32:15.280 --> 00:32:16.280
+okay, jetzt haben wir das System stehen,
+
+00:32:16.280 --> 00:32:17.280
+das läuft stabil,
+
+00:32:17.280 --> 00:32:18.280
+jetzt ist es eher
+
+00:32:18.280 --> 00:32:19.280
+wieder so ein KVP-Ding.
+
+00:32:19.280 --> 00:32:20.280
+Jetzt können wir
+
+00:32:20.280 --> 00:32:21.280
+typische Lean-Sachen
+
+00:32:21.280 --> 00:32:22.280
+da reinbringen
+
+00:32:22.280 --> 00:32:23.280
+und das übergeben.
+
+00:32:23.280 --> 00:32:24.280
+Jetzt brauchen wir
+
+00:32:24.280 --> 00:32:25.280
+weder die Sprint-Logik
+
+00:32:25.280 --> 00:32:27.260
+noch diese Methoden mehr.
+
+00:32:27.260 --> 00:32:28.340
+Und das, finde ich,
+
+00:32:28.340 --> 00:32:29.340
+zeigt so ganz gut,
+
+00:32:29.340 --> 00:32:31.340
+wo du was mitmachen kannst.
+
+00:32:31.340 --> 00:32:35.540
+Vielleicht jetzt
+
+00:32:35.540 --> 00:32:36.540
+ohne zu
+
+00:32:36.540 --> 00:32:37.540
+philosophisch zu werden
+
+00:32:37.540 --> 00:32:38.540
+als Hersteller,
+
+00:32:38.540 --> 00:32:39.540
+aber ist am Ende des Tages
+
+00:32:39.540 --> 00:32:40.540
+das Ganze nicht
+
+00:32:40.540 --> 00:32:41.540
+wirklich so,
+
+00:32:41.540 --> 00:32:42.540
+dass wir uns
+
+00:32:42.540 --> 00:32:43.540
+sehr, sehr viele Tools
+
+00:32:43.540 --> 00:32:44.560
+drum umbauen,
+
+00:32:44.560 --> 00:32:45.560
+um eigentlich
+
+00:32:45.560 --> 00:32:46.560
+mit dem Thema
+
+00:32:46.560 --> 00:32:47.560
+Wandel
+
+00:32:47.560 --> 00:32:48.560
+und der Komplexität
+
+00:32:48.560 --> 00:32:49.560
+und Überforderung,
+
+00:32:49.560 --> 00:32:50.560
+die man mit einhergeht,
+
+00:32:50.560 --> 00:32:51.560
+zurecht zu kommen.
+
+00:32:52.590 --> 00:32:53.550
+Und auch das,
+
+00:32:53.550 --> 00:32:54.550
+was du gesagt hast.
+
+00:32:54.550 --> 00:32:55.550
+Also ich glaube,
+
+00:32:55.550 --> 00:32:56.550
+wenn man Leute fragt,
+
+00:32:56.550 --> 00:32:57.550
+die wirklich schon älter sind,
+
+00:32:57.550 --> 00:32:59.550
+die sagen,
+
+00:32:59.550 --> 00:33:00.550
+die hatten
+
+00:33:00.550 --> 00:33:01.550
+die gleichen Schäden.
+
+00:33:01.550 --> 00:33:02.550
+Also alles hat sich
+
+00:33:02.550 --> 00:33:03.550
+verändert
+
+00:33:03.550 --> 00:33:04.550
+in unserer Jugend
+
+00:33:04.550 --> 00:33:05.550
+so stark,
+
+00:33:05.550 --> 00:33:06.550
+ob das Bildungssystem,
+
+00:33:06.550 --> 00:33:07.550
+Regiebung,
+
+00:33:07.550 --> 00:33:08.550
+wirklich Wirtschaft
+
+00:33:08.550 --> 00:33:09.550
+oder sonst irgendwas angeht.
+
+00:33:09.550 --> 00:33:10.550
+Ich glaube,
+
+00:33:10.550 --> 00:33:11.550
+dass die Geschwindigkeit
+
+00:33:11.550 --> 00:33:12.550
+gar nicht schneller geworden ist,
+
+00:33:12.550 --> 00:33:13.550
+sondern plötzlich,
+
+00:33:13.550 --> 00:33:14.510
+dass die
+
+00:33:14.510 --> 00:33:15.510
+Überforderung
+
+00:33:15.510 --> 00:33:16.510
+eigentlich um das drumrum,
+
+00:33:16.510 --> 00:33:17.510
+also ich glaube,
+
+00:33:17.510 --> 00:33:18.510
+die Welt
+
+00:33:18.510 --> 00:33:19.510
+war für die Leute kleiner
+
+00:33:19.510 --> 00:33:20.510
+und deswegen hat man
+
+00:33:20.510 --> 00:33:21.510
+das immer für sich selber
+
+00:33:21.510 --> 00:33:22.510
+irgendwie gehabt,
+
+00:33:22.510 --> 00:33:23.510
+aber jetzt sieht man das halt
+
+00:33:23.510 --> 00:33:25.610
+komplett um sich rum,
+
+00:33:25.610 --> 00:33:26.610
+wie schnell sich alles
+
+00:33:26.610 --> 00:33:27.610
+um einem herum wandelt
+
+00:33:27.610 --> 00:33:28.610
+und dementsprechend
+
+00:33:28.610 --> 00:33:29.610
+gibt es halt immer mehr
+
+00:33:29.610 --> 00:33:30.610
+dieser Methodiken,
+
+00:33:30.610 --> 00:33:32.770
+um das zu
+
+00:33:32.770 --> 00:33:33.770
+zu
+
+00:33:33.770 --> 00:33:34.790
+managen
+
+00:33:34.790 --> 00:33:35.790
+oder irgendwie
+
+00:33:35.790 --> 00:33:36.790
+gut mit den Leuten
+
+00:33:36.790 --> 00:33:37.790
+zu verbinden.
+
+00:33:37.790 --> 00:33:39.750
+Plus,
+
+00:33:39.750 --> 00:33:39.850
+du hast dann
+
+00:33:39.750 --> 00:33:42.000
+einen riesigen Beratermarkt.
+
+00:33:42.000 --> 00:33:43.000
+Also alles,
+
+00:33:43.000 --> 00:33:44.000
+was sich zertifizieren lässt,
+
+00:33:44.000 --> 00:33:45.000
+da ist ja ein riesen Geschäftsmodell
+
+00:33:45.000 --> 00:33:46.000
+meistens hinter
+
+00:33:46.000 --> 00:33:47.320
+und
+
+00:33:47.320 --> 00:33:48.320
+dann geht das natürlich
+
+00:33:48.320 --> 00:33:49.320
+sofort hoch.
+
+00:33:49.320 --> 00:33:50.320
+Das siehst du im Augenblick
+
+00:33:50.320 --> 00:33:52.320
+beim KI-Thema
+
+00:33:52.320 --> 00:33:53.570
+sehr stark,
+
+00:33:53.570 --> 00:33:54.570
+wie viele da auf den Zug
+
+00:33:54.570 --> 00:33:56.570
+aufspringen
+
+00:33:56.570 --> 00:33:57.570
+und
+
+00:33:57.570 --> 00:33:59.820
+ja,
+
+00:33:59.820 --> 00:34:00.820
+das ist einfach so.
+
+00:34:00.820 --> 00:34:02.260
+Und das ist immer das Augenmaß,
+
+00:34:02.260 --> 00:34:03.260
+was du brauchst.
+
+00:34:03.260 --> 00:34:04.260
+Welche Methode
+
+00:34:04.260 --> 00:34:05.260
+passt jetzt zu dem Problem?
+
+00:34:05.260 --> 00:34:06.260
+Wie kann ich den
+
+00:34:06.260 --> 00:34:07.480
+Mitarbeitern
+
+00:34:07.480 --> 00:34:08.480
+Sicherheit geben?
+
+00:34:08.480 --> 00:34:09.480
+Wie kann ich eine Struktur
+
+00:34:09.480 --> 00:34:10.610
+erstellen,
+
+00:34:10.610 --> 00:34:11.610
+dass man wirklich
+
+00:34:11.610 --> 00:34:12.610
+fokussiert an seinem
+
+00:34:12.610 --> 00:34:13.610
+Thema arbeitet
+
+00:34:13.610 --> 00:34:14.610
+und sich auch nicht
+
+00:34:14.610 --> 00:34:15.610
+in 10.000 Themen verliert?
+
+00:34:15.610 --> 00:34:16.610
+Weil das passiert immer schnell.
+
+00:34:16.610 --> 00:34:20.160
+Das ist wahrscheinlich
+
+00:34:20.160 --> 00:34:21.160
+auch dann,
+
+00:34:21.160 --> 00:34:22.160
+warum Scrum
+
+00:34:22.160 --> 00:34:23.160
+gerade so ein bisschen
+
+00:34:23.160 --> 00:34:24.160
+verbrannt ist.
+
+00:34:24.160 --> 00:34:25.160
+Es wurde ja auch gesagt,
+
+00:34:25.160 --> 00:34:26.160
+es ist tot,
+
+00:34:26.160 --> 00:34:27.160
+Scrum ist das oder was.
+
+00:34:28.160 --> 00:34:29.160
+weil dann halt
+
+00:34:29.160 --> 00:34:31.160
+das einfach drüber gestülpt wurde,
+
+00:34:31.160 --> 00:34:32.160
+ohne zu schauen,
+
+00:34:32.160 --> 00:34:33.160
+okay,
+
+00:34:33.160 --> 00:34:34.160
+vielleicht wurde irgendwie gesagt,
+
+00:34:34.160 --> 00:34:35.160
+okay,
+
+00:34:35.160 --> 00:34:36.160
+wir müssen das so und so machen,
+
+00:34:36.160 --> 00:34:37.160
+dann machen sie es so,
+
+00:34:37.160 --> 00:34:38.160
+weil das für das Team vielleicht gar keinen Sinn macht
+
+00:34:38.160 --> 00:34:40.160
+und das gar nicht so anpassen,
+
+00:34:40.160 --> 00:34:42.120
+vielleicht auch die Erfahrung nicht haben.
+
+00:34:42.120 --> 00:34:43.120
+Wir hatten mal,
+
+00:34:43.120 --> 00:34:45.120
+jemand im Podcast hat nämlich gesagt,
+
+00:34:45.120 --> 00:34:48.950
+dass das Agilste wäre eigentlich,
+
+00:34:48.950 --> 00:34:49.950
+wenn das Team selbst entscheidet,
+
+00:34:49.950 --> 00:34:50.950
+wie sie arbeiten wollen.
+
+00:34:51.950 --> 00:34:52.950
+Auch wenn sie dann sagen,
+
+00:34:52.950 --> 00:34:56.950
+wir wollen nach Wasserfall arbeiten,
+
+00:34:56.950 --> 00:34:58.950
+dass das dann schon agil wäre,
+
+00:34:58.950 --> 00:34:59.950
+weil sie das so gesagt haben,
+
+00:34:59.950 --> 00:35:00.950
+okay,
+
+00:35:00.950 --> 00:35:02.950
+das ist das Beste für uns als Team,
+
+00:35:02.950 --> 00:35:03.950
+wie wir daran arbeiten.
+
+00:35:03.950 --> 00:35:05.270
+Ja, total.
+
+00:35:05.270 --> 00:35:08.270
+Und auch der Wasserfall war ursprünglich anders gemeint.
+
+00:35:08.270 --> 00:35:09.270
+Du hast immer einen Haltepunkt,
+
+00:35:09.270 --> 00:35:10.270
+wo du dann guckst,
+
+00:35:10.270 --> 00:35:11.270
+was du machst,
+
+00:35:11.270 --> 00:35:12.270
+weil du musst es ja irgendwie strukturieren.
+
+00:35:12.270 --> 00:35:14.780
+Aber am Ende des Tages,
+
+00:35:14.780 --> 00:35:16.780
+wenn das Ergebnis stimmt,
+
+00:35:16.780 --> 00:35:19.290
+passt das ja.
+
+00:35:19.290 --> 00:35:25.550
+Ich würde noch so ein bisschen zum Liegen.
+
+00:35:25.550 --> 00:35:26.550
+Kannst du vielleicht mal so ein,
+
+00:35:26.550 --> 00:35:28.540
+zwei Methoden aus dem Lean?
+
+00:35:28.540 --> 00:35:30.540
+Vielleicht hast du deine Lieblingsmethoden
+
+00:35:30.540 --> 00:35:31.540
+aus Lean.
+
+00:35:31.540 --> 00:35:32.540
+Gibt es da was?
+
+00:35:32.540 --> 00:35:33.540
+Dass man so ein bisschen mehr weiß,
+
+00:35:33.540 --> 00:35:34.540
+okay,
+
+00:35:34.540 --> 00:35:35.540
+was steckt denn da so hinter?
+
+00:35:35.540 --> 00:35:37.300
+Ja, das ist,
+
+00:35:37.300 --> 00:35:38.300
+also was mir immer sehr geholfen hat,
+
+00:35:38.300 --> 00:35:40.290
+ist die Wertstromanalyse.
+
+00:35:40.290 --> 00:35:43.610
+Das ist ein großes Thema.
+
+00:35:43.610 --> 00:35:45.600
+Das hilft dir einfach relativ schnell,
+
+00:35:45.600 --> 00:35:47.600
+dir eine Firma oder einen Prozess anzuschauen.
+
+00:35:47.600 --> 00:35:48.600
+Also ich habe zum Beispiel,
+
+00:35:48.600 --> 00:35:49.600
+wir haben Unternehmen gekauft
+
+00:35:49.600 --> 00:35:51.980
+und es sollte,
+
+00:35:51.980 --> 00:35:53.980
+die hatten irgendwie ein Lieferzeitproblem
+
+00:35:53.980 --> 00:35:56.420
+und ja,
+
+00:35:56.420 --> 00:35:57.410
+woran liegt das?
+
+00:35:57.410 --> 00:35:59.440
+So und dann stehst du da natürlich erstmal,
+
+00:35:59.440 --> 00:36:00.820
+keine Ahnung,
+
+00:36:00.820 --> 00:36:01.820
+ich kenne die Firma nicht,
+
+00:36:01.820 --> 00:36:03.820
+ich muss da hinreisen,
+
+00:36:03.820 --> 00:36:04.820
+wie kriege ich mir da,
+
+00:36:04.820 --> 00:36:05.820
+wie kriege ich das schnell hin,
+
+00:36:05.820 --> 00:36:06.820
+deinen Überblick zu erschaffen?
+
+00:36:06.820 --> 00:36:08.820
+Und da ist so diese Wertstromanalyse total gut.
+
+00:36:08.820 --> 00:36:11.010
+Wenn du es jetzt auf Fabrikebene siehst,
+
+00:36:11.010 --> 00:36:12.010
+du hast am Ende
+
+00:36:12.010 --> 00:36:13.000
+ein Teil
+
+00:36:13.000 --> 00:36:17.020
+und davor stecken ja verschiedene Produktionsprozesse.
+
+00:36:17.020 --> 00:36:20.310
+Und du gehst quasi an die Auslieferrampe
+
+00:36:20.310 --> 00:36:22.310
+und gehst dann halt Schritt für Schritt zurück
+
+00:36:22.310 --> 00:36:24.310
+und guckst dir diesen ganzen Prozess an.
+
+00:36:24.310 --> 00:36:25.410
+Und dann gibt es halt einen Standard,
+
+00:36:25.410 --> 00:36:27.410
+wie du das darstellen kannst
+
+00:36:27.410 --> 00:36:29.600
+und dann hast du halt wirklich schnell
+
+00:36:29.600 --> 00:36:30.600
+einen Überblick,
+
+00:36:30.600 --> 00:36:31.600
+was da passiert ist.
+
+00:36:31.600 --> 00:36:34.600
+Also du nimmst die einzelnen Prozessschritte,
+
+00:36:34.600 --> 00:36:35.780
+guckst, was wird da gemacht,
+
+00:36:35.780 --> 00:36:37.780
+wie viele Personen sind da dran beteiligt,
+
+00:36:37.780 --> 00:36:39.780
+gibt es so ein paar Kennzahlen,
+
+00:36:39.780 --> 00:36:41.730
+das kannst du dir aber auch customisen.
+
+00:36:41.730 --> 00:36:44.790
+Und das funktioniert übrigens auch
+
+00:36:44.790 --> 00:36:46.790
+für Verwaltungsprozesse.
+
+00:36:46.790 --> 00:36:48.770
+Dann nennen wir das dann Service Strom,
+
+00:36:48.770 --> 00:36:49.910
+weil du hast ja auch,
+
+00:36:49.910 --> 00:36:51.910
+wenn, keine Ahnung, ein Zeugnis erstellt wird,
+
+00:36:51.910 --> 00:36:54.910
+stehen da bestimmte Schritte vor.
+
+00:36:54.910 --> 00:36:56.910
+Wenn ein Arbeitsvertrag ausgestellt wird,
+
+00:36:56.910 --> 00:36:57.910
+stehen da bestimmte Schritte vor.
+
+00:36:57.910 --> 00:36:59.910
+Und dann gehst du einfach diese Schritte durch,
+
+00:36:59.910 --> 00:37:01.910
+hast eine Box für die einzelnen Schritte
+
+00:37:01.910 --> 00:37:03.910
+und was sehr wichtig ist,
+
+00:37:03.910 --> 00:37:04.910
+du schaust einfach,
+
+00:37:04.910 --> 00:37:05.910
+wie lange dauert der Gesamtprozess,
+
+00:37:05.910 --> 00:37:07.910
+also von Auftrag bis das Ergebnis ist da.
+
+00:37:07.910 --> 00:37:10.200
+Wenn wir jetzt beim Arbeitsvertrag bleiben,
+
+00:37:10.200 --> 00:37:12.200
+da hast du irgendwann ein Ja, ich möchte,
+
+00:37:12.200 --> 00:37:13.450
+dann wird er erstellt
+
+00:37:13.450 --> 00:37:17.450
+und irgendwann hat der Kunde,
+
+00:37:17.450 --> 00:37:18.450
+also Kunde,
+
+00:37:18.450 --> 00:37:21.830
+der potenzielle neue Mitarbeiter hat den bei sich
+
+00:37:21.830 --> 00:37:22.830
+und dann schaust du halt,
+
+00:37:22.830 --> 00:37:23.830
+was ist wertschöpfend daran
+
+00:37:23.830 --> 00:37:24.830
+und was kann vielleicht wegbleiben.
+
+00:37:24.830 --> 00:37:26.960
+Also bei mir war das mal so,
+
+00:37:26.960 --> 00:37:28.990
+ich brauchte den Arbeitsvertrag sehr dringend,
+
+00:37:28.990 --> 00:37:30.990
+weil ich wollte mich definitiv entscheiden.
+
+00:37:30.990 --> 00:37:33.230
+Wertschöpfend ist immer das,
+
+00:37:33.230 --> 00:37:35.230
+was mir wirklich einen Nutzen bringt
+
+00:37:35.230 --> 00:37:37.230
+und was ist das,
+
+00:37:37.230 --> 00:37:39.230
+wo ich drauf achte,
+
+00:37:39.230 --> 00:37:41.190
+also könnt ihr mir jetzt mal beantworten,
+
+00:37:41.190 --> 00:37:43.290
+als quasi Kunde,
+
+00:37:43.290 --> 00:37:45.290
+was ist für mich das,
+
+00:37:45.290 --> 00:37:46.290
+wo ich drauf warte,
+
+00:37:46.290 --> 00:37:50.910
+worauf gucke ich bei dem Arbeitsvertrag,
+
+00:37:50.910 --> 00:37:55.370
+wenn die Post mir den dann geschickt hat.
+
+00:37:55.370 --> 00:37:56.370
+Das ist ganz klassisch,
+
+00:37:56.370 --> 00:37:57.370
+also die Konditionen, die drin sind,
+
+00:37:57.370 --> 00:37:59.370
+die für mich halt wichtig sind.
+
+00:37:59.370 --> 00:38:00.370
+Die weiß ich vorher schon.
+
+00:38:00.370 --> 00:38:01.390
+Konditionen,
+
+00:38:01.390 --> 00:38:03.390
+so habe ich ja vorher alles schon besprochen.
+
+00:38:03.390 --> 00:38:05.390
+Okay, dann ist es tatsächlich die Sicherheit,
+
+00:38:05.390 --> 00:38:06.390
+es überhaupt zu haben,
+
+00:38:06.390 --> 00:38:07.390
+diese Schriftform.
+
+00:38:07.390 --> 00:38:10.390
+also wirklich dieses unterschriebene Papier zu haben.
+
+00:38:10.390 --> 00:38:11.390
+Also dieses,
+
+00:38:11.390 --> 00:38:12.390
+dieses wirklich,
+
+00:38:12.390 --> 00:38:13.390
+dieses Commitment.
+
+00:38:13.390 --> 00:38:14.800
+Die Unterschrift ist der Punkt.
+
+00:38:14.800 --> 00:38:15.800
+Also ich will,
+
+00:38:15.800 --> 00:38:16.800
+ich will das Ding unterschrieben
+
+00:38:16.800 --> 00:38:17.800
+zu Hause haben,
+
+00:38:17.800 --> 00:38:18.800
+Konditionen und so
+
+00:38:18.800 --> 00:38:19.800
+habe ich vorher alles schon verhandelt.
+
+00:38:19.800 --> 00:38:21.960
+Und das hat halt relativ lange gedauert
+
+00:38:21.960 --> 00:38:22.960
+und dann habe ich geschaut,
+
+00:38:22.960 --> 00:38:23.960
+okay,
+
+00:38:23.960 --> 00:38:26.080
+da war noch ein Anstreiten bei.
+
+00:38:26.080 --> 00:38:28.460
+Hier ist Ihr Vertrag,
+
+00:38:28.460 --> 00:38:30.460
+irgendwas war jetzt nicht relevant
+
+00:38:30.460 --> 00:38:32.580
+und das war eine Woche jünger.
+
+00:38:32.580 --> 00:38:33.890
+Also das heißt,
+
+00:38:33.890 --> 00:38:35.890
+ihr habt eine Woche auf dieses Anstreiten.
+
+00:38:35.890 --> 00:38:36.860
+Ich hätte eigentlich das,
+
+00:38:36.860 --> 00:38:37.860
+was ich haben wollte,
+
+00:38:37.860 --> 00:38:40.780
+den unterschriebenen Vertrag schon eine Woche vorher haben können.
+
+00:38:40.780 --> 00:38:41.830
+Und das ist so,
+
+00:38:41.830 --> 00:38:42.830
+das kannst du dir halt ganz gut
+
+00:38:42.830 --> 00:38:45.830
+anhand dieser Wertstromanalyse anschauen
+
+00:38:45.830 --> 00:38:47.820
+und du kriegst halt wahnsinnig schnell ein Bild,
+
+00:38:47.820 --> 00:38:48.820
+wie das Unternehmen aussieht.
+
+00:38:48.820 --> 00:38:51.820
+So Value Stream Mapping ist da das Stichwort.
+
+00:38:51.820 --> 00:38:53.840
+Und so kannst du dir immer Prozesse angucken.
+
+00:38:53.840 --> 00:38:54.840
+Dann schaust du halt,
+
+00:38:54.840 --> 00:38:55.840
+wie lange dauert die Gesamtdauer
+
+00:38:55.840 --> 00:38:57.840
+und wie lange dauern die einzelnen Schritte.
+
+00:38:57.840 --> 00:39:00.840
+Und da habt ihr meistens eine riesen Differenz zwischen,
+
+00:39:00.840 --> 00:39:03.060
+weil diese Gesamtdurchlaufzeit
+
+00:39:03.060 --> 00:39:05.980
+ist immer länger als die Wertschöpfung.
+
+00:39:05.980 --> 00:39:08.570
+Und dazwischen hast du dann je nachdem noch Lager,
+
+00:39:08.570 --> 00:39:09.570
+kommt immer darauf an,
+
+00:39:09.570 --> 00:39:10.570
+was du dir jetzt anguckst.
+
+00:39:10.570 --> 00:39:12.570
+Liegt das jetzt in irgendeinem Bereich noch
+
+00:39:12.570 --> 00:39:14.570
+oder liegt das Bergstück,
+
+00:39:14.570 --> 00:39:15.570
+wenn es dann was echtes ist,
+
+00:39:15.570 --> 00:39:16.570
+auf einem riesen Haufen,
+
+00:39:16.570 --> 00:39:18.570
+wird dann eine Ewigkeit abgearbeitet
+
+00:39:18.570 --> 00:39:20.570
+und dann kannst du schon wieder Implikationen stellen.
+
+00:39:20.570 --> 00:39:22.570
+Wenn da so ein riesen Bestand von der Maschine ist,
+
+00:39:22.570 --> 00:39:24.570
+wird die wahrscheinlich oft ausfallen.
+
+00:39:24.570 --> 00:39:29.850
+Und das hast du halt auch in administrativen Prozessen.
+
+00:39:29.850 --> 00:39:32.870
+Wunderbar, ne?
+
+00:39:32.870 --> 00:39:35.870
+Also das reiht sich ganz, ganz klassisch ja auch in dieses Thema
+
+00:39:35.870 --> 00:39:39.030
+Outcome versus Output ein.
+
+00:39:39.030 --> 00:39:41.030
+Also du kannst ja unheimlich beschäftigt sein
+
+00:39:41.030 --> 00:39:42.030
+und unheimlich viel machen.
+
+00:39:42.030 --> 00:39:44.030
+Aber das, was da wirklich am Wert hinsteht,
+
+00:39:44.030 --> 00:39:46.030
+genau in deinem Beispiel ist ja,
+
+00:39:46.030 --> 00:39:47.030
+also das ist ja nicht so,
+
+00:39:47.030 --> 00:39:49.030
+als ob das irgendwo gelegen hat,
+
+00:39:49.030 --> 00:39:51.030
+sondern jemand hat dieses Anschreiben produziert.
+
+00:39:51.030 --> 00:39:55.030
+Das ist wahrscheinlich extra nochmal an eine andere Stelle gegangen,
+
+00:39:55.030 --> 00:39:56.030
+damit das passiert.
+
+00:39:56.030 --> 00:39:58.030
+Da waren wahrscheinlich nochmal Leute involviert,
+
+00:39:58.030 --> 00:40:01.030
+die vorher in dem Prozess nicht involviert waren,
+
+00:40:01.030 --> 00:40:05.030
+für etwas, was am Ende des Tages dafür erzeugt wurde,
+
+00:40:05.030 --> 00:40:08.030
+was für denjenigen, an denen das adressiert ist,
+
+00:40:08.030 --> 00:40:10.030
+einfach wirklich null Wert erzeugt hat.
+
+00:40:10.030 --> 00:40:15.030
+Also für dich wäre es in dem Moment natürlich komplett egal gewesen,
+
+00:40:15.030 --> 00:40:17.030
+wenn es ein grauer Briefumschlag gewesen wäre,
+
+00:40:17.030 --> 00:40:18.030
+der nur aufgemacht hat.
+
+00:40:18.030 --> 00:40:19.030
+Und da ist der unterschriebene Vertrag drin,
+
+00:40:19.030 --> 00:40:21.650
+damit ist die weltführliche in Ordnung.
+
+00:40:21.650 --> 00:40:23.960
+Und das kann auch oft ganz trivial sein.
+
+00:40:23.960 --> 00:40:26.960
+Also ich habe auch mal Maschinenrüstzeiten mir angeschaut,
+
+00:40:26.960 --> 00:40:28.960
+da kannst du meistens recht viel Zeit gewinnen,
+
+00:40:28.960 --> 00:40:32.960
+indem du Sachen auslagerst in die Zeit,
+
+00:40:32.960 --> 00:40:34.960
+wo die Maschine noch nicht stehen muss.
+
+00:40:34.960 --> 00:40:36.960
+Also die Maschine steht ja irgendwann, dann musst du umrüsten.
+
+00:40:36.960 --> 00:40:38.960
+Aber da kannst du schon mal dein Werkzeug parat haben.
+
+00:40:38.960 --> 00:40:40.920
+Du kannst das richtige Werkzeug haben.
+
+00:40:40.920 --> 00:40:42.920
+Du kannst von einer Schraubenkiste mit 1000 Schrauben
+
+00:40:42.920 --> 00:40:45.920
+gucken, wie viele Schraubentypen brauchen wir wirklich.
+
+00:40:45.920 --> 00:40:46.920
+Ja, wir brauchen 10 Stück.
+
+00:40:46.920 --> 00:40:48.920
+Dann machen wir 10 verschiedene Farben.
+
+00:40:48.920 --> 00:40:50.920
+Dann brauchst du noch nicht mal messen, welche die richtige ist,
+
+00:40:50.920 --> 00:40:51.920
+sondern du siehst es am Rüstplan.
+
+00:40:51.920 --> 00:40:55.920
+Also das ist oft, den Vorwurf hast du oft auch bei diesen Lean-Themen,
+
+00:40:55.920 --> 00:40:57.920
+das ist ja alles gesunder Menschenverstand.
+
+00:40:57.920 --> 00:40:59.980
+Es macht nur meistens niemand.
+
+00:40:59.980 --> 00:41:01.980
+Und da musst du auch oft mal einfach den Spiegel
+
+00:41:01.980 --> 00:41:06.980
+in einer sympathischen, authentischen Art den Leuten vorhalten.
+
+00:41:06.980 --> 00:41:07.980
+So, guck mal.
+
+00:41:07.980 --> 00:41:14.030
+Und da holst du mit bibialen Sachen auch oft große Effekte.
+
+00:41:14.030 --> 00:41:15.600
+Und das ist so.
+
+00:41:15.600 --> 00:41:18.600
+Also Value Stream Mapping, Gradstrom-Analyse, ganz großes Thema.
+
+00:41:18.600 --> 00:41:21.940
+Auch gerne in Kombination, wenn du dir jetzt,
+
+00:41:21.940 --> 00:41:22.940
+das ist jetzt kein Lean-Thema,
+
+00:41:22.940 --> 00:41:25.160
+wir haben aber bestimmt auch was für euren Podcast.
+
+00:41:25.160 --> 00:41:30.610
+Viable System Model ist ein super spannendes Thema,
+
+00:41:30.610 --> 00:41:32.610
+wo du dir anschaust, wie funktioniert eine Organisation wirklich.
+
+00:41:32.610 --> 00:41:36.580
+Weil das Organigramm bildet das nicht unbedingt ab.
+
+00:41:36.580 --> 00:41:38.580
+Und das nutze ich auch gerne.
+
+00:41:38.580 --> 00:41:40.580
+Das kann man für viele Sachen nutzen.
+
+00:41:40.580 --> 00:41:42.580
+Aber auch, um schnell einen Überblick zu bekommen,
+
+00:41:42.580 --> 00:41:44.580
+wie funktioniert das Unternehmen eigentlich?
+
+00:41:44.580 --> 00:41:46.490
+Und wo ist ein Defizit?
+
+00:41:46.490 --> 00:41:48.730
+Das ist wunderbar.
+
+00:41:48.730 --> 00:41:50.730
+Also auch, so wie du das erklärt, das auch Wertstrom-Analyse.
+
+00:41:50.730 --> 00:41:52.730
+Auch dieser Zusammenhang,
+
+00:41:52.730 --> 00:41:54.730
+das ist ja eigentlich logischer Menschenverstand.
+
+00:41:54.730 --> 00:41:56.730
+Das große Problem bei solchen Sachen ist oft,
+
+00:41:56.730 --> 00:41:58.730
+dass Dinge ja historisch gewachsen sind
+
+00:41:58.730 --> 00:42:00.730
+und Prozesse oder Abläufe so sind,
+
+00:42:00.730 --> 00:42:02.730
+weil man sie halt einfach schon lange gemacht hat.
+
+00:42:02.730 --> 00:42:04.730
+Aber solange da keiner drauf guckt und sagt,
+
+00:42:04.730 --> 00:42:06.730
+okay, ist das überhaupt noch so gedacht?
+
+00:42:06.730 --> 00:42:08.860
+Weil Dinge entstehen ja.
+
+00:42:08.860 --> 00:42:11.860
+Und wenn man Dinge heute bauen würde,
+
+00:42:11.860 --> 00:42:13.860
+im Vergleich von vor zehn Jahren,
+
+00:42:13.860 --> 00:42:15.860
+würde man sie ganz anders machen.
+
+00:42:15.860 --> 00:42:17.860
+Und ist es noch genauso wichtig,
+
+00:42:17.860 --> 00:42:19.860
+das genauso wie vor zehn Jahren zu machen?
+
+00:42:19.860 --> 00:42:21.860
+Oder sind da irgendwie schon fünf Schritte dabei?
+
+00:42:21.860 --> 00:42:23.860
+Oder Prozesse, wo du Dinge schon mal abkürzen
+
+00:42:23.860 --> 00:42:25.860
+und auch verändern kannst?
+
+00:42:25.860 --> 00:42:26.890
+Also wunderbar.
+
+00:42:26.890 --> 00:42:27.890
+Und ich glaube, dass man das tatsächlich auch,
+
+00:42:27.890 --> 00:42:29.890
+gerade so was wie eine Wertstromanalyse,
+
+00:42:29.890 --> 00:42:31.890
+auch viel, viel häufiger machen müsste,
+
+00:42:31.890 --> 00:42:36.030
+also so eine Art Retro für einen Prozess quasi,
+
+00:42:36.030 --> 00:42:40.110
+um da tatsächlich so ein bisschen Effizienz auch zu geben.
+
+00:42:40.110 --> 00:42:41.110
+Wobei ein bisschen ist gut.
+
+00:42:41.110 --> 00:42:44.330
+Ich glaube, dass da wirklich richtig,
+
+00:42:44.330 --> 00:42:48.800
+richtig viel Potenzial gerade in vielen Unternehmen steht.
+
+00:42:48.800 --> 00:42:50.800
+Ja, und das ist ja auch irgendwie logisch.
+
+00:42:50.800 --> 00:42:53.800
+Also wenn du jetzt deine Sache seit fünf Jahren immer machst,
+
+00:42:53.800 --> 00:42:54.800
+immer gleich,
+
+00:42:54.800 --> 00:42:56.800
+da sind wir wieder mit dem Thema Reflexion.
+
+00:42:56.800 --> 00:42:58.800
+Hast du die Zeit für eine Reflexion?
+
+00:42:58.800 --> 00:42:59.800
+Bekommst du die?
+
+00:42:59.800 --> 00:43:01.800
+Oder versuchst du einfach nur im Feuermodus
+
+00:43:01.800 --> 00:43:04.080
+alles immer wieder zu lösen?
+
+00:43:04.080 --> 00:43:08.140
+Das nimmt dir ja auch so den geistigen Raum oft,
+
+00:43:08.140 --> 00:43:11.330
+um da mal irgendwie drauf zu schauen.
+
+00:43:11.330 --> 00:43:12.330
+Und dann merkst du auch,
+
+00:43:12.330 --> 00:43:15.330
+dass manche Leute super aggressiv reagieren auf Anfragen.
+
+00:43:15.330 --> 00:43:19.550
+Und da kann man keinem eigentlich Vorwurf machen.
+
+00:43:19.550 --> 00:43:21.550
+Aber das ist wieder so dieses,
+
+00:43:21.550 --> 00:43:23.550
+da muss man mal die Möglichkeit haben,
+
+00:43:23.550 --> 00:43:25.550
+zurückzutreten einen Schritt
+
+00:43:25.550 --> 00:43:30.490
+und sich das mal anzuschauen.
+
+00:43:30.490 --> 00:43:32.490
+Wenn es so Zuhörenden,
+
+00:43:32.490 --> 00:43:36.680
+oder Zuhörende morgen anfangen wollen würden mit Agil,
+
+00:43:36.680 --> 00:43:39.680
+aber jetzt nicht, dass das halt stressig ist,
+
+00:43:39.680 --> 00:43:40.680
+was wir ja auch gesagt haben,
+
+00:43:40.680 --> 00:43:43.680
+sondern eher die Resilienz stärkt.
+
+00:43:43.680 --> 00:43:45.690
+Wir hatten ja schon mal so ein paar Punkte.
+
+00:43:45.690 --> 00:43:47.740
+Kannst du das vielleicht nochmal so zusammenfassen?
+
+00:43:47.740 --> 00:43:49.740
+Ist das einmal genau diese Retro,
+
+00:43:49.740 --> 00:43:51.740
+dass es auf jeden Fall diese Reflexion gibt?
+
+00:43:51.740 --> 00:43:54.150
+Oder was wäre noch so,
+
+00:43:54.150 --> 00:43:56.150
+wo müssen die noch mehr drauf achten,
+
+00:43:56.150 --> 00:43:58.180
+dass das nicht so stressvoll wird?
+
+00:43:58.180 --> 00:44:04.770
+Das hat sicherlich was mit der Firma Führungskraft,
+
+00:44:04.770 --> 00:44:05.770
+den Aufträgen zu tun.
+
+00:44:05.770 --> 00:44:07.760
+Also lebe ich das wirklich,
+
+00:44:07.760 --> 00:44:08.760
+was die Agilität mir sagt?
+
+00:44:08.760 --> 00:44:10.750
+Habe ich wirklich einen Backlog,
+
+00:44:10.750 --> 00:44:12.890
+was jetzt nicht ständig,
+
+00:44:12.890 --> 00:44:16.300
+was zwischengeschossen wird?
+
+00:44:16.300 --> 00:44:18.300
+Habe ich den Raum für eine Retro?
+
+00:44:18.300 --> 00:44:20.270
+Den muss ich mir nehmen.
+
+00:44:20.270 --> 00:44:21.270
+Ich muss aber auch einfordern,
+
+00:44:21.270 --> 00:44:22.170
+dass die Retro gut ist.
+
+00:44:22.170 --> 00:44:23.490
+Also das ist nicht einfach nur,
+
+00:44:23.490 --> 00:44:24.490
+wir klatschen da jetzt was hin,
+
+00:44:24.490 --> 00:44:25.490
+damit wir die gemacht haben.
+
+00:44:25.490 --> 00:44:27.490
+Und das gilt eigentlich für alle Methoden.
+
+00:44:27.490 --> 00:44:28.490
+Ist das ernst gemeint?
+
+00:44:28.490 --> 00:44:30.640
+Hilft uns das?
+
+00:44:30.640 --> 00:44:31.640
+Und habe ich die Möglichkeit,
+
+00:44:31.640 --> 00:44:32.640
+in den Dialog zu gehen?
+
+00:44:32.640 --> 00:44:34.800
+Ob das noch die richtige Methode ist
+
+00:44:34.800 --> 00:44:35.800
+oder ob wir was ändern
+
+00:44:35.800 --> 00:44:37.800
+oder ob ich mir mal jemanden holen kann,
+
+00:44:37.800 --> 00:44:41.110
+der einfach mal neutral von draußen drauf guckt?
+
+00:44:41.110 --> 00:44:43.110
+Das ist auch immer ein guter Rat.
+
+00:44:43.110 --> 00:44:44.110
+Funktioniert das überhaupt noch,
+
+00:44:44.110 --> 00:44:45.110
+was wir uns hier mal überlegt haben
+
+00:44:45.110 --> 00:44:47.110
+oder was wir machen mussten?
+
+00:44:47.110 --> 00:44:49.140
+Und dann brauchst du halt auch
+
+00:44:49.140 --> 00:44:50.140
+eine Unternehmenskultur,
+
+00:44:50.140 --> 00:44:52.140
+die das zulässt.
+
+00:44:52.140 --> 00:44:56.340
+Also ruhig über den Tellerrand schauen
+
+00:44:56.340 --> 00:44:58.340
+und auch ruhig mal jemanden von außen holen
+
+00:44:58.340 --> 00:45:00.290
+und das bewerten lassen.
+
+00:45:00.290 --> 00:45:03.630
+Aber das hatten wir auch mal
+
+00:45:03.630 --> 00:45:04.630
+einmal im Podcast
+
+00:45:04.630 --> 00:45:05.630
+zu Unlearning Hierarchy.
+
+00:45:05.630 --> 00:45:07.750
+Da ging es um Holokratie
+
+00:45:07.750 --> 00:45:08.750
+und wenn man so Holokratie
+
+00:45:08.750 --> 00:45:11.750
+in so einem normalen hierarchischen Unternehmen
+
+00:45:11.750 --> 00:45:12.750
+implementiert,
+
+00:45:12.750 --> 00:45:13.750
+dann verwirrt das
+
+00:45:13.750 --> 00:45:14.750
+und bringt das eher Stress.
+
+00:45:14.750 --> 00:45:15.750
+Und ich glaube,
+
+00:45:15.750 --> 00:45:16.750
+so ähnlich habe ich jetzt auch rausgehört,
+
+00:45:16.750 --> 00:45:18.750
+dieses, wenn das die Kultur nicht zulässt,
+
+00:45:18.750 --> 00:45:19.750
+dieses agile Arbeiten,
+
+00:45:19.750 --> 00:45:20.750
+wenn dann trotzdem
+
+00:45:20.750 --> 00:45:22.750
+eine Führungskraft im Backlog
+
+00:45:22.750 --> 00:45:23.750
+irgendwas priorisiert
+
+00:45:23.750 --> 00:45:25.750
+und nicht der Product Owner,
+
+00:45:25.750 --> 00:45:26.750
+dann dass das auch eher
+
+00:45:26.750 --> 00:45:27.750
+wieder dann zu Stress führt.
+
+00:45:27.750 --> 00:45:28.750
+Deswegen muss man vielleicht
+
+00:45:28.750 --> 00:45:29.780
+da dann anfangen
+
+00:45:29.780 --> 00:45:30.780
+oder je nachdem,
+
+00:45:30.780 --> 00:45:32.780
+wie die Kultur dann ist.
+
+00:45:32.780 --> 00:45:34.030
+Ja, also der Agilität
+
+00:45:34.030 --> 00:45:35.030
+kann man da eigentlich
+
+00:45:35.030 --> 00:45:37.030
+nicht den Generalvorwurf machen
+
+00:45:37.030 --> 00:45:39.030
+und das gilt für Lean genauso.
+
+00:45:39.030 --> 00:45:40.090
+Lean ist nicht klar,
+
+00:45:40.090 --> 00:45:41.090
+wir haben zu wenig Leute,
+
+00:45:41.090 --> 00:45:42.090
+um das zu machen,
+
+00:45:42.090 --> 00:45:44.090
+sondern es gibt auch eine Charta,
+
+00:45:44.090 --> 00:45:46.090
+das ist auch ganz interessant,
+
+00:45:46.090 --> 00:45:48.090
+auch wieder der Mike Rotha selber Autor,
+
+00:45:48.090 --> 00:45:50.220
+wie bei der Wertstromanalyse,
+
+00:45:50.220 --> 00:45:51.220
+wo er dann irgendwann gesagt hat,
+
+00:45:51.220 --> 00:45:52.220
+ich gehe mal dahinter,
+
+00:45:52.220 --> 00:45:54.280
+was steckt noch weiter dahinter?
+
+00:45:54.280 --> 00:45:56.280
+Aber das ist immer,
+
+00:45:56.280 --> 00:45:58.760
+ja, das ist echt wichtig,
+
+00:45:58.760 --> 00:45:59.910
+zu gucken, liegt es wirklich daran
+
+00:45:59.910 --> 00:46:00.910
+oder liegt es daran,
+
+00:46:00.910 --> 00:46:02.910
+was wir gar nicht richtig machen
+
+00:46:02.910 --> 00:46:03.910
+oder gar nicht ernsthaft
+
+00:46:03.910 --> 00:46:06.130
+oder wir die falschen Leute haben,
+
+00:46:06.130 --> 00:46:07.130
+die uns predigen.
+
+00:46:07.130 --> 00:46:09.560
+Auch das kann ja passieren.
+
+00:46:09.560 --> 00:46:10.730
+Also das ist ganz am Anfang
+
+00:46:10.730 --> 00:46:11.730
+bei der Vorstellung,
+
+00:46:11.730 --> 00:46:12.730
+du hattest nochmal
+
+00:46:12.730 --> 00:46:14.730
+dieses Thema Pragmatismus hervorgehoben
+
+00:46:14.730 --> 00:46:15.730
+und ich bin da wirklich
+
+00:46:15.730 --> 00:46:16.730
+ein Verfechter von,
+
+00:46:16.730 --> 00:46:18.950
+zu schauen,
+
+00:46:18.950 --> 00:46:19.950
+passt das jetzt wirklich,
+
+00:46:19.950 --> 00:46:20.950
+passt das nicht,
+
+00:46:20.950 --> 00:46:21.950
+haben wir eine Möglichkeit,
+
+00:46:21.950 --> 00:46:22.950
+das irgendwie anzupassen,
+
+00:46:22.950 --> 00:46:23.950
+weil das gibt es ja auch immer mal,
+
+00:46:23.950 --> 00:46:27.040
+ohne das eigentliche Ziel zu verlieren,
+
+00:46:27.040 --> 00:46:28.550
+weil dann brauchst du es
+
+00:46:28.550 --> 00:46:29.550
+auch nicht mehr machen.
+
+00:46:29.550 --> 00:46:30.550
+Also wenn du das,
+
+00:46:30.550 --> 00:46:31.550
+was es leisten soll,
+
+00:46:31.550 --> 00:46:32.550
+gar nicht mehr leistet,
+
+00:46:32.550 --> 00:46:33.810
+hast du,
+
+00:46:33.810 --> 00:46:34.870
+es ist auch umsonst.
+
+00:46:34.870 --> 00:46:37.630
+Dann auch wieder Verschwendung.
+
+00:46:37.630 --> 00:46:41.670
+Hast du noch so Themen,
+
+00:46:41.670 --> 00:46:42.670
+die wir vielleicht noch nicht,
+
+00:46:42.670 --> 00:46:44.670
+also wir haben immer so am Ende,
+
+00:46:44.670 --> 00:46:45.670
+vielleicht jetzt schon,
+
+00:46:45.670 --> 00:46:47.670
+so eine Frage,
+
+00:46:47.670 --> 00:46:49.790
+jetzt irgendwie so eine Frage
+
+00:46:49.790 --> 00:46:50.790
+oder so ein Thema,
+
+00:46:50.790 --> 00:46:51.890
+das wir noch nicht besprochen haben,
+
+00:46:51.890 --> 00:46:53.200
+was wir noch nicht gestellt haben,
+
+00:46:53.200 --> 00:46:55.200
+was du noch erwartet hättest?
+
+00:46:55.200 --> 00:46:59.330
+Du kannst bei allem natürlich
+
+00:46:59.330 --> 00:47:01.330
+noch mehr in die Tiefe gehen.
+
+00:47:01.330 --> 00:47:03.250
+Wir, wir,
+
+00:47:03.250 --> 00:47:05.250
+es ist jetzt ein Überriss,
+
+00:47:05.250 --> 00:47:06.250
+über zwei Themen,
+
+00:47:06.250 --> 00:47:07.250
+wo du auch dich schon mehr
+
+00:47:07.250 --> 00:47:08.250
+mit beschäftigen könntest,
+
+00:47:08.250 --> 00:47:10.250
+plus dieses verbindende Element
+
+00:47:10.250 --> 00:47:11.250
+der Resilienz
+
+00:47:11.250 --> 00:47:12.250
+und das Vernünftig Machens.
+
+00:47:12.250 --> 00:47:14.220
+Aber ich hätte jetzt nicht
+
+00:47:14.220 --> 00:47:15.220
+ein Thema,
+
+00:47:15.220 --> 00:47:16.220
+wo ich sagen würde,
+
+00:47:16.220 --> 00:47:17.220
+das fehlt jetzt da noch total.
+
+00:47:17.220 --> 00:47:19.730
+Also das wäre eher eine Vertiefung.
+
+00:47:19.730 --> 00:47:22.610
+Wie das,
+
+00:47:22.610 --> 00:47:24.610
+das ist immer so,
+
+00:47:24.610 --> 00:47:25.610
+man muss sich mal ein bisschen
+
+00:47:25.610 --> 00:47:26.610
+damit beschäftigen,
+
+00:47:26.610 --> 00:47:27.610
+wie funktioniert das Gehirn
+
+00:47:27.610 --> 00:47:29.890
+auf einer einfachen Ebene.
+
+00:47:29.890 --> 00:47:30.850
+Das hilft auch.
+
+00:47:30.850 --> 00:47:32.850
+Mir hat auch mein Teilnehmer
+
+00:47:32.850 --> 00:47:33.940
+bei einem dieser Trainings gesagt,
+
+00:47:33.940 --> 00:47:34.940
+Mensch,
+
+00:47:34.940 --> 00:47:37.030
+ich kriege das ja tagsüber irgendwie hin
+
+00:47:37.030 --> 00:47:38.030
+und dann komme ich nach Hause
+
+00:47:38.030 --> 00:47:40.220
+und irgendwas ist mit meinen
+
+00:47:40.220 --> 00:47:43.130
+und dann explodiere ich sofort.
+
+00:47:43.130 --> 00:47:46.380
+Und das ist eben auch dieses Akkuthema.
+
+00:47:46.380 --> 00:47:47.380
+Und deswegen ist es auch sinnvoll,
+
+00:47:47.380 --> 00:47:49.380
+seinen Tag mit zu strukturieren,
+
+00:47:49.380 --> 00:47:51.460
+dass ich Sachen,
+
+00:47:51.460 --> 00:47:52.460
+die ich priorisieren,
+
+00:47:52.460 --> 00:47:53.460
+entscheiden muss.
+
+00:47:53.460 --> 00:47:54.460
+Das funktioniert
+
+00:47:54.460 --> 00:47:56.460
+bei den meisten Menschen morgens,
+
+00:47:56.460 --> 00:47:57.460
+wo man noch frisch ist,
+
+00:47:57.460 --> 00:47:58.460
+wesentlich besser,
+
+00:47:58.460 --> 00:47:59.460
+als wenn ich schon diesen Overload
+
+00:47:59.460 --> 00:48:00.460
+an Informationen,
+
+00:48:00.460 --> 00:48:01.460
+ich habe die E-Mails auf,
+
+00:48:01.460 --> 00:48:03.640
+1000 Leute wollen was von mir.
+
+00:48:03.640 --> 00:48:05.640
+Die Erfahrung habe ich oft gemacht,
+
+00:48:05.640 --> 00:48:07.600
+wenn du früher anfängst
+
+00:48:07.600 --> 00:48:09.600
+oder mal ein Termin morgens ausfällt
+
+00:48:09.600 --> 00:48:12.790
+und du kannst deinen Tag nochmal in Ruhe durchdenken
+
+00:48:12.790 --> 00:48:13.790
+oder deine Woche
+
+00:48:13.790 --> 00:48:14.790
+und priorisier es nochmal um,
+
+00:48:14.790 --> 00:48:16.790
+schaffst du das wesentlich besser,
+
+00:48:16.790 --> 00:48:17.790
+als wenn du es irgendwie nachmittags
+
+00:48:17.790 --> 00:48:18.780
+oder zwischendurch machst.
+
+00:48:18.780 --> 00:48:22.040
+Dann hast du schon viel Zeit gelassen.
+
+00:48:22.040 --> 00:48:23.040
+Das ist dann schon wieder
+
+00:48:23.040 --> 00:48:24.040
+so ein bisschen Verschwendung.
+
+00:48:24.040 --> 00:48:25.040
+Dieses Verschwendungsthema
+
+00:48:25.040 --> 00:48:27.520
+ist halt auch ein schönes Thema.
+
+00:48:27.520 --> 00:48:29.520
+Wertschöpfung und Verschwendung
+
+00:48:29.520 --> 00:48:30.520
+ist aus dem Lean
+
+00:48:30.520 --> 00:48:32.520
+echt ein wichtiges Basiselement.
+
+00:48:32.520 --> 00:48:35.890
+Das ist auch wunderbar
+
+00:48:35.890 --> 00:48:38.890
+jetzt in Richtung Ende des Podcasts,
+
+00:48:38.890 --> 00:48:40.890
+weil ich nehme tatsächlich ein paar Dinge mit
+
+00:48:40.890 --> 00:48:42.890
+und was ich mir gerade auch geschrieben habe,
+
+00:48:42.890 --> 00:48:43.890
+ist tatsächlich hier
+
+00:48:43.890 --> 00:48:45.890
+gesunder Menschenverstand,
+
+00:48:45.890 --> 00:48:47.890
+Pragmatismus und Reflexion.
+
+00:48:47.890 --> 00:48:48.950
+Das ist so ein bisschen das,
+
+00:48:48.950 --> 00:48:49.950
+was ich aus dem,
+
+00:48:49.950 --> 00:48:51.950
+was du uns jetzt hier erzählt hast,
+
+00:48:51.950 --> 00:48:52.950
+mitnehme.
+
+00:48:52.950 --> 00:48:54.950
+Und das finde ich tatsächlich auch wunderbar,
+
+00:48:54.950 --> 00:48:57.950
+wenn man das quasi auf so eine kleine Formel
+
+00:48:57.950 --> 00:48:59.950
+zusammendampfen kann an der Stelle.
+
+00:48:59.950 --> 00:49:01.950
+Aber danke für deine Zeit
+
+00:49:01.950 --> 00:49:03.950
+und danke für die Klarheit,
+
+00:49:03.950 --> 00:49:05.950
+die du uns gebracht hast bei den Themen.
+
+00:49:05.950 --> 00:49:09.610
+Ja, ein sehr schöner Dreiklang,
+
+00:49:09.610 --> 00:49:10.610
+den wir daraus gemacht hast.
+
+00:49:10.610 --> 00:49:13.610
+Also auch großen Dank an euch.
+
+00:49:13.610 --> 00:49:16.520
+Man ist ja meistens nur Konsument von Podcasts,
+
+00:49:16.520 --> 00:49:17.570
+also euren Podcasts.
+
+00:49:17.570 --> 00:49:18.570
+Ich kenne einige von denen,
+
+00:49:18.570 --> 00:49:20.660
+die schon bei euch waren
+
+00:49:20.660 --> 00:49:22.790
+und freue mich auch immer mal,
+
+00:49:22.790 --> 00:49:24.790
+noch eine Folge wieder zu hören.
+
+00:49:24.790 --> 00:49:26.790
+Und also generelles Dankeschön an euch,
+
+00:49:26.790 --> 00:49:27.790
+dass ihr das macht.
+
+00:49:27.790 --> 00:49:31.780
+Ich finde das echt cool.
+
+00:49:31.780 --> 00:49:33.020
+Danke für das Feedback.
+
+00:49:33.020 --> 00:49:34.490
+Dann genau,
+
+00:49:34.490 --> 00:49:36.450
+wenn du noch irgendwie Themen,
+
+00:49:36.450 --> 00:49:38.450
+genau hatten wir ja schon gefragt,
+
+00:49:38.450 --> 00:49:41.610
+dann auch vielen Dank für die Teilnahme
+
+00:49:41.610 --> 00:49:43.930
+und dann vielleicht noch mal eine zweite Folge,
+
+00:49:43.930 --> 00:49:44.930
+ein bisschen tiefer,
+
+00:49:44.930 --> 00:49:45.930
+was du ja schon gesagt hast.
+
+00:49:45.930 --> 00:49:48.930
+Wir könnten immer noch ein bisschen tiefer rein gehen.
+
+00:49:48.930 --> 00:49:50.930
+Vielleicht auch dieses Vibe-System-Model,
+
+00:49:50.930 --> 00:49:51.930
+was du gesagt hast.
+
+00:49:51.930 --> 00:49:52.930
+Das fände ich vielleicht ganz mal interessant
+
+00:49:52.930 --> 00:49:53.930
+für eine Folge.
+
+00:49:53.930 --> 00:49:54.930
+Aber das glaube ich,
+
+00:49:54.930 --> 00:49:56.930
+jetzt noch am Ende da rein zu packen,
+
+00:49:56.930 --> 00:49:57.930
+ist wahrscheinlich ein bisschen...
+
+00:49:57.930 --> 00:49:58.930
+Das klappt nicht.
+
+00:49:58.930 --> 00:50:00.930
+Also das ist auch eine eigene Folge wert.
+
+00:50:00.930 --> 00:50:01.930
+Ja, alles klar.
+
+00:50:01.930 --> 00:50:03.930
+Dann sehen wir uns vielleicht in der nächsten Folge.
+
+00:50:03.930 --> 00:50:04.930
+Ja, dann vielen Dank für die Teilnahme
+
+00:50:04.930 --> 00:50:06.930
+und für deinen Input.
+
+00:50:06.930 --> 00:50:07.920
+Und bis dann.
+
+00:50:07.920 --> 00:50:08.920
+Ja, danke euch.

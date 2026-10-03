@@ -1,0 +1,2359 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #16: #16 Lernkultur & Graswurzelinitiativen
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:01.150 --> 00:00:18.500
+Ja, hallo und schön, dass du heute wieder dabei bist. In der heutigen Episode reden Dörte und ich, Manuel, mit Shakil und Sebastian und über deren Graswurzelinitiativen LEX, Learning from Experts und HELP.
+
+00:00:18.500 --> 00:00:30.980
+Wir reden darüber, was es bedarf, um eine solche Initiative erfolgreich im Unternehmen zu etablieren und insbesondere über Lernkultur in Unternehmen.
+
+00:00:30.980 --> 00:00:33.060
+Viel Spaß mit dieser Folge.
+
+00:00:33.060 --> 00:00:35.940
+Here we go.
+
+00:00:35.940 --> 00:00:38.220
+Yeah, I'll be surrounded.
+
+00:00:38.220 --> 00:00:40.280
+VUCA Blaster.
+
+00:00:40.280 --> 00:00:51.140
+Ja, ein strahlendes Hallo, Glück auf aus dem Pod. Herzlich willkommen zu einer neuen VUCA Blaster Podcast-Folge mit Manuel und mir.
+
+00:00:51.140 --> 00:00:59.140
+Und wir sind total gespannt auf unsere heutigen inspirierenden Gäste und ja, Graswurzelinitiatoren.
+
+00:00:59.140 --> 00:01:04.140
+Wir wollen heute über Lex sprechen. Was steckt hinter Lex? Was dürfen wir davon lernen?
+
+00:01:04.140 --> 00:01:13.140
+Und ich begrüße ganz herzlich Shakil Awan von der Deutschen Telekom und Sebastian Geppert von dem Hansewerk.
+
+00:01:13.140 --> 00:01:20.140
+Schön, dass ihr da seid, dass ihr euch Zeit genommen habt und ich würde mal den Ball direkt zu Shakil werfen.
+
+00:01:20.140 --> 00:01:26.590
+Lieber Shakil, von wo bist du zu uns zugeschaltet und wofür brennst du?
+
+00:01:26.590 --> 00:01:33.310
+Ja, hallo in die Runde. Ich bin heute zugeschaltet aus Bonn, aus dem Süden von Bonn, aus Wachtberg.
+
+00:01:33.310 --> 00:01:36.280
+Dort sitze ich aktuell im Homeoffice. Und wofür brenne ich?
+
+00:01:36.280 --> 00:01:41.310
+Ich brenne für das Thema Teilen, Geben, Helfen, Unterstützen.
+
+00:01:41.310 --> 00:01:45.900
+Das ist das, wofür man mich immer gewinnen kann.
+
+00:01:45.900 --> 00:01:47.900
+Super cool. Danke dir, Shakil.
+
+00:01:47.900 --> 00:01:53.900
+Dann würde ich sagen, Sebastian, stell dich doch auch mal ganz kurz vor, von wo bist du zugeschaltet und wofür brennst du?
+
+00:01:53.900 --> 00:02:01.500
+Genau, Sebastian Geppert mein Name. Ich bin tatsächlich bei einer Tochtergesellschaft der Hansewerk-Gruppe tätig,
+
+00:02:01.500 --> 00:02:06.500
+der Schleswig-Holster Netz. Arbeite aber sehr viel aus dem Homeoffice hier in Hannover.
+
+00:02:06.500 --> 00:02:11.680
+Und wofür brenne ich? Ich brenne für alles rund um die digitale Transformation.
+
+00:02:11.680 --> 00:02:19.010
+Und dazu gehört auch der Wissenstransfer im Unternehmen, im Konzern bei uns, bei E.ON und genau.
+
+00:02:19.010 --> 00:02:24.700
+Super. Und darüber wollen wir heute auch sprechen, Wissenstransfer.
+
+00:02:24.700 --> 00:02:30.700
+Shaki, ich glaube, du bist schon recht sichtbar unterwegs. Viele kennen dich auch schon.
+
+00:02:30.700 --> 00:02:38.890
+Ich weiß auch, dass deine Initiative auch im Buch von Sabine Kluge und Alexander Kluge verewigt wurde.
+
+00:02:38.890 --> 00:02:43.890
+Aber für die Zuhörerinnen, die es noch nicht kennen, vielleicht magst du mal kurz uns erklären,
+
+00:02:43.890 --> 00:02:48.890
+was hinter Lex steht und was da die Anfangsintention war.
+
+00:02:48.890 --> 00:02:52.690
+Genau, ich glaube, ich fange einfach mal mit der Anfangsintention an.
+
+00:02:52.690 --> 00:02:57.690
+Und zwar die Anfangsintention war einfach mal eine kleine Ansprechpartnerliste zu schaffen.
+
+00:02:57.690 --> 00:03:00.690
+Und zwar mit Menschen, die einem weiterhelfen können.
+
+00:03:00.690 --> 00:03:04.690
+Das war die Ursprungsidee, entstanden in einem Transformationsprogramm.
+
+00:03:04.690 --> 00:03:08.810
+Damals war ich bei der Telekom IT und dort hatte ich halt die Möglichkeit,
+
+00:03:08.810 --> 00:03:14.660
+als Kernteammitglied des Themas Lernen eine Idee auszuleben.
+
+00:03:14.660 --> 00:03:16.660
+Und das war halt das Thema Lex.
+
+00:03:16.660 --> 00:03:20.690
+Und es sollte anfangen, ganz klein, nur mit einer Ansprechpartnerliste für 14 Menschen.
+
+00:03:20.690 --> 00:03:25.940
+Und entstanden ist daraus heute die größte Community innerhalb der Deutschen Telekom
+
+00:03:25.940 --> 00:03:28.940
+zum Thema informellen Lernen und Austauschen.
+
+00:03:28.940 --> 00:03:31.940
+Überhaupt die größte Community mit weit über 20.000 Mitgliedern.
+
+00:03:31.940 --> 00:03:34.940
+Und nachher erzähle ich euch nochmal mehr, was wir noch anbieten.
+
+00:03:34.940 --> 00:03:37.940
+Aber es ist eine Riesensache mittlerweile.
+
+00:03:37.940 --> 00:03:40.960
+Sebastian, dann werfen wir einfach mal den Ball zu dir.
+
+00:03:40.960 --> 00:03:43.960
+Wie kommst du denn da ins Spiel?
+
+00:03:43.960 --> 00:03:46.340
+Wie hast du denn Shakir kennengelernt?
+
+00:03:46.340 --> 00:03:51.820
+Tatsächlich zeigen mir die Worte von Shakir nochmal ganz gut,
+
+00:03:51.820 --> 00:03:54.820
+dass wir Unternehmen in Deutschland und wahrscheinlich auch weltweit
+
+00:03:54.820 --> 00:03:56.780
+gar nicht so unterschiedlich sind, wie wir immer glauben.
+
+00:03:56.780 --> 00:03:58.780
+Auch wenn es unterschiedliche Sparten sind.
+
+00:03:58.780 --> 00:04:03.870
+Telekom und die Netzbetreiber im Strom- und Gasbereich
+
+00:04:03.870 --> 00:04:05.830
+sind da vielleicht noch ähnlicher als andere Unternehmen.
+
+00:04:05.830 --> 00:04:08.830
+Aber nichtsdestotrotz, auch bei uns war es so,
+
+00:04:08.830 --> 00:04:10.830
+wir hatten die digitale Community bei uns,
+
+00:04:10.830 --> 00:04:13.860
+wo die digitalen Treiber der Hanse-Gruppe, sage ich mal, unterwegs waren.
+
+00:04:13.860 --> 00:04:17.860
+Und auch da war das Verlangen nach einer Ansprechpartnerliste da.
+
+00:04:17.860 --> 00:04:21.180
+Und hinzu kam, sage ich mal, aus unserem Bereich heraus,
+
+00:04:21.180 --> 00:04:30.370
+der Wunsch, dem Kollegium mehr Hilfestellungen im Bereich IT-Tools, MS Office etc. zu geben.
+
+00:04:30.370 --> 00:04:35.500
+Und witzigerweise bin ich dann eben von einer Bayernwerkskollegin,
+
+00:04:35.500 --> 00:04:39.450
+eben im Süden, sage ich mal, der Netzbetreiber,
+
+00:04:39.450 --> 00:04:43.500
+darauf aufmerksam gemacht worden auf diesem Podcast Kluge und Konsorten.
+
+00:04:43.500 --> 00:04:45.560
+Und da war der Shakil zu Gast und ich dachte mir,
+
+00:04:45.560 --> 00:04:47.560
+Mensch, das ist doch eine super pragmatische Lösung.
+
+00:04:47.560 --> 00:04:50.560
+Und dann habe ich kurzerhand darüber nachgedacht,
+
+00:04:50.560 --> 00:04:52.620
+den Menschen musst du ansprechen.
+
+00:04:52.620 --> 00:04:56.580
+Habe unseren Bekannten, der bei der Telekom arbeitet, gefragt,
+
+00:04:56.580 --> 00:04:57.580
+Mensch, kennst du den Shakil?
+
+00:04:57.580 --> 00:04:59.580
+Vielleicht kennst du die Lex-Initiative?
+
+00:04:59.580 --> 00:05:00.580
+Und er, na klar, kenne ich.
+
+00:05:00.580 --> 00:05:03.640
+Und so haben wir dann den Kontakt gefunden.
+
+00:05:03.640 --> 00:05:06.960
+Und ja, ich bin dankbar dafür
+
+00:05:06.960 --> 00:05:10.960
+und habe quasi das, was Shakil bei der Telekom gestartet hat,
+
+00:05:10.960 --> 00:05:17.090
+jetzt bei der Hanse-Gruppe im letzten Jahr mit ein paar Kollegen dann auch versucht zu überführen.
+
+00:05:17.090 --> 00:05:19.090
+Und ja, ich bin bisher sehr zufrieden
+
+00:05:19.090 --> 00:05:22.090
+und das kommt auch sehr gut an bei den Kollegen, die das eben auch annehmen.
+
+00:05:22.090 --> 00:05:28.370
+Und macht ihr auch unternehmensübergreifend, also eine gemeinsame Sache unternehmensübergreifend
+
+00:05:28.370 --> 00:05:33.370
+oder ist es einfach, dass du jetzt von Shakils Initiative gelernt hast und das gleiche ausprobierst?
+
+00:05:33.370 --> 00:05:37.260
+Genau, also da sind wir im Grunde genommen noch dabei.
+
+00:05:37.260 --> 00:05:40.260
+Es ist manchmal gar nicht so leicht, wie man sich das vielleicht vorstellt.
+
+00:05:40.260 --> 00:05:45.260
+Also Shakil bietet das ja immer schon an über seine Lex-Gruppe bei LinkedIn.
+
+00:05:45.260 --> 00:05:49.230
+Ich habe da schon das ein oder andere Angebot mit angenommen mal reingeguckt.
+
+00:05:49.230 --> 00:05:54.150
+Ich finde das auch total genial, dass die Telekom da so offen agiert.
+
+00:05:54.150 --> 00:05:57.260
+Bei uns ist das glaube ich noch so ein Entwicklungsprozess.
+
+00:05:57.260 --> 00:06:02.260
+Aber ich denke auch, dass wir dann in Zukunft durchaus auch mit der Telekom zusammenarbeiten können.
+
+00:06:02.260 --> 00:06:05.260
+Und der eine ist gut in dem Bereich, der andere ist gut in dem anderen Bereich.
+
+00:06:05.260 --> 00:06:07.260
+Und so kann man sich glaube ich auch gut ergänzen.
+
+00:06:07.260 --> 00:06:14.780
+Und das sollte auch in Zukunft erlaubt sein, unternehmensübergreifend solche Initiativen da auch zu verbinden.
+
+00:06:14.780 --> 00:06:24.530
+Shakil, jetzt hast du ja schon Sebastian angesteckt mit deiner Initiative und mehr als 20.000 Telekom-Mitarbeiterinnen.
+
+00:06:24.530 --> 00:06:29.650
+Was können wir oder dürfen wir denn von dir lernen?
+
+00:06:29.650 --> 00:06:35.320
+Ich glaube, was sehr wichtig ist, dass es einfach auch Treiber braucht.
+
+00:06:35.320 --> 00:06:42.280
+Also gerade bei Graswurzelinitiativen, und das Lex ist eine, die ohne Auftrag, ohne Budget, nur mit einer Idee entstanden ist.
+
+00:06:42.280 --> 00:06:48.240
+Und das ist das, was man braucht. Man braucht Menschen, die an etwas glauben und das dann auch durchziehen.
+
+00:06:48.240 --> 00:06:54.240
+Und gegen Widerstände, wenn sie mal hochkommen, nicht, ja gut, was heißt jetzt ankämpfen, sondern einfach damit arbeiten.
+
+00:06:54.240 --> 00:06:58.260
+Und diese versuchen aufzulösen und Menschen mitnehmen auf dieser Reise.
+
+00:06:58.260 --> 00:07:01.260
+Und das kann man lernen. Also man kann eigentlich alles schaffen.
+
+00:07:01.260 --> 00:07:06.540
+Man muss beharrlich sein. Man braucht eine große Ausdauer und man braucht auch sehr viel Mut.
+
+00:07:06.540 --> 00:07:09.540
+Und das ist das, was ich teilen möchte und den Menschen auch mitgeben möchte.
+
+00:07:09.540 --> 00:07:13.540
+Und ich glaube, davon hatten wir einiges und haben immer noch einiges und deswegen ist es auch gewachsen.
+
+00:07:13.540 --> 00:07:19.790
+Und die harte, ehrliche Arbeit, die da drin steckt, die sehen auch viele.
+
+00:07:19.790 --> 00:07:24.790
+Und wir machen halt sehr, sehr viel um unsere Community, sag ich jetzt mal.
+
+00:07:24.790 --> 00:07:28.790
+Und es sind ja weit mehr, die das nutzen. Man muss nicht unbedingt Community-Mitglied sein.
+
+00:07:28.790 --> 00:07:33.820
+Es ist ein offenes Angebot innerhalb der Deutschen Telekom, so einfach wie möglich.
+
+00:07:33.820 --> 00:07:35.820
+Und dafür stecken wir halt auch sehr, sehr viel Arbeit rein.
+
+00:07:35.820 --> 00:07:41.180
+Und wir haben halt auch sehr, sehr viele Angebote, aber dazu auch gerne später mehr.
+
+00:07:41.180 --> 00:07:47.050
+Und wer hat an dich oder an euch geglaubt, wo ihr gestartet seid?
+
+00:07:47.050 --> 00:07:53.170
+Ja, das Projekt, dem ich angehört habe damals bei diesem Transformationsprogramm namens IT in Motion.
+
+00:07:53.170 --> 00:07:56.230
+Der Projektleiter, die Teammitglieder, die es gepusht haben.
+
+00:07:56.230 --> 00:08:00.480
+Und natürlich auch der gute Bekanntenkreis, der Freundeskreis.
+
+00:08:00.480 --> 00:08:03.470
+Und es ist nach und nach gewachsen.
+
+00:08:03.470 --> 00:08:06.470
+Die Grundidee war ja wirklich erstmal eine kleine Ansprechpartnerliste zu haben.
+
+00:08:06.470 --> 00:08:11.500
+Und das ist heute eine Art gelbe Seite mit mindestens 400 Einträgen drin.
+
+00:08:11.500 --> 00:08:17.550
+Da findet man sehr, sehr einfach Ansprechpartner zu bestimmten Themen.
+
+00:08:17.550 --> 00:08:20.550
+Und daraus entstanden ist die Sessionliste, eigentlich unser bestes Produkt.
+
+00:08:20.550 --> 00:08:26.670
+Das ist eine offene Liste mit verschiedensten Sessions zu verschiedensten Themen.
+
+00:08:26.670 --> 00:08:32.660
+Also offene Termine von morgens bis abends und manchmal bis zu 80 verschiedene Termine an einem Tag,
+
+00:08:32.660 --> 00:08:39.800
+haben wir schon ein paar Mal gehabt, zu Themen rund um Agilität, Technik, Gesundheit, alles mögliche.
+
+00:08:39.800 --> 00:08:43.800
+Kultur, auch in verschiedenen Sprachen. Und das ist ja das, was wir anbieten.
+
+00:08:43.800 --> 00:08:46.800
+Und ich glaube, das ist das, was auch viele inspiriert.
+
+00:08:46.800 --> 00:08:52.800
+Also nicht nur hier bei der Hanse-Gruppe, aber auch unseren Freunden bei Audi, die das Alex aufgebaut haben.
+
+00:08:52.800 --> 00:08:57.800
+Oder das Solex bei VW oder die Hellsahner hat das auch das Alex aufgebaut.
+
+00:08:57.800 --> 00:09:02.920
+Also gerade das Thema offener Wissensaustausch in Terminen.
+
+00:09:02.920 --> 00:09:12.740
+Und was war so dein persönlicher Antreiber, das noch zusätzlich ehrenamtlich zu tun als Familienvater?
+
+00:09:12.740 --> 00:09:18.740
+Du hattest ja sicherlich keine Langeweile, sondern irgendwas muss dich da ja noch angetrieben haben.
+
+00:09:18.740 --> 00:09:22.830
+Ja gut, ich war ja schon damals in diesem Transformationsprogramm drin.
+
+00:09:22.830 --> 00:09:26.830
+Zum gewissen Prozentsatz meiner Arbeitszeit. Das heißt, ich hatte Freiraum. Den braucht man auch.
+
+00:09:26.830 --> 00:09:31.080
+Denn jetzt das neben einem Fulltime-Job hinzukriegen, ist nicht einfach.
+
+00:09:31.080 --> 00:09:34.080
+Und am Anfang war es auch gar nicht so arbeitslastig.
+
+00:09:34.080 --> 00:09:39.070
+Es ist ja sehr, sehr einfach und ohne Auftrag gestartet, sondern einfach mal gemacht.
+
+00:09:39.070 --> 00:09:42.550
+Und dann ist es langsam gewachsen zu dem, was es heute ist.
+
+00:09:42.550 --> 00:09:47.580
+Und seit, ich sage, im Mai wird es sich ehren, dann mache ich das seit zwei Jahren Vollzeit.
+
+00:09:47.580 --> 00:09:52.920
+Und das ist mein Job. Ich bin jetzt Produktmanager eines etablierten Themas
+
+00:09:52.920 --> 00:09:58.100
+und bin auch nicht mehr in der Telekom IT, sondern bin jetzt im Personalbereich tätig.
+
+00:09:58.100 --> 00:10:04.670
+Aber bis dahin, das war auch eine lange Reise, ist die Arbeit stetig gewachsen.
+
+00:10:04.670 --> 00:10:08.670
+Und was mich halt auch angetrieben hat, war das Thema, helfen, Leute zu unterstützen.
+
+00:10:08.670 --> 00:10:13.730
+Und was mich besonders immer angetrieben hat, gerade als ich damals bei der Telekom angekommen habe,
+
+00:10:13.730 --> 00:10:16.730
+es gab auch so eine Zeit, wo ich mich auch nicht immer getraut habe zu fragen,
+
+00:10:16.730 --> 00:10:18.730
+wo waren die Leute, die einem weiterhelfen können?
+
+00:10:18.730 --> 00:10:20.730
+Mit Ach und Krach habe ich sie gefunden und das fand ich immer sehr schön.
+
+00:10:20.730 --> 00:10:24.730
+Und das wollte ich auch immer weitergeben, dieses Unterstützen, niemanden im Regen stehen lassen.
+
+00:10:24.730 --> 00:10:27.730
+Und nee, das hättest du doch wissen müssen. Warum fragst du das denn nochmal?
+
+00:10:27.730 --> 00:10:31.730
+Das ist eigentlich dein Job, da hätten sie aber jetzt machen müssen.
+
+00:10:31.730 --> 00:10:35.730
+Und das mag ich alles nicht. Sondern ich sage immer, wie lange können wir uns leisten,
+
+00:10:35.730 --> 00:10:38.730
+irgendwas zu tun und ohne vielleicht die komplette Ahnung davon zu haben.
+
+00:10:38.730 --> 00:10:43.730
+Und wir müssen auch den Mut haben, zu fragen. Und es muss auch den Mut geben, zu helfen.
+
+00:10:43.730 --> 00:10:47.730
+Nur so können wir alle gewinnen und so kommt eigentlich das ganze Unternehmen weiter.
+
+00:10:47.730 --> 00:10:52.730
+Weil was bringt es denn, wenn einer da vorm Rechner sitzt und seit zwei Stunden an irgendwas knabbert
+
+00:10:52.730 --> 00:10:56.730
+und gar nicht den Fehler findet und dann kommt einer um die Ecke und sagt, weißt du, daran liegt es.
+
+00:10:56.730 --> 00:10:59.730
+Wir hätten doch alles viel, viel früher haben können. Und das möchte ich eigentlich unterstützen.
+
+00:10:59.730 --> 00:11:02.730
+Und deswegen auch nochmal der Aufruf. Es geht eigentlich ums Helfen, Unterstützen.
+
+00:11:02.730 --> 00:11:05.730
+Keinen im Ring stehen lassen. Jeder ist was wert. Jeder kann mitmachen.
+
+00:11:05.730 --> 00:11:11.430
+Und das ist das, was wir bei Lex eigentlich zeigen möchten. Und das machen wir halt an dem Thema Lernen. Voneinander lernen.
+
+00:11:11.430 --> 00:11:19.000
+Und damit die Zuhörer und Zuhörerinnen vielleicht mal so ein Gefühl bekommen, wie lange hat das so bei dir
+
+00:11:19.000 --> 00:11:22.970
+oder bei euch gedauert, bis ihr jetzt so dahin gekommen seid, wo ihr jetzt seid?
+
+00:11:22.970 --> 00:11:30.390
+Es gibt verschiedene Meilensteine. Also der erste war ja natürlich die Gründung. 13. November 2017 kann ich mich noch gut erinnern.
+
+00:11:30.390 --> 00:11:37.360
+Und davor gab es halt einen Termin. Wir waren ja damals 14 Menschen aus fünf verschiedenen Ländern, die sich regelmäßig
+
+00:11:37.360 --> 00:11:46.510
+einmal im Monat halt im Züge dieses Transformationsprogramms getroffen haben, aber natürlich auch an Themen so virtuell miteinander gearbeitet haben.
+
+00:11:46.510 --> 00:11:52.510
+Und da ist das ganz leicht gestartet. Die ersten zwei Monate war ja gar nichts. Und dann nahm das langsam ein bisschen Fahrt auf.
+
+00:11:52.510 --> 00:11:59.480
+Und dann im Sommer 2018, da kam der erste große Durchbruch. Bei der Deutschen Telekom gibt es ein Format,
+
+00:11:59.480 --> 00:12:05.510
+das nennt sich Öffentliche Vorstandssitzung. Man kann dort sein Thema anmelden. Mein Thema hat damals die meisten Stimmen bekommen.
+
+00:12:05.510 --> 00:12:13.470
+Und schwuppdiwupp, im September 2018 fand ich mich wieder am Tisch mit unseren Vorstandsmitgliedern.
+
+00:12:13.470 --> 00:12:22.320
+Und das Ganze wurde auch noch live gebroadcastet und 100 Menschen waren auch in dem Raum. Das fand auch statt im Rahmen des
+
+00:12:22.320 --> 00:12:26.320
+Telekom Barcamps, also eine Riesengeschichte bei uns. Und da ging ich rein und bat um Unterstützung,
+
+00:12:26.320 --> 00:12:34.510
+die ich am Ende auch bekommen habe. Und danach war der zweite Meilenstein, wir haben bei uns,
+
+00:12:34.510 --> 00:12:40.510
+ich nenne es mal ganz frech, Telekom Oscar. Also es gibt ein Award, der heißt mittlerweile Telekom Team Award.
+
+00:12:40.510 --> 00:12:46.850
+Da werden Teams ausgezeichnet für besondere Leistungen. Da habe ich mich auch mit dem Thema Lex hinbeworben.
+
+00:12:46.850 --> 00:12:51.850
+Und dann gab es da, zu dem Zeitpunkt gab es schon ein Team. Also ich war jetzt nicht mehr allein unterwegs.
+
+00:12:51.850 --> 00:12:54.820
+Wir haben ein paar Freiwillige, die mich unterstützt haben, so wie sie konnten.
+
+00:12:54.820 --> 00:12:58.820
+Und da haben wir den dritten Platz gemacht und letztes Jahr haben wir sogar den ersten Platz gemacht.
+
+00:12:58.820 --> 00:13:01.820
+Wir sind nochmal angetreten. Also und dadurch ist das stetig gewachsen.
+
+00:13:01.820 --> 00:13:06.820
+Immer mehr Menschen haben davon mitbekommen, haben den Nutzen gesehen, haben selber teilgenommen an Sessions
+
+00:13:06.820 --> 00:13:09.820
+und haben auch angefangen selber Sessions zu geben.
+
+00:13:09.820 --> 00:13:18.420
+Ja, das ist ja auch sehr schön, dass ein, das Unternehmen das so gefördert hat und sich da geöffnet hat.
+
+00:13:18.420 --> 00:13:22.390
+Da wollte ich dann direkt mal zu Sebastian rüber, den Stein rüberwerfen.
+
+00:13:22.390 --> 00:13:27.390
+Wie war es denn bei euch? Ist das von oben herab, dass jemand gesagt hat, dein Chef vielleicht gesagt hat,
+
+00:13:27.390 --> 00:13:33.390
+ja hier, mach das mal. Oder wie ist da die Unterstützung auch vom Unternehmen?
+
+00:13:33.390 --> 00:13:40.860
+Also tatsächlich kam das nicht von oben. Es war jetzt wirklich eher so eine Graswurzelbewegung,
+
+00:13:40.860 --> 00:13:48.920
+die dadurch entstanden ist, dass ich halt auf diesen Podcast gestoßen bin oder gestoßen wurde von der Kollegin.
+
+00:13:48.920 --> 00:13:54.080
+Und ich finde da passt euer Titel des Podcasts ganz gut.
+
+00:13:54.080 --> 00:14:01.180
+Also wir haben eine sehr änderliche Welt und eine sehr schnelllebige Welt und die Digitalisierung macht es eben auch möglich.
+
+00:14:01.180 --> 00:14:07.270
+Ich habe mich digital mit Shakil getroffen. Vor ein paar Jahren hätte ich mich wahrscheinlich in den Zug setzen müssen,
+
+00:14:07.270 --> 00:14:12.230
+nach Bonn fahren und dann hätten wir uns ausgetauscht oder hätten uns irgendwo in der Mitte von Deutschland getroffen,
+
+00:14:12.230 --> 00:14:17.410
+wie auch immer. So haben wir uns einfach mal zusammen telefoniert, haben eine E-Mail ausgetauscht und so weiter.
+
+00:14:17.410 --> 00:14:21.410
+Und dann ging das relativ zügig. Und genauso zügig ging es eigentlich auch bei uns los.
+
+00:14:21.410 --> 00:14:27.680
+Ich hatte einfach Bock auf das Thema, habe dann über unsere digitale Community noch ein paar Leute zusammengesucht,
+
+00:14:27.680 --> 00:14:32.680
+wo ich dachte, Mensch, die haben auch Lust dazu, die wollen das auch, die wollen diese Ansprechpartnerliste,
+
+00:14:32.680 --> 00:14:36.680
+die wollen diese schnelle Hilfe untereinander, nämlich genau das, was Shakil auch angesprochen hat.
+
+00:14:36.680 --> 00:14:42.030
+Deswegen heißt unsere Initiative auch HELP. Also da haben wir das Lex leider nicht rein bekommen,
+
+00:14:42.030 --> 00:14:48.030
+aber letzten Endes wollen wir ja genau das Gleiche bezwecken.
+
+00:14:48.030 --> 00:14:54.310
+Und wir sind, also ich sage mal so, das war grob im Sommer, im Juni, glaube ich, oder Juli,
+
+00:14:54.310 --> 00:14:56.310
+hatte mich die Kollegin darauf angesprochen.
+
+00:14:56.310 --> 00:14:59.280
+Einen guten Monat später hatte ich das Kernteam zusammengestellt
+
+00:14:59.280 --> 00:15:03.700
+und dann haben wir uns mal im August zusammengesetzt, eine grobe Planung gemacht,
+
+00:15:03.700 --> 00:15:08.790
+wer kann denn aus unserem Team vielleicht schon ein paar Inhalte bereitstellen, sein Wissen weitergeben.
+
+00:15:08.790 --> 00:15:13.790
+Da haben wir zum Glück von MS Teams über Power BI, über SharePoint, OneDrive,
+
+00:15:13.790 --> 00:15:17.750
+also erstmal so diese klassischen Office-Anwendungen gut was abdecken können.
+
+00:15:17.750 --> 00:15:22.750
+Dann haben wir noch zwei, drei Leute dazu geholt, die dann zum Beispiel etwas zum Umgang mit Smartphone erzählt haben
+
+00:15:22.750 --> 00:15:26.750
+oder eben auch so Hürden im Projekt und so weiter.
+
+00:15:26.750 --> 00:15:29.710
+Also diese Klassiker letztendlich, damit sind wir gestartet.
+
+00:15:29.710 --> 00:15:34.930
+Und ja, jetzt treffen wir uns alle zwei Wochen in dieser Kernarbeitsgruppe.
+
+00:15:34.930 --> 00:15:38.930
+Ich habe zum Glück eben auch die Freiheit, das was Shakil auch angesprochen hat,
+
+00:15:38.930 --> 00:15:41.930
+in meiner Funktion, dass ich mich damit auch beschäftigen kann.
+
+00:15:41.930 --> 00:15:45.180
+Das heißt, ich habe da auch genug Zeit und Kraft, das zu treiben.
+
+00:15:45.180 --> 00:15:48.180
+Und das ist auch wichtig, weil, wie Shakil eben auch schon sagte,
+
+00:15:48.180 --> 00:15:53.150
+du brauchst ein Netzwerk, du brauchst die Leute, die das mit dir gestalten,
+
+00:15:53.150 --> 00:15:58.150
+weil ich kann mich da zwar auch hinstellen und jede Woche irgendwie tolle neue Sachen erzählen, die ich weiß,
+
+00:15:58.150 --> 00:16:04.150
+aber irgendwann wird es erstens langweilig und zweitens, ja, irgendwann gehen mir auch die Themen aus.
+
+00:16:04.150 --> 00:16:10.150
+Und deshalb, das lebt von den Menschen, die dazukommen, die das weitererzählen.
+
+00:16:10.150 --> 00:16:17.150
+Wir haben inzwischen auch Teilnehmer aus anderen E.ON-Gesellschaften, die immer mal wieder mit dazukommen.
+
+00:16:17.150 --> 00:16:21.330
+Und ja, ich glaube, wir werden da auch noch ein bisschen Kraft für brauchen,
+
+00:16:21.330 --> 00:16:25.330
+um das auf das gleiche Niveau oder auf ein ähnliches Niveau wie Shakil zu bringen.
+
+00:16:25.330 --> 00:16:31.710
+Aber es macht Spaß und die Leute sind dankbar dafür, für die Hilfe, genau.
+
+00:16:31.710 --> 00:16:34.940
+Und da ist wahrscheinlich auch ein großer Kulturwandel.
+
+00:16:34.940 --> 00:16:38.940
+Also ich merke das auch immer, dass ich das anstoßen möchte.
+
+00:16:38.940 --> 00:16:42.940
+Ja, hier macht mal, bietet das doch für andere an oder in Communities,
+
+00:16:42.940 --> 00:16:45.940
+fragt doch einfach mal in die Community rein, da hilft dir jemand.
+
+00:16:45.940 --> 00:16:47.910
+Aber irgendwie macht das nie jemand.
+
+00:16:47.910 --> 00:16:50.910
+Ich glaube, da braucht man, man muss diese auch erstmal so vielleicht ein bisschen an die Hand nehmen
+
+00:16:50.910 --> 00:16:54.910
+oder ihnen sagen, okay, und dann merken die, ach da ist ja gar nicht schlimm.
+
+00:16:54.910 --> 00:16:59.450
+Man kriegt da wirklich Hilfe. Das bringt wirklich was.
+
+00:16:59.450 --> 00:17:03.730
+Genau, also ich glaube, es ist im ersten Moment auch bei manchen Leuten
+
+00:17:03.730 --> 00:17:06.730
+noch so ein bisschen die Furcht, in so einen Termin reinzugehen.
+
+00:17:06.730 --> 00:17:10.730
+Also ist es in Ordnung, dass ich mir jetzt, wir machen immer so halbe Stunde Termine,
+
+00:17:10.730 --> 00:17:12.730
+ist es in Ordnung, dass ich mir diese halbe Stunde nehme
+
+00:17:12.730 --> 00:17:18.910
+und mir da mal so eine Session anhöre, anschaue und meine Fragen stelle.
+
+00:17:18.910 --> 00:17:23.030
+Und ehrlicherweise aus unternehmerischer Sicht ist das sinnvoll investierte Zeit,
+
+00:17:23.030 --> 00:17:27.030
+weil einerseits werden da Fragen gestellt, die ja auch andere schon gehabt haben.
+
+00:17:27.030 --> 00:17:31.370
+und je größer die Gruppe der Teilnehmer, umso größer der Effekt.
+
+00:17:31.370 --> 00:17:35.720
+Aber auch, dass Sebastian Geppel schon meinte, so wenn sich da jemand
+
+00:17:35.720 --> 00:17:38.720
+vorher zwei Stunden lang mit einem Problem rumgeärgert hätte,
+
+00:17:38.720 --> 00:17:41.720
+da kriegt er in zehn Minuten, kriegt er eine Antwort und ist glücklich
+
+00:17:41.720 --> 00:17:43.720
+und lernt vielleicht noch was zusätzlich dazu.
+
+00:17:43.720 --> 00:17:45.630
+Und das ist eigentlich so dieser Gedanke.
+
+00:17:45.630 --> 00:17:49.740
+Und wir haben einfach so viel Wissen vorhanden.
+
+00:17:49.740 --> 00:17:51.710
+Also das glaubt man manchmal gar nicht.
+
+00:17:51.710 --> 00:17:54.710
+Also es sind Goldschätze, die einfach gehoben werden wollen
+
+00:17:54.710 --> 00:17:57.710
+und Leute, die sich vielleicht im ersten Moment auch nicht trauen,
+
+00:17:57.710 --> 00:18:00.710
+die dann doch irgendwie sich aufraffen und dann mal eine Session machen.
+
+00:18:00.710 --> 00:18:03.710
+Es gibt auch Freiwillige, die richtig Lust darauf haben,
+
+00:18:03.710 --> 00:18:07.680
+die schon immer darauf gewartet haben, mal so eine Bühne zu bekommen
+
+00:18:07.680 --> 00:18:09.680
+und dann vielleicht auch wirklich in einem kleinen Kreis.
+
+00:18:09.680 --> 00:18:12.680
+Das ist ja auch völlig in Ordnung, dann ihr Wissen weiterzugeben.
+
+00:18:12.680 --> 00:18:17.580
+Ja, ich kann mir auch vorstellen, dass der Sharky ziemlich stolz sein muss
+
+00:18:17.580 --> 00:18:20.580
+oder das ganze Lex-Team, dass jetzt schon andere Unternehmen
+
+00:18:20.580 --> 00:18:27.580
+sozusagen diese wirklich wunderbare Idee, Initiative der Schwarmintelligenz
+
+00:18:27.580 --> 00:18:33.580
+sozusagen adaptiert haben. Sharky, welche Empfehlungen hast du denn dem Sebastian mitgegeben?
+
+00:18:33.580 --> 00:18:36.580
+Nach fünf Jahren, du hast es gerade gesagt, 2017 seid ihr gestartet.
+
+00:18:36.580 --> 00:18:41.540
+Welche Do's and Don'ts hast du ihm vielleicht noch so mit auf den Weg gegeben,
+
+00:18:41.540 --> 00:18:45.540
+dass er nicht die gleichen Fehler macht wie ihr damals?
+
+00:18:45.540 --> 00:18:49.540
+Ja, also wir hatten ein paar Gespräche und was ich eigentlich zusammenfassend sagen kann,
+
+00:18:49.540 --> 00:18:54.540
+was ich auch allen anderen mitgebe, also bindet früh alle ein, die ihr einbinden müsst.
+
+00:18:54.540 --> 00:18:59.300
+Also wenn wir jetzt gerade vom Lernen reden, also bei uns ist halt der Vorteil,
+
+00:18:59.300 --> 00:19:05.420
+dass das Lex auch Teil der gesamten Lernkultur ist bei der Deutschen Telekom.
+
+00:19:05.420 --> 00:19:09.420
+Wir sind etabliert und anerkannt und sind keine Konkurrenz.
+
+00:19:09.420 --> 00:19:13.420
+Wir haben auch uns mit dem Konzernbetriebsrat auf Spielregeln geeinigt.
+
+00:19:13.420 --> 00:19:19.380
+Also auch bindet die Arbeitnehmervertretung schnell ein, klärt alles ab,
+
+00:19:19.380 --> 00:19:21.380
+klärt alles ab und wartet nicht zu lang.
+
+00:19:21.380 --> 00:19:25.340
+Und das andere Ding ist auch wirklich starten. Startet klein.
+
+00:19:25.340 --> 00:19:28.340
+Gibt es jemanden, der Yoga anbieten kann, dann macht es doch einfach mal.
+
+00:19:28.340 --> 00:19:32.340
+Ich hatte heute ein nettes Gespräch mit einer Kollegin, die möchte auch Yoga anbieten.
+
+00:19:32.340 --> 00:19:34.340
+Wir haben einige Yoga-Angebote, aber sie möchte das auf Spanisch anbieten,
+
+00:19:34.340 --> 00:19:38.340
+weil sie ihre Spanischkenntnisse nicht einrosten lassen möchte.
+
+00:19:38.340 --> 00:19:41.340
+Und das ist was Schönes, wo man viele Sachen immer verbinden kann.
+
+00:19:41.340 --> 00:19:43.660
+Ich habe ihr auch gesagt, machen, machen, machen.
+
+00:19:43.660 --> 00:19:48.660
+Nicht lange darüber reden, einfach starten und ruhig mal auf die Nase fallen und dann lernen
+
+00:19:48.660 --> 00:19:50.660
+und dann beim nächsten Mal vielleicht ein bisschen anders machen.
+
+00:19:50.660 --> 00:19:57.250
+Und einfach auch Leute selber begeistern und erst mal die Freunde einladen,
+
+00:19:57.250 --> 00:19:58.250
+auch selber die Werbetrommel rühren.
+
+00:19:58.250 --> 00:20:00.250
+Und das kann sein, dass wir am ersten Mal zwei, drei kommen.
+
+00:20:00.250 --> 00:20:02.250
+Dann kommen sechs und dann werden es immer mehr.
+
+00:20:02.250 --> 00:20:03.250
+Und das ist das Schöne.
+
+00:20:03.250 --> 00:20:05.250
+Es müssen auch nicht immer viele sein.
+
+00:20:05.250 --> 00:20:08.250
+Wir haben manchmal Calls mit Hunderten von Teilnehmerinnen und Teilnehmern.
+
+00:20:08.250 --> 00:20:11.250
+Und wir haben auch manchmal Calls, wo dann nur zehn Leute dabei sind.
+
+00:20:11.250 --> 00:20:13.250
+Und manchmal sind die zehn Richtigen drin.
+
+00:20:13.250 --> 00:20:18.250
+Also ich sage den Leuten auch immer, das Wichtige ist, dass ihr das Wissen teilt.
+
+00:20:18.250 --> 00:20:20.250
+Ihr sollt den meisten Spaß haben.
+
+00:20:20.250 --> 00:20:21.250
+Nehmt auch was mit.
+
+00:20:21.250 --> 00:20:23.280
+Wir haben öfters bei uns auch Sessions, wo jemand sagt,
+
+00:20:23.280 --> 00:20:27.280
+dass wir bei uns den Jan Meier, der macht regelmäßig Getting Things Done.
+
+00:20:27.280 --> 00:20:31.500
+Und die letzten zehn Minuten gehören seinen Gästen,
+
+00:20:31.500 --> 00:20:33.500
+denn er möchte von den Menschen lernen.
+
+00:20:33.500 --> 00:20:35.500
+Und die sollen einfach mal ihre Tipps und Tricks teilen.
+
+00:20:35.500 --> 00:20:38.500
+Und die sammelt er auch noch ganz frech.
+
+00:20:38.500 --> 00:20:41.500
+Und er hat da bei uns eine Community,
+
+00:20:41.500 --> 00:20:44.910
+wo er dann einfach mal im Intranet eine Präsenz,
+
+00:20:44.910 --> 00:20:46.910
+wo dann die gesamten Werke auch geteilt werden.
+
+00:20:46.910 --> 00:20:48.910
+Und das finde ich, das ist das Schöne.
+
+00:20:48.910 --> 00:20:50.910
+Und das ist wiederum ganz anders von dem,
+
+00:20:50.910 --> 00:20:53.910
+jetzt gehe ich auf eine Schulung und da wird man begrüßt.
+
+00:20:53.910 --> 00:20:55.870
+Das geht dann irgendwie zwei, drei Stunden lang.
+
+00:20:55.870 --> 00:20:58.870
+Und die meisten gucken wie damals in der Schulzeit auf die Uhr,
+
+00:20:58.870 --> 00:20:59.870
+wann ist endlich Schluss?
+
+00:20:59.870 --> 00:21:00.870
+Und bei uns kommen die Leute freiwillig.
+
+00:21:00.870 --> 00:21:01.870
+Das ist das Schöne.
+
+00:21:01.870 --> 00:21:05.870
+Und man spürt diesen Spirit auch in diesen Runden.
+
+00:21:05.870 --> 00:21:07.870
+Mag man nicht, geht man wieder raus.
+
+00:21:07.870 --> 00:21:09.870
+Man hat auch keinen Eintritt bezahlt.
+
+00:21:09.870 --> 00:21:12.870
+Und wir gucken auch, dass wir die Sessions wiederholen können,
+
+00:21:12.870 --> 00:21:14.870
+damit jetzt nicht alles, wo jemand sagt,
+
+00:21:14.870 --> 00:21:15.870
+ja, ich konnte nicht dabei sein.
+
+00:21:15.870 --> 00:21:19.000
+Das andere Ding ist, wir versuchen auch nicht immer alles mitzuzeichnen.
+
+00:21:19.000 --> 00:21:22.000
+A, ist es ein Ressourcenthema, dann ist es ein Datenschutzthema.
+
+00:21:22.000 --> 00:21:24.000
+Aber auch meist werden diese Videos sich gar nicht angeschaut.
+
+00:21:24.000 --> 00:21:25.000
+Da bin ich ganz sicher,
+
+00:21:25.000 --> 00:21:27.000
+weil ich sehe die Aufrufzahlen von denen, die wir haben.
+
+00:21:27.000 --> 00:21:30.000
+Weil wir haben bei uns ja auch einen Videokanal.
+
+00:21:30.000 --> 00:21:34.000
+Es gibt bei uns nicht nur die Ansprechpartnerliste und die Sessionliste,
+
+00:21:34.000 --> 00:21:35.000
+sondern auch einen Videokanal.
+
+00:21:35.000 --> 00:21:38.310
+Wir haben sogar auch Chatgruppen, themenbasierte,
+
+00:21:38.310 --> 00:21:42.310
+wo dann auch mehrere hundert Menschen sich zu einem bestimmten Thema austauschen können.
+
+00:21:42.310 --> 00:21:44.310
+Also wir haben verschiedenste Formate.
+
+00:21:44.310 --> 00:21:46.310
+Auch eine Art Marktplatz, wo die Leute sich selber anbieten können.
+
+00:21:46.310 --> 00:21:49.310
+Hallo, ich bin Coach, Facilitator, Mentor etc.
+
+00:21:49.310 --> 00:21:52.340
+Und damit die Leute auch gesehen werden.
+
+00:21:52.340 --> 00:21:55.310
+Andersrum gibt es bei uns auch ein virtuelles schwarzes Pinnbrett,
+
+00:21:55.310 --> 00:21:57.310
+wo man auch nochmal seinen Bedarf anbringen kann.
+
+00:21:57.310 --> 00:21:59.310
+Ihr seht, es sind verschiedenste Sachen.
+
+00:21:59.310 --> 00:22:03.310
+Und ich kann das, was ich auch aus diesem ganzen hier,
+
+00:22:03.310 --> 00:22:05.310
+aus diesem ganzen bunten Strauß mitgeben kann,
+
+00:22:05.310 --> 00:22:07.310
+ist so nicht nur auf eine Sache konzentrieren,
+
+00:22:07.310 --> 00:22:08.310
+sondern verschiedene Dinge probieren.
+
+00:22:08.310 --> 00:22:11.310
+Zwischen virtuell und vor Ort geht ja langsam wieder.
+
+00:22:11.310 --> 00:22:12.310
+Wir öffnen ja langsam wieder.
+
+00:22:12.310 --> 00:22:15.310
+Was kann man denn machen? Auch Sachen an der frischen Luft machen.
+
+00:22:15.310 --> 00:22:17.310
+Ob es jetzt ein Selbstverteidigungskurs ist.
+
+00:22:17.310 --> 00:22:18.310
+Auch viel um die Ecke denken.
+
+00:22:18.310 --> 00:22:20.310
+Wenn man jemanden sieht, der dann gerade irgendwo steht und Klavier spielt.
+
+00:22:20.310 --> 00:22:22.310
+Hey, mach doch mal eine Session.
+
+00:22:22.310 --> 00:22:25.310
+Hast du nicht Lust, mal kurz zu erklären, wie schnell man dahin kommen kann?
+
+00:22:25.310 --> 00:22:27.310
+Also ständig nach Möglichkeiten suchen.
+
+00:22:27.310 --> 00:22:29.310
+Ständig auch selber gucken.
+
+00:22:29.310 --> 00:22:32.310
+Gerade, wenn ihr da in euren Firmen seid,
+
+00:22:32.310 --> 00:22:33.310
+guckt ins Intranet.
+
+00:22:33.310 --> 00:22:34.310
+Welche Themen sind gerade heiß?
+
+00:22:34.310 --> 00:22:35.310
+Was ist wichtig?
+
+00:22:35.310 --> 00:22:37.310
+Was bringt die Firma voran?
+
+00:22:37.310 --> 00:22:40.470
+Was brauchen die Mitarbeiter an Wissen,
+
+00:22:40.470 --> 00:22:42.620
+um die Sachen auch mal zu verstehen?
+
+00:22:42.620 --> 00:22:44.620
+Oder auch irgendwo hier und da mitwirken zu können.
+
+00:22:44.620 --> 00:22:45.620
+Ob es jetzt Programmieren ist.
+
+00:22:45.620 --> 00:22:47.620
+Ob es jetzt Technologie ist.
+
+00:22:47.620 --> 00:22:50.410
+Da gibt es verschiedenste Sachen.
+
+00:22:50.410 --> 00:22:51.410
+Auch Digitalisierung.
+
+00:22:51.410 --> 00:22:52.410
+Ist ja überall ein wichtiges Thema.
+
+00:22:52.410 --> 00:22:54.410
+Was bedeutet das denn für den Einzelnen?
+
+00:22:54.410 --> 00:22:57.410
+Wie viel Digitalisierung braucht jeder?
+
+00:22:57.410 --> 00:22:59.410
+Kann es auch reichen, dass man jetzt erstmal
+
+00:22:59.410 --> 00:23:02.410
+diese ganzen digitalen Zusammenarbeitstools versteht?
+
+00:23:02.410 --> 00:23:04.410
+Vor Corona kam man im Büro zusammen
+
+00:23:04.410 --> 00:23:08.410
+und hatte dann vielleicht einfach mal an so einem Whiteboard zusammengearbeitet.
+
+00:23:08.410 --> 00:23:11.410
+und jetzt arbeitet man an Miro oder an den ähnlichen anderen Lösungen.
+
+00:23:11.410 --> 00:23:12.410
+Aber wie funktioniert es?
+
+00:23:12.410 --> 00:23:14.410
+Und das kennt ihr nochmal als letzten Satz.
+
+00:23:14.410 --> 00:23:17.370
+Kommt man in so einem virtuellen Meeting zusammen
+
+00:23:17.370 --> 00:23:18.360
+und alle arbeiten mit Miro.
+
+00:23:18.360 --> 00:23:20.360
+Da sind zwei dabei, die kennen es nicht
+
+00:23:20.360 --> 00:23:23.360
+und halten dann, ganz böse gesagt, den Laden auf.
+
+00:23:23.360 --> 00:23:24.360
+Weil das kurz erklärt werden müssen
+
+00:23:24.360 --> 00:23:25.360
+oder beziehungsweise sie können gar nicht mitwirken.
+
+00:23:25.360 --> 00:23:27.360
+Und es geht dann dadurch auch Power verloren.
+
+00:23:27.360 --> 00:23:32.250
+So, ich glaube, Sebastian wollte was sagen.
+
+00:23:32.250 --> 00:23:33.250
+Er hebt die Hand.
+
+00:23:33.250 --> 00:23:34.250
+Genau, genau.
+
+00:23:34.250 --> 00:23:37.250
+Ich würde gerne deinen Punkt mit dem Kollegen aufnehmen.
+
+00:23:37.250 --> 00:23:40.250
+Ansonsten kann ich dir natürlich voll und ganz zustimmen.
+
+00:23:40.250 --> 00:23:41.250
+Einfach auch Dinge ausprobieren.
+
+00:23:41.250 --> 00:23:44.250
+Ich glaube, das gilt aber nicht nur für Lags und Help
+
+00:23:44.250 --> 00:23:46.250
+und so P2P Learning,
+
+00:23:46.250 --> 00:23:48.250
+sondern das gilt generell in der digitalen Welt.
+
+00:23:48.250 --> 00:23:50.250
+Einfach Dinge ausprobieren.
+
+00:23:50.250 --> 00:23:52.220
+Da, wo man den Spielraum hat, den auch nutzen
+
+00:23:52.220 --> 00:23:55.820
+und dann einfach mal, ja, wie man so schön sagt,
+
+00:23:55.820 --> 00:23:57.820
+auf die Klappe fallen und dann wieder aufstehen
+
+00:23:57.820 --> 00:23:59.820
+und aus seinen Fehlern eben lernen
+
+00:23:59.820 --> 00:24:02.820
+oder gucken, wo hat es jetzt noch gehakt?
+
+00:24:02.820 --> 00:24:04.820
+Wo müssen wir das Tool vielleicht noch anpassen?
+
+00:24:04.820 --> 00:24:07.950
+Genau, aber dieser Aspekt mit dem Wissen teilen,
+
+00:24:07.950 --> 00:24:08.950
+aber auch Wissen zurückbekommen.
+
+00:24:08.950 --> 00:24:10.950
+Also ich glaube, das ist einfach ein schöner Gedanke,
+
+00:24:10.950 --> 00:24:13.950
+so die ich gebe was und kriege dafür aber auch was zurück,
+
+00:24:13.950 --> 00:24:16.050
+weil ich bin selber Referent bei uns
+
+00:24:16.050 --> 00:24:18.110
+und aus jeder Session nehme ich irgendwas mit.
+
+00:24:18.110 --> 00:24:20.110
+Durch eine Frage von irgendeinem Teilnehmer
+
+00:24:20.110 --> 00:24:22.110
+werde ich auf was aufmerksam gemacht,
+
+00:24:22.110 --> 00:24:24.110
+wo ich vorher selber noch nicht drüber nachgedacht habe
+
+00:24:24.110 --> 00:24:26.110
+und dann beschäftige ich mich und lerne wieder davon.
+
+00:24:26.110 --> 00:24:29.210
+Und diesen Aspekt kann ich eigentlich auch jedem mitgeben,
+
+00:24:29.210 --> 00:24:30.210
+weil ich kenne das noch von früher,
+
+00:24:30.210 --> 00:24:32.210
+als ich damals hier gestartet bin mit meinem dualen Studium.
+
+00:24:32.210 --> 00:24:34.210
+Da war ich auch immer mal in den Abteilungen
+
+00:24:34.210 --> 00:24:38.400
+und dann hatte irgendein Mitarbeiter manchmal sogar
+
+00:24:38.400 --> 00:24:42.400
+eine bestimmte Excel, die super toll VBA programmiert war
+
+00:24:42.400 --> 00:24:44.400
+und ganz tolle Ergebnisse ausgespuckt hatte,
+
+00:24:44.400 --> 00:24:46.400
+aber der Mitarbeiter war da so stolz drauf,
+
+00:24:46.400 --> 00:24:48.400
+dass er es nicht teilen wollte so richtig.
+
+00:24:48.400 --> 00:24:50.400
+Und das gab es dann auch manchmal
+
+00:24:50.400 --> 00:24:52.400
+im Team oder abteilungsübergreifend,
+
+00:24:52.400 --> 00:24:54.650
+aber es ist halt nicht darüber hinaus gewachsen.
+
+00:24:54.650 --> 00:24:56.650
+Und ich glaube, ein Unternehmen profitiert enorm davon,
+
+00:24:56.650 --> 00:24:58.650
+wenn man dieses Wissen teilt.
+
+00:24:58.650 --> 00:25:00.770
+Und einfach auch natürlich,
+
+00:25:00.770 --> 00:25:02.770
+man muss irgendwo auch ein bisschen aufpassen,
+
+00:25:02.770 --> 00:25:06.770
+dass einem da Dinge, also Wissen im Unternehmen
+
+00:25:06.770 --> 00:25:08.770
+nicht geklaut wird von wem anders.
+
+00:25:08.770 --> 00:25:10.770
+Das ist sicherlich so, aber generell als Gesellschaft
+
+00:25:10.770 --> 00:25:12.770
+profitieren wir, glaube ich, davon,
+
+00:25:12.770 --> 00:25:14.770
+wenn wir Wissen miteinander teilen
+
+00:25:14.770 --> 00:25:16.770
+und uns ein bisschen von dieser Furcht distanzieren,
+
+00:25:16.770 --> 00:25:18.770
+dass was Schlimmes passiert,
+
+00:25:18.770 --> 00:25:20.730
+wenn man mal sein Know-how weitergibt.
+
+00:25:20.730 --> 00:25:22.760
+Weil ich glaube, in den meisten Fällen
+
+00:25:22.760 --> 00:25:24.760
+wird man am Ende dafür belohnt
+
+00:25:24.760 --> 00:25:26.680
+von den anderen Leuten,
+
+00:25:26.680 --> 00:25:29.710
+weil man sein Wissen weitergegeben hat.
+
+00:25:29.710 --> 00:25:31.710
+Ja, selbst ich hatte das auch bei,
+
+00:25:31.710 --> 00:25:33.710
+als ich mal gründen wollte,
+
+00:25:33.710 --> 00:25:34.710
+da wird ja auch immer gesagt,
+
+00:25:34.710 --> 00:25:36.710
+ach, erzähl das keinem deine Idee.
+
+00:25:36.710 --> 00:25:38.710
+Aber eigentlich war das auch,
+
+00:25:38.710 --> 00:25:40.710
+also vielleicht ein bisschen abgeschweift,
+
+00:25:40.710 --> 00:25:43.840
+aber da habe ich das auch jedem erzählt
+
+00:25:43.840 --> 00:25:45.840
+und dann super viel Input bekommen,
+
+00:25:45.840 --> 00:25:46.840
+immer weiter.
+
+00:25:46.840 --> 00:25:47.840
+Und da, genau wie du sagst,
+
+00:25:47.840 --> 00:25:48.840
+ich habe da nicht drauf,
+
+00:25:48.840 --> 00:25:50.840
+noch gar nicht dran gedacht
+
+00:25:50.840 --> 00:25:52.830
+und man kommt dann auf jeden Fall weiter.
+
+00:25:52.830 --> 00:25:53.840
+Ich glaube aber,
+
+00:25:53.840 --> 00:25:55.960
+dass wir erstmal so in die Köpfe rein,
+
+00:25:55.960 --> 00:25:57.960
+also dass man halt nicht sagt,
+
+00:25:57.960 --> 00:25:59.960
+ich will mein Wissen irgendwie
+
+00:25:59.960 --> 00:26:00.960
+verteidigen gegen andere.
+
+00:26:00.960 --> 00:26:01.960
+vielleicht war das so
+
+00:26:01.960 --> 00:26:02.960
+in der Vergangenheit so.
+
+00:26:02.960 --> 00:26:04.960
+Und dass man erstmal dahin kommt,
+
+00:26:04.960 --> 00:26:07.460
+die Leute dazu,
+
+00:26:07.460 --> 00:26:09.460
+die zu überzeugen vielleicht,
+
+00:26:09.460 --> 00:26:11.460
+dass sie ihr Wissen auch teilen.
+
+00:26:11.460 --> 00:26:12.780
+Ich glaube, das ist auch
+
+00:26:12.780 --> 00:26:14.780
+ein ganz, ganz wichtiger Schritt
+
+00:26:14.780 --> 00:26:16.780
+in unserer heutigen Zeit,
+
+00:26:16.780 --> 00:26:19.780
+wo die Veränderung ja so
+
+00:26:19.780 --> 00:26:22.030
+stark vorantreibt,
+
+00:26:22.030 --> 00:26:24.020
+dass wir verstehen,
+
+00:26:24.020 --> 00:26:26.020
+Wissen teilen ist Macht
+
+00:26:26.020 --> 00:26:28.020
+und nicht Wissen ist Macht.
+
+00:26:28.020 --> 00:26:30.020
+Ich glaube, da leistet ihr
+
+00:26:30.020 --> 00:26:32.020
+mit eurer Help-Initiative,
+
+00:26:32.020 --> 00:26:34.020
+Lex-Initiative,
+
+00:26:34.020 --> 00:26:36.020
+einen super wertvollen Beitrag.
+
+00:26:36.020 --> 00:26:38.210
+Aber, so wie Manuel sagt,
+
+00:26:38.210 --> 00:26:40.210
+das ist schon ein Kulturwandel
+
+00:26:40.210 --> 00:26:44.250
+und darf weiter ausprobiert werden
+
+00:26:44.250 --> 00:26:46.250
+und vorangetrieben werden
+
+00:26:46.250 --> 00:26:49.250
+durch so wundervolle Initiativen,
+
+00:26:49.250 --> 00:26:51.250
+die ihr da losgetreten habt.
+
+00:26:51.250 --> 00:26:53.630
+Mich würde noch interessieren,
+
+00:26:53.630 --> 00:26:56.630
+ihr habt ja ganz unterschiedliche Angebote.
+
+00:26:56.630 --> 00:26:58.590
+Ich hätte gesehen,
+
+00:26:58.590 --> 00:27:00.590
+Shaki, ihr habt auch sowas wie Lach-Yoga,
+
+00:27:00.590 --> 00:27:01.590
+Meditation.
+
+00:27:01.590 --> 00:27:03.590
+Wie wird sowas angenommen?
+
+00:27:03.590 --> 00:27:06.390
+Also, sehr, sehr gut.
+
+00:27:06.390 --> 00:27:08.390
+Also, erschreckend gut.
+
+00:27:08.390 --> 00:27:10.840
+Wie soll ich sagen,
+
+00:27:10.840 --> 00:27:11.840
+heute hatten wir, glaube ich,
+
+00:27:11.840 --> 00:27:12.840
+zwei, drei
+
+00:27:12.840 --> 00:27:13.970
+und ich hatte einfach mal geguckt
+
+00:27:13.970 --> 00:27:14.970
+bei den Teilnehmerzahlen
+
+00:27:14.970 --> 00:27:15.970
+und bei einem dieser Kurse
+
+00:27:15.970 --> 00:27:17.970
+waren fast 100 Menschen drin,
+
+00:27:17.970 --> 00:27:19.000
+kurz vor der Mittagspause.
+
+00:27:19.000 --> 00:27:20.000
+Und das finde ich einfach schön,
+
+00:27:20.000 --> 00:27:22.000
+das zeigt auch irgendwo den Bedarf.
+
+00:27:22.000 --> 00:27:24.000
+Vielleicht ist das auch der Zeit geschuldet,
+
+00:27:24.000 --> 00:27:26.000
+den Corona-Umständen,
+
+00:27:26.000 --> 00:27:29.700
+dass man einfach nochmal dann sein,
+
+00:27:29.700 --> 00:27:32.700
+seinem Körper was Gutes tun möchte
+
+00:27:32.700 --> 00:27:34.700
+und wie geht das am einfachsten.
+
+00:27:34.700 --> 00:27:36.700
+Und was ich auch bei unseren Angeboten,
+
+00:27:36.700 --> 00:27:38.700
+und da spreche ich auch bestimmt für Sebastian,
+
+00:27:38.700 --> 00:27:42.520
+also unsere Kollegen, die was anbieten,
+
+00:27:42.520 --> 00:27:46.060
+die sprechen auch die Sprache der Kollegen
+
+00:27:46.060 --> 00:27:49.060
+und die verstehen meistens auch die Bedürfnisse.
+
+00:27:49.060 --> 00:27:50.060
+Die kennen vielleicht auch die Stühle,
+
+00:27:50.060 --> 00:27:51.060
+die wir halt nutzen
+
+00:27:51.060 --> 00:27:52.060
+oder die Tische,
+
+00:27:52.060 --> 00:27:53.060
+die wir halt im Büro haben.
+
+00:27:53.060 --> 00:27:55.060
+Und was dann meistens folgt,
+
+00:27:55.060 --> 00:27:56.060
+ich sage bei der Telekom,
+
+00:27:56.060 --> 00:27:58.060
+wir haben sogar eine eigene Telekom-Sprache
+
+00:27:58.060 --> 00:27:59.060
+und dann blickt dann jeder direkt durch
+
+00:27:59.060 --> 00:28:02.090
+und das macht es auch nochmal einfacher.
+
+00:28:02.090 --> 00:28:03.090
+Also wir haben diese Angebote,
+
+00:28:03.090 --> 00:28:04.560
+die gehen sehr gut an
+
+00:28:04.560 --> 00:28:07.560
+und wir sind halt informell unterwegs
+
+00:28:07.560 --> 00:28:08.560
+und es gibt auch nicht jetzt diesen Druck,
+
+00:28:08.560 --> 00:28:11.520
+dass wir irgendwas anbieten müssen.
+
+00:28:11.520 --> 00:28:13.520
+Das noch nicht oder hoffentlich nie,
+
+00:28:13.520 --> 00:28:15.520
+weil es ist komplett alles freiwillig.
+
+00:28:15.520 --> 00:28:16.520
+Ich finde einfach,
+
+00:28:16.520 --> 00:28:17.520
+was wir hier gerade betreiben,
+
+00:28:17.520 --> 00:28:18.520
+ist eigentlich,
+
+00:28:18.520 --> 00:28:20.520
+wir schaffen hier lernende Organisation
+
+00:28:20.520 --> 00:28:22.520
+und wir zeigen, was möglich ist,
+
+00:28:22.520 --> 00:28:24.520
+wenn die Menschen Freiraum bekommen.
+
+00:28:24.520 --> 00:28:25.520
+Und vielleicht wird dann ähnlich,
+
+00:28:25.520 --> 00:28:27.520
+da bin ich auch ein großer Fan von,
+
+00:28:27.520 --> 00:28:29.670
+eine offizielle Lernstunde mal eingeführt.
+
+00:28:29.670 --> 00:28:31.670
+Vielleicht eine offizielle Lernstunde pro Woche,
+
+00:28:31.670 --> 00:28:32.670
+pro Mitarbeiter,
+
+00:28:32.670 --> 00:28:37.540
+die die Person dann einfach mal selber festlegen kann.
+
+00:28:37.540 --> 00:28:38.620
+Tut die Stunde dahin,
+
+00:28:38.620 --> 00:28:41.130
+wo sie am besten passt
+
+00:28:41.130 --> 00:28:43.190
+und lernt dann auch ungestört.
+
+00:28:43.190 --> 00:28:45.350
+Und das finde ich richtig schön.
+
+00:28:45.350 --> 00:28:47.410
+Und wir möchten auch bei Lex,
+
+00:28:47.410 --> 00:28:48.370
+dass es mal irgendwo hinkommt,
+
+00:28:48.370 --> 00:28:50.410
+dass hier manch einer sich jetzt nicht freinimmt
+
+00:28:50.410 --> 00:28:51.410
+oder dass das Freizeit ist,
+
+00:28:51.410 --> 00:28:52.410
+wenn er eine Lex-Session hält,
+
+00:28:52.410 --> 00:28:54.410
+sondern dass das auch als Arbeitszeit gilt
+
+00:28:54.410 --> 00:28:55.410
+und darüber hinaus
+
+00:28:55.410 --> 00:28:57.410
+die Menschen auch in ihrem Thema wachsen können.
+
+00:28:57.410 --> 00:28:59.410
+Wir haben es geschafft mit ein paar Leuten,
+
+00:28:59.410 --> 00:29:01.410
+die sind jetzt hauptamtliche Coaches,
+
+00:29:01.410 --> 00:29:02.410
+aber es wäre schön, wenn jemand sagt,
+
+00:29:02.410 --> 00:29:04.410
+ich kann das gut, ich will darin wachsen,
+
+00:29:04.410 --> 00:29:05.410
+dass es da auch eine Möglichkeit gibt
+
+00:29:05.410 --> 00:29:07.410
+und dass die Menschen auch Incentives bekommen
+
+00:29:07.410 --> 00:29:09.690
+und dass die auch mal belohnt werden.
+
+00:29:09.690 --> 00:29:11.750
+Weil wenn wir jetzt mal von draußen jemanden reinholen
+
+00:29:11.750 --> 00:29:13.750
+und der uns dann mal so eine Stunde,
+
+00:29:13.750 --> 00:29:15.750
+zwei Stunden zur Agilität aufschlaut,
+
+00:29:15.750 --> 00:29:16.750
+der kostet dann bestimmt 1.000 Euro.
+
+00:29:16.750 --> 00:29:18.750
+Die sparen wir irgendwo ja auch.
+
+00:29:18.750 --> 00:29:19.740
+Und vielleicht können wir ja auch davon
+
+00:29:19.740 --> 00:29:22.740
+vielleicht irgendwas in irgendeiner Art und Weise
+
+00:29:22.740 --> 00:29:23.740
+den Menschen zukommen lassen.
+
+00:29:23.740 --> 00:29:24.740
+Und wenn es kein Geld ist,
+
+00:29:24.740 --> 00:29:25.740
+vielleicht kann man den Menschen
+
+00:29:25.740 --> 00:29:29.380
+eine Fortbildung nach Wunsch ermöglichen.
+
+00:29:29.380 --> 00:29:32.060
+Also Möglichkeiten gibt es viele.
+
+00:29:32.060 --> 00:29:35.690
+Habt ihr denn jetzt nach 5 Jahren Lex auch gemerkt,
+
+00:29:35.690 --> 00:29:37.690
+dass vielleicht die Ausgaben
+
+00:29:37.690 --> 00:29:41.690
+für traditionelle Weiterbildungsformate gesunken sind,
+
+00:29:41.690 --> 00:29:43.690
+weil ihr so ein buntes, vielseitiges,
+
+00:29:43.690 --> 00:29:45.750
+breit gefächertes Angebot habt,
+
+00:29:45.750 --> 00:29:47.750
+dass ihr gar nicht, so wie du es gesagt hast,
+
+00:29:47.750 --> 00:29:49.750
+so viel mehr von außen einkaufen müsst,
+
+00:29:49.750 --> 00:29:52.750
+weil das ganze Know-how auch in der Telekom-Gruppe ist?
+
+00:29:52.750 --> 00:29:54.840
+Oh, wer weiß, wer weiß.
+
+00:29:54.840 --> 00:30:00.470
+Ich glaube, was bei uns aktuell passiert,
+
+00:30:00.470 --> 00:30:03.470
+ist, dass immer stärker auf Lex hingewiesen wird,
+
+00:30:03.470 --> 00:30:05.500
+weil wir viele Einstiegsthemen haben.
+
+00:30:05.500 --> 00:30:08.460
+Agile in 60 Minuten, Scrum in 60 Minuten,
+
+00:30:08.460 --> 00:30:13.180
+Kanban in 60 Minuten und weitere ähnliche Themen.
+
+00:30:13.180 --> 00:30:15.180
+Wie funktioniert Design Thinking?
+
+00:30:15.180 --> 00:30:17.180
+Wie funktionieren gewisse Tools?
+
+00:30:17.180 --> 00:30:19.180
+Und das finde ich schön,
+
+00:30:19.180 --> 00:30:21.180
+bevor man jetzt jemanden zum Scrum Master macht,
+
+00:30:21.180 --> 00:30:23.180
+dass der einfach mal vielleicht bei uns mal reinschnuppert,
+
+00:30:23.180 --> 00:30:26.180
+um festzustellen, ist das was für mich?
+
+00:30:26.180 --> 00:30:30.180
+Und vielleicht hilft das, auf langer Sicht Geld zu sparen.
+
+00:30:30.180 --> 00:30:33.910
+Und kurzfristig kann ich mir gut vorstellen.
+
+00:30:33.910 --> 00:30:35.910
+Ich weiß es nicht, aber es ist auch so ein Thema,
+
+00:30:35.910 --> 00:30:37.910
+ich sage, da muss ich auch nicht unbedingt reingehen,
+
+00:30:37.910 --> 00:30:39.910
+weil das ist auch die Frage, ob wir uns damit was Gutes tun.
+
+00:30:39.910 --> 00:30:41.910
+Wir möchten ja nichts ersetzen.
+
+00:30:41.910 --> 00:30:44.910
+Wir machen keine Schulungen, keine Fortbildungen, keine Zertifizierungen.
+
+00:30:44.910 --> 00:30:46.910
+Dafür gibt es bei uns offizielle Kanäle.
+
+00:30:46.910 --> 00:30:49.970
+Wir sind auch keine Konkurrenz, sondern wir sind eine tolle Ergänzung
+
+00:30:49.970 --> 00:30:50.970
+und das soll auch so bleiben.
+
+00:30:50.970 --> 00:30:54.970
+Und möchten auch gern weiterhin frei sein, alles Mögliche anzubieten.
+
+00:30:54.970 --> 00:30:56.970
+Natürlich auch businessrelevante Themen,
+
+00:30:56.970 --> 00:30:59.970
+aber gerne auch weiterhin Lach-Yoga und auch Tanzen.
+
+00:30:59.970 --> 00:31:03.970
+Ja, und wer weiß, was es da sonst noch für Möglichkeiten gibt.
+
+00:31:03.970 --> 00:31:05.890
+Wir hatten auch schon Kicker-Training vor Ort.
+
+00:31:05.890 --> 00:31:08.030
+Also vor Ort hatten wir schon die lustigsten Geschichten.
+
+00:31:08.030 --> 00:31:10.030
+Und das inspiriert die Menschen ja auch.
+
+00:31:10.030 --> 00:31:12.030
+Wer weiß, wozu das nachher führt, weil es ist ja auch,
+
+00:31:12.030 --> 00:31:15.030
+wir schaffen hier ein Potenzial zum Networken.
+
+00:31:15.030 --> 00:31:18.030
+Man lernt Menschen kennen, vielleicht übers Lachen oder übers Tanzen.
+
+00:31:18.030 --> 00:31:20.030
+Und plötzlich sagt man, ach, du bist hier beim Datenschutz.
+
+00:31:20.030 --> 00:31:23.030
+Ich hatte dann ein Thema. Kannst du mir mal weiterhelfen?
+
+00:31:23.030 --> 00:31:26.180
+Und also wo geht das besser als bei uns?
+
+00:31:26.180 --> 00:31:29.240
+Ich sage auch immer ganz frech, ich bin die Person,
+
+00:31:29.240 --> 00:31:32.250
+die weiß, wer was kann in unserer Firma.
+
+00:31:32.250 --> 00:31:37.250
+Habt ihr so, das hatte ich mich gefragt, so eine Art Qualitätssicherung
+
+00:31:37.250 --> 00:31:41.250
+oder kann jeder eigentlich mit seinem Thema kommen und sagen,
+
+00:31:41.250 --> 00:31:43.700
+ich möchte da einen Vortrag zu halten?
+
+00:31:43.700 --> 00:31:48.700
+Jeder kann kommen und damit werden wir bestimmt auch irgendwann mal auf die Nase fallen.
+
+00:31:48.700 --> 00:31:51.700
+Aber gerade in Deutschland, nicht jeder traut sich.
+
+00:31:51.700 --> 00:31:54.700
+Das kennen wir bestimmt auch hier aus der Startup-Szene und weiß der Teufel was,
+
+00:31:54.700 --> 00:31:57.700
+wenn man das mal vergleicht mit Amerika.
+
+00:31:57.700 --> 00:32:00.640
+Die Leute sind sehr, sehr vorsichtig.
+
+00:32:00.640 --> 00:32:04.170
+Plötzlich, wieso heißt das denn Lernen von Experten? Ich bin doch kein Experte.
+
+00:32:04.170 --> 00:32:06.170
+Ja gut, zu spät. Wir sind damals mit dem Namen gestartet,
+
+00:32:06.170 --> 00:32:08.170
+den können wir jetzt auch gar nicht mehr ändern.
+
+00:32:08.170 --> 00:32:10.170
+Es geht einfach darum, komm und zeig doch mal was.
+
+00:32:10.170 --> 00:32:12.170
+Wir suchen eigentlich den netten Menschen, der bereit ist,
+
+00:32:12.170 --> 00:32:15.170
+andere Menschen aufzuschlauen und denen weiterzuhelfen.
+
+00:32:15.170 --> 00:32:17.170
+Und es kann jeder kommen, das möchten wir auch,
+
+00:32:17.170 --> 00:32:19.170
+weil wir glauben auch an die Menschen und sagen,
+
+00:32:19.170 --> 00:32:22.170
+jeder bei uns ist eine Expertin, ist ein Experte.
+
+00:32:22.170 --> 00:32:24.170
+Jeder kann was und jeder ist herzlich willkommen.
+
+00:32:24.170 --> 00:32:27.170
+Und auch diese Menschen können sich dadurch weiterbilden.
+
+00:32:27.170 --> 00:32:28.170
+Wir sind auch der Trainingsplatz.
+
+00:32:28.170 --> 00:32:30.640
+Man kann auch bei uns mal einen Vorteil,
+
+00:32:30.640 --> 00:32:33.050
+bevor man vielleicht rausgeht und diesen beim Kunden hält,
+
+00:32:33.050 --> 00:32:36.050
+wir lernen drin was, die Person hat was davon.
+
+00:32:36.050 --> 00:32:40.050
+Und es ist im Grunde genommen eigentlich eine ganz tolle, schöne Sache.
+
+00:32:40.050 --> 00:32:44.040
+Aber es birgt auch Potenzial für, dass da jemand kommt und Quatsch macht.
+
+00:32:44.040 --> 00:32:45.260
+Kann immer wieder passieren.
+
+00:32:45.260 --> 00:32:47.260
+Das kennen wir auch aus dem normalen Leben.
+
+00:32:47.260 --> 00:32:49.260
+Aber dafür müssen wir auch gewappnet sein.
+
+00:32:49.260 --> 00:32:51.260
+Und das müssen wir auch aushalten können.
+
+00:32:51.260 --> 00:32:53.260
+Das ist jetzt auch die Zeit.
+
+00:32:53.260 --> 00:32:57.380
+Sonst wird auch nichts Schlimmes oder Böses in der Welt passieren.
+
+00:32:57.380 --> 00:33:02.500
+Und wie kamt ihr dazu, dann das auch zu öffnen für andere Unternehmen?
+
+00:33:02.500 --> 00:33:04.660
+Nee, das ist gut, dass die Frage jetzt kommt.
+
+00:33:04.660 --> 00:33:07.790
+Weil es sind ja nicht, dass die Unternehmen jetzt untereinander,
+
+00:33:07.790 --> 00:33:10.750
+bestimmt arbeiten die Unternehmen auch so miteinander zusammen.
+
+00:33:10.750 --> 00:33:14.750
+Was wir eigentlich tun ist, wir haben bei uns sehr viele Sessions.
+
+00:33:14.750 --> 00:33:19.850
+Und einige der Sessions, meistens die Sessions, die externe halten, sind offen.
+
+00:33:19.850 --> 00:33:21.850
+Und da werden dann Wildcards vergeben.
+
+00:33:21.850 --> 00:33:25.290
+Da steht dann immer dran, 30 Wildcards, künstliche Verknappung.
+
+00:33:25.290 --> 00:33:27.290
+Wenn jetzt 50 kommen wollen, kommen die auch rein.
+
+00:33:27.290 --> 00:33:30.290
+Wir sind nicht böse, wir lassen jeden gerne rein, wer möchte.
+
+00:33:30.290 --> 00:33:34.950
+Und wir freuen uns, dass dann Leute von anderen Unternehmen kommen.
+
+00:33:34.950 --> 00:33:36.950
+Wir haben jetzt den nächsten Kollegen von Audi bei uns,
+
+00:33:36.950 --> 00:33:40.950
+der jetzt ein schönes Thema macht zum Thema Mediation.
+
+00:33:40.950 --> 00:33:47.260
+Und gerne vermitteln wir auch unseren Kollegen, wenn Bedarf ist, an die Firmen.
+
+00:33:47.260 --> 00:33:50.360
+Und das ist ein kostenloser Service, sage ich jetzt mal.
+
+00:33:50.360 --> 00:33:53.360
+Und mal schauen, wohin das geht.
+
+00:33:53.360 --> 00:33:55.360
+Wir sind damit mal gestartet.
+
+00:33:55.360 --> 00:33:58.220
+Und ich merke aber auch, dass es Unternehmen gibt,
+
+00:33:58.220 --> 00:34:01.220
+wo die Leute ein bisschen vorsichtiger sind und lieber als Privatperson kommen,
+
+00:34:01.220 --> 00:34:05.220
+anstatt jetzt hier XY von der Firma so und so.
+
+00:34:05.220 --> 00:34:07.220
+Finde ich ein bisschen schade.
+
+00:34:07.220 --> 00:34:10.540
+Aber ich bin mal gespannt, wohin die Reise geht.
+
+00:34:10.540 --> 00:34:17.630
+Wir sind jetzt sachte, sachte damit gestartet und hoffe, dass das weiter wachsen kann.
+
+00:34:17.630 --> 00:34:20.650
+Also es fängt langsam an.
+
+00:34:20.650 --> 00:34:26.190
+Was war denn so das wertvollste Feedback oder das wertschätzendste Feedback
+
+00:34:26.190 --> 00:34:34.480
+in der Geschichte von Lex, das du oder ihr als Gründungsteam erhalten habt von Teilnehmerinnen?
+
+00:34:34.480 --> 00:34:39.810
+Sebastian, fang du mal an, dann überlege ich mal, was ich bekommen habe.
+
+00:34:39.810 --> 00:34:48.210
+Ui, gute Frage. Also uns gibt es ja seit September letzten Jahres, was ich ganz oft gehört habe,
+
+00:34:48.210 --> 00:34:54.530
+war, dass die Leute sehr dankbar dafür waren, dass wir diese Angebote zur Verfügung gestellt haben,
+
+00:34:54.530 --> 00:34:59.780
+dass wir auch immer mehr jetzt, sage ich mal, sagen, das ist auch für jeden zugänglich.
+
+00:34:59.780 --> 00:35:02.780
+Also das war für uns von Anfang an klar, aber das muss ich ja auch erst mal rumsprechen.
+
+00:35:02.780 --> 00:35:11.130
+Also das ist es eigentlich. Also die Leute sind dankbar, wenn sie dieses Wissen bekommen,
+
+00:35:11.130 --> 00:35:17.130
+wenn da jemand da ist, der sich die Zeit mal für sie nimmt, das in Ruhe erklärt
+
+00:35:17.130 --> 00:35:22.130
+und wie Shakil eben auch sagte, auf einer Basis erklärt, die nicht auf Höhe,
+
+00:35:22.130 --> 00:35:26.130
+also so von der Formulierung ist, wie die eines Referenten oder einer Referentin,
+
+00:35:26.130 --> 00:35:33.250
+sondern einfach kollegial auf Augenhöhe, ohne da jetzt über irgendwelche Stellenpositionen
+
+00:35:33.250 --> 00:35:36.250
+oder so drüber nachzudenken, sondern einfach den Menschen im Fokus zu sehen
+
+00:35:36.250 --> 00:35:39.230
+und die Hilfestellung im Fokus zu sehen, ja.
+
+00:35:39.230 --> 00:35:44.290
+Ja, bei uns. Ich freue mich aber über jedes Dankeschön.
+
+00:35:44.290 --> 00:35:46.290
+Es gibt sehr viele, das muss ich dir auch mal sagen.
+
+00:35:46.290 --> 00:35:50.330
+Und jedes ist für mich eine Art Treibstoff.
+
+00:35:50.330 --> 00:35:53.470
+Ich habe sogar jetzt die Menschen angefangen, die mir das mal so über andere Kanäle sagen,
+
+00:35:53.470 --> 00:35:56.470
+bitte schickt es doch mal als Mail zu, dann kann ich es auch mal an meine Chefs weiterleiten.
+
+00:35:58.470 --> 00:36:02.390
+Aber das wissen die eh schon, dass das Thema Lex ganz gut ankommt.
+
+00:36:02.390 --> 00:36:05.430
+Mir macht es Spaß, einfach jedem eine Freude zu bereiten, so klein sie auch ist.
+
+00:36:05.430 --> 00:36:10.060
+Also ich kriege es ganz viel, ganz viel kommt in meine Richtung,
+
+00:36:10.060 --> 00:36:12.060
+für das ich gar nicht so richtig zuständig bin.
+
+00:36:12.060 --> 00:36:16.060
+Ich komme jetzt in diese Session nicht rein, wurde da was verlegt, warum ist das nicht?
+
+00:36:16.060 --> 00:36:19.060
+Und so wie gesagt, hey, eigentlich hätte die auf jemand anderes zugehen sollen.
+
+00:36:19.060 --> 00:36:22.060
+Aber das kostet genauso viel Kraft, wie den Menschen zu helfen.
+
+00:36:22.060 --> 00:36:25.060
+Und dann lieber den Menschen helfen und denen dann vielleicht nebenbei sagen,
+
+00:36:25.060 --> 00:36:28.060
+hey, ich mache es, aber es ist jetzt nicht mein Thema, aber ich will dir helfen.
+
+00:36:28.060 --> 00:36:32.120
+Damit macht man sich viel mehr Freude, auch selber und auch den anderen Menschen.
+
+00:36:32.120 --> 00:36:37.280
+Und das erzeugt dann auch noch mal eine Art, wie soll ich sagen, Energie.
+
+00:36:37.280 --> 00:36:41.280
+Die setzt das jetzt noch mal Energie frei und das ist das, was mir Spaß macht.
+
+00:36:41.280 --> 00:36:45.950
+Und ich freue mich auch, dass wir auch so Themen haben, mit denen man nicht unbedingt gerechnet hat.
+
+00:36:45.950 --> 00:36:51.950
+Wir haben jetzt mal aus Jux und Dollarei mal gestartet mit dem Thema hier Leben in der DDR.
+
+00:36:51.950 --> 00:36:54.950
+Kam richtig gut an. Da waren so viele Nostaliga drin.
+
+00:36:54.950 --> 00:36:59.140
+Und dann kamen dann danach Computer in der DDR und dann wieder Leben in der DDR.
+
+00:36:59.140 --> 00:37:03.140
+Und dann ist daraus eine Chatgruppe entstanden, wo, glaube ich, auch noch mal politische Themen
+
+00:37:03.140 --> 00:37:07.140
+noch mal besprochen wurden, wo jemand sagte, eigentlich war das nicht meine Idee dieser Session.
+
+00:37:07.140 --> 00:37:11.140
+Aber das ist dieses Schöne, was dann noch mal daraus entstehen kann.
+
+00:37:11.140 --> 00:37:15.140
+Oder ganz, als bei uns das Thema Corona-App hochkam,
+
+00:37:15.140 --> 00:37:19.890
+habe ich mich noch mal stark gemacht, habe Leute gesucht, die das mal erklären.
+
+00:37:19.890 --> 00:37:23.890
+Einfach mal, weil ich wichtig finde, dass auch mal solche Themen bei uns intern noch mal erklärt werden.
+
+00:37:23.890 --> 00:37:29.890
+Oder auch unsere Produkte. Es gibt bei uns ein Thema, es gibt bei uns ein Produkt, das nennt sich KidsWatch.
+
+00:37:29.890 --> 00:37:33.890
+Das ist jetzt keine Werbung, aber ist wichtig. Ich weiß nicht, was das ist. Ich will das verstehen.
+
+00:37:33.890 --> 00:37:37.890
+Vielleicht bin ich dann auch Kunde, dass wir erst mal die naheliegenden Kunden abholen,
+
+00:37:37.890 --> 00:37:39.890
+damit wir die auch noch mal von uns gewinnen können.
+
+00:37:39.890 --> 00:37:46.720
+Weil wenn die rausgehen und mit ihren Freunden sprechen, ist die Wirkung noch sehr viel stärker.
+
+00:37:46.720 --> 00:37:48.720
+Und somit bindet man auch noch mal die Kollegen.
+
+00:37:48.720 --> 00:37:51.720
+Und viele sind auch mal sehr stolz darüber zu berichten, was sie getan haben,
+
+00:37:51.720 --> 00:37:54.710
+wie sie es getan haben, welche Methoden sie angewendet haben.
+
+00:37:54.710 --> 00:38:02.870
+Wir haben bei uns auch Themen, die vielleicht irgendwo anders Randthemen sind.
+
+00:38:02.870 --> 00:38:09.470
+Die Schwulen und Lesben haben bei uns öfter Sessions, also Angebote dieser Kollegen sind bei uns auch drin.
+
+00:38:09.470 --> 00:38:13.470
+Genauso wie vor einiger Zeit hier gibt es eine Gruppe, die heißt jetzt bei uns Christen der Telekom.
+
+00:38:13.470 --> 00:38:18.590
+Die hatten auch eine Session-Reihe. Warum nicht? Einfach mal, es gibt es und dass wir das auch mal ruhig reinbringen.
+
+00:38:18.590 --> 00:38:23.590
+Oder wenn es noch mal Kollegen kommen und ich suche ständig Menschen, die mal Lust haben,
+
+00:38:23.590 --> 00:38:31.590
+Agil in 60 Minuten auf Bayerisch zu machen oder auf Kölsch. Einfach mal komplett verrückte Sachen, um zu gucken, wie es ankommt.
+
+00:38:31.590 --> 00:38:36.560
+Wir haben bei uns ein kleines Erklärvideo, das geht, glaube ich, 100 Sekunden lang.
+
+00:38:36.560 --> 00:38:40.560
+Und das haben wir in verschiedensten Sprachen. Da ist jetzt noch Indonesisch hinzugekommen.
+
+00:38:40.560 --> 00:38:43.560
+Also die werden in verschiedensten Sprachen vertont, auch in Dialekten.
+
+00:38:43.560 --> 00:38:47.560
+Und ich finde das einfach eine coole Geschichte. Also wir machen auch viel Schabernack.
+
+00:38:47.560 --> 00:38:51.680
+Und das gehört auch dazu. Also ist auch wichtig, ich weiß nicht, wie viel Zeit wir noch haben,
+
+00:38:51.680 --> 00:38:55.680
+auch die Leute, die bei uns im Lex-Umfeld arbeiten, die sollen sehr viel Spaß haben.
+
+00:38:55.680 --> 00:38:58.680
+Und die sind alle freiwillig dabei. Ich bin der Einzige, der bezahlt wird.
+
+00:38:58.680 --> 00:39:01.680
+Und ich sage, wenn ihr es nicht macht, mache ich es. Aber ihr müsst das nicht machen.
+
+00:39:01.680 --> 00:39:06.000
+Sucht euch was aus und helft mit, dass diese Plattform weiter lebt.
+
+00:39:06.000 --> 00:39:10.000
+Es gibt bei uns sehr viel Fleißarbeit zu tun, die auch nicht immer Spaß macht.
+
+00:39:10.000 --> 00:39:13.000
+Und ich finde es sehr schön, dass wir da Menschen haben, die zwischen Türen gucken,
+
+00:39:13.000 --> 00:39:19.000
+dass diese Sachen eingetragen werden. Und trotzdem haben die Leute auch sehr viel Spaß bei uns,
+
+00:39:19.000 --> 00:39:23.000
+können sich selber Themen aussuchen. Wir hatten jetzt zum zweiten Mal
+
+00:39:23.000 --> 00:39:26.320
+eine Art Lex-Adventskalender, da wäre ich nie drauf gekommen.
+
+00:39:26.320 --> 00:39:30.740
+Sehr schön. Von meiner Seite eine letzte Frage an euch beiden.
+
+00:39:30.740 --> 00:39:39.740
+Wo seht ihr eure Initiative denn in der Zukunft, wenn wir mal zwei, drei Jahre nach vorne springen?
+
+00:39:39.740 --> 00:39:46.880
+Welche Wünsche, Ideen sind da noch offen, die ihr gerne umsetzen würdet?
+
+00:39:46.880 --> 00:39:52.190
+Ja, vielleicht einmal anfangen. Also, woran ich auch gerade schon arbeite,
+
+00:39:52.190 --> 00:39:57.510
+ist, dass das Ganze noch ein bisschen mehr auf Konzernebene kommt.
+
+00:39:57.510 --> 00:40:01.700
+Weil, was ich eben schon sagte, wir haben Goldschätze da, die wollen gehoben werden.
+
+00:40:01.700 --> 00:40:06.940
+Und es gibt auch schon in anderen Häusern diese Formate,
+
+00:40:06.940 --> 00:40:09.940
+aber sie sind halt nicht gebündelt verfügbar, so wie bei der Telekom.
+
+00:40:09.940 --> 00:40:12.940
+Ich glaube, wenn wir in den ganzen E.ON Tochtergesellschaften
+
+00:40:12.940 --> 00:40:14.940
+mal die ganzen Formate zusammenpacken würden,
+
+00:40:14.940 --> 00:40:17.940
+dann würden wir vielleicht nicht ganz an Lex rankommen,
+
+00:40:17.940 --> 00:40:20.940
+aber dann wären wir schon in greifbarer Nähe, sage ich mal.
+
+00:40:20.940 --> 00:40:26.130
+Und gemeinsam mit Immanuel oder Manuel sind wir da auch schon dran
+
+00:40:26.130 --> 00:40:30.110
+und arbeiten da gemeinsam in so einer kleineren Gruppe daran,
+
+00:40:30.110 --> 00:40:34.090
+dass wir diese P2P-Formate erstmal über einen Kürzel
+
+00:40:34.090 --> 00:40:39.060
+in unserem Intranet, Social Intranet verfügbar machen, sichtbar machen.
+
+00:40:39.060 --> 00:40:43.190
+Und ich erhoffe mir dadurch, dass wir dann eben in einem Jahr,
+
+00:40:43.190 --> 00:40:46.190
+in zwei Jahren, also so schnell wie möglich eigentlich,
+
+00:40:46.190 --> 00:40:50.190
+eben da die Transparenz reinbekommen, sodass das Angebot
+
+00:40:50.190 --> 00:40:53.190
+auf natürlichem Wege wächst, ohne dass wir jetzt sozusagen
+
+00:40:53.190 --> 00:40:57.340
+diese häuserspezifischen Titel da rausnehmen müssen,
+
+00:40:57.340 --> 00:40:59.340
+sondern dass man das einfach leichter findet
+
+00:40:59.340 --> 00:41:03.590
+und dass dieser P2P-Gedanke einfach noch ein bisschen größer wird
+
+00:41:03.590 --> 00:41:06.590
+und wieder, wie gesagt, zu diesem Gedanken hin,
+
+00:41:06.590 --> 00:41:12.290
+ich teile gerne und profitiere auch davon als Person und als Unternehmen.
+
+00:41:12.290 --> 00:41:16.690
+Soll ich nochmal meins? Okay.
+
+00:41:16.690 --> 00:41:19.690
+Und zwar, ja, also einfach wachsen, wachsen, wachsen, wachsen
+
+00:41:19.690 --> 00:41:24.720
+und zwar mehr Content, mehr Sessions, mehr Experten in den Listen,
+
+00:41:24.720 --> 00:41:31.010
+mehr Chatgruppen, einfach von allem mehr, aber auch mehr internationalen Input.
+
+00:41:31.010 --> 00:41:34.010
+Das ist das, was ich mir wünsche, von unseren größeren Standorten,
+
+00:41:34.010 --> 00:41:39.070
+wie aus Indien, Russland, Slowakei, dass die Kollegen einfach,
+
+00:41:39.070 --> 00:41:41.070
+dass wir da auch mehr Content von den Kollegen kriegen,
+
+00:41:41.070 --> 00:41:44.580
+auch gerne in deren Sprache, sehr, sehr gerne.
+
+00:41:44.580 --> 00:41:48.580
+Und auch außerhalb der Firma, dass wir da unsere Runde noch weiter machen,
+
+00:41:48.580 --> 00:41:54.800
+also die Runde, die wir jetzt schon haben mit den Kollegen von Audi, VW,
+
+00:41:54.800 --> 00:42:00.800
+Alsana, Bundesbank, Deutsche Bahn, Bayer, Pipapo, E.ON jetzt und viele mehr,
+
+00:42:00.800 --> 00:42:06.490
+dass das noch größer wird und dass wir auch noch näher zusammenwachsen
+
+00:42:06.490 --> 00:42:10.490
+und auch Experten weiter austauschen können, voneinander lernen können,
+
+00:42:10.490 --> 00:42:13.490
+dass das normal wird und dass die Zeit, die wir hier reinstecken.
+
+00:42:13.490 --> 00:42:15.490
+Wir sind ja gestartet mit dem Thema Community Management
+
+00:42:15.490 --> 00:42:18.490
+und da gibt es bei uns auch ein ganz tolles Projekt von Georg Holzknecht,
+
+00:42:18.490 --> 00:42:21.490
+der nochmal aufzeigen möchte, dass da auch Arbeit drin steckt
+
+00:42:21.490 --> 00:42:24.490
+und auch mal vielleicht mit der Zeit überhaupt diese Jobrolle mal geschaffen wird.
+
+00:42:24.490 --> 00:42:29.450
+Denn so solche Themen, und Sebastian kann es bestimmt bestätigen,
+
+00:42:29.450 --> 00:42:32.450
+das kann man nicht einfach mal so aus der Hüfte rausschießen.
+
+00:42:32.450 --> 00:42:39.020
+Da steckt sehr, sehr viel Arbeit hinter und dass diese Arbeit dann auch honoriert wird,
+
+00:42:39.020 --> 00:42:44.020
+dass man den Leuten den Freiraum gibt und dass diese Teams dann nicht am Ende freiwillig sind,
+
+00:42:44.020 --> 00:42:48.140
+dass wir auch mal wirklich bezahlte Kräfte dran haben, die die möchten.
+
+00:42:48.140 --> 00:42:52.140
+Und es kann ja auch sein, dass da jemand einfach zu 20 oder 50 Prozent dabei ist,
+
+00:42:52.140 --> 00:42:57.140
+aber das macht es manchmal ein bisschen greifbarer, als wenn da nur eine Person da ist.
+
+00:42:57.140 --> 00:43:00.140
+Auch diese Person wird mal krank oder geht in den Urlaub und dann merkt man halt,
+
+00:43:00.140 --> 00:43:04.140
+da liegen manche Sachen brach und man braucht da ein bisschen mehr Power.
+
+00:43:04.140 --> 00:43:10.510
+Ja, vielen Dank für die Antworten. Ich hätte wahrscheinlich noch sehr viele Fragen
+
+00:43:10.510 --> 00:43:13.510
+und wir könnten wahrscheinlich noch hier Stunden sitzen.
+
+00:43:13.510 --> 00:43:18.470
+Leider, ich weiß nicht, ob die Zuhörer und Zuhörer da noch so lange Zeit hätten,
+
+00:43:18.470 --> 00:43:21.470
+sich das durchzuhören, bestimmt auch.
+
+00:43:21.470 --> 00:43:25.470
+Wir wollen aber immer so ein bisschen den zeitlichen Rahmen begrenzen.
+
+00:43:25.470 --> 00:43:29.490
+Ja, dann wünsche ich, also auf jeden Fall vielen Dank für den Input.
+
+00:43:29.490 --> 00:43:32.490
+Also war sehr spannend, das Talk.
+
+00:43:32.490 --> 00:43:41.150
+Und wie können, vielleicht noch als Letztes, wie können sich, wenn noch Fragen da wären,
+
+00:43:41.150 --> 00:43:44.150
+wie können denn die Zuhörerinnen und Zuhörer euch erreichen?
+
+00:43:44.150 --> 00:43:47.780
+Die da vielleicht über LinkedIn einfach anschreiben oder...
+
+00:43:47.780 --> 00:43:52.840
+Genau, sehr gerne über LinkedIn, gerne connecten, gerne anschreiben.
+
+00:43:52.840 --> 00:43:58.930
+Und ich habe regelmäßig Austauschtermine mit Interessierten und das macht sehr, sehr viel Spaß.
+
+00:43:58.930 --> 00:44:01.920
+Und wir möchten auch von euch lernen.
+
+00:44:01.920 --> 00:44:04.920
+Vielleicht gibt es Dinge, die wir noch besser machen können.
+
+00:44:04.920 --> 00:44:07.870
+Also sehr, sehr gerne. Feedback ist jederzeit willkommen.
+
+00:44:07.870 --> 00:44:12.200
+Ja, ihr könnt mich auch gerne über LinkedIn erreichen, Sebastian Geppert.
+
+00:44:12.200 --> 00:44:16.200
+Ich buchstabiere den Nachnamen lieber nochmal, weil da durchaus interessante Kombinationen
+
+00:44:16.200 --> 00:44:18.200
+in den letzten Jahren schon rausgekommen sind.
+
+00:44:18.200 --> 00:44:22.200
+Georg, Emil, Paula, Paula, Emil, Richard, Theodor, also Geppert.
+
+00:44:22.200 --> 00:44:25.580
+Und schreibt mich gerne an, wenn ihr Interesse habt.
+
+00:44:25.580 --> 00:44:28.250
+Das sind auch super letzte Worte.
+
+00:44:28.250 --> 00:44:33.280
+Ja, dann vielen Dank euch und noch einen schönen, windigen Tag.
+
+00:44:33.280 --> 00:44:35.280
+Ja, es geht langsam los.

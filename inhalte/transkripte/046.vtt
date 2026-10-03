@@ -1,0 +1,2089 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #46: #46 Fehler systemisch betrachten mit Ilka Heinze
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:36.240
+Ja, herzlich willkommen zu einer neuen Folge des VUCA Blasters. Heute bin ich ausnahmsweise mal alleine, habe keinen Co-Host oder Co-Hostin bei mir. Nichtsdestotrotz haben wir eine sehr spannende Gästin. Sie ist Professorin an der Hochschule Fresenius und Professorin Ilka Heinze. Sie ist zudem CEO bei V-Consult GbR, die sich sehr viel mit HR-Themen beschäftigen. Dozentin an der HTW Berlin, wo sie unter anderem ist.
+
+00:00:36.260 --> 00:01:06.330
+Change Management oder auch wieder HR-Themen sich damit beschäftigt. War lange Zeit bei EY in verschiedenen Positionen, unter anderem auch HR-Assistentin und Direktorin und ist zudem Mentorin für BPW. Das hatte ich schon im Vorgespräch kurz gesagt, das ganz spannend finde, weil meine Schwester relativ lange auch schon beim BPW ist Business Professional Woman. Ja, willkommen im Podcast. Habe ich was Wichtiges vergessen, was dir wichtig ist, was die Zuhörenden wissen sollten über dich?
+
+00:01:06.330 --> 00:01:08.710
+Das heißt sehr viel, aber…
+
+00:01:08.710 --> 00:01:37.050
+Das war schon ein sehr schöner Abriss. Vielleicht ganz kurz bei EY, weil sich vielleicht manche jetzt wundern werden, was ist denn das? Die Position hieß HR-Assistent-Direktor und das ist sowas wie ein Senior Manager, das heißt also für einen bestimmten Bereich halt zuständig und ja, das wollte ich bloß nochmal korrigieren, weil das, wie gesagt, vielleicht sonst ein bisschen komisch angeht.
+
+00:01:37.070 --> 00:01:43.930
+Und dann kommt bei den Leuten, die sich in der Branche auskennen. Aber das haben wir jetzt klargestellt. Danke für die Top-Vorstellung.
+
+00:01:43.930 --> 00:01:51.050
+Und Professorin an der Hochschule sind dann auch wahrscheinlich HR-Themen oder was bist du da genau, Professorin?
+
+00:01:51.050 --> 00:02:01.460
+Das ist tatsächlich, die Professur nennt sich eine Professur für Wirtschaftspsychologie und Management. Und tatsächlich sind da aber auch wieder stark HR-Themen mit dabei.
+
+00:02:01.460 --> 00:02:09.440
+Das heißt also die Module, die ich, also ich verantworte mehrere Studiengänge, Studiengang in der Wirtschaftspsychologie,
+
+00:02:09.440 --> 00:02:20.640
+jetzt schon machte Studiengänge und tatsächlich einen Master Human Resource Management. Und meine Spezialisierung liegt auf den berufsbegleitenden Studierenden.
+
+00:02:20.640 --> 00:02:30.700
+Das heißt also meine Studenten studieren alle, wie der Name schon sagt, neben dem Beruf. Und das ist eine schöne Herausforderung mit den Praktikern hier immer.
+
+00:02:30.700 --> 00:02:33.630
+am Zeitgeschehen unterwegs zu sein.
+
+00:02:33.630 --> 00:02:36.320
+Cool, ja.
+
+00:02:36.320 --> 00:02:45.290
+Dann haben wir ja die berühmt-berüchtigten Check-in-Fragen. Ich gehe hier mal die Karten durch, zufällige Fragen.
+
+00:02:45.290 --> 00:02:54.050
+Die erste Frage klingt vielleicht komisch, steht ja trotzdem auf der Karte. Wer aus deinem Umfeld hat ein Danke verdient?
+
+00:02:54.050 --> 00:03:02.680
+Oh, spannend. Das sind ganz viele Leute. Ich glaube, da könnte ich jetzt eine Stunde drüber reden. Ich mache mal zwei Danke.
+
+00:03:02.680 --> 00:03:13.680
+Es geht an die BPW-Kollegin, mit der ich heute Morgen gesprochen habe. Das ist die Bettina Schinko und die ist Sprechcoach in Berlin.
+
+00:03:13.680 --> 00:03:19.680
+Nun wird man vielleicht sagen, was Sprechcoach? Die Ilka Heinze, die spricht ja noch nicht gerade ganz professionell.
+
+00:03:19.680 --> 00:03:25.740
+Tatsächlich habe ich mich entschieden vor vielen Jahren, dass ich nicht an mir polieren werde,
+
+00:03:25.740 --> 00:03:31.700
+sondern dass ich gerne meine Heimat, die immer noch in meiner Stimme mitschwingt, nämlich das schöne Sachsen,
+
+00:03:31.700 --> 00:03:35.700
+dass ich das also nicht rausschleifen will, sondern ich habe mich also bewusst dafür entschieden,
+
+00:03:35.700 --> 00:03:39.700
+vielleicht an der einen oder anderen Stelle nicht so ganz geschliffen rüber zu kommen.
+
+00:03:39.700 --> 00:03:47.700
+Bettina Schinko ist trotzdem eine sehr tolle Coachin und sie hat mich heute früh halt gerade wegen BPW-Thema angerufen
+
+00:03:47.700 --> 00:03:52.700
+und wir haben nochmal darüber nachgedacht, was sie eigentlich für mich in meiner ganzen Reise hier in Berlin,
+
+00:03:52.700 --> 00:04:00.700
+ich bin 2012 nach Berlin gezogen und habe da angefangen, hier mein Business zu entwickeln und das hat dann über Corona
+
+00:04:00.700 --> 00:04:07.700
+hin zu der Professur geführt und da hat die Bettina Schinko einen nicht unerheblichen Anteil und daher der erste Dank an sie.
+
+00:04:07.700 --> 00:04:13.700
+Zugegebenermaßen wäre mir Bettina wahrscheinlich nicht heute eingefallen, wenn wir nicht heute früh gesprochen hätten
+
+00:04:13.700 --> 00:04:22.670
+und deshalb der Dauerdank, der geht tatsächlich an meinen Mann Thomas Henschel, der, wir sind jetzt 26 Jahre verheiratet
+
+00:04:22.670 --> 00:04:30.670
+und wir haben also viele Höhen und Tiefen gemeinsam miteinander erklommen
+
+00:04:30.670 --> 00:04:38.630
+und dank vor allem für die Beständigkeit und dieses gegenseitig immer wieder pushen und immer wieder sagen,
+
+00:04:38.630 --> 00:04:44.260
+wir schaffen mehr sowohl einzeln als auch als Team. Von daher danke.
+
+00:04:44.260 --> 00:04:49.230
+Schöne danke. Eichei auch eine schöne Frage, hatten wir bisher auch noch nicht.
+
+00:04:49.230 --> 00:04:53.310
+Ja, das war wirklich für mich eine sehr gute Frage.
+
+00:04:53.310 --> 00:04:58.630
+Zweite Frage wäre, welche Eigenschaft schätzt du an dir?
+
+00:04:58.630 --> 00:05:04.630
+Oh ja, die ist schwere, die Frage, weil ich gehöre wieder zu den Menschen, die am Imposter-Syndrom leiden.
+
+00:05:04.630 --> 00:05:09.630
+Das heißt also, ich finde im Zweifel an mir erstmal gar nichts gut, sondern denke immer,
+
+00:05:09.630 --> 00:05:13.600
+oh Gott, wenn die alle wüssten, dass ich das ja eigentlich gar nicht kann.
+
+00:05:13.600 --> 00:05:19.600
+Von daher, ja, schwierig. Also ich glaube, die Eigenschaft, die ich am besten entwickelt habe,
+
+00:05:19.600 --> 00:05:26.720
+tatsächlich über die letzten Jahre, das ist, dass gut zuhören können und auch Zwischentöne mitbekommen.
+
+00:05:26.720 --> 00:05:30.720
+Das war eine Eigenschaft, die hatte ich, die ist mir nicht angeboren.
+
+00:05:30.720 --> 00:05:34.720
+Also ich bin eher die Vielrednerin, was man jetzt wahrscheinlich auch in dem Podcast merken.
+
+00:05:34.720 --> 00:05:45.060
+Und ich habe es aber geschafft, doch diese Zuhörerskills tatsächlich viel besser zu entwickeln
+
+00:05:45.060 --> 00:05:48.060
+und merke auch, welche Erfolge das bringt.
+
+00:05:48.060 --> 00:05:51.050
+Also von daher nichts Menschliches ist mir fremd.
+
+00:05:51.050 --> 00:05:59.240
+Und meine Studierenden oder auch Forschungskollegen, Kolleginnen können eigentlich mit allen Themen, die sie bewegen,
+
+00:05:59.240 --> 00:06:05.900
+zu mir kommen, finden ein offenes Ohr und jemanden, der sich der Dinge im Zweifel annimmt.
+
+00:06:05.900 --> 00:06:07.900
+Das wird, glaube ich, auch immer wichtiger.
+
+00:06:07.900 --> 00:06:14.860
+Also dieses gut zuhören können, nicht direkt abgelenkt werden, sehe ich immer in verschiedenen Setups.
+
+00:06:14.860 --> 00:06:24.820
+Einmal im Management, dass das immer wichtiger wird, dass man halt auch wirklich konzentriert gegenüber oder den gegenüber zugewandt ist.
+
+00:06:24.820 --> 00:06:28.820
+Und gerade so ein Remote Setup, wenn man dann nebenbei noch verschiedene Sachen hat.
+
+00:06:28.820 --> 00:06:34.780
+Oder halt auch, hatte ich jetzt gerade bei Conflict Culture das Buch gelesen, dass er auch, dass das auch sehr,
+
+00:06:34.780 --> 00:06:41.250
+auch in diesem Setup da eine sehr, sehr wichtige Eigenschaft ist und wahrscheinlich immer wichtiger wird.
+
+00:06:41.250 --> 00:06:48.290
+Ja, ich weiß nicht, ob ihr euch auch schon mal mit der, es gibt ja in Deutschland, Schweiz, Österreich dieses Zukunftsinstitut
+
+00:06:48.290 --> 00:06:52.310
+und die beschäftigen sich ja immer mit dem Thema Megatrends.
+
+00:06:52.310 --> 00:06:57.310
+Und bei denen steht es seit mehreren Jahren auf Platz eins der Megatrend Individualisierung.
+
+00:06:57.310 --> 00:07:03.310
+Und das ist tatsächlich das, also es ist erkannt, ja, dass wir natürlich mit den vielen Algorithmen,
+
+00:07:03.310 --> 00:07:09.310
+die sind ja ausgerichtet darauf, etwas individuell über die Menschen zu erfahren.
+
+00:07:09.310 --> 00:07:14.310
+Und Unternehmen und auch gerade Personalabteilungen, die haben halt häufig das Gefühl, das reicht.
+
+00:07:14.310 --> 00:07:21.310
+Ja, also wir sind ja individualisiert, weil wir hören ja Dinge raus, also die Technik macht das für uns.
+
+00:07:21.310 --> 00:07:27.270
+Und tatsächlich werden aber unsere, ja, die zwischenmenschlichen Themen, die kommen da mitunter zu kurz,
+
+00:07:27.270 --> 00:07:31.270
+weil man eben das Gefühl hat, das macht dann schon der Algorithmus für uns.
+
+00:07:31.270 --> 00:07:34.270
+Aber der Algorithmus kann keine Zwischentöne hören.
+
+00:07:34.270 --> 00:07:45.350
+Und das ist das, was ich so also vorne anstellen möchte, dieser Inkonkurrenz oder Dissonanz in unserer Kommunikation.
+
+00:07:45.350 --> 00:07:51.380
+Wir senden Signale, die aber vielleicht ja eher strategisch sind.
+
+00:07:51.380 --> 00:07:59.380
+Und über die Tonlage oder über Mimik und Gestik kann man dann halt sehen, wie hat der Mensch das wirklich gemeint.
+
+00:07:59.380 --> 00:08:03.380
+Und ja, auch dafür gibt es schon Gesichtserkennungssoftware und so weiter.
+
+00:08:03.380 --> 00:08:07.380
+Also auch da ist die Technik schon unterwegs, aber noch nicht so verbreitet.
+
+00:08:07.380 --> 00:08:15.350
+Von daher, hier sind wir Menschen immer noch bei den Zwischentönen, glaube ich, einfach die besseren Zuhörer.
+
+00:08:15.350 --> 00:08:21.400
+Dann kommen wir auch schon zur letzten Check-In-Frage und dann starten wir auch direkt ins Thema.
+
+00:08:21.400 --> 00:08:26.400
+Die letzte Frage wäre, welche deiner Werte kannst du derzeit besonders gut realisieren?
+
+00:08:26.400 --> 00:08:32.930
+Oh, spannende Frage. Ja, was sind meine Werte?
+
+00:08:32.930 --> 00:08:37.850
+Ich glaube, ein wichtiger Wert für mich ist tatsächlich Vertrauen.
+
+00:08:37.850 --> 00:08:43.840
+Und ich möchte Vertrauen weitergeben können.
+
+00:08:43.840 --> 00:08:47.840
+Also ich möchte, dass mir die Menschen in meinem Umfeld vertrauen.
+
+00:08:47.840 --> 00:08:51.050
+Und ich möchte aber auch selber vertrauen können.
+
+00:08:51.050 --> 00:08:55.280
+Und ich glaube, in beide Richtungen ist da gerade eine Challenge da.
+
+00:08:55.280 --> 00:09:02.280
+Ja, also viele Veränderungen, auch bei uns an der Hochschule zum Beispiel oder auch in meinem geschäftlichen Umfeld,
+
+00:09:02.280 --> 00:09:07.280
+wo ich halt auch immer merke, wow, da passieren Dinge.
+
+00:09:07.280 --> 00:09:12.280
+Da ist es ganz wichtig, dass mir meine Kunden oder meine Studierenden auch vertrauen,
+
+00:09:12.280 --> 00:09:15.500
+dass wir das in die Richtung bekommen, in die es gehen soll.
+
+00:09:15.500 --> 00:09:18.460
+Also eine Challenge tatsächlich hier an der Stelle.
+
+00:09:18.460 --> 00:09:23.520
+Ja, und ich fühle mich selber auch sehr gechallenged, Vertrauen weiterzugeben,
+
+00:09:23.520 --> 00:09:29.520
+egal ob das jetzt gesellschaftliche Diskussionen sind oder halt auch organisationale Themen.
+
+00:09:29.520 --> 00:09:35.850
+Das ist für mich ein ganz wichtiger Wert, der gerade getestet wird.
+
+00:09:35.850 --> 00:09:42.910
+Das ist ja eigentlich auch der perfekte Übergang hin zum Thema, weil heute ist das Thema Fehlerkultur
+
+00:09:42.910 --> 00:09:50.020
+und da ist ja Vertrauen, soweit ich es verstehe, halt auch ein sehr, sehr wichtiger Wert,
+
+00:09:50.020 --> 00:09:53.210
+weil sonst würde man wahrscheinlich gar nicht, wenn man einen Fehler gemacht hat,
+
+00:09:53.210 --> 00:09:57.210
+wenn man keinem Vertrauen, diese sogenannte psychologische Sicherheit,
+
+00:09:57.210 --> 00:10:01.210
+das ist ja auch so ein Buzzword, seit Jahren schon überall rumfliegt.
+
+00:10:01.210 --> 00:10:03.400
+Das ist halt ein selbstiges Thema.
+
+00:10:03.400 --> 00:10:10.580
+Vielleicht dann als Einstiegsfrage, was ist Fehlerkultur für dich in Unternehmen und was vielleicht nicht?
+
+00:10:10.580 --> 00:10:16.210
+Ja, spannend. Ich fange vielleicht mal ein bisschen an einer anderen Stelle an,
+
+00:10:16.210 --> 00:10:20.210
+weil mir das dann leichter fällt, dort hinzukommen, wo wir dann mal hinkommen wollen.
+
+00:10:20.210 --> 00:10:26.210
+Tatsächlich ist diese Frage mit dem Vertrauen und der psychologischen Sicherheit,
+
+00:10:26.210 --> 00:10:32.240
+das ist für mich dann schon relativ das Ende meiner Forschung, weil ich fange ja weiter vorne an.
+
+00:10:32.240 --> 00:10:38.200
+Ich beschäftige mich ja erstmal damit, dass wir Menschen, da haben wir wieder dieses Thema Individualisierung,
+
+00:10:38.200 --> 00:10:44.200
+wir Menschen ticken halt unterschiedlich. Das ist jetzt nichts Neues, also das ist jetzt eigentlich ein No Präner.
+
+00:10:44.200 --> 00:10:49.230
+Es gibt schon längst Persönlichkeitsmodelle oder Persönlichkeitsdimensionen, das wissen wir schon alles.
+
+00:10:49.230 --> 00:10:54.320
+Was ich aber zur Forschung beigetragen habe, ist, dass ich mir auch mal angeschaut habe,
+
+00:10:54.320 --> 00:11:01.280
+wie sind denn diese Fehlertypen, also wie gehen Menschen individuell mit Misserfolgen um.
+
+00:11:01.280 --> 00:11:07.430
+Und daraus kann man dann wieder das, was ich vorhin schon gesagt habe,
+
+00:11:07.430 --> 00:11:10.430
+es ist halt wichtig, die Menschen dort abzuholen, wo sie sich befinden.
+
+00:11:10.430 --> 00:11:18.460
+Und wir können halt schwer jemanden, der halt auf Misserfolg eher depressiv reagiert und der ein bisschen Zeit
+
+00:11:18.460 --> 00:11:24.460
+auch benötigt, um die Emotionen zu bewältigen, um wieder ins Doing zu kommen.
+
+00:11:24.460 --> 00:11:31.380
+Den können wir halt nicht mit denselben Mitteln, Maßnahmen, Instrumenten in den Unternehmen behandeln
+
+00:11:31.380 --> 00:11:35.380
+wie den Menschen, ich nenne den immer den wahren Unternehmer.
+
+00:11:35.380 --> 00:11:40.380
+Das sind so die Leute, die dann sagen, wow, es hat nicht geklappt und ich werde es euch allen zeigen.
+
+00:11:40.380 --> 00:11:46.380
+Und jetzt erst recht, ja, also so diese Mentalität, okay, ich bin gestolpert, hingefallen, Krone ist runtergefallen
+
+00:11:46.380 --> 00:11:51.380
+und jetzt hebe ich die Krone auf, setze die mir wieder auf den Kopf und dann geht es einfach weiter.
+
+00:11:51.380 --> 00:11:57.380
+Und das ist für mich der Ansatzpunkt bei der organisationalen Fehlerkultur.
+
+00:11:57.380 --> 00:12:02.340
+Denn was die Unternehmen nämlich heute machen, wenn sie sich mit dem Thema beschäftigen,
+
+00:12:02.340 --> 00:12:07.310
+da geht es dann halt eher so in diese One-fits-all-Geschichte rein.
+
+00:12:07.310 --> 00:12:13.310
+Und das Vertrauen ist dann ein sehr guter Wert. Du hast es angesprochen, das ist ganz wichtig,
+
+00:12:13.310 --> 00:12:19.340
+damit Fehler überhaupt erst mal auf die Agenda kommen, damit man überhaupt erst mal sich traut,
+
+00:12:19.340 --> 00:12:24.340
+auch zuzugeben, ich habe hier Mist gebaut und wir müssen jetzt gemeinsam schauen,
+
+00:12:24.340 --> 00:12:27.340
+wie wir A, das jetzt wieder auf die richtige Schiene bekommen
+
+00:12:27.340 --> 00:12:32.300
+und B, in Zukunft auch genau diesen Fehler vermeiden.
+
+00:12:32.300 --> 00:12:37.300
+Wie gesagt, da muss ich halt den Menschen individuell unterschiedlich ansprechen.
+
+00:12:37.300 --> 00:12:40.300
+Und genau, das sage ich vielleicht mal jetzt einfach mal mit dem Punkt jetzt an der Stelle
+
+00:12:40.300 --> 00:12:44.300
+und bin gespannt, was du dazu noch mehr wissen möchtest.
+
+00:12:44.300 --> 00:12:48.300
+Ja, vielleicht, also das Erste, was bei mir hochkam, war, welche verschiedenen Typen,
+
+00:12:48.300 --> 00:12:52.300
+du hast es schon gesagt, vielleicht der Depressive, der da ein bisschen Zeit braucht,
+
+00:12:52.300 --> 00:12:55.300
+wo man dann vielleicht mit dem Format kommt, ja, sag doch deinen Fehler
+
+00:12:55.300 --> 00:12:57.300
+und der oder die ist noch gar nicht so weit.
+
+00:12:57.300 --> 00:13:02.650
+Dann hast du denen gesagt, den wahren Unternehmer, gibt es da noch mehr Typen?
+
+00:13:02.650 --> 00:13:03.650
+Wahrscheinlich schon.
+
+00:13:03.650 --> 00:13:06.750
+Ja, also das ist eine explorative Forschung, muss ich dazu sagen.
+
+00:13:06.750 --> 00:13:11.750
+Also das ist jetzt nicht an 10.000 von Menschen getestet, sondern das ist entstanden,
+
+00:13:11.750 --> 00:13:17.710
+die Forschung, in dem ich gescheiterte Unternehmer über ihre gescheiterte Erfahrung
+
+00:13:17.710 --> 00:13:21.710
+befragt habe und daraus ein Datenset entwickelt habe.
+
+00:13:21.710 --> 00:13:26.710
+Also aus ihren Statements zu, was ist da emotional denn mit mir passiert?
+
+00:13:26.710 --> 00:13:31.710
+Also wie habe ich diesen Misserfolg emotional bewältigt und was habe ich daraus gelernt?
+
+00:13:31.710 --> 00:13:39.020
+Und aus diesem Set von Statements habe ich dann mit neun Teilnehmern,
+
+00:13:39.020 --> 00:13:43.020
+also nicht neun, sondern neuen Teilnehmern, waren schon ein paar mehr gewesen,
+
+00:13:43.020 --> 00:13:46.020
+die habe ich dann diese Statements sortieren lassen.
+
+00:13:46.020 --> 00:13:51.020
+Und dann haben wir das durch eine Faktoranalyse und dann mit einer qualitativen Beschreibung
+
+00:13:51.020 --> 00:13:54.020
+haben wir für Deutschland vier Typen entwickelt.
+
+00:13:54.020 --> 00:13:57.020
+Es gibt, also wir machen auch internationale Forschung zu dem Thema
+
+00:13:57.020 --> 00:14:00.020
+und in allen Ländern, die wir uns bisher angeschaut haben,
+
+00:14:00.020 --> 00:14:03.020
+gibt es drei bis fünf Typen.
+
+00:14:03.020 --> 00:14:08.020
+Und es gibt diesen depressiven Typen tatsächlich in allen Ländern.
+
+00:14:08.020 --> 00:14:12.020
+Also da haben wir schon mal eine Gemeinsamkeit herausgefunden.
+
+00:14:12.020 --> 00:14:17.010
+Dieser Unternehmertyp, den gibt es nicht so in dieser reinen Form wie in Deutschland,
+
+00:14:17.010 --> 00:14:19.010
+in den anderen Ländern.
+
+00:14:19.010 --> 00:14:23.010
+Die Typen lassen sich dann ein bisschen anders in anderen Ländern beschreiben.
+
+00:14:23.010 --> 00:14:29.030
+Aber es geht auch so in diese Richtung, also Leute, die einfach besser damit umgehen,
+
+00:14:29.030 --> 00:14:32.030
+auf der, ich sag mal, nach außen.
+
+00:14:32.030 --> 00:14:36.030
+Die dann also sagen, klar, ich schaff das und die nächste Herausforderung ist meine
+
+00:14:36.030 --> 00:14:39.090
+und es geht hier gut voran.
+
+00:14:39.090 --> 00:14:44.060
+Allerdings unterscheiden die sich dann, wie gesagt, in Nuancen.
+
+00:14:44.060 --> 00:14:50.220
+Und der richtig gute Fehlerlerntyp, auch den finden wir in allen Kulturen.
+
+00:14:50.220 --> 00:14:55.250
+Das sind die Experimentierer, würde ich die mal nennen.
+
+00:14:55.250 --> 00:14:58.380
+Das sind also Menschen, die sagen dir, ich wusste vorher,
+
+00:14:58.380 --> 00:15:02.440
+dass das nicht klappt. Aber mir war diese Lernerfahrung wichtig.
+
+00:15:02.440 --> 00:15:06.370
+Und da kann ich auch mal ein persönliches Beispiel dafür bringen.
+
+00:15:06.370 --> 00:15:15.130
+Ich habe mich vor ein paar Jahren jetzt für ein sehr intensives Erasmus-Vierteprojekt beworben.
+
+00:15:15.130 --> 00:15:18.130
+Da hätte mein Team 400.000 Euro bekommen.
+
+00:15:18.130 --> 00:15:22.310
+Und die Chancen, dass wir das bekommen, die standen so mies.
+
+00:15:22.310 --> 00:15:26.690
+Also das war eigentlich relativ klar, dass wir das nicht kriegen.
+
+00:15:26.690 --> 00:15:29.660
+Und so ein Antrag, das ist nicht mal eine halbe Stunde geschrieben,
+
+00:15:29.660 --> 00:15:32.660
+sondern da haben wir zu viert ein halbes Jahr dran gearbeitet.
+
+00:15:32.660 --> 00:15:35.660
+Jetzt nicht jede Woche 40 Stunden, aber das waren schon,
+
+00:15:35.660 --> 00:15:39.660
+also auf jeden Fall von meiner Seite mindestens einen Tag pro Woche.
+
+00:15:39.660 --> 00:15:41.660
+Und das war immer Arbeit in meiner Freizeit.
+
+00:15:41.660 --> 00:15:45.720
+Und da hatte ich mir halt vorher auch gesagt, naja, wenn ich es nicht versuche,
+
+00:15:45.720 --> 00:15:50.680
+ich stecke die Arbeit da rein, ich probiere das, ich möchte daraus lernen aus dieser Erfahrung.
+
+00:15:50.680 --> 00:15:53.680
+Also mir war relativ klar gewesen, es würde nicht klappen.
+
+00:15:53.680 --> 00:15:57.680
+Ja, und das ist dann halt noch ein anderer Fehlerlerntyp.
+
+00:15:57.680 --> 00:16:03.650
+Also die, die halt sagen, scheiß drauf auf Deutsch gesagt, wir machen es einfach.
+
+00:16:03.650 --> 00:16:08.710
+Ich bin so im Unternehmernetzwerk und da höre ich das öfter mal diesen Satz,
+
+00:16:08.710 --> 00:16:09.710
+einfach mal machen.
+
+00:16:09.710 --> 00:16:14.830
+Und das ist ein Typ, der ist auch ein bisschen gefährlich,
+
+00:16:14.830 --> 00:16:18.830
+weil da brauchst du das richtige Team dafür.
+
+00:16:18.830 --> 00:16:22.830
+Das heißt also, wenn, und diese Menschen, die so unterwegs sind,
+
+00:16:22.830 --> 00:16:27.890
+die sind dann mitunter auch so, dass sie nicht die ganze Agenda offenlegen.
+
+00:16:27.890 --> 00:16:30.890
+Und das heißt also, wenn ich dann Teil eines Teams bin,
+
+00:16:30.890 --> 00:16:34.890
+wo jemand halt so rangeht, also so visionär und dann sagt,
+
+00:16:34.890 --> 00:16:38.890
+ja, okay, für mich ist das der Weg, das Ziel,
+
+00:16:38.890 --> 00:16:41.890
+dann könnte das halt für das Team auch wieder schwierig sein,
+
+00:16:41.890 --> 00:16:44.890
+dann mit dem Misserfolg dann später umzugehen.
+
+00:16:44.890 --> 00:16:48.890
+Weil dieser Teamlead erlebt ja vielleicht den Misserfolg gar nicht so.
+
+00:16:48.890 --> 00:16:51.890
+Der ist ja dann vielleicht so, nach dem Motto habe ich eh damit gerechnet,
+
+00:16:51.890 --> 00:16:53.890
+und für den geht es dann einfach weiter.
+
+00:16:53.890 --> 00:16:58.920
+Das heißt, das war an sich für die Person gesehen ein sehr positiver
+
+00:16:58.920 --> 00:17:01.920
+Fehler-Lerntyp, ist aber für ein Team vielleicht eine Herausforderung.
+
+00:17:01.920 --> 00:17:03.920
+Da muss man dann halt auch schauen.
+
+00:17:03.920 --> 00:17:05.980
+So, das war also jetzt der dritte.
+
+00:17:05.980 --> 00:17:13.040
+Und der vierte Typ, das ist einer, der lernt sehr auf der sachlichen Ebene.
+
+00:17:13.040 --> 00:17:19.060
+Das sind also Menschen, die analysieren ihre Misserfolge wirklich sehr genau.
+
+00:17:19.060 --> 00:17:21.120
+Und also die reflektieren.
+
+00:17:21.120 --> 00:17:24.120
+Die reflektieren aber mehr auf der sachlichen Ebene.
+
+00:17:24.120 --> 00:17:28.120
+Das heißt, die sind nicht so gefühlsmäßig offen.
+
+00:17:28.120 --> 00:17:33.120
+Und da ist so das Thema, okay, also diese Road-Course-Analysis,
+
+00:17:33.120 --> 00:17:36.110
+die kann dann auch mal falsch sein.
+
+00:17:36.110 --> 00:17:39.110
+Weil, wenn ich jetzt mit so einem psychologischen Modell komme,
+
+00:17:39.110 --> 00:17:41.110
+dieses Double-Loop-Learning zum Beispiel.
+
+00:17:41.110 --> 00:17:44.110
+Das heißt also, ich muss auch Zusammenhänge verstehen.
+
+00:17:44.110 --> 00:17:49.040
+Ich muss auch erstmal verstehen, was ist denn jetzt hier auf der emotionalen Ebene vielleicht passiert.
+
+00:17:49.040 --> 00:17:54.170
+Und da geht dieser analytisch denkende Mensch nicht unbedingt hin,
+
+00:17:54.170 --> 00:17:56.170
+weil der das so ein bisschen ablehnt.
+
+00:17:56.170 --> 00:18:01.170
+Ja, das sind so diese vier Typen, die wir zumindest für Deutschland herausgefunden haben.
+
+00:18:01.170 --> 00:18:05.170
+Und in einer ähnlichen Form, wie gesagt, lassen die sich weltweit finden.
+
+00:18:05.170 --> 00:18:09.230
+Mit kulturellen Nuancen würde ich jetzt mal das so nennen.
+
+00:18:09.230 --> 00:18:16.350
+Aber das heißt, weil ich auch so als Frage vorher mir schon mal annotiert hatte,
+
+00:18:16.350 --> 00:18:22.500
+weil so Fehlerkultur ist ja auch schon seit Jahren, geistert das überall rum.
+
+00:18:22.500 --> 00:18:26.940
+Und irgendwie habe ich das Gefühl, so richtig kommen wir nicht vorwärts.
+
+00:18:26.940 --> 00:18:28.200
+Genau.
+
+00:18:28.200 --> 00:18:31.200
+Da dachte ich, ist das ein deutsches Problem?
+
+00:18:31.200 --> 00:18:35.710
+Oder sind die Amerikaner zum Beispiel da besser?
+
+00:18:35.710 --> 00:18:37.710
+Oder kann man das gar nicht so sagen?
+
+00:18:37.710 --> 00:18:39.710
+Ich glaube auch nicht, dass die besser sind.
+
+00:18:39.710 --> 00:18:42.710
+Ich glaube, das liegt eher wirklich tatsächlich an den Unternehmen.
+
+00:18:42.710 --> 00:18:45.710
+Ich denke, wir haben auch in Deutschland Unternehmen, die das perfekt hinbekommen.
+
+00:18:45.710 --> 00:18:49.800
+Und wir haben auch in den USA Unternehmen, die es gar nicht hinbekommen.
+
+00:18:49.800 --> 00:18:54.830
+Also es liegt aus meiner Sicht wirklich daran, wo holen wir unsere Mitarbeiter ab
+
+00:18:54.830 --> 00:18:57.830
+und wie wichtig ist es uns, eine wahre Fehlerkultur,
+
+00:18:57.830 --> 00:19:00.800
+eine wahre positive Fehlerkultur zu entwickeln.
+
+00:19:00.800 --> 00:19:04.980
+Dazu vielleicht auch nochmal so ein kleines Beispiel.
+
+00:19:04.980 --> 00:19:09.040
+Wie fange ich jetzt am besten an? Jetzt ist es gerade weg.
+
+00:19:09.040 --> 00:19:14.220
+Was meine ich damit genau?
+
+00:19:14.220 --> 00:19:17.220
+Also wir haben in Deutschland, haben wir in die USA geschaut
+
+00:19:17.220 --> 00:19:19.220
+und haben gesagt, die haben eine bessere Fehlerkultur.
+
+00:19:19.220 --> 00:19:23.220
+Die adressieren das Thema Fehler anders, als wir das tun.
+
+00:19:23.220 --> 00:19:28.220
+Und da hat man zum Beispiel diese Fuck-up-Formate nach Deutschland transportiert
+
+00:19:28.220 --> 00:19:31.220
+und hat dann gesagt, okay, um eine bessere Fehlerkultur hinzubekommen,
+
+00:19:31.220 --> 00:19:35.220
+machen wir jetzt, also wir thematisieren jetzt unsere Misserfolge.
+
+00:19:35.220 --> 00:19:37.370
+Und ich weiß nicht, ob du schon mal in so einem Format,
+
+00:19:37.370 --> 00:19:39.560
+ob du da schon mal teilgenommen hast?
+
+00:19:39.560 --> 00:19:41.560
+Ja, so aus der Simon.
+
+00:19:41.560 --> 00:19:42.710
+Genau.
+
+00:19:42.710 --> 00:19:44.740
+War Christian Lindner als Redner da.
+
+00:19:44.740 --> 00:19:46.740
+Ja, okay.
+
+00:19:46.740 --> 00:19:51.740
+Ja, und du kannst vielleicht, sagst du ja dann nochmal gleich was
+
+00:19:51.740 --> 00:19:53.740
+zu deinen persönlichen Eindrücken davon.
+
+00:19:53.740 --> 00:19:56.730
+Für mich ist es spannend, da zu beobachten.
+
+00:19:56.730 --> 00:19:59.730
+Also A, gehen ja da sowieso nur bestimmte Typen hin.
+
+00:19:59.730 --> 00:20:06.730
+Das heißt, wir verlieren ja schon mindestens 25 bis 30 Prozent unserer Mitarbeiter,
+
+00:20:06.730 --> 00:20:08.730
+sage ich jetzt einfach mal, weil die das ja ablehnen.
+
+00:20:08.730 --> 00:20:12.730
+Ja, das sind ja die Depressiven, die dann sagen, und bitte nicht falsch verstehen,
+
+00:20:12.730 --> 00:20:15.730
+dieses Label depressiv, das ist jetzt einfach eine Abkürzung.
+
+00:20:15.730 --> 00:20:19.730
+Also das ist, ich wertschätze das sehr, dass wir es Menschen sind,
+
+00:20:19.730 --> 00:20:25.730
+die eher langsamer in der Verarbeitung sind und die aber erstmal halt runtergezogen werden
+
+00:20:25.730 --> 00:20:26.730
+durch diesen Misserfolg.
+
+00:20:26.730 --> 00:20:30.760
+Genau, und die gehen da gar nicht hin, weil sie sagen, danke, mir reicht's.
+
+00:20:30.760 --> 00:20:33.760
+Also ich muss das jetzt nicht nochmal irgendwie hier aufgewärmt bekommen,
+
+00:20:33.760 --> 00:20:38.760
+sondern da gehen halt per se eher diese Unternehmetypen hin.
+
+00:20:38.760 --> 00:20:42.690
+Vielleicht noch die analytischen, weil die sagen, vielleicht kann ich da was lernen.
+
+00:20:42.690 --> 00:20:45.720
+Und wenn dann aber Leute wie Christian Lindner da einfach ihre Show machen
+
+00:20:45.720 --> 00:20:48.720
+und ihre Storys erzählen, dann sagen denen auch, nee, es war eine andere Fehler
+
+00:20:48.720 --> 00:20:51.720
+oder andere Misserfolge, kann ich für mich nicht verwenden.
+
+00:20:51.720 --> 00:20:55.720
+Also da passiert jetzt auch nicht wirklich was im Bezug auf,
+
+00:20:55.720 --> 00:20:58.720
+wie mache ich denn beim nächsten Mal besser.
+
+00:20:58.720 --> 00:21:06.710
+Ja, und wie gesagt, wenn wir Glück haben, erreichen wir 50 Prozent der Betroffenen,
+
+00:21:06.710 --> 00:21:08.710
+sage ich jetzt einfach mal so.
+
+00:21:08.710 --> 00:21:12.710
+Und deshalb finde ich dieses Format, so wie das in vielen Unternehmen
+
+00:21:12.710 --> 00:21:18.860
+jetzt einfach transportiert wird nach Deutschland, das ist der Fehler im System.
+
+00:21:18.860 --> 00:21:22.860
+Man müsste das also mehr auf die Gegebenheiten anpassen.
+
+00:21:22.860 --> 00:21:25.860
+Man müsste mehr machen. Also ich habe überhaupt nichts gegen Fuck-up-Nights.
+
+00:21:25.860 --> 00:21:29.860
+Man kann das also auf jeden Fall veranstalten. Man sollte aber überlegen,
+
+00:21:29.860 --> 00:21:34.860
+mit welchen Formaten kriegen wir andere Mitarbeiter abgeholt?
+
+00:21:34.860 --> 00:21:40.860
+Oder wie gestalten wir dieser Fuck-up? Also schon der Titel, der wäre dann vielleicht
+
+00:21:40.860 --> 00:21:46.810
+für ein ausgewogeneres Ansprachverhältnis zu revidieren.
+
+00:21:46.810 --> 00:21:51.400
+Das sehe ich auch immer in verschiedenen Unternehmen, dass allein der Name schon,
+
+00:21:51.400 --> 00:21:56.400
+gerade so einen Englischsprachigen eher abgelehnt wird, dieses Fuck-up.
+
+00:21:56.400 --> 00:22:00.400
+Das kann man ja auch Failure Culture oder wie auch immer.
+
+00:22:00.400 --> 00:22:05.400
+Also da muss man, wie gesagt, also mein Plädoyer, und deshalb freue ich mich halt
+
+00:22:05.400 --> 00:22:09.400
+Gast in diesem Podcast hier zu sein, weil was ich gerne erreichen möchte,
+
+00:22:09.400 --> 00:22:14.400
+ist, dass die Unternehmen mehr individualistisch an das Thema Fehlerkultur rangehen,
+
+00:22:14.400 --> 00:22:20.370
+dass diese, also meine Message ist, schaut nicht auf das Gesamtunternehmen,
+
+00:22:20.370 --> 00:22:24.370
+sondern schaut auf eure Teams, schaut auf die Protagonisten im Team,
+
+00:22:24.370 --> 00:22:30.420
+schaut, wie die Teamleads selber unterwegs sind und macht was gemeinsam draus.
+
+00:22:30.420 --> 00:22:33.420
+Ja, und das muss man, das kann man wissenschaftlich machen.
+
+00:22:33.420 --> 00:22:37.420
+Ja, das kann man machen, indem man halt diesen Test macht und dann sagt,
+
+00:22:37.420 --> 00:22:43.420
+ja, wir testen jetzt mal wie unsere, also was sind unsere einzelnen Teammitglieder,
+
+00:22:43.420 --> 00:22:47.420
+was sind die für viele Lerntypen. Man muss das aber nicht machen,
+
+00:22:47.420 --> 00:22:51.420
+sondern man kann das doch einfach über Workshops machen, einfach darüber,
+
+00:22:51.420 --> 00:22:54.420
+dass man miteinander spricht und dass man offen, und hier haben wir wieder
+
+00:22:54.420 --> 00:22:58.420
+das Thema Vertrauen, offen sagt, okay, was ist mit mir passiert,
+
+00:22:58.420 --> 00:23:02.420
+als dieser Misserfolg jetzt klar wurde, wir schaffen es nicht,
+
+00:23:02.420 --> 00:23:06.420
+das Projekt wird eingestellt, dass da also auch über Gefühle gesprochen wird
+
+00:23:06.420 --> 00:23:10.420
+und dass also auch die Schnellen, also die Schnellverarbeiter,
+
+00:23:10.420 --> 00:23:13.410
+dass die dann halt sagen, ja, wir nehmen uns aber die Zeit,
+
+00:23:13.410 --> 00:23:17.410
+weil die langsamen Verarbeiter haben wichtige Hinweise,
+
+00:23:17.410 --> 00:23:21.500
+die wir einfach übersehen, weil wir einfach schon im neuen Projekt sind.
+
+00:23:21.500 --> 00:23:26.500
+Ja, also gerade diese Innovatoren, die haben das schon längst abgehakt,
+
+00:23:26.500 --> 00:23:31.520
+die wissen schon längst, also wenn es kommt, ist es eine schöne Überraschung,
+
+00:23:31.520 --> 00:23:34.480
+dann kriegen wir das auch hin, aber wenn es nicht kommt,
+
+00:23:34.480 --> 00:23:38.480
+also wenn das Projekt abgelehnt wird, wie bei mir mit diesen Fördergeldern,
+
+00:23:38.480 --> 00:23:41.480
+da habe ich doch schon eine neue Spielwiese längst gefunden,
+
+00:23:41.480 --> 00:23:44.480
+ja, da bin ich doch schon wo ganz anders unterwegs.
+
+00:23:44.480 --> 00:23:49.440
+Und von daher diesen Spagat halt irgendwie auch zu lösen,
+
+00:23:49.440 --> 00:23:57.330
+das ist mein Appell, um wirklich Fehlerkultur positiv erlebbar zu machen.
+
+00:23:57.330 --> 00:23:59.330
+Vielleicht dann auch so Raum für,
+
+00:23:59.330 --> 00:24:03.480
+das habe ich gerade so selber für mich die Erfahrung gemacht oder gelernt,
+
+00:24:03.480 --> 00:24:07.630
+halt auch nach solchen Fuck-Ups oder wie auch immer man die nennt,
+
+00:24:07.630 --> 00:24:11.550
+Fehler, dass man da auch Raum für so negative Gefühle gibt,
+
+00:24:11.550 --> 00:24:14.630
+weil ich eher auch direkt schaue, optimistisch,
+
+00:24:14.630 --> 00:24:16.630
+okay, abgehakt, weiter.
+
+00:24:16.630 --> 00:24:18.660
+Manche brauchen vielleicht auch länger, dass man so sagt,
+
+00:24:18.660 --> 00:24:22.200
+okay, das nicht direkt sagt, ja, und was machen wir jetzt,
+
+00:24:22.200 --> 00:24:24.200
+sondern auch ein bisschen Raum für die gibt,
+
+00:24:24.200 --> 00:24:26.160
+okay, vielleicht brauchen die noch,
+
+00:24:26.160 --> 00:24:31.210
+müssen vielleicht ihre negativen Gefühle auch irgendwo zum Ausdruck bringen,
+
+00:24:31.210 --> 00:24:34.210
+dass man da auch Raum für gibt, das hatte ich so für mich.
+
+00:24:34.210 --> 00:24:37.210
+Genau. Da ist auch ein schönes Thema, tatsächlich Rituale.
+
+00:24:37.210 --> 00:24:41.240
+Ich habe bei den Unternehmern, mit denen ich gesprochen habe,
+
+00:24:41.240 --> 00:24:45.240
+die also wirklich große, also große, das waren jetzt keine Konzerne
+
+00:24:45.240 --> 00:24:49.240
+wie jetzt Volkswagen oder so, aber das waren große Mittelständler gewesen.
+
+00:24:49.240 --> 00:24:52.240
+Und diese Unternehmen sind insolvent gegangen.
+
+00:24:52.240 --> 00:24:57.240
+Und wie gesagt, das waren Unternehmer, mit denen ich dann danach gesprochen habe,
+
+00:24:57.240 --> 00:24:59.240
+über ihre, über die Erfahrung damit.
+
+00:24:59.240 --> 00:25:02.420
+Und da gab es auch Unternehmer, die dann gesagt haben,
+
+00:25:02.420 --> 00:25:07.420
+ich brauche ein Ritual oder meine Mitarbeiter brauchen ein Ritual.
+
+00:25:07.420 --> 00:25:10.420
+Also das habe ich zweimal ganz intensiv.
+
+00:25:10.420 --> 00:25:13.420
+Das eine Mal war ein Mittelständler gewesen, der also gesagt hat,
+
+00:25:13.420 --> 00:25:15.420
+für ein Familienunternehmen, so muss ich sagen,
+
+00:25:15.420 --> 00:25:18.420
+ein mittelständisches Familienunternehmen.
+
+00:25:18.420 --> 00:25:21.420
+Und die sind in einer Kleinstadt in Nordrhein-Westfalen.
+
+00:25:21.420 --> 00:25:25.410
+Und da waren also auch sehr viele familiäre Verbindungen.
+
+00:25:25.410 --> 00:25:30.410
+Also die Angestellten waren oft, also bekannt halt.
+
+00:25:30.410 --> 00:25:34.410
+Also das war irgendwie dann der Schwage vom Neffen oder keine Ahnung was.
+
+00:25:34.410 --> 00:25:38.400
+Und da hat der Juniorchef, der dann halt gesagt hat,
+
+00:25:38.400 --> 00:25:42.400
+also für unser Angebot gibt es keinen Markt mehr.
+
+00:25:42.400 --> 00:25:47.460
+Wir müssen das Unternehmen ja geplant abwickeln.
+
+00:25:47.460 --> 00:25:49.460
+Das ist natürlich auch noch mal so ein großes Thema,
+
+00:25:49.460 --> 00:25:52.430
+weil von außen hat man ja gar nicht gesehen,
+
+00:25:52.430 --> 00:25:54.430
+dass dieses Unternehmen keine Zukunft mehr hatte.
+
+00:25:54.430 --> 00:25:57.430
+Also auch das zu kommunizieren an die Mitarbeiter und denen zu sagen,
+
+00:25:57.430 --> 00:26:00.430
+das ist der Grund, warum wir jetzt das heute machen.
+
+00:26:00.430 --> 00:26:03.430
+Und zwar mit einem, also da ist noch Geld in der Kasse
+
+00:26:03.430 --> 00:26:05.430
+und wir können das alles noch ordentlich abwickeln.
+
+00:26:05.430 --> 00:26:09.390
+Und für den war es halt wichtig, ein Ritual zu schaffen,
+
+00:26:09.390 --> 00:26:12.390
+dass die Mitarbeiter also wirklich Abschied nehmen können.
+
+00:26:12.390 --> 00:26:15.350
+Und das habe ich noch mal in einem anderen Kontext erlebt.
+
+00:26:15.350 --> 00:26:17.350
+Und da war es noch spannender.
+
+00:26:17.350 --> 00:26:21.310
+Der Unternehmer, der hat zehn Jahre nach dem seinen,
+
+00:26:21.310 --> 00:26:25.310
+er hat den kleinen Baukonzern im Osten Deutschlands aufgebaut.
+
+00:26:25.310 --> 00:26:28.310
+Und dieser Konzern ist halt auch insolvent gegangen.
+
+00:26:28.310 --> 00:26:34.290
+Und er muss, er hat dann zehn Jahre später hat er die wichtigen Menschen,
+
+00:26:34.290 --> 00:26:37.290
+die in der Zeit unternehmerisch an seiner Seite standen.
+
+00:26:37.290 --> 00:26:43.960
+Also zum Beispiel sein Kaufmännchenleiter und der Bankberater und andere Menschen,
+
+00:26:43.960 --> 00:26:45.960
+die, also wie gesagt, da sehr involviert waren.
+
+00:26:45.960 --> 00:26:48.960
+Die hat er dann nach zehn Jahren eingeladen,
+
+00:26:48.960 --> 00:26:51.960
+nochmal zusammenzukommen und darüber zu reden.
+
+00:26:51.960 --> 00:26:54.960
+Also war für mich eine ganz spannende Erfahrung gewesen,
+
+00:26:54.960 --> 00:26:58.960
+was so dann bei den Unternehmern dann halt auch passiert.
+
+00:26:58.960 --> 00:27:01.960
+Und das ist für mich eine gute Geschichte bei einer großen.
+
+00:27:01.960 --> 00:27:05.180
+Also ich meine jetzt ja, wenn mal irgendwie, keine Ahnung,
+
+00:27:05.180 --> 00:27:08.180
+irgendein Prozess läuft nicht und die Kunden regen sich ab,
+
+00:27:08.180 --> 00:27:12.180
+dann würde ich jetzt kein Ritual wahrscheinlich da drum herum bauen.
+
+00:27:12.180 --> 00:27:14.180
+Aber wenn es doch eine große Geschichte ist,
+
+00:27:14.180 --> 00:27:17.180
+also man hat sich irgendwo geworben um einen tollen Auftrag
+
+00:27:17.180 --> 00:27:19.180
+und da hat man viel Arbeit reingesteckt
+
+00:27:19.180 --> 00:27:22.180
+und das ist dann halt nicht erfolgreich gewesen.
+
+00:27:22.180 --> 00:27:28.180
+Also Manöverkritik ist ja schon in einigen Unternehmen da schon implementiert,
+
+00:27:28.180 --> 00:27:30.180
+aber da sind wir wieder auf dieser analytischen Seite.
+
+00:27:30.180 --> 00:27:35.180
+Ja, das machen dann die Analytiker, die sind da gut,
+
+00:27:35.180 --> 00:27:38.180
+die sagen dann, habe ich das auch gerade gestern erlebt,
+
+00:27:38.180 --> 00:27:42.180
+auch in einem Projekt, wo ich mit meiner V-Consult mit unterwegs bin.
+
+00:27:42.180 --> 00:27:44.180
+Da hat auch ein Geschäftspartner,
+
+00:27:44.180 --> 00:27:47.180
+hat er sich auch mit mir zusammen um einen großen Auftrag beworben.
+
+00:27:47.180 --> 00:27:49.180
+Er hat jetzt diese Woche erfahren,
+
+00:27:49.180 --> 00:27:51.180
+diesen Auftrag werden wir nicht bekommen.
+
+00:27:51.180 --> 00:27:55.180
+Er sagt dann auch, ja, lass uns eine Manöverkritik machen.
+
+00:27:55.180 --> 00:27:59.180
+Und da weiß ich aber, da sind wir auf der Sachebene.
+
+00:27:59.180 --> 00:28:04.180
+Also was hätte man in den Unterlagen noch anders machen können?
+
+00:28:04.180 --> 00:28:06.180
+Wie hätte man die Ansprache anders machen können?
+
+00:28:06.180 --> 00:28:08.170
+Und da sind wir noch nicht dort an der Stelle,
+
+00:28:08.170 --> 00:28:11.170
+darüber zu reden, was macht das jetzt eigentlich mit uns,
+
+00:28:11.170 --> 00:28:13.170
+dass wir das nicht bekommen haben.
+
+00:28:13.170 --> 00:28:15.190
+Genau, das ist da.
+
+00:28:15.190 --> 00:28:17.190
+Ich glaube, da kann ich auch mal wieder einen Punkt machen,
+
+00:28:17.190 --> 00:28:19.190
+damit du wieder zu Wort kommst.
+
+00:28:19.190 --> 00:28:23.150
+Also Manöverkritik vielleicht für die, die es nicht kennen.
+
+00:28:23.150 --> 00:28:24.150
+Vielleicht kannst du da nochmal,
+
+00:28:24.150 --> 00:28:26.280
+beziehungsweise da hast du ja eigentlich schon ein bisschen erzählt,
+
+00:28:26.280 --> 00:28:31.410
+dass man wahrscheinlich analytisch das Problem oder was schief gelaufen ist untersucht
+
+00:28:31.410 --> 00:28:33.410
+und was man daraus ableiten kann?
+
+00:28:33.410 --> 00:28:37.440
+Ja, du hast ja schon kurz erwähnt, dass ich von eY komme
+
+00:28:37.440 --> 00:28:43.440
+und das Kerngeschäft, zumindest in dem Bereich, in dem ich viele Jahre tätig war,
+
+00:28:43.440 --> 00:28:45.440
+ist die Wirtschaftsprüfung.
+
+00:28:45.440 --> 00:28:48.440
+Und da hat zum Beispiel einige unserer Manager,
+
+00:28:48.440 --> 00:28:52.440
+die haben das so gemacht, dass die nach jedem Prüfungsauftrag,
+
+00:28:52.440 --> 00:28:55.440
+also das waren dann auch Aufträge, die gingen bei großen Unternehmen
+
+00:28:55.440 --> 00:28:58.440
+über mehrere Wochen, teilweise sogar Monate.
+
+00:28:58.440 --> 00:29:03.440
+Und da war halt immer ein Team dann, die sich dann dieser Jahresabschlussprüfung gewidmet haben
+
+00:29:03.440 --> 00:29:05.440
+oder einer Unternehmensbewertung gewidmet haben.
+
+00:29:05.440 --> 00:29:09.440
+Und einige unserer Manager, die haben das dann auch sehr analytisch gemacht.
+
+00:29:09.440 --> 00:29:13.440
+Die haben also nach jedem Auftrag, immer wenn das abgeschlossen war,
+
+00:29:13.440 --> 00:29:17.400
+haben sie dann halt mit dem Team eine Manöverkritik gemacht, um halt zu schauen,
+
+00:29:17.400 --> 00:29:21.370
+okay, was haben wir aus unserer aller Sicht gut gemacht?
+
+00:29:21.370 --> 00:29:25.460
+Was war vielleicht verbesserungs- oder ist verbesserungswürdig?
+
+00:29:25.460 --> 00:29:28.460
+Und um da auch nochmal so einen Schlusspunkt zu setzen,
+
+00:29:28.460 --> 00:29:34.460
+wo der Begriff eigentlich herkommt, wahrscheinlich aus dem Militär, klingt so, Manöver.
+
+00:29:34.460 --> 00:29:39.520
+Aber wie gesagt, für mich kommt es aus der Praxis des Projektgeschäfts,
+
+00:29:39.520 --> 00:29:43.520
+dass man also nach dem Projekt, egal ob das ein Erfolg oder ein Misserfolg war,
+
+00:29:43.520 --> 00:29:49.800
+dass man auf jeden Fall sich nochmal im Team zusammensetzt und sagt, was können wir daraus lernen?
+
+00:29:49.800 --> 00:29:52.800
+Und wie gesagt, es ist so klassisch eher analytisch.
+
+00:29:52.800 --> 00:29:56.860
+Und ich würde halt gerne A, es muss immer stattfinden.
+
+00:29:56.860 --> 00:30:03.920
+Und B, bitte redet auch darüber, was habt ihr emotional auf diesem Projekt erlebt.
+
+00:30:03.920 --> 00:30:09.950
+Und dafür brauchen wir die psychologische Sicherheit, um diese Tür öffnen zu können.
+
+00:30:09.950 --> 00:30:20.030
+Jetzt noch vielleicht für die Zuhörerinnen, die vielleicht auch so ein bisschen zu diesen drei, vier Typen,
+
+00:30:20.030 --> 00:30:25.410
+kannst du da vielleicht ein bisschen Einblicke geben, was für Formate vielleicht da?
+
+00:30:25.410 --> 00:30:30.560
+Oder ist das sehr, dass man im Team sagt, okay, diese vier Typen gibt es vielleicht.
+
+00:30:30.560 --> 00:30:36.130
+Was habt ihr da, dass man individuell mit dem Team das erarbeitet, ein mögliches Format?
+
+00:30:36.130 --> 00:30:44.470
+Oder gibt es da welche, die du da vielleicht anderen Unternehmen empfehlen könntest?
+
+00:30:44.470 --> 00:30:50.560
+Tatsächlich, also auch hier wieder fangen wir vielleicht nochmal an einer anderen Stelle an.
+
+00:30:50.560 --> 00:30:57.550
+Also ich bin immer noch hin und her gerissen mit dem Thema, wie wichtig ist es wirklich diesen Typen genau zu ermitteln.
+
+00:30:57.550 --> 00:31:02.550
+Also müssen wir wirklich genau wissen, wie viele von welchem Typen haben wir in unserem Team.
+
+00:31:02.550 --> 00:31:08.550
+Also wissenschaftlich, also da ist jetzt die Seele der Wissenschaftlerin in mir, die sagt, na klar, das ist wichtig,
+
+00:31:08.550 --> 00:31:14.540
+der ordentliche Diagnostik und das macht es dann natürlich ein bisschen aufwendig.
+
+00:31:14.540 --> 00:31:21.540
+Um da den Aufwand rauszunehmen, bin ich gerade dabei, mit einer Gruppe von Studierenden von meiner Hochschule
+
+00:31:21.540 --> 00:31:28.620
+ein Serious Game zu entwickeln, wie man also spielerisch zu dem Thema kommt,
+
+00:31:28.620 --> 00:31:32.620
+also dass man halt keine Fragebogen oder irgendwelche Statements, Sorts da machen muss,
+
+00:31:32.620 --> 00:31:37.620
+sondern dass man halt spielerisch durch verschiedene Szenen durchgeht und dann am Schluss sagen kann,
+
+00:31:37.620 --> 00:31:43.000
+ah, ich bin der Typ und dann kann das Team halt darüber sprechen.
+
+00:31:43.000 --> 00:31:49.530
+Das ist aber, wie gesagt, ein gewisser Aufwand und von daher, und ich bin ja, ich bin auch Pragmatikerin
+
+00:31:49.530 --> 00:31:54.530
+und freue mich immer, wenn man einfach mal ins Doing kommt und nicht immer so lange rummacht,
+
+00:31:54.530 --> 00:31:59.500
+weil dann wird am Schluss dann gar nichts, dann hat der Chef gewechselt und dann ist kein Budget mehr dafür da
+
+00:31:59.500 --> 00:32:08.380
+und deshalb plädiere ich dafür mit Coaches, also das kann ich sein, das kann jemand anders sein,
+
+00:32:08.380 --> 00:32:14.440
+einfach dieses Thema anzugehen und zu sagen, okay, was passiert denn bei uns,
+
+00:32:14.440 --> 00:32:22.590
+nachdem ein Misserfolg zu verbuchen ist und ob ich dann nun ganz genau dann wissenschaftlich sage,
+
+00:32:22.590 --> 00:32:27.590
+okay, du bist der Depressive und du bist der Innovator, ich glaube, das muss gar nicht sein,
+
+00:32:27.590 --> 00:32:33.590
+sondern wichtig ist vor allen Dingen, und deshalb sage ich auch so offen, also jeder kann das nachlesen,
+
+00:32:33.590 --> 00:32:40.650
+was ich dazu veröffentlicht habe und da kann jeder Coach auch sein Ereignis draus machen.
+
+00:32:40.650 --> 00:32:47.810
+Also wichtig ist, wir sind verschieden, wir wollen aber gemeinsam eine gute Fehlerkultur.
+
+00:32:47.810 --> 00:32:56.990
+Ich habe zum Beispiel jetzt einen Studenten, der ist bei der Bundespolizei und der hat halt auch festgestellt,
+
+00:32:56.990 --> 00:33:03.990
+dass in den Debriefings, also erstmal per se, Fehlerkultur ist schwierig bei der Bundespolizei
+
+00:33:03.990 --> 00:33:08.990
+und da gibt es auch offizielle Studien dazu, also da verrate ich kein Geheimnis jetzt hier gerade.
+
+00:33:08.990 --> 00:33:13.990
+Und der Student hat halt diese Studien gewesen, hat halt festgestellt, ja, das ist bei mir eigentlich genauso.
+
+00:33:13.990 --> 00:33:19.990
+Und er hat sich jetzt zum Beispiel damit auseinandergesetzt im Rahmen einer Praxisprojektarbeit,
+
+00:33:19.990 --> 00:33:26.990
+wie denn die, also wie die Debriefings, also auch eine Art Manöverkritik,
+
+00:33:26.990 --> 00:33:31.990
+wie die verändert werden müssten, damit die Fehlerkultur verbessert werden kann.
+
+00:33:31.990 --> 00:33:37.150
+Also es gibt ganz verschiedene Wege, also das kann, wie gesagt, das kann intern entstehen,
+
+00:33:37.150 --> 00:33:41.120
+dass jemand sagt, das ist mein Thema und jemand, der berufsbegleitend studiert,
+
+00:33:41.120 --> 00:33:45.120
+der kann das vielleicht sogar zu einem Hochschulprojekt machen.
+
+00:33:45.120 --> 00:33:50.120
+Ja, ich bin da ganz offen, also jeder, der da sagt, Mensch, das interessiert mich.
+
+00:33:50.120 --> 00:33:55.150
+Ich meine, ich bin ja auch hier bei dir in dem Podcast, um einfach zu sagen,
+
+00:33:55.150 --> 00:33:58.150
+ich lasse mich darüber erzählen, wie es funktioniert.
+
+00:33:58.150 --> 00:34:02.140
+Und da ist jetzt kein Gewinn-Gedanke meinesseits dahinter,
+
+00:34:02.140 --> 00:34:07.140
+sondern mir geht es wirklich darum, Anstöße, Impulse zu geben, wie kann man Dinge verbessern.
+
+00:34:07.140 --> 00:34:13.730
+Und wie gesagt, feel free to ask und kommt einfach auf mich zu.
+
+00:34:13.730 --> 00:34:19.730
+Alle, die irgendwo sagen, oh, das ist ein Thema bei uns, wir würden gern mal mehr hören.
+
+00:34:19.730 --> 00:34:25.110
+Aber ich glaube, was mir jetzt in den Gedanken gekommen ist, ist wahrscheinlich auch erstmal,
+
+00:34:25.110 --> 00:34:30.210
+dass einem bewusst ist, dass es verschiedene Typen gibt, dass man die vielleicht auch,
+
+00:34:30.210 --> 00:34:34.210
+wenn man ein Format entwickelt, im Hinterkopf hat, okay, oder natürlich mit denen zusammen,
+
+00:34:34.210 --> 00:34:37.240
+dass man sagt, okay, nicht alle reagieren auf Fehler.
+
+00:34:37.240 --> 00:34:42.240
+Wie das so oft schön gemacht wird, okay, wie du gesagt hast, ein Fuck-up-Neid macht,
+
+00:34:42.240 --> 00:34:46.390
+da hat man dann Fehlerkultur besprochen.
+
+00:34:46.390 --> 00:34:50.390
+Und wundert sich danach, warum die Fehlerkultur vielleicht sogar noch schlechter wird,
+
+00:34:50.390 --> 00:34:55.390
+weil du ja dann ganz offen, also es ist halt insgesamt eine Kulturfrage, ja,
+
+00:34:55.390 --> 00:34:57.390
+wie ist die Kultur in unserem Unternehmen?
+
+00:34:57.390 --> 00:35:02.390
+Setzen wir halt auf die starken, die wettbewerbsorientierten
+
+00:35:02.390 --> 00:35:05.390
+und lassen die anderen halt irgendwo hinten hängen?
+
+00:35:05.390 --> 00:35:08.390
+Können wir uns das leisten, ja, so, dann kann man das so machen,
+
+00:35:08.390 --> 00:35:10.330
+dann ist das super mit Fuck-up-Nights.
+
+00:35:10.330 --> 00:35:16.380
+Wenn ich aber sage, nee, ich will halt auch die Menschen, die analytischer unterwegs sind
+
+00:35:16.380 --> 00:35:22.380
+oder die halt einfach Zeit benötigen, um einen Sinn überhaupt in was zu finden,
+
+00:35:22.380 --> 00:35:25.370
+ich will die mitnehmen, ja, dann muss ich halt anders rangehen.
+
+00:35:25.370 --> 00:35:32.240
+Da gibt es auch eine sehr schöne, ich weiß nicht, ob du Carol Zweck, die Forscherin,
+
+00:35:32.240 --> 00:35:38.330
+ob du von der schon mal was gehört hast, die hat sich mit dem Mindset auseinandergesetzt.
+
+00:35:38.330 --> 00:35:42.330
+Das heißt also, da gibt es also auch ganz viel Forschung dazu.
+
+00:35:42.330 --> 00:35:47.330
+Die hat zunächst mit Schulkindern geforscht und das ist dann also ausgeweitet worden.
+
+00:35:47.330 --> 00:35:51.330
+Und man kann also schon im Kindesalter feststellen, dass es Menschen gibt,
+
+00:35:51.330 --> 00:35:56.330
+die ein sogenanntes Fixed Mindset haben. Das heißt, das sind halt eher die, die sagen,
+
+00:35:56.330 --> 00:36:00.330
+okay, ich gehe so weit, wie mir andere das zutrauen.
+
+00:36:00.330 --> 00:36:06.290
+Also die suchen dann halt immer die Bestätigung von außen und experimentieren halt nicht,
+
+00:36:06.290 --> 00:36:09.290
+weil sie sagen, nein, im Vatikan kann ich nicht.
+
+00:36:09.290 --> 00:36:14.270
+Und diese Glaubenssätze stellen die halt eher nicht wieder infrage.
+
+00:36:14.270 --> 00:36:18.350
+Und dann gibt es halt die Menschen mit dem Großmindset, die also sagen, ist egal.
+
+00:36:18.350 --> 00:36:23.350
+Und wenn ich da jetzt halt eine Fünf bekomme, dann war einfach der Test gewesen.
+
+00:36:23.350 --> 00:36:26.350
+Ich habe es mal probiert, wie es geht, ohne Lernen.
+
+00:36:26.350 --> 00:36:31.350
+Also die einfach offen damit umgehen mit diesem, ich kann auch mal scheitern.
+
+00:36:31.350 --> 00:36:36.350
+Und diese Menschen, wie gesagt, also man kann auch wechseln.
+
+00:36:36.350 --> 00:36:39.350
+Also man kann vom Fix zum Großmindset Menschen entwickeln.
+
+00:36:39.350 --> 00:36:44.920
+Und das ist halt die Message von Carol Treck, die halt auch sagt, schaut euch das an in den Schulen.
+
+00:36:44.920 --> 00:36:49.920
+Setzt Lehrer ein, die es schaffen, dieses Großmindset zu entwickeln bei den Kindern.
+
+00:36:49.920 --> 00:36:54.010
+Es ist entwicklungsfähig. Es ist auch im Erwachsenenalter noch entwicklungsfähig.
+
+00:36:54.010 --> 00:37:00.010
+So, und jetzt hat die Schülerin von Carol Treck, die Mary Murphy heißt die,
+
+00:37:00.010 --> 00:37:05.010
+die hat nun wieder weiter geforscht und die hat sich das auf organisationaler Ebene angeschaut
+
+00:37:05.010 --> 00:37:10.010
+und hat gesagt, haben den Organisationen auch so ein Fixed oder Großmindset?
+
+00:37:10.010 --> 00:37:16.040
+Und die sagt ja. Und ganz spannend ist es, die Unternehmen mit dem Fixed Mindset,
+
+00:37:16.040 --> 00:37:20.990
+das sieht erstmal ganz attraktiv von außen aus, weil die haben nämlich so ein Elite-Gedanken.
+
+00:37:20.990 --> 00:37:27.070
+Und du erkennst diese Unternehmen daran, du bist da am ersten Tag, also trittst einen neuen Job an,
+
+00:37:27.070 --> 00:37:32.070
+kommst in dieses Unternehmen und bist im ersten Team-Meeting und jeder erzählt erstmal,
+
+00:37:32.070 --> 00:37:37.070
+was für ein toller Hecht er ist, ja. Also da wird erstmal super darüber gesprochen,
+
+00:37:37.070 --> 00:37:42.070
+welche Abschlüsse, welche Projekte und ich habe gestern auch so ein Meeting,
+
+00:37:42.070 --> 00:37:45.070
+so ein internes Meeting gehabt, da musste dann unbedingt noch jemand sagen,
+
+00:37:45.070 --> 00:37:49.070
+dass er es jetzt ins Handelsblatt geschafft hat und das sind dann solche,
+
+00:37:49.070 --> 00:37:56.860
+naja, das sind dann solche, ja, solche Karpfen oder Hecht im Karpfen-Teich-Geschichten,
+
+00:37:56.860 --> 00:38:02.860
+wo es also sehr darüber geht, sehr darum geht zu zeigen, was man selber halt alles hat.
+
+00:38:02.860 --> 00:38:08.860
+Und was macht es jetzt mit diesem neuen Mitarbeiter? Im Zweifel ist der dann erstmal ruhig und sagt,
+
+00:38:08.860 --> 00:38:12.860
+wow, die sind ja alle toll. Ich sag mal lieber nicht, dass ich jetzt hier gerade
+
+00:38:12.860 --> 00:38:16.860
+so ein kleines Projekt da mache, wenn alle anderen nur darüber reden,
+
+00:38:16.860 --> 00:38:24.890
+irgendwie wie viel, 100.000 Euro sie da wieder eingefahren haben. Ja, Elite-Mindset in den Unternehmen
+
+00:38:24.890 --> 00:38:29.890
+und die Mary Murphy sagt halt, und das macht auch Leute mit einem großen Mindset kaputt.
+
+00:38:29.890 --> 00:38:34.010
+Das heißt also, wenn ich mit diesem entwicklungsorientierten Mindset da reinkomme,
+
+00:38:34.010 --> 00:38:40.060
+wenn ich dann wieder merke, oh, hier muss ich erstmal was, überhaupt erstmal was erreicht haben,
+
+00:38:40.060 --> 00:38:44.150
+ehe ich hier den Mund aufmache, dann wird es für die halt schwierig.
+
+00:38:44.150 --> 00:38:49.120
+Dann werden die halt dieses Fixed Mindset sich angewöhnen und so nach dem Motto,
+
+00:38:49.120 --> 00:38:52.120
+oh ja, okay, das ist hier der Rahmen, ich bewege mich hier in dem Rahmen.
+
+00:38:52.120 --> 00:38:54.120
+Ganz spannende Forschung.
+
+00:38:54.120 --> 00:39:04.570
+Bei Federkultur, was ich immer so mitbekommen habe, dass der oder die Chefin das vorleben muss, siehst du das auch so?
+
+00:39:04.570 --> 00:39:10.260
+Dass du vielleicht in so einem Setup, also was ich immer so gehört habe, auch so bei Fuckup Nights,
+
+00:39:10.260 --> 00:39:15.260
+am besten ist eigentlich am besten, wenn der oder die Teamlead das am Anfang einen Fuckup zeigt und sagt,
+
+00:39:15.260 --> 00:39:21.220
+okay, guck mal, es ist okay, wenn man einen Fehler macht, dass das so wie so ein Role Modeling ist
+
+00:39:21.220 --> 00:39:25.340
+und dann trauen sich vielleicht auch das Team?
+
+00:39:25.340 --> 00:39:31.720
+Ja, wie gesagt, dasselbe gilt wieder mit dieser Typologie, wenn die Chefin so eine wache Unternehmerin ist,
+
+00:39:31.720 --> 00:39:36.680
+die dann so sagt, ja, guckt mal und hier stehe ich heute da und jetzt habe ich den roten Lippenstift drauf
+
+00:39:36.680 --> 00:39:43.680
+und ich schaffe das alles, dann sind wieder diejenigen, die dann sagen, oh Gott, ja, das ist sowieso die Größte
+
+00:39:43.680 --> 00:39:51.680
+und ach Gott, nein, die wird wieder nicht abgeholt und ich glaube, aber das ist eben auch interessant,
+
+00:39:51.680 --> 00:39:58.680
+musste man sich mal genauer anschauen. Jetzt sagen wir mal, der Chef ist eher so dieser langsamen Verarbeiter
+
+00:39:58.680 --> 00:40:05.680
+und der stellt sich dann halt hin und sagt, ja, ich habe wahnsinnig damit zu kämpfen gehabt,
+
+00:40:05.680 --> 00:40:10.680
+dass wir dieses Projekt nicht gewonnen haben. Ihr habt ja gesehen, ich habe mich am nächsten Tag
+
+00:40:10.680 --> 00:40:16.380
+erst mal krank gemeldet, ich konnte gar nicht mich wieder dem Alltag widmen.
+
+00:40:16.380 --> 00:40:20.440
+Ich habe einfach erst mal einen Tag zum Verarbeiten gebraucht. Jetzt ist ja die Frage,
+
+00:40:20.440 --> 00:40:25.440
+dann können wir ja genüsslich darüber diskutieren, wie kommt das dann im Team an?
+
+00:40:25.440 --> 00:40:30.410
+Das kommt auf jeden Fall bei den langsamen Verarbeitern gut an, weil das ist auch auf jeden Fall authentisch.
+
+00:40:30.410 --> 00:40:35.410
+Und jetzt ist halt die Frage, die Schnellverarbeiter, die Hechte im Karpfenteich,
+
+00:40:35.410 --> 00:40:41.430
+wie sehr sagen die, ja, die Chefin ist hier an der wichtigen Stelle, wenn die sowas sagt?
+
+00:40:41.430 --> 00:40:46.400
+Oder sind das dann Menschen, die dann sagen, Moment mal, was geht denn hier gerade ab?
+
+00:40:46.400 --> 00:40:54.400
+Das ist also so diese Vorbildwirkung. Ich würde eher empfehlen, also wenn der Chef halt weiß, wie er selber drauf ist,
+
+00:40:54.400 --> 00:41:00.400
+dass er sich noch den Counterpartner zuholt, dass also wieder beide Geschichten angeboten werden,
+
+00:41:00.400 --> 00:41:06.400
+dass also die Führungskraft ruhig mit dem eigenen Empfinden vorangeht und dass man aber für die anderen,
+
+00:41:06.400 --> 00:41:10.400
+wo man sagt, also die hole ich damit nicht ab, das sind sowieso schon meine Kritiker,
+
+00:41:10.400 --> 00:41:14.330
+dass ich da halt noch was in der Tasche habe, was ich denen anbieten kann.
+
+00:41:14.330 --> 00:41:20.930
+Müsste man denn auch dann alle vier zeigen oder reicht einmal so ein ...
+
+00:41:20.930 --> 00:41:25.930
+Ja, ja, also ich denke, das reicht grundsätzlich, weil das eröffnet ja schon mal diese Diskussion
+
+00:41:25.930 --> 00:41:31.930
+oder den, ja, den Dancefloor, dass man jetzt sagt, okay, also hier gibt es verschiedene Meinungen
+
+00:41:31.930 --> 00:41:37.930
+und ich habe jetzt mal, also das ist keine Skala übrigens, also wenn ich immer von den langsamen
+
+00:41:37.930 --> 00:41:43.930
+und schnellen Verarbeitern rede, weil das ist halt sehr komplex, was da beim Thema Umgang mit Scheitern abgeht,
+
+00:41:43.930 --> 00:41:47.930
+aber man kann die immer sehr schön rausstellen und zu sagen, weil die sind zumindest
+
+00:41:47.930 --> 00:41:53.930
+in der Verarbeitungsgeschwindigkeit sehr unterschiedlich und wenn da einfach schon mal
+
+00:41:53.930 --> 00:42:01.930
+so zwei Meinungen im Raum stehen, wo drüber geredet wird, ich glaube, dann erkennen ja die Teams,
+
+00:42:01.930 --> 00:42:07.930
+aha, hier gibt es nicht die eine Wahrheit, sondern hier ist wirklich etwas, was wir miteinander aushandeln müssen.
+
+00:42:07.930 --> 00:42:12.920
+Wie wollen wir denn jetzt als Team mit der Situation umgehen?
+
+00:42:12.920 --> 00:42:17.920
+Ja und hier bin ich dann, weil du hattest ja auch konkret gefragt, hier bin ich dann also wirklich dafür,
+
+00:42:17.920 --> 00:42:22.920
+dann auch mit so Coaching-Methoden zu arbeiten, dass man also auch wirklich sicherstellt,
+
+00:42:22.920 --> 00:42:26.920
+dass halt alle mit abgeholt werden, also dass man dann halt mit Post-it-Abfragen
+
+00:42:26.920 --> 00:42:31.920
+oder irgendwo halt darauf achtet, dass niemand sich da zurückzieht und sagt,
+
+00:42:31.920 --> 00:42:34.850
+ja, das ist jetzt gerade hier nicht mein Thema.
+
+00:42:34.850 --> 00:42:40.350
+Kannst du am Anfang, weil wir jetzt noch lange noch vielleicht schon zum Ende kommen,
+
+00:42:40.350 --> 00:42:46.530
+hast du gesagt, das Vertrauen als Letzt, das heißt, wenn man sich damit beschäftigt,
+
+00:42:46.530 --> 00:42:52.490
+auch vielleicht alle abholt, die verschiedenen Typen, das heißt, daraus erwächst dann das Vertrauen?
+
+00:42:52.490 --> 00:43:02.960
+Genau, das ist meine Vision und ich glaube aber auch, also worst case, wenn man in einem Team ist,
+
+00:43:02.960 --> 00:43:08.920
+wo kein Vertrauen ist und wenn man dann jetzt sagt, okay, wir wollen das aber etablieren,
+
+00:43:08.920 --> 00:43:13.920
+ja, da brauche ich ja logischerweise erstmal eine Diagnostik, um festzustellen,
+
+00:43:13.920 --> 00:43:18.920
+warum haben wir denn hier kein Vertrauen, ja, also da muss ich halt an der Stelle anfangen
+
+00:43:18.920 --> 00:43:24.890
+und das führt dann, wenn wir das dann feststellen konnten, woran fehlt es denn hier,
+
+00:43:24.890 --> 00:43:28.890
+da muss man natürlich erstmal diese Rahmenbedingungen schaffen, dass man sich dann
+
+00:43:28.890 --> 00:43:34.890
+im zweiten Schritt dann halt auch dem Thema Umgang mit Fehlern oder Umgang mit Misserfolgen widmen kann
+
+00:43:34.890 --> 00:43:38.890
+und das wird halt verpasst, ja, also die Diagnostik wird nicht gemacht,
+
+00:43:38.890 --> 00:43:43.890
+sondern man sagt halt, aha, wir haben hier ein Problem, also machen wir eine Fuck-up-Night,
+
+00:43:43.890 --> 00:43:48.580
+ja, der Zwischenschritt fehlt, ja.
+
+00:43:48.580 --> 00:43:52.670
+Und gerade dieses Vertrauen ist sehr interessant, also ich habe mich auch ein bisschen damit beschäftigt
+
+00:43:52.670 --> 00:43:57.670
+und gerade dieses psychologische Sicherheitsvertrauen auch ins Team,
+
+00:43:57.670 --> 00:44:01.630
+und das ist ja spannend, man muss ja nur eine Person im Team sein,
+
+00:44:01.630 --> 00:44:05.630
+den oder der man nicht vertraut, dann hat man das ganze Vertrauen im Team schon mal nicht.
+
+00:44:05.630 --> 00:44:09.630
+Also zumindest hatte ich die Erfahrung auch teilweise gemacht,
+
+00:44:09.630 --> 00:44:12.780
+dass zwischen den einzelnen Teammitgliedern Vertrauen ist,
+
+00:44:12.780 --> 00:44:15.750
+aber bei einer Person, der nicht vertraut wurde,
+
+00:44:15.750 --> 00:44:20.840
+das ganze Team halt, man da nicht offen reden konnte oder wollte,
+
+00:44:20.840 --> 00:44:22.840
+weil man da das Vertrauen nicht hatte.
+
+00:44:22.840 --> 00:44:27.840
+Ja, und das ist jetzt auch wieder die Frage, wie stark ist das Team an sich, ja.
+
+00:44:27.840 --> 00:44:34.840
+Also wenn ich, ich sag mal, ich habe acht Leute im Team, sieben sind da super gut miteinander unterwegs
+
+00:44:34.840 --> 00:44:38.840
+und die reden dann auch darüber, dass es mit der einen Person,
+
+00:44:38.840 --> 00:44:42.840
+da gibt es halt Anzeichen, warum man dieser einen Person nicht vertraut.
+
+00:44:42.840 --> 00:44:46.840
+Und da würde ich jetzt ja natürlich auch von dem starken Team jetzt aber auch erwarten,
+
+00:44:46.840 --> 00:44:50.840
+dass man das irgendwie, weiß ich nicht, thematisiert oder bereinigt.
+
+00:44:50.840 --> 00:44:55.840
+Ja, also das Beste wäre natürlich dann wirklich auch hier wieder eine Diagnose zu machen.
+
+00:44:55.840 --> 00:44:57.840
+Warum vertraue ich diesen Menschen nicht?
+
+00:44:57.840 --> 00:45:00.750
+Also was hat der Mensch gemacht? Was wurde beobachtet?
+
+00:45:00.750 --> 00:45:03.870
+Und dann halt auch zu überlegen, warum hat er das gemacht?
+
+00:45:03.870 --> 00:45:09.900
+Ja, und gerade wenn das jemand ist, der vielleicht so nur in der Peripherie dieses Teams ist,
+
+00:45:09.900 --> 00:45:14.890
+dann kann man vielleicht auch mit einem Vertrauensvorschuss
+
+00:45:14.890 --> 00:45:17.890
+diesen Menschen zu einer Verhaltensveränderung bringen,
+
+00:45:17.890 --> 00:45:20.920
+ohne dass man das jetzt wirklich aktiv adressieren muss.
+
+00:45:20.920 --> 00:45:24.920
+Und wenn man aber, wenn das wirklich eine Kernperson im Team ist,
+
+00:45:24.920 --> 00:45:27.920
+dann wäre es wahrscheinlich wirklich ein Thema, das zu hinterfragen und zu sagen,
+
+00:45:27.920 --> 00:45:32.920
+warum hast du das gemacht und bist du dir bewusst, dass damit das Vertrauen
+
+00:45:32.920 --> 00:45:36.920
+der anderen jetzt vielleicht leiden könnte.
+
+00:45:36.920 --> 00:45:40.920
+Und das ist ja dann so eine Teamentwicklung, eine ganz normale Teamentwicklung,
+
+00:45:40.920 --> 00:45:46.110
+wo, ja, ich würde schon mal sagen, also die psychologische Sicherheit
+
+00:45:46.110 --> 00:45:49.110
+wäre ja in so einem Team schon relativ gegeben.
+
+00:45:49.110 --> 00:45:54.140
+Oder wenn man jetzt dein Beispiel weiter schwingen lässt,
+
+00:45:54.140 --> 00:45:57.140
+dann ist ja vielleicht in das System das Vertrauen nicht da.
+
+00:45:57.140 --> 00:46:02.140
+Dann ist es ja gar nicht dann die eine Person, sondern dann ist es ja irgendwas außerhalb des Teams.
+
+00:46:02.140 --> 00:46:05.100
+was dann daran zweifeln lässt.
+
+00:46:05.100 --> 00:46:08.160
+Also kann, kenne ich auch Fälle aus Unternehmen,
+
+00:46:08.160 --> 00:46:11.160
+wo zum Beispiel eine Umsatzorientierung sehr wichtig war.
+
+00:46:11.160 --> 00:46:16.130
+Also die Geschäftsleitung wollte halt gewisse Umsatzziele erreicht sehen.
+
+00:46:16.130 --> 00:46:23.160
+Und dann war halt jemand im Team, der das auf einem nicht ganz sauberen Weg erreicht hat.
+
+00:46:23.160 --> 00:46:30.160
+Und das war erst mal gut fürs Team, weil da kam ja, also das Teamziel konnte ganz gut erreicht werden.
+
+00:46:30.160 --> 00:46:36.160
+Und dieses unsaubere Verhalten hat aber im Team dann dazu geführt, dass die Leute gesagt haben,
+
+00:46:36.160 --> 00:46:41.120
+naja, wenn der hier das so mit den Kunden macht, dann wissen wir ja im Zweifel,
+
+00:46:41.120 --> 00:46:43.120
+also er ist einfach nicht vertrauenswürdig.
+
+00:46:43.120 --> 00:46:51.210
+Und das Team hat nichts unternommen, weil das Team wusste, dieser Mensch ist einfach von außen gesehen,
+
+00:46:51.210 --> 00:46:56.210
+also die Geschäftsleitung erachtet den halt als den High-Performer in diesem Team
+
+00:46:56.210 --> 00:47:01.400
+und deshalb können wir hier nichts dran ändern. Und da liegt der Fehler dann außerhalb des Teams.
+
+00:47:01.400 --> 00:47:07.400
+Also da sind die Rahmenbedingungen halt gar nicht da, dass man eine psychologische Sicherheit gewinnen kann.
+
+00:47:07.400 --> 00:47:10.370
+Also sie ist vielschichtig.
+
+00:47:10.370 --> 00:47:15.360
+Aber den Ansatz finde ich auch gut, dass man es gegebenenfalls auch mal transparent diskutiert,
+
+00:47:15.360 --> 00:47:19.660
+weil oft interpretiert man ja auch bestimmte Strategien von Menschen und sagt,
+
+00:47:19.660 --> 00:47:24.980
+ach, er oder sie hat das deswegen gemacht, obwohl es vielleicht gar nicht der Grund war,
+
+00:47:24.980 --> 00:47:31.940
+dass man da vielleicht auch offen darüber diskutiert oder ein Format oder einen Raum dafür gibt und dass man das diskutiert, ja.
+
+00:47:31.940 --> 00:47:34.940
+Das ist genau der Punkt, also genau regelmäßig.
+
+00:47:34.940 --> 00:47:37.940
+Also das muss jetzt nicht jeden Monat unbedingt sein.
+
+00:47:37.940 --> 00:47:44.940
+Also wie gesagt, meine Message wäre hier, also macht auf jeden Fall nach jedem Projekt eine Manöverkritik,
+
+00:47:44.940 --> 00:47:51.940
+insbesondere wichtig bei den gescheiterten Projekten, dass man da also wirklich dieses Lernen sichern kann,
+
+00:47:51.940 --> 00:47:58.900
+dass also wirklich aktiv das verarbeitet wird und habt halt auch dieses Thema Fehlerkultur
+
+00:47:58.900 --> 00:48:04.860
+oder psychologische Sicherheit, wie vertrauen wir, habt das halt regelmäßig auf der Agenda.
+
+00:48:04.860 --> 00:48:08.860
+Und wie gesagt, das kommt jetzt natürlich nur auf die Art der Zusammenarbeit an.
+
+00:48:08.860 --> 00:48:14.860
+Für mich sind das auch eher Themen, die man nicht virtuell unbedingt so richtig gut hinbekommt,
+
+00:48:14.860 --> 00:48:21.040
+sondern da braucht es aus meiner Sicht oder es gelingt besser, wenn die Chemie mit da ist.
+
+00:48:21.040 --> 00:48:26.040
+Also klar, bei globalen Teams, die sich, wenn es hochkommt, wenn sie Glück haben,
+
+00:48:26.040 --> 00:48:31.200
+vielleicht einmal im Jahr sehen, dann ist das nochmal eine andere Hausnummer.
+
+00:48:31.200 --> 00:48:37.200
+Aber überall dort, wo virtuell gearbeitet wird, wo man aber grundsätzlich die Möglichkeit hat,
+
+00:48:37.200 --> 00:48:41.200
+relativ regelmäßig auch mal zusammenzukommen, dann würde ich immer sagen,
+
+00:48:41.200 --> 00:48:48.230
+macht was zum Thema Teambuilding, Vertrauensentwicklung und macht nicht einfach irgendwelche Spielchen
+
+00:48:48.230 --> 00:48:51.230
+und danach, ach toll, wir haben jetzt was zusammen gemacht.
+
+00:48:51.230 --> 00:48:56.290
+Oder auch heute ist ja auch sehr stark das Thema Nachhaltigkeit und gesellschaftliche Verantwortung
+
+00:48:56.290 --> 00:49:01.290
+in den Fokus gerückt, auch wenn sich ein Team zum Beispiel dazu aufschwingt und sagt,
+
+00:49:01.290 --> 00:49:05.290
+also wir reparieren jetzt hier auf dem Schulhof irgendwie die Klettergerüste
+
+00:49:05.290 --> 00:49:10.290
+oder wir machen also irgendwas Soziales. Auch da reicht es nicht, das zu machen,
+
+00:49:10.290 --> 00:49:15.290
+sondern es muss am Schluss darüber strukturiert gesprochen werden und das wird nicht gemacht.
+
+00:49:15.290 --> 00:49:21.320
+Ja, es werden Team-Events gemacht und dann, ach ja, jetzt haben wir uns wieder alle lieb,
+
+00:49:21.320 --> 00:49:24.320
+weil wir haben ja irgendwie fünf Stunden was miteinander gemacht.
+
+00:49:24.320 --> 00:49:29.320
+Aber dieses darüber reden, was ist denn da entstanden und was war denn die Überraschung
+
+00:49:29.320 --> 00:49:34.290
+und was wollen wir jetzt damit machen? Wie wollen wir das dann damit auf die nächste Ebene kommen?
+
+00:49:34.290 --> 00:49:37.290
+Dem sollte mehr Aufmerksamkeit gewidmet werden.
+
+00:49:37.290 --> 00:49:44.690
+Ja, sehr spannend. Wenn wir jetzt langsam zum Ende kommen, vielleicht eine Frage.
+
+00:49:44.690 --> 00:49:50.330
+Gibt es irgendwas, eine Frage vielleicht, die du erwartest, die ich noch nicht gefragt habe,
+
+00:49:50.330 --> 00:49:56.330
+oder irgendein Thema, was dir noch wichtig ist, was du am Ende noch adressieren möchtest?
+
+00:49:56.330 --> 00:50:03.140
+Ach ja, das ist ja wieder so eine Frage. Da hätte ich mal vorher drüber nachdenken sollen.
+
+00:50:03.140 --> 00:50:08.830
+Ja, was waren so die Themen, die sonst so kommen?
+
+00:50:08.830 --> 00:50:21.040
+Was ich ganz interessant fand, ist, dass ich heute viel mehr so aus meiner praktischen Management-Erfahrung hiermit gesprochen habe.
+
+00:50:21.040 --> 00:50:28.130
+Das heißt, ich habe relativ viel darüber gesprochen, was habe ich schon erlebt, was ist in Teamsituationen entstanden.
+
+00:50:28.130 --> 00:50:33.160
+Und wir haben jetzt nicht so viel über psychologische Hintergründe gesprochen.
+
+00:50:33.160 --> 00:50:38.120
+Also wo kommt das überhaupt her? Warum können wir so schlecht mit Misserfolgen umgehen?
+
+00:50:38.120 --> 00:50:42.310
+Ich habe aber da keinen Sendungsboost, ehrlich gesagt.
+
+00:50:42.310 --> 00:50:47.310
+Also ob wir da jetzt nochmal in die Evolutionspsychologie einsteigen,
+
+00:50:47.310 --> 00:50:51.310
+also da bin ich jetzt nicht so, dass ich sage, das müssen wir unbedingt machen.
+
+00:50:51.310 --> 00:50:55.310
+Vielleicht einfach nochmal der Hinweis für diejenigen, die das interessiert.
+
+00:50:55.310 --> 00:51:00.310
+Die sagen ja, warum ist denn das so? Was entsteht denn da eigentlich gerade in uns?
+
+00:51:00.310 --> 00:51:06.280
+Ja, das kann man sehr schön mit der Forschung von Kahnemann und Tversky erklären.
+
+00:51:06.280 --> 00:51:12.190
+Schnelles Denken, langsames Denken, dass wir also von Gefühlen getriggert werden.
+
+00:51:12.190 --> 00:51:16.240
+Und das hängt halt mit unserer Evolutionsgeschichte zusammen.
+
+00:51:16.240 --> 00:51:20.240
+Also wir mussten halt schnell reagieren, wenn Gefahr droht.
+
+00:51:20.240 --> 00:51:25.340
+Und wir interpretieren halt auch soziale Vorkommnisse als Gefahr.
+
+00:51:25.340 --> 00:51:29.340
+Das heißt also, wenn du das Gefühl hast, dass deine Kollegen hinter deinem Rücken reden
+
+00:51:29.340 --> 00:51:33.340
+oder dass sie alleine in die Kaffeepause gehen oder dass du irgendwas nicht mitbekommst,
+
+00:51:33.340 --> 00:51:38.340
+dann interpretiert dein Gehirn das erstmal als Gefahr.
+
+00:51:38.340 --> 00:51:43.340
+Weil in der Urzeit war es natürlich ein Riesenproblem, wenn du aus der Zippe ausgeschlossen wurdest.
+
+00:51:43.340 --> 00:51:46.340
+Und das musste unbedingt vermieden werden.
+
+00:51:46.340 --> 00:51:50.340
+Und das heißt also, unsere emotionale Reaktion darauf, die steuert uns erstmal.
+
+00:51:50.340 --> 00:51:55.310
+Und deshalb ist es hier wichtig, diese Emotionen zu erkennen und in den Griff zu bekommen.
+
+00:51:55.310 --> 00:51:59.310
+Wir müssen also von diesem schnellen Denken, wir reagieren impulsiv,
+
+00:51:59.310 --> 00:52:03.310
+müssen wir ins langsame Denken reinkommen, müssen sagen, okay.
+
+00:52:03.310 --> 00:52:07.310
+Und deshalb dieser langsam verarbeitete sind nicht die schlechtesten.
+
+00:52:07.310 --> 00:52:10.310
+Der wirkt zwar erstmal, der kriegt es nicht auf die Reihe.
+
+00:52:10.310 --> 00:52:13.310
+Den hat das total hier aus der Spur gebracht.
+
+00:52:13.310 --> 00:52:18.750
+Aber am Ende auch nicht alle, aber es besteht zumindest die Hoffnung,
+
+00:52:18.750 --> 00:52:22.750
+dass diese Menschen einfach tiefer hingucken und mehr für sich daraus mitnehmen.
+
+00:52:22.750 --> 00:52:28.750
+Und mehr dann sagen, okay, ich weiß jetzt, wie ich bei dem nächsten Schicksalsschlag
+
+00:52:28.750 --> 00:52:33.900
+hier besser agieren kann. Das ist also nicht gesetzt.
+
+00:52:33.900 --> 00:52:37.900
+Also wenn ich in einer Depression fahre, dann nicht.
+
+00:52:37.900 --> 00:52:42.930
+Aber zumindest diese langsamen Verarbeitung hat nochmal die Chance,
+
+00:52:42.930 --> 00:52:45.930
+auch zu sagen, okay, ich komme auf die nächste Ebene.
+
+00:52:45.930 --> 00:52:48.930
+Und bei dem schnell verarbeitet, der ist ja in seinem Muster unterwegs.
+
+00:52:48.930 --> 00:52:51.990
+Der ist ja glücklich damit. Die Krone sitzt ja wieder.
+
+00:52:51.990 --> 00:52:54.990
+Und der hinterfragt halt im Zweifel halt nicht.
+
+00:52:54.990 --> 00:53:01.150
+Genau. Und also Gefühle erkennen, würdigen und was damit machen.
+
+00:53:01.150 --> 00:53:03.870
+Ich denke, das war doch ein schönes Schlusswort.
+
+00:53:03.870 --> 00:53:08.870
+Genau. Und ich denke mal, da können wir wahrscheinlich auch nochmal eine ganze Folge zu Gefühlen in Unternehmen,
+
+00:53:08.870 --> 00:53:10.870
+was ja auch immer sehr als…
+
+00:53:10.870 --> 00:53:17.870
+Ja, habe ich gerade spannend gerade heute früh eine Anfrage bekommen für eine Projektarbeit von einem Studenten.
+
+00:53:17.870 --> 00:53:23.850
+Der möchte sich angucken, den Zusammenhang zwischen künstlicher Intelligenz und Gefühlen,
+
+00:53:23.850 --> 00:53:28.000
+wie man da effiziente Arbeitsprozesse entwickeln kann.
+
+00:53:28.000 --> 00:53:30.000
+Also ich kann mir noch nicht so richtig vorstellen, was er vorhat.
+
+00:53:30.000 --> 00:53:35.090
+Aber das klingt doch erstmal so in deine Richtung, genau.
+
+00:53:35.090 --> 00:53:40.090
+Vielleicht lade ich, können wir euch oder dich oder vielleicht auch den Studenten mal einladen.
+
+00:53:40.090 --> 00:53:45.720
+Und falls da mehr zugeforscht wurde, dann…
+
+00:53:45.720 --> 00:53:46.720
+Gerne.
+
+00:53:46.720 --> 00:53:51.720
+Genau, gerne. Wir melden uns da gerne an als Dauergast für euren Podcast.
+
+00:53:51.720 --> 00:53:55.710
+Ja, dann vielen Dank für die wertvollen Input.
+
+00:53:55.710 --> 00:53:57.710
+Ich habe auch für mich einige Impulse mitgenommen.
+
+00:53:57.710 --> 00:54:01.710
+Ich war auch eher so Fuck-up-Night, Ach, Fehlerkultur.
+
+00:54:01.710 --> 00:54:07.710
+Oder das Chef, Chefin, das Vorleben auch eher auf diesen Trichter.
+
+00:54:07.710 --> 00:54:12.710
+Hat auf jeden Fall jetzt so ein paar Impulse bei mir ausgelöst,
+
+00:54:12.710 --> 00:54:15.710
+dass es halt auch verschiedene Typen gibt, dass man vielleicht das auch adressiert
+
+00:54:15.710 --> 00:54:18.710
+oder das auch mal transparent darüber diskutiert.
+
+00:54:18.710 --> 00:54:20.710
+Also vielen Dank dafür.
+
+00:54:20.710 --> 00:54:23.710
+Ich hoffe auch die Zuhörerinnen haben einiges mitgenommen.
+
+00:54:23.710 --> 00:54:27.710
+Und ja, vielen Dank, dass du hier Gast und dir vergesst hast.
+
+00:54:27.710 --> 00:54:31.710
+Ja, vielen Dank für das Vormarat und schönen Tag an alle.

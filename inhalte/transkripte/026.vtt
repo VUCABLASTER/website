@@ -1,0 +1,2056 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #26: #26 Agil mit Patrick Lehmhecker
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:33.890
+Ja, herzlich willkommen zu einer neuen Folge des VUCA Blasters und wieder mal Glück auf aus dem Pod. Heute haben wir Patrick Lehmhecker bei uns in der Podcast-Folge. Er war 13 Jahre Softwareentwickler. Da habe ich auch direkt eine Frage gleich zu. Hat dann die Seiten gewechselt, wenn man das so sagen kann. Ist jetzt Produktmanager seit zwei Jahren.
+
+00:00:33.890 --> 00:00:39.810
+und habe ich vielleicht noch was vergessen, was dir wichtig wäre?
+
+00:00:39.810 --> 00:00:42.010
+Nee, aber woher hast du die Zahlen?
+
+00:00:42.010 --> 00:00:44.540
+Ich habe bei deinem LinkedIn-Profil geguckt.
+
+00:00:44.540 --> 00:00:45.940
+Du hast bei meinem LinkedIn-Profil geguckt.
+
+00:00:45.940 --> 00:00:55.200
+Da war genau auch direkt die Frage. Da sehe ich, einmal warst du Software Engineer, einmal Solution Architekt, dann Software Developer, Software Architekt.
+
+00:00:55.200 --> 00:00:59.710
+Ist das alles das Gleiche oder ist das ein Unterschied? Wo sind da die Unterschiede?
+
+00:00:59.710 --> 00:01:04.790
+Ja, also am Ende waren es unterschiedliche Verantwortungen in derselben Rolle.
+
+00:01:04.790 --> 00:01:16.340
+Also ich habe einen Großteil der Zeit tatsächlich Software entwickelt, wobei auch in den 13 Jahren, also gerade gegen Ende, so die letzten vielleicht sogar drei, vier Jahre,
+
+00:01:16.340 --> 00:01:20.630
+eher schon in der Rolle war, die tatsächlich nicht mehr unbedingt Softwareentwicklung war.
+
+00:01:20.630 --> 00:01:27.630
+Also es ist nicht immer unbedingt super eindeutig gewesen, also immer das Gleiche gewesen, was ich dann gemacht habe.
+
+00:01:27.630 --> 00:01:34.950
+Also gerade in der letzten Zeit habe ich dann auch schon eher eine Rolle als Scrum Master genommen, was nicht unbedingt in meinem LinkedIn-Profil reflektiert ist,
+
+00:01:34.950 --> 00:01:37.950
+weil ich das auch dann nicht so im Detail pflege, muss ich ehrlich gesagt sagen.
+
+00:01:37.950 --> 00:01:46.510
+Aber sonst fehlt dir noch irgendwas? Also was ist dir vielleicht noch wichtig, dass die Zuhörer wissen sollten über dich?
+
+00:01:46.510 --> 00:01:56.880
+Was ist wichtig? Also für den Kontext über das, was wir heute sprechen, Agilität und Agilität in der Arbeit, ist das glaube ich wichtig, um zu verstehen, wo ich herkomme.
+
+00:01:56.880 --> 00:02:05.810
+Ich komme halt aus der Softwareentwicklung. Ich habe lange Jahre Software entwickelt in mehr oder weniger agilen Teams und bin jetzt halt
+
+00:02:05.810 --> 00:02:11.420
+in der Rolle, wo ich eher in der gestalterischen Rolle bin, wie wir unsere Arbeit organisieren.
+
+00:02:11.420 --> 00:02:18.240
+Also ich bin nicht klassisch Agile-Coach, würde ich sagen. Die Rolle nennt sich bei uns Produktmanager.
+
+00:02:18.240 --> 00:02:25.560
+Ist jetzt vielleicht gar nicht so relevant, aber am Ende ist es viel dahingehend, unsere Arbeit zu versuchen, Agil zu organisieren.
+
+00:02:25.560 --> 00:02:32.120
+Genau, das wäre auch so ein Thema, wo wir gleich noch ein bisschen zu reden könnten.
+
+00:02:32.120 --> 00:02:35.150
+Lasst uns erst mal noch mal ein bisschen, wir haben immer so Check-in-Fragen.
+
+00:02:35.150 --> 00:02:40.280
+Kennst du mich? Ja, bin ich großer Fan von. Auf jeden Fall.
+
+00:02:40.280 --> 00:02:46.400
+Zufällig drei auswählen, damit wir dich noch ein bisschen kennenlernen und dann würden wir direkt ins Thema rein starten.
+
+00:02:46.400 --> 00:02:51.190
+Ja, gerne. Die erste Frage wäre, ein Moment der Freude war zuletzt?
+
+00:02:51.190 --> 00:02:58.780
+Ein Moment der Freude war zuletzt? Haha, ich habe gestern Abend, ich bemalte kleine Miniaturen
+
+00:02:58.780 --> 00:03:04.910
+und das war eine ziemlich komplizierte Sache, die ich da bemalt habe und da war ich echt happy, dass ich das gestern Abend fertig gekriegt habe.
+
+00:03:04.910 --> 00:03:11.120
+Das ist sehr nah dran noch. Schöner Moment.
+
+00:03:11.120 --> 00:03:16.760
+Die nächste Frage. Was tue ich, damit andere in meiner Gegenwart Vertrauen fassen?
+
+00:03:16.760 --> 00:03:25.460
+Was tue ich, damit andere in meinem Vertrauen fassen? Ich denke, ich bin ein recht offener Mensch in dem, wie ich kommuniziere.
+
+00:03:25.460 --> 00:03:34.510
+Ich glaube, das ist ein ganz wichtiger Punkt. Ich versuche in der Regel sehr offen darüber zu reden, was ich denke.
+
+00:03:34.510 --> 00:03:41.760
+Ich versuche ehrlich, also ich bin ehrlich den Leuten gegenüber. Man kann von mir immer erwarten, dass man ehrliches Feedback zu Dingen bekommt.
+
+00:03:41.760 --> 00:03:49.100
+Ich versuche das natürlich respektvoll zu machen, aber es ist am Ende ehrlich und ich glaube, das ist etwas, was am Ende Vertrauen schafft.
+
+00:03:49.100 --> 00:04:03.870
+Dann, genau, erstmal vielen Dank für die Antwort. Die nächste Frage oder ein Satz, den du wieder vollständig solltest. Wie ich mit meinem Team Erfolge feiere.
+
+00:04:03.870 --> 00:04:07.290
+Wie ich mit meinem Team Erfolge feiere.
+
+00:04:07.290 --> 00:04:10.330
+Oder wie du nur persönlich oder vielleicht auch genau mit dem Team.
+
+00:04:10.330 --> 00:04:21.260
+Also ich glaube, das machen wir tatsächlich zu wenig. Also in dem Kontext, in dem ich, also in so einem Team Kontext machen wir das viel zu wenig, dass wir tatsächlich Erfolge feiern.
+
+00:04:21.260 --> 00:04:27.500
+Wir gehen oft sehr viel zu schnell zum nächsten Thema über.
+
+00:04:27.500 --> 00:04:33.500
+Eigentlich finde ich das tatsächlich wichtig, dass man das tut und sich nochmal bewusst ist, hey, das war gerade eine Sache, die echt cool war.
+
+00:04:33.500 --> 00:04:40.000
+Aber ich würde nicht sagen, dass ich dafür so ein Vorgehen habe, wo ich das irgendwie standardmäßig mache.
+
+00:04:40.000 --> 00:04:44.190
+Das ist mal, geht man gemeinsam essen, mal trinkt man gemeinsam ein Bier.
+
+00:04:44.190 --> 00:04:46.470
+Also ein bisschen situativ.
+
+00:04:46.470 --> 00:04:55.630
+Das ist total situativ, genau. Ich würde nicht sagen, dass das immer das Gleiche ist und dass ich das im Privat mit Sicherheit anders mache, als ich das auf der Arbeit tue.
+
+00:04:55.630 --> 00:05:03.940
+Und ich glaube, dieser Moment der Reflexion, sich nochmal zu überlegen, hey, was habe ich da cooles gebaut, der kommt bei uns halt tatsächlich oft zu kurz.
+
+00:05:03.940 --> 00:05:10.940
+Also jetzt im Kontext der Arbeit. Und privat ist das halt sehr unterschiedlich, was dann passiert. Kommt halt auf die Situation, die Gruppe an.
+
+00:05:10.940 --> 00:05:20.560
+Aber du bist jetzt auch nicht einer, der sagt, gibt es doch die Sprichwort, nicht gelobt ist genug. Wie heißt das? Weiß ich gar nicht genau.
+
+00:05:20.560 --> 00:05:28.520
+Nein, auf jeden Fall. Nee, das mit Sicherheit nicht. Ich finde das total wichtig, dass man den Leuten, also das ist vielleicht auch der Punkt von vorher nochmal,
+
+00:05:28.520 --> 00:05:33.620
+dass man Leuten dann auch offen sagt, hey, du hast was richtig cooles da gerade gemacht. Das ist eine super Sache.
+
+00:05:33.620 --> 00:05:41.380
+Das sollte man sich vielleicht auch selbst dann häufiger nochmal sagen. Und ich glaube, das ist halt auch genau wichtig, sich nochmal bewusst zu machen, zu reflektieren.
+
+00:05:41.380 --> 00:05:48.980
+Hey, das ist das, was ich gerade geschafft habe. Das war wirklich eine gute Sache. Gar nicht so sehr, dass ich gehe jetzt Party machen, ich feiere das,
+
+00:05:48.980 --> 00:05:55.010
+sondern wirklich sich bewusst zu machen, hey, das war gut, was wir da gebaut haben. Das war richtig voll was Cooles. Wir haben hier was geschafft.
+
+00:05:55.010 --> 00:05:58.200
+Ja, ist ja auch so eine Wertschätzung dann der Arbeit gegenüber.
+
+00:05:58.200 --> 00:06:04.610
+Ja, das ist eine Wertschätzung gegenüber sich selber zum einen, wenn ich das für mich nochmal reflektiere.
+
+00:06:04.610 --> 00:06:08.610
+Das ist natürlich eine wichtige Wertschätzung auch gegenüber anderen, um das auch nochmal zu sagen.
+
+00:06:08.610 --> 00:06:15.200
+Ja, dann lass uns mal direkt, genau erstmal vielen Dank auch so für die Antworten.
+
+00:06:15.200 --> 00:06:17.200
+Und jetzt haben wir dich ein bisschen besser kennengelernt.
+
+00:06:17.200 --> 00:06:22.550
+Dann wollen wir jetzt mal ins Thema rein starten. Es geht heute um Agile.
+
+00:06:22.550 --> 00:06:26.550
+Ich hatte auf deiner LinkedIn-Seite gesehen, du hast da geschrieben,
+
+00:06:26.550 --> 00:06:35.790
+Driven by strong agile mindset, I help to shape a more agile workplace, lead by example.
+
+00:06:35.790 --> 00:06:44.060
+Und auch so bei deiner Beschreibung höre ich immer raus, dass so Agile, Agile schon so ein Herzensthema für dich ist.
+
+00:06:44.060 --> 00:06:48.220
+Kannst du vielleicht ein bisschen so erklären, warum oder was so Agile vielleicht auch für dich ist?
+
+00:06:48.220 --> 00:06:52.670
+Ja, gerne. Interessant, was du alles auf meinem LinkedIn-Profil findest.
+
+00:06:52.670 --> 00:06:58.700
+Ich sollte das vielleicht auch nochmal lesen. Aber es ist halt schon so. Agilität ist für mich ein wichtiges Thema.
+
+00:06:58.700 --> 00:07:06.780
+Und das hat mich eigentlich auch über den Großteil meiner Berufszeit immer wieder begleitet in vielerlei Hinsicht.
+
+00:07:06.780 --> 00:07:15.600
+Am Anfang sehr stark methodisch getrieben. Heute viel mehr über das, was ich denke, was das Mindset dahinter ist
+
+00:07:15.600 --> 00:07:22.780
+und warum mir das halt am Ende wichtig ist. Vielleicht angefangen bei dem, was ist für mich Agilität?
+
+00:07:22.780 --> 00:07:28.320
+Vieles von dem leitet sich aus dem ab, was das Agile Manifest sagt.
+
+00:07:28.320 --> 00:07:38.880
+Und insbesondere da das erste Statement, dass sich halt Individuen und also das, wie Leute miteinander interagieren in einem Team,
+
+00:07:38.880 --> 00:07:44.910
+Projekten, in der Produktentwicklung, vielleicht auch in Organisationen insgesamt miteinander zusammenarbeiten
+
+00:07:44.910 --> 00:07:51.850
+und wie die Individuen in dieser Organisation zusammen funktionieren, dass das einfach ein sehr, sehr wichtiger Punkt ist
+
+00:07:51.850 --> 00:07:55.850
+und viel wichtiger als irgendwelche Prozesse, um die ich mich herum organisiere.
+
+00:07:55.850 --> 00:08:05.240
+Und wie gesagt, am Anfang ging es halt viel darum, wie die Tools dahinter aussehen.
+
+00:08:05.240 --> 00:08:10.210
+Was bedeutet Scrum? Was bedeutet Kanban? Heute sehe ich das viel mehr so, dass es wichtig ist,
+
+00:08:10.210 --> 00:08:18.680
+also zum einen sind, glaube ich, Menschen in Organisationen glücklicher, wenn sie für sich entscheiden können, wie sie arbeiten.
+
+00:08:18.680 --> 00:08:26.960
+Und darauf läuft es am Ende hinaus, dieses Statement, wie gestalte ich die Zusammenarbeit miteinander, ist mir heute ein ganz wichtiger Punkt.
+
+00:08:26.960 --> 00:08:34.060
+Und wie kann ich die Arbeit zum einen so gestalten, dass die Menschen, die diese Arbeit machen, halt glücklich sind,
+
+00:08:34.060 --> 00:08:40.020
+also sich zufrieden mit dieser Arbeit fühlen, dass ein gewisses Maß an Wertschätzung für die Arbeit existiert,
+
+00:08:40.020 --> 00:08:45.240
+dass man Werte kreiert in der Arbeit, die man tut.
+
+00:08:45.240 --> 00:08:49.560
+Also ich glaube, niemandem macht es Spaß, einfach nur sinnlose Arbeit zu machen,
+
+00:08:49.560 --> 00:08:52.560
+also dass die Arbeit irgendwo einen Sinn hat, was auch immer das für jemanden bedeutet.
+
+00:08:52.560 --> 00:08:54.560
+Es kann halt komplett unterschiedlich sein.
+
+00:08:54.560 --> 00:08:59.680
+Für mich wird das was anderes sein als für jemanden, der jeden Tag Software entwickelt,
+
+00:08:59.680 --> 00:09:02.680
+also noch aktiv Software entwickelt, was ich die meiste Zeit nicht mehr tue,
+
+00:09:02.680 --> 00:09:04.830
+bin dann mal ein bisschen so als Hobby.
+
+00:09:04.830 --> 00:09:10.180
+Aber das ist halt, dass ich Werte schaffe und dass ich gucke, wie kann ich
+
+00:09:10.180 --> 00:09:13.180
+Leute effektiv dann zusammenarbeiten lassen.
+
+00:09:13.180 --> 00:09:15.180
+Ja, so ist der nächste Punkt, genau.
+
+00:09:15.180 --> 00:09:18.180
+Neben dem, dass ich vielleicht zufrieden mit der Arbeit bin,
+
+00:09:18.180 --> 00:09:21.150
+ist es halt wichtig, wie schaffe ich dann effektiv Werte.
+
+00:09:21.150 --> 00:09:24.360
+Ich glaube, das hängt am Ende ganz eng zusammen.
+
+00:09:24.360 --> 00:09:30.240
+Also wenn ich am Ende glücklich mit der Arbeit bin, wenn ich zufrieden damit bin,
+
+00:09:30.240 --> 00:09:34.240
+wenn ich es schaffe, Werte zu schaffen, für mich einen Sinn in der Arbeit sehe,
+
+00:09:34.240 --> 00:09:39.030
+bin ich mit Sicherheit auch darin, besser und effektiver die Sachen zu tun.
+
+00:09:39.030 --> 00:09:46.950
+Der nächste Aspekt davon ist dann, wie organisiere ich mir meine Arbeit am Ende des Tages?
+
+00:09:46.950 --> 00:09:51.910
+Was für viele Leute ein wichtiger Faktor ist, auch zufrieden in der Arbeit zu sein.
+
+00:09:51.910 --> 00:09:56.250
+Aber am Ende, gerade wenn wir jetzt beim Thema Softwareentwicklung bleiben
+
+00:09:56.250 --> 00:10:02.210
+oder Entwicklung von digitalen Produkten, sind in der Regel die Leute, die diese Arbeit tun,
+
+00:10:02.210 --> 00:10:04.210
+sind halt Experten in dem, was sie tun.
+
+00:10:04.210 --> 00:10:06.520
+Also ein Softwareentwickler hat lange studiert.
+
+00:10:06.520 --> 00:10:09.520
+Jemand, der User Experience Design macht, hat das studiert.
+
+00:10:09.520 --> 00:10:15.500
+Ich habe jetzt studiert und gesagt, man muss nicht unbedingt studiert haben, um darin gut zu sein.
+
+00:10:15.500 --> 00:10:17.500
+Aber es sind Leute, die Experten sind in dem Thema.
+
+00:10:17.500 --> 00:10:20.630
+Die wissen, was sie tun und die im Zweifel auch viel besser wissen,
+
+00:10:20.630 --> 00:10:24.590
+wie sie sich in ihrer Arbeit organisieren, als dass jemand von außen tun kann.
+
+00:10:24.590 --> 00:10:27.970
+Wo wir dann beim Thema Selbstorganisation sind.
+
+00:10:27.970 --> 00:10:31.260
+Also es geht halt darum, sich am Ende dann auch selber zu organisieren,
+
+00:10:31.260 --> 00:10:37.370
+um halt diese Interaktionen zwischen den Individuen zu gestalten.
+
+00:10:37.370 --> 00:10:40.370
+Und es ist am Ende nicht so wichtig, welcher Prozess dahinter steht,
+
+00:10:40.370 --> 00:10:47.050
+solange ein Team effektiv da drin ist und sich wohl damit fühlt, wie es arbeitet,
+
+00:10:47.050 --> 00:10:49.010
+dann ist das am Ende agil.
+
+00:10:49.010 --> 00:10:53.670
+Ja, ich hatte auch mit dem agilen Manifesto hatte ich irgendwie am Anfang,
+
+00:10:53.670 --> 00:10:56.990
+wo ich sage, so ein bisschen, weißt du da eigentlich was, vier Sätze?
+
+00:10:56.990 --> 00:11:01.990
+Ja, es ist ein bisschen mehr, aber die vier Statements sind natürlich eine individuelle Interaktion,
+
+00:11:01.990 --> 00:11:07.990
+dass sie wichtiger sind als Prozesse und Tools oder dass Software,
+
+00:11:07.990 --> 00:11:13.170
+also funktionierende Software ist wichtiger als eine ausführliche Dokumentation.
+
+00:11:13.170 --> 00:11:20.890
+Die Kollaboration mit Kunden ist wichtiger als Vertragsverhandlungen
+
+00:11:20.890 --> 00:11:24.050
+und es ist wichtig, dass du auf Veränderungen reagieren kannst,
+
+00:11:24.050 --> 00:11:26.050
+als irgendwie stupide einem Plan zu folgen.
+
+00:11:26.050 --> 00:11:28.170
+Das sind so die Geherrnussagen.
+
+00:11:28.170 --> 00:11:30.170
+Entschuldigung, ich habe dich, glaube ich, hinterbrochen.
+
+00:11:30.170 --> 00:11:31.170
+Nee, nee, also passt.
+
+00:11:31.170 --> 00:11:34.640
+Also genau, ich hatte da auch so am Anfang mit agil, als ich mir die durchgelesen konnte,
+
+00:11:34.640 --> 00:11:36.670
+irgendwie da gar nichts.
+
+00:11:36.670 --> 00:11:38.670
+Irgendwie man sieht das und denkt so, okay, und jetzt?
+
+00:11:38.670 --> 00:11:43.760
+Also, und wie man das dann umsetzt, ist dann jeden selber überlassen.
+
+00:11:43.760 --> 00:11:49.550
+Oder ich finde das schwer da irgendwie, was das bedeutet so.
+
+00:11:49.550 --> 00:11:53.700
+Also ich weiß nicht, ich konnte das irgendwie, wenn man die Sätze so liest
+
+00:11:53.700 --> 00:11:56.700
+und vielleicht auch gar nicht so in Anwendung bringt irgendwie,
+
+00:11:56.700 --> 00:12:01.300
+dann sind das erstmal nur so Sätze, wo man erstmal so denkt, ja okay, logisch,
+
+00:12:01.300 --> 00:12:04.300
+sollte so sein, aber irgendwie, ich konnte, also ich musste sagen,
+
+00:12:04.300 --> 00:12:06.300
+genau, am Anfang konnte ich da nicht viel mit anfangen.
+
+00:12:06.300 --> 00:12:08.680
+Du meinst, das am Ende in den Kontext zu bringen.
+
+00:12:08.680 --> 00:12:10.680
+Also was bedeutet das tatsächlich in der Arbeit?
+
+00:12:10.680 --> 00:12:11.680
+Ja, es ist auch schwierig.
+
+00:12:11.680 --> 00:12:15.400
+Und ich glaube, helfen tun da Frameworks?
+
+00:12:15.400 --> 00:12:21.580
+Also wenn du dir Dinge wie Scrum anguckst, das hilft natürlich am Anfang zu verstehen,
+
+00:12:21.580 --> 00:12:24.580
+also wie operationalisiere ich das halt am Ende.
+
+00:12:24.580 --> 00:12:28.580
+Ich glaube nicht, dass du diese Frameworks brauchst, um agil zu arbeiten,
+
+00:12:28.580 --> 00:12:30.540
+aber die helfen halt vielleicht für den Einstieg.
+
+00:12:30.540 --> 00:12:34.790
+Das Ganze, okay, wie gestalte ich das denn tatsächlich?
+
+00:12:34.790 --> 00:12:39.980
+Scrum ist zum Beispiel, ist ja ein Framework von vielen, das dir halt am Ende helfen soll,
+
+00:12:39.980 --> 00:12:43.200
+einen Start da, also einen Startpunkt zu haben.
+
+00:12:43.200 --> 00:12:47.350
+Was bedeutet das eigentlich, sich halt agil zu organisieren?
+
+00:12:47.350 --> 00:12:51.350
+Ich bin kein großer Fan davon zu sagen, okay, ich brauche diese Frameworks, um agil zu arbeiten oder so.
+
+00:12:51.350 --> 00:12:55.250
+Das ist am Ende, glaube ich, gar nicht notwendig.
+
+00:12:55.250 --> 00:12:58.940
+Aber genau, diesen Anfang da zu haben damit.
+
+00:12:58.940 --> 00:13:04.760
+Ja, ich hatte irgendwie, vielleicht kann ich ja mal sagen, dass ich es so unter Agile verstehe.
+
+00:13:04.760 --> 00:13:08.910
+Vielleicht sagst du dann irgendwie auch das total Falsche. Weiß ich nicht.
+
+00:13:08.910 --> 00:13:16.440
+Also für mich ist das eher so ein iterativer Prozess, dass man halt irgendwie was, relativ schnell was baut.
+
+00:13:16.440 --> 00:13:26.130
+Also der so ein MVP, also das alle Funktionen hat und dann testet, das Feedback einholt und dann wieder verändert.
+
+00:13:26.130 --> 00:13:31.930
+Da hatte ich so ein, ich war mal in Düsseldorf auf so eine Veranstaltung.
+
+00:13:31.930 --> 00:13:38.250
+Daran muss ich immer so denken, da war einer, der hatte auch davon ein bisschen erzählt, was für ein Wasserfall.
+
+00:13:38.250 --> 00:13:43.250
+Dann baust du irgendwie ein Produkt über zwei Jahre und ähnliches, gehst an den Markt und dann will es keiner.
+
+00:13:43.250 --> 00:13:49.250
+Und da ist eigentlich so dieser Unterschied, für mich ist dieses Agile, dass man halt relativ schnell das, was man braucht,
+
+00:13:49.250 --> 00:13:54.250
+in das Produkt reinbaut, an den Markt geht, testet, das wieder einbaut.
+
+00:13:54.250 --> 00:14:02.310
+Auch natürlich diese Transparenz, das benötigst du dann, diese transparente Infos und Kommunikation zwischen dem Team.
+
+00:14:02.310 --> 00:14:07.440
+Und also diese, was du schon gesagt hast, diese Verantwortung dem Team überlassen.
+
+00:14:07.440 --> 00:14:14.480
+Weil das wäre so, was ich so unter Agile verstehe, ich weiß nicht was, ob das richtig, falsch oder?
+
+00:14:14.480 --> 00:14:19.600
+Was heißt richtig oder falsch? Also ich glaube, da gibt es am Ende kein richtig oder falsch.
+
+00:14:19.600 --> 00:14:26.070
+Was ich am Anfang gesagt habe, im Kern ist es halt tatsächlich erstmal nur für mich gesprochen,
+
+00:14:26.070 --> 00:14:34.140
+die Art und Weise, wie ich mich als Team, also dass die Leute, die die Arbeit machen,
+
+00:14:34.140 --> 00:14:40.100
+also jemand, der in einem Team miteinander arbeitet, die zum Beispiel jetzt Software bauen aus dem Beispiel,
+
+00:14:40.100 --> 00:14:43.120
+dass die sich selbst organisieren in der Art und Weise, wie sie arbeiten.
+
+00:14:43.120 --> 00:14:45.620
+Das ist für mich erstmal der Kern dahinter.
+
+00:14:45.620 --> 00:14:50.870
+Und im Laufe der Zeit ist es dann halt viele, viele der Punkte, die du genannt hast,
+
+00:14:50.870 --> 00:14:55.960
+sind halt dieser agile Methodenkasten am Ende, was dann daraus gewachsen ist.
+
+00:14:55.960 --> 00:15:01.920
+Da gehört, wie gesagt, Scrum dazu und da gehört auch dazu dieser sehr iterative Ansatz.
+
+00:15:01.920 --> 00:15:04.920
+Also ich glaube, dass ich halt auf Veränderungen reagieren kann,
+
+00:15:04.920 --> 00:15:11.670
+dass ich mir nicht einen großen Plan mache, wie das halt traditionellen Wasserfallprojekten natürlich der Fall war,
+
+00:15:11.670 --> 00:15:14.700
+und gesagt habe, so das arbeite ich jetzt über die nächsten zwei Jahre ab.
+
+00:15:14.700 --> 00:15:22.420
+Sondern ich kann mir, übrigens, ich finde es auch wichtig, man kann auch einen Plan haben, wenn man agil arbeitet.
+
+00:15:22.420 --> 00:15:27.330
+Oft kommt das halt so rüber, okay, wenn ich agil arbeite, habe ich keinen Plan, was ich tue.
+
+00:15:27.330 --> 00:15:30.430
+Habe ich natürlich trotzdem und sollte ich vielleicht auch haben.
+
+00:15:30.430 --> 00:15:38.320
+Das heißt, habe ich meinen Faden verloren, genau, dass ich trotzdem einen Plan habe,
+
+00:15:38.320 --> 00:15:43.170
+aber halt trotzdem auf Veränderungen im Laufe der Zeit reagieren kann.
+
+00:15:43.170 --> 00:15:48.170
+Das heißt zum Beispiel nicht, du hast erwähnt, dass es unbedingt MVP-Entwicklung sein muss
+
+00:15:48.170 --> 00:15:51.330
+und du kannst auch riesengroße Projekte agil entwickeln.
+
+00:15:51.330 --> 00:15:56.580
+Dann, du guckst halt nur immer iterativ weiter, okay, was ist der nächste sinnvolle Schritt,
+
+00:15:56.580 --> 00:16:00.480
+und hinterfragst vielleicht den Plan, den du dir vorher gemacht hast, ob der jetzt immer noch sinnvoll ist.
+
+00:16:00.480 --> 00:16:02.860
+Aber den Plan kannst du natürlich trotzdem vorweg machen.
+
+00:16:02.860 --> 00:16:10.900
+Du hast ja gesagt, der Kern ist dieses, dass das Team selbst entscheidet.
+
+00:16:10.900 --> 00:16:16.240
+Sagen wir, wenn das Team jetzt sagt, wir mögen das nach Wasserfall, uns bringt das was,
+
+00:16:16.240 --> 00:16:23.510
+das ist ja trotzdem dann irgendwie nicht, im eigentlichen Sinn ja nicht agil, oder?
+
+00:16:23.510 --> 00:16:26.510
+Ich glaube schon. Am Ende ist es dann die Entscheidung des Teams
+
+00:16:26.510 --> 00:16:30.670
+und das Team glaubt, dass es so am besten das Produkt entwickeln kann, an dem es arbeitet,
+
+00:16:30.670 --> 00:16:33.890
+dann ist das am Ende auch agil.
+
+00:16:33.890 --> 00:16:36.890
+Auch wenn es dann nicht den Kunden mit einbezieht?
+
+00:16:36.890 --> 00:16:40.320
+Auch wenn es den Kunden...
+
+00:16:40.320 --> 00:16:42.500
+Für das Team selber ist es dann agil.
+
+00:16:42.500 --> 00:16:47.620
+Ich höre, ob das jetzt richtig ist, denn natürlich sollte man am Ende den Kunden trotzdem einbeziehen,
+
+00:16:47.620 --> 00:16:53.920
+aber es widerspricht erstmal nicht dem Grundgedanken hinter Agilität.
+
+00:16:53.920 --> 00:16:55.920
+Für sinnvoll halte ich das trotzdem nicht.
+
+00:16:55.920 --> 00:17:07.070
+Die Nähe zum Kunden ist am Ende trotzdem wichtig, weil auch nur so kannst du halt
+
+00:17:07.070 --> 00:17:10.670
+ein vernünftiges Produkt entwickeln.
+
+00:17:10.670 --> 00:17:17.790
+Am Ende habe ich halt meine Softwareentwickler, die Leute, die User Experience Design machen,
+
+00:17:17.790 --> 00:17:22.060
+die Leute, die die Product Ownership haben, definieren ja und bauen am Ende das Produkt.
+
+00:17:22.060 --> 00:17:29.720
+Wenn ich eine hohe Distanz zum Kunden habe, dann werde ich ja niemals ein kundengerechtes Produkt bauen können.
+
+00:17:29.720 --> 00:17:33.800
+Und das ist halt auch ein wichtiger Aspekt davon.
+
+00:17:33.800 --> 00:17:37.800
+Ich habe ja am Anfang gesagt, zum Beispiel, dass du diese Kundenkollaboration hast,
+
+00:17:37.800 --> 00:17:40.800
+ist ein Teil von agiler Arbeit.
+
+00:17:40.800 --> 00:17:46.170
+Und die kann ich halt nur haben, wenn ich nah am Kunden dran bin
+
+00:17:46.170 --> 00:17:50.750
+und wenn ich halt auch wieder letztendlich die Interaktion mit dem Kunden gestalten kann.
+
+00:17:50.750 --> 00:17:54.750
+Das heißt, wenn ich mir am Ende, wenn ich am Ende sage, also dein Statement von gerade sage,
+
+00:17:54.750 --> 00:17:56.750
+okay, ich möchte mit dem Kunden nichts zu tun haben.
+
+00:17:56.750 --> 00:17:59.650
+Also was ist dann auch überhaupt der Zweck von dem, was ich gerade mache?
+
+00:17:59.650 --> 00:18:03.320
+Also dann weiß ich am Ende nicht, für wen ich das baue.
+
+00:18:03.320 --> 00:18:08.750
+Und dann baue ich natürlich auch nicht das Richtige für den Kunden.
+
+00:18:08.750 --> 00:18:16.240
+Das ist noch so interessant, nochmal ein bisschen zurück zum Anfang,
+
+00:18:16.240 --> 00:18:19.240
+dass du eigentlich genau 13 Jahre Softwareentwickler warst
+
+00:18:19.240 --> 00:18:23.330
+und jetzt ja eigentlich, kann man das so sagen, die Seite gewechselt hast.
+
+00:18:23.330 --> 00:18:28.060
+Also jetzt vielleicht eher so diesen Business-Part vielleicht hast.
+
+00:18:28.060 --> 00:18:33.270
+Also man hört ja auch immer, dass Softwareentwickler und Business irgendwie sich nicht verstehen
+
+00:18:33.270 --> 00:18:37.360
+und weiß nicht was. Kannst du vielleicht irgendwie was aus dieser Softwareentwicklung,
+
+00:18:37.360 --> 00:18:42.280
+nimmst du irgendwas mit oder wo du sagst, okay, das habe ich da gelernt,
+
+00:18:42.280 --> 00:18:45.760
+was ich jetzt auch nutze in meiner neuen Rolle?
+
+00:18:45.760 --> 00:18:51.420
+Ich meine, sehr vieles. Also vielleicht nochmal, es war nicht so, dass ich an irgendeinem Punkt
+
+00:18:51.420 --> 00:18:54.330
+13 Jahre Softwareentwickler war und dann gesagt habe, so ich mache jetzt was anderes,
+
+00:18:54.330 --> 00:18:59.220
+sondern das ist halt eigentlich irgendwo über die Zeit hinweg passiert.
+
+00:18:59.220 --> 00:19:02.250
+Und davon nehme ich sehr viel mit aus dieser Zeit.
+
+00:19:02.250 --> 00:19:05.980
+Also zum einen verstehe ich in der Regel beide Seiten ganz gut.
+
+00:19:05.980 --> 00:19:10.980
+Also ich verstehe, wenn jemand mit mir eine sehr technische Diskussion funktioniert.
+
+00:19:10.980 --> 00:19:16.930
+Und auf der anderen Seite, das war eigentlich schon immer so, hatte ich ein ganz gutes Verständnis dafür,
+
+00:19:16.930 --> 00:19:21.570
+also ein Verständnis dafür, wenn ich mit dem Business gesprochen habe über Anforderungen,
+
+00:19:21.570 --> 00:19:24.570
+über das, was letztendlich umgesetzt wird.
+
+00:19:24.570 --> 00:19:31.220
+An manchen Stellen ist das sehr hilfreich, wenn man diese Übersetzungsfunktion hat
+
+00:19:31.220 --> 00:19:34.960
+und dann einfach auch einfach beide Seiten irgendwo versteht.
+
+00:19:34.960 --> 00:19:38.960
+Und ich denke, dass ich auch ganz gut die Bedürfnisse von jemandem verstehe,
+
+00:19:38.960 --> 00:19:44.330
+der tatsächlich noch Software entwickelt, weil ich es halt sehr, sehr lange Zeit selber gemacht habe.
+
+00:19:44.330 --> 00:19:53.660
+Und zumindest mir als Entwickler war es immer wichtig, dass meine Stimme gehört wird.
+
+00:19:53.660 --> 00:20:01.350
+Also man hat halt die meisten Entwickler, die ich kenne und mit denen ich in meiner Karriere zusammengearbeitet habe,
+
+00:20:01.350 --> 00:20:06.650
+sind Leute, die verstehen viel von ihrem Job und die verstehen es in der Regel auch sehr gut.
+
+00:20:06.650 --> 00:20:15.350
+Das, was sie an Bedürfnissen von ihren Nutzern hören, in tatsächliche Software zu übersetzen
+
+00:20:15.350 --> 00:20:19.350
+und in diese Bedürfnisse dann mit Software zu erfüllen und haben oft sehr, sehr gute Ideen,
+
+00:20:19.350 --> 00:20:22.350
+wie das vielleicht sogar tatsächlich besser funktioniert als derjenige,
+
+00:20:22.350 --> 00:20:26.350
+der jetzt gerade die Rolle eines Product Owners hat oder der aus der Business-Seite kommt und sagt,
+
+00:20:26.350 --> 00:20:30.310
+ich möchte das Problem hier lösen und ich habe jetzt folgende Idee, das zu lösen.
+
+00:20:30.310 --> 00:20:36.630
+Ich meine, das ist ja ein Szenario, was häufig vorkommt, dass der Kunde mit einer Lösung kommt.
+
+00:20:36.630 --> 00:20:43.860
+Und die Software-Entwickler einfach sehr, sehr oft sehr gute Ideen hat und man einfach den Raum geben muss,
+
+00:20:43.860 --> 00:20:51.310
+den Entwicklern das auch mitzuteilen. Ja, das ist vielleicht was, was ich dann auch,
+
+00:20:51.310 --> 00:20:54.500
+weil ich das einfach verstehe aus der Perspektive, dass da auch oft das Bedürfnis ist,
+
+00:20:54.500 --> 00:20:58.500
+diese Dinge mitzuteilen und die Ideen dann auch einfach gut sind, die dabei rauskommen.
+
+00:20:58.500 --> 00:21:02.580
+Es führt immer zu besseren Ergebnissen. Also generell bin ich davon überzeugt,
+
+00:21:02.580 --> 00:21:05.640
+dass es zu besseren Ergebnissen führt, wenn du das in einer diverseren Gruppe besprichst,
+
+00:21:05.640 --> 00:21:09.760
+was du automatisch tust, wenn du jemanden hast, der das Business-Problem macht,
+
+00:21:09.760 --> 00:21:12.760
+du hast jemanden dabei, der vielleicht User-Experience-Design macht und du hast jemanden,
+
+00:21:12.760 --> 00:21:15.660
+der Software entwickelt und wenn du diese Leute in den Raum bringst,
+
+00:21:15.660 --> 00:21:21.230
+hast du halt einfach eine andere Perspektive auf Probleme und dann am Ende wahrscheinlich die bessere Lösung.
+
+00:21:21.230 --> 00:21:26.160
+Meinst du denn, dass Business, weil du auch so ein bisschen gesagt hast,
+
+00:21:26.160 --> 00:21:29.640
+die haben super Ideen, aber ist das Akt oder was so deine Erfahrung,
+
+00:21:29.640 --> 00:21:34.640
+dass das Business oft das nicht hören will und trotzdem ihre Meinung oder sind die da offen für?
+
+00:21:34.640 --> 00:21:41.330
+Also, total selten. Also, ich habe selten erlebt, dass jemand mit einem Problem kommt
+
+00:21:41.330 --> 00:21:43.330
+und nicht offen dafür ist, vielleicht auch eine andere Lösung zu hören.
+
+00:21:43.330 --> 00:21:48.990
+Also, ich kann mich an ganz, ganz selten an Situationen erinnern,
+
+00:21:48.990 --> 00:21:54.270
+wo das nicht wirklich wertgeschätzt war, die offene Diskussion, die man halt in einem agilen Team führt.
+
+00:21:54.270 --> 00:21:58.300
+Zum Beispiel, wir sitzen alle in einem Planning, sprechen über die User-Story,
+
+00:21:58.300 --> 00:22:02.450
+sprechen über die Bedürfnisse, die ein Nutzer hat und es kommt einfach so oft vor,
+
+00:22:02.450 --> 00:22:05.450
+dass man vielleicht dann doch mal nochmal in eine andere Richtung geht
+
+00:22:05.450 --> 00:22:07.450
+und sich eine andere Lösung überlegt.
+
+00:22:07.450 --> 00:22:12.920
+Und es ist wirklich sehr, sehr selten, dass ich das erlebt habe,
+
+00:22:12.920 --> 00:22:16.110
+dass das einfach nicht, dass das nicht wertgeschätzt wurde.
+
+00:22:16.110 --> 00:22:19.170
+Und dann am Ende nochmal viel mehr, wenn man tatsächlich dann die Lösung sieht.
+
+00:22:19.170 --> 00:22:26.080
+Das heißt, du meinst eigentlich so ein, ich weiß nicht, ob ich es ein paar Mal so gehört,
+
+00:22:26.080 --> 00:22:31.070
+dass diese Kommunikation schwer ist zwischen den Entwicklern und Entwicklerinnen und dem Business.
+
+00:22:31.070 --> 00:22:36.470
+Also, das hört sich ja so ein bisschen anders, oder ist das auf einer anderen Ebene?
+
+00:22:36.470 --> 00:22:43.060
+Also, ich muss tatsächlich sagen, die Erfahrung habe ich ganz selten gemacht.
+
+00:22:43.060 --> 00:22:49.120
+Natürlich gibt es einfach immer Punkte, wo Diskussionen ins Technische abdriften,
+
+00:22:49.120 --> 00:22:52.780
+wo dann sich am Ende nicht jeder beteiligen kann.
+
+00:22:52.780 --> 00:22:55.840
+Aber ich habe eigentlich selten die Erfahrung gemacht, dass es wirklich,
+
+00:22:55.840 --> 00:22:59.350
+wirklich große Probleme in der Kommunikation gab.
+
+00:22:59.350 --> 00:23:04.830
+Ich muss natürlich auch sagen, einen großen Teil meiner Zeit habe ich in einem Business verbracht,
+
+00:23:04.830 --> 00:23:11.460
+das einfach sehr IT-ner war. Also, es war im Energiehandel, das ist nun mal einfach ein Business,
+
+00:23:11.460 --> 00:23:15.460
+was sehr, sehr stark auf IT fußt und dann auch viel Verständnis da war.
+
+00:23:15.460 --> 00:23:21.350
+Aber ich muss auch sagen, dass es jetzt selten vorkommt, dass es riesige Missverständnisse gibt.
+
+00:23:21.350 --> 00:23:24.350
+Natürlich kann sich nicht jeder an jeder Diskussion beteiligen,
+
+00:23:24.350 --> 00:23:29.320
+weil wenn ich darüber spreche, welche technischen Frameworks eingesetzt werden,
+
+00:23:29.320 --> 00:23:33.740
+dann ist der Kollege aus dem Business halt vielleicht nicht sofort mit dabei.
+
+00:23:33.740 --> 00:23:38.940
+Aber zum einen kann man das erklären und ich habe auch das Glück,
+
+00:23:38.940 --> 00:23:43.010
+mit vielen Softwareentwicklern zusammenzuarbeiten, die das auch gut können,
+
+00:23:43.010 --> 00:23:48.640
+die dann gut erklären können und runterbrechen können, worüber gerade diskutiert wird.
+
+00:23:48.640 --> 00:23:52.370
+Aber ich habe glücklicherweise nie die Erfahrung gemacht,
+
+00:23:52.370 --> 00:23:58.430
+dass es wirklich zu Konflikten, zu wirklich ernsthaften Konflikten in Diskussionen kommt.
+
+00:23:58.430 --> 00:24:02.870
+Natürlich gibt es die immer im Kleinen, es gibt immer Meinungsverschiedenheiten.
+
+00:24:02.870 --> 00:24:06.310
+Aber so als generelles Problem habe ich das nie wahrgenommen.
+
+00:24:06.310 --> 00:24:08.220
+Ich habe so ein bisschen gedacht, auch so in dieser Hinsicht,
+
+00:24:08.220 --> 00:24:11.400
+Business will vielleicht mehr auf Kosten gucken und auf Organisation
+
+00:24:11.400 --> 00:24:15.580
+und vielleicht auch die Entwickler wollen gerne machen, verstehen dann nicht,
+
+00:24:15.580 --> 00:24:17.770
+aber warum darf ich das jetzt nicht machen?
+
+00:24:17.770 --> 00:24:22.270
+Und irgendwie dieses so, ja, das ist natürlich eine ganz andere Weltsicht,
+
+00:24:22.270 --> 00:24:26.270
+ja, nicht ganz andere Weltsicht, aber so eine andere Sichtweise vielleicht.
+
+00:24:26.270 --> 00:24:29.270
+Okay, also wenn du darauf abziehst, ja, natürlich, das gibt es.
+
+00:24:29.270 --> 00:24:31.260
+Also das gibt es immer mal wieder.
+
+00:24:31.260 --> 00:24:34.770
+Man hat andere Perspektiven auf die Sachen.
+
+00:24:34.770 --> 00:24:37.960
+Jemand aus der Business-Seite guckt, wie du sagst, vielleicht auf die Kosten.
+
+00:24:37.960 --> 00:24:43.340
+Und wobei es interessanterweise tatsächlich oft sehr umgekehrt ist,
+
+00:24:43.340 --> 00:24:47.610
+dass das dann von der Entwicklerseite kommt,
+
+00:24:47.610 --> 00:24:52.960
+hey, wir könnten das aber viel, viel einfacher gestalten an einigen Stellen.
+
+00:24:52.960 --> 00:24:57.210
+Und das Feature, was wir jetzt gerade hier diskutieren,
+
+00:24:57.210 --> 00:25:01.530
+das ist vielleicht ein Feature, das bringt am Ende einem Benutzer gar nicht sofort was,
+
+00:25:01.530 --> 00:25:05.850
+dass diese Diskussion der Kostenteils auch oft aus der anderen Richtung kommt,
+
+00:25:05.850 --> 00:25:07.850
+gar nicht unbedingt immer so von Business-Seite,
+
+00:25:07.850 --> 00:25:11.810
+sondern sagt, hey, das ist vielleicht ein Aufwand, den wir ja gar nicht machen sollten,
+
+00:25:11.810 --> 00:25:20.310
+sondern vielleicht hilft uns das, wenn wir dein Bedürfnis jetzt hier einfacher lösen.
+
+00:25:20.310 --> 00:25:25.280
+Am Ende brauchen wir dafür die Hälfte der Zeit, vielleicht ist das eine gute Idee.
+
+00:25:25.280 --> 00:25:28.480
+Das erlebt man dann tatsächlich doch recht häufig.
+
+00:25:28.480 --> 00:25:33.270
+Und natürlich gibt es diese, wenn du das so formulierst, diese Konflikte auf,
+
+00:25:33.270 --> 00:25:37.270
+vielleicht ist dann doch mal das eine oder andere Feature, was entwickelt wird,
+
+00:25:37.270 --> 00:25:40.490
+das jetzt aus einer Sicht von dem Entwickler dann doch nicht so wichtig wäre,
+
+00:25:40.490 --> 00:25:42.490
+sondern ist es vielleicht eine Management-Entscheidung,
+
+00:25:42.490 --> 00:25:48.340
+weil es vielleicht aus Marketing-Sichtspunkten wichtig ist, das zu tun.
+
+00:25:48.340 --> 00:25:51.790
+Oder vielleicht gefällt es auch einfach nur jemandem ganz gut, das zu haben.
+
+00:25:51.790 --> 00:25:55.590
+So im Hinblick auf Agil, kann da vielleicht das Business,
+
+00:25:55.590 --> 00:25:57.580
+was kann das vielleicht so von Software-Entwicklern?
+
+00:25:57.580 --> 00:26:01.860
+Genau, weil Software-Entwicklern ist ja Agil eigentlich ja nichts Neues.
+
+00:26:01.860 --> 00:26:06.950
+Also es ist ja schon, ich weiß nicht wie lange, wann das agile Manifesto...
+
+00:26:07.980 --> 00:26:12.230
+Müsste ich jetzt tatsächlich auch nachgucken, aber es ist schon eine ganze Weile.
+
+00:26:12.230 --> 00:26:16.250
+Und kann da vielleicht irgendwie das Business, weil das ja...
+
+00:26:16.250 --> 00:26:19.250
+Du hörst ja jetzt eigentlich genau auf dieses, ist ja fast schon wie so ein Buzzword Agil,
+
+00:26:19.250 --> 00:26:23.380
+weil alle sollen Agil machen, Agil überhört man Agil.
+
+00:26:23.380 --> 00:26:27.650
+Kannst vielleicht dann, was kann man davon lernen, also von diesen jahrelangen Erfahrungen?
+
+00:26:27.650 --> 00:26:32.560
+Gibt es da irgendwas vielleicht?
+
+00:26:32.560 --> 00:26:38.260
+Am Ende auch vieles, was in diesem agilen Methodenkoffer steckt,
+
+00:26:38.260 --> 00:26:45.840
+was uns hilft, uns selbst zu organisieren als Teams.
+
+00:26:45.840 --> 00:26:47.840
+Da kann man mit Sicherheit viel auch...
+
+00:26:47.840 --> 00:26:52.840
+Also ich glaube, da kann man am Ende in jeder Form von Arbeit viel von lernen.
+
+00:26:52.840 --> 00:26:56.030
+Ich glaube, ein ganz wichtiger Punkt ist einfach die Retrospektive.
+
+00:26:56.030 --> 00:27:00.270
+Die Retrospektive ist für mich ein ganz zentraler Teil von agilen Arbeiten,
+
+00:27:00.270 --> 00:27:03.310
+weil es ein Punkt ist, an dem ich mich explizit hinsetze
+
+00:27:03.310 --> 00:27:09.530
+und das einfach auch regelmäßig tue und über meine Arbeit reflektiere
+
+00:27:09.530 --> 00:27:15.170
+und mir die Zeit nehme, natürlich unterschiedlich je nach Team,
+
+00:27:15.170 --> 00:27:19.420
+aber zum Beispiel alle zwei Wochen nehme ich mir zwei Stunden Zeit
+
+00:27:19.420 --> 00:27:23.940
+und man kommt als Team zusammen und spricht darüber,
+
+00:27:23.940 --> 00:27:26.940
+was hat denn gut funktioniert in den letzten zwei Wochen,
+
+00:27:26.940 --> 00:27:32.060
+wo haben wir vielleicht Probleme gehabt, was glauben wir können wir verbessern.
+
+00:27:32.060 --> 00:27:34.150
+Und diese Diskussion ist unglaublich mächtig,
+
+00:27:34.150 --> 00:27:37.430
+weil am Ende spricht man sehr offen darüber
+
+00:27:37.430 --> 00:27:41.520
+und in den neuesten Teams in einem sehr vertrauensvollen Verhältnis darüber,
+
+00:27:41.520 --> 00:27:45.800
+was gut funktioniert, kann das vielleicht nochmal forcieren,
+
+00:27:45.800 --> 00:27:48.860
+kann sich überlegen, okay, was können wir mit den Dingen machen,
+
+00:27:48.860 --> 00:27:50.860
+die gerade vielleicht nicht gut funktioniert haben.
+
+00:27:50.860 --> 00:27:54.860
+Also was sind Aktionspunkte, um diese Probleme anzugehen
+
+00:27:54.860 --> 00:28:00.040
+und der Punkt auch einfach Ideen aufzubringen,
+
+00:28:00.040 --> 00:28:04.140
+wo bringt mich das als, wo können wir uns als Team gerade weiterentwickeln.
+
+00:28:04.140 --> 00:28:07.010
+Ich glaube, das ist ein ganz zentraler Punkt und ich glaube,
+
+00:28:07.010 --> 00:28:11.450
+ich kann mir wenig Situationen vorstellen, auf die das nicht anwendbar ist
+
+00:28:11.450 --> 00:28:14.450
+und wo das nicht einfach einen großen Mehrwert hat
+
+00:28:14.450 --> 00:28:16.700
+für die Arbeitsorganisation am Ende.
+
+00:28:16.700 --> 00:28:20.890
+Und es gibt mit Sicherheit noch viele andere Dinge im agilen Methodenkasten,
+
+00:28:20.890 --> 00:28:29.400
+die helfen können, diese Arbeits-, also für die Selbstorganisation der Arbeit,
+
+00:28:29.400 --> 00:28:31.400
+sei es ein einfaches Kanban-Board, was man benutzen kann.
+
+00:28:31.400 --> 00:28:34.400
+Da gibt es bestimmt viele Dinge, die dafür nützlich sind.
+
+00:28:34.400 --> 00:28:39.610
+Was ist dein Lieblingstool? Oder war das jetzt schon die Retrospektive?
+
+00:28:39.610 --> 00:28:41.570
+Vielleicht das Kanban-Board?
+
+00:28:41.570 --> 00:28:44.570
+Das Kanban-Board? Ne, also ich meine, Kanban-Boards sind ganz nett.
+
+00:28:44.570 --> 00:28:48.660
+Kann man schön transparent darstellen, wo gerade die Arbeit hängt.
+
+00:28:48.660 --> 00:28:51.870
+Aber ich glaube, die Retrospektive, ich mag das einfach.
+
+00:28:51.870 --> 00:28:56.250
+Es ist eine schöne Interaktion zwischen den Kollegen.
+
+00:28:56.250 --> 00:29:00.630
+Also inhaltlich ist es ein schöner Punkt, einfach auch zusammenzukommen.
+
+00:29:00.630 --> 00:29:05.030
+Und dass wir eigentlich in jeder Retrospektive machen,
+
+00:29:05.030 --> 00:29:07.030
+dass es am Anfang noch mal einen lockeren Part gibt,
+
+00:29:07.030 --> 00:29:12.410
+wo man sich einfach mal ein bisschen über Dinge in einem entspannteren Rahmen austauscht,
+
+00:29:12.410 --> 00:29:17.440
+wo einfach jeder sein Gehör findet, wo jeder im Team Gehör findet.
+
+00:29:17.440 --> 00:29:22.690
+Und das ist mit Sicherheit, ich finde, das ist auch einen der wichtigsten Punkte.
+
+00:29:22.690 --> 00:29:26.910
+Ich glaube, Agilität, agiles Arbeiten funktioniert auch nicht ohne diese Reflektion.
+
+00:29:26.910 --> 00:29:31.790
+Ja, also wenn du mir nach Lieblingstool fragst, dann ist es mit dem Retrospektive.
+
+00:29:31.790 --> 00:29:36.530
+Was heißt Tool? Aber es ist die Retrospektive. Das ist schon ein sehr, sehr wichtiger Punkt für mich.
+
+00:29:36.530 --> 00:29:40.530
+Ja, es wäre auch so ein bisschen, dass man so flexibel, also jetzt kommen wir vielleicht auf diese VUCA,
+
+00:29:40.530 --> 00:29:44.490
+weil das ist ja auch VUCA Blaster, der Blaster, der Podcast.
+
+00:29:44.490 --> 00:29:51.230
+Weil ich glaube, manche Unternehmen vielleicht auch noch so, ja, dieses bisschen Übertriebene mit Agil,
+
+00:29:51.230 --> 00:29:56.230
+dass das auch schon fast wie so ein Buzzword ist und dass viele das vielleicht auch schon light sind.
+
+00:29:56.230 --> 00:30:02.830
+Aber warum sollten sich Unternehmen vielleicht trotzdem damit wirklich mal beschäftigen,
+
+00:30:02.830 --> 00:30:05.830
+um vielleicht auf diese neue Welt zu reagieren?
+
+00:30:05.830 --> 00:30:08.830
+Aber es kommt vielleicht die gleiche Antwort, wie wir schon gehört haben.
+
+00:30:08.830 --> 00:30:14.780
+Ja, du sagst ernsthaft damit beschäftigen, das ist glaube ich ein guter Punkt.
+
+00:30:14.780 --> 00:30:21.980
+Und vielleicht einfach den Fokus davon wegzunehmen, es geht nicht um Frameworks,
+
+00:30:21.980 --> 00:30:27.980
+es geht nicht darum, ob ich als Unternehmen jetzt Scrum einführe oder ob ich in Zukunft Squads oder Chapter
+
+00:30:27.980 --> 00:30:33.420
+oder was auch immer anstatt Teams habe. Das ist am Ende nicht der Punkt.
+
+00:30:33.420 --> 00:30:41.630
+Ich brauche kein Safe oder Kanban oder dergleichen. Das sind alles Werkzeuge in meinem Werkzeugkasten, die mir helfen können.
+
+00:30:41.630 --> 00:30:49.410
+Gerade wenn ich am Anfang stehe von einer agilen Transformation und sagen möchte, ich möchte so arbeiten.
+
+00:30:49.410 --> 00:30:55.880
+Aber das ist am Ende nicht das Wichtige, sondern das Wichtige ist das Wertekonstrukt, was dahinter steht.
+
+00:30:55.880 --> 00:31:09.940
+Du sagtest, der Podcast heißt ja VUCA Blaster. Und gerade in dieser Volatilität, wenn wir mehr Volatilität in dem haben, was wir tun.
+
+00:31:09.940 --> 00:31:26.670
+Und gerade in dieser Welt ist es ja wichtig, schnell auf diese Veränderung zu reagieren und schnell darauf eine Antwort zu haben und schnell eine Antwort zu finden.
+
+00:31:26.670 --> 00:31:37.430
+Ich glaube, wenn ich sage, ich habe Teams, die sich selbst organisieren, dazu gehört zur Selbstorganisation, wir natürlich auch eigene Verantwortung tragen für das, was ich tue,
+
+00:31:37.430 --> 00:31:50.130
+und das sehr nah am Kunden mache, kann ich am Ende schneller auf diese Anforderungen reagieren, die die VUCA-Welt für mich hat.
+
+00:31:50.130 --> 00:31:58.730
+Und daher sind gerade die Werte, die dahinterstehen eigentlich, ich glaube, ohne agiles Arbeiten funktioniert es gar nicht auf,
+
+00:31:58.730 --> 00:32:05.670
+in dieser Welt als Unternehmen zu überleben. Weil gerade am Ende möchte ich ja, dass die Experten,
+
+00:32:05.670 --> 00:32:14.490
+die Leute, die am Ende die Arbeit in meinem Unternehmen machen, die Produkte bauen oder was auch immer das Unternehmen gerade tut,
+
+00:32:14.490 --> 00:32:21.830
+die Entscheidungen treffen können, weil nur so kann ich halt schnell darauf reagieren.
+
+00:32:21.830 --> 00:32:30.870
+Wenn ich das erst durch eine Hierarchie alles bringen muss, um Entscheidungen treffen zu können und überbordende Prozesse habe,
+
+00:32:30.870 --> 00:32:38.240
+dann verliere ich einfach Zeit dahinter und werde einfach nicht in der Lage sein, schnell Entscheidungen zu treffen
+
+00:32:38.240 --> 00:32:43.430
+und treffe vielleicht auch nicht unbedingt die richtigen Entscheidungen, weil die Experten viel zu weit weg sind davon.
+
+00:32:43.430 --> 00:32:49.790
+Also ein bisschen ist natürlich auch so diese Selbstverantwortung, Selbstorganisation,
+
+00:32:49.790 --> 00:32:53.010
+ist ja auch manchmal vielleicht so ein bisschen Überforderung für viele.
+
+00:32:53.010 --> 00:32:59.190
+Früher ist natürlich immer ganz schön, der Chef, die Chefin sagt, was du zu tun und zu lassen hast.
+
+00:32:59.190 --> 00:33:04.570
+Machst das, führst das aus und musst ja ich selber auch nicht diese Verantwortung übernehmen.
+
+00:33:04.570 --> 00:33:12.380
+Also meinst du, das ist auch für teilweise einige viele Überforderungen?
+
+00:33:12.380 --> 00:33:16.280
+Ich glaube, das ist tatsächlich viel gelerntes Verhalten.
+
+00:33:16.280 --> 00:33:23.680
+Also ich meine, über wie viele Jahre existieren Organisationen, in denen es Hierarchien gibt,
+
+00:33:23.680 --> 00:33:29.980
+in denen dir jemand Entscheidungen abgenommen hat, in denen du diese Entscheidungen nicht treffen musstest.
+
+00:33:29.980 --> 00:33:31.940
+Dann gibt es trotzdem Burnout.
+
+00:33:31.940 --> 00:33:33.940
+Da gibt es trotzdem Burnout.
+
+00:33:33.940 --> 00:33:36.000
+Ja, richtig.
+
+00:33:36.000 --> 00:33:40.060
+Ich glaube tatsächlich nicht, dass am Ende jemand damit überfordert ist.
+
+00:33:40.060 --> 00:33:44.060
+Es ist einfach ein gelerntes Verhalten, was wir über viele Jahre in Organisation gelernt haben.
+
+00:33:44.060 --> 00:33:53.000
+Auf der anderen Seite, wenn du dir überlegst, wie viele Entscheidungen triffst du zu Hause in deinem Privatleben jeden Tag
+
+00:33:53.000 --> 00:33:55.000
+und organisierst dein komplettes Privatleben alleine.
+
+00:33:55.000 --> 00:33:59.410
+Also ich glaube tatsächlich nicht, dass jemand damit überfordert ist.
+
+00:33:59.410 --> 00:34:04.670
+Das heißt ja auch nicht, also es geht natürlich um Selbstorganisation, aber du machst es ja nicht alleine.
+
+00:34:04.670 --> 00:34:16.550
+Also am Ende des Tages bin ich Teil von einem Team und wir treffen die Entscheidungen und ja nicht individuell,
+
+00:34:16.550 --> 00:34:18.550
+sondern wir treffen die als Gemeinschaft, als Team.
+
+00:34:18.550 --> 00:34:23.930
+Also du bist ja nicht letztendlich komplett alleine, auf dich allein gestellt mit diesen Dingen.
+
+00:34:23.930 --> 00:34:32.510
+Ich kann mir natürlich vorstellen, jemand, der das einfach über Jahrzehnte nicht gemacht hat in einem Unternehmen und in seinem Arbeitsumfeld,
+
+00:34:32.510 --> 00:34:39.510
+dass das in dem ersten Moment viel ist, aber ich kann mir niemanden vorstellen, der das nicht kann
+
+00:34:39.510 --> 00:34:47.990
+und der am Ende, wenn er es dann tatsächlich mal erlebt hat, auch nicht zufriedener ist mit der Arbeit, die er tut.
+
+00:34:47.990 --> 00:34:52.080
+Und wie gesagt, es ist am Ende immer, man ist nicht das Individuum, das das alleine macht,
+
+00:34:52.080 --> 00:34:56.460
+sondern es sind halt Teams, die das am Ende zusammen sich organisieren.
+
+00:34:56.460 --> 00:34:59.460
+Ja und letztlich, wenn, glaube ich, da auch so ein vertrauensvolles Verhältnis im Team ist
+
+00:34:59.460 --> 00:35:03.810
+und man macht so Retrospektiven und da kann man das ja dann letztlich auch ansprechen.
+
+00:35:03.810 --> 00:35:07.350
+Ich fühle mich überfordert, wenn dann von Tag richtig ist.
+
+00:35:07.350 --> 00:35:10.670
+Ja genau, dann kannst du dir halt die Hilfe holen.
+
+00:35:10.670 --> 00:35:14.670
+Dann kannst du dir halt die Hilfe holen am Ende und ich glaube viel von dem, was am Ende stressen würde,
+
+00:35:14.670 --> 00:35:23.680
+ist, wenn ich die Entscheidung alleine treffen müsste für mich und am Ende das Ganze auch vielleicht auch Konsequenzen hat
+
+00:35:23.680 --> 00:35:28.930
+und dahinter eine Art von dich jemand danach gewertet, wie du diese Entscheidung getroffen hast,
+
+00:35:28.930 --> 00:35:34.980
+was natürlich auch nicht stattfinden sollte. Am Ende sollte das, okay, wenn man auch als Team trifft,
+
+00:35:34.980 --> 00:35:39.000
+immer eine falsche Entscheidung als Individuum. Das sollte halt einfach auch möglich sein.
+
+00:35:39.000 --> 00:35:44.190
+Und da sind natürlich auch viel von dem Stress, der dahinter einfach steckt, weg.
+
+00:35:44.190 --> 00:35:47.190
+Wenn ich als Team sage, das ist in Ordnung, wir sprechen halt darüber, gucken, wie wir es besser machen.
+
+00:35:47.190 --> 00:35:50.820
+Gut, ist halt passiert und machen weiter.
+
+00:35:50.820 --> 00:35:56.360
+Dann ist das natürlich eine ganz andere Situation, als wenn ich vielleicht eine Entscheidung für mich alleine treffe
+
+00:35:56.360 --> 00:36:04.000
+und dann nachher mein Chef kommen würde und ich dafür diszipliniert würde, was natürlich keine gute Situation ist.
+
+00:36:04.000 --> 00:36:12.700
+Aber am Ende, wenn die Selbstorganisation in einem Umfeld stattfindet, das respektvoll ist und das auch mit Fehlern vernünftig umgeht,
+
+00:36:12.700 --> 00:36:16.950
+dann glaube ich nicht, dass das für irgendwen am Ende problematisch ist.
+
+00:36:16.950 --> 00:36:19.950
+Und eher wohl der Führungskraft dann auch so ein bisschen was abnimmt.
+
+00:36:19.950 --> 00:36:23.910
+Also ich sehe, ich weiß, ich hatte irgendwo mal eine Studie, ich weiß nicht, wie viel Prozent das waren,
+
+00:36:23.910 --> 00:36:28.060
+aber dass viele Führungskräfte auch überfordert sind mit diesen ganzen Entscheidungen.
+
+00:36:28.060 --> 00:36:30.060
+Alles hängt ja eigentlich nur an denen.
+
+00:36:30.060 --> 00:36:37.310
+Und wenn das so ein bisschen dann in die Teams reingeht und sozusagen auf mehrere Köpfe eigentlich so verteilt wird,
+
+00:36:37.310 --> 00:36:42.290
+vielleicht denkt ein Manager dann oder Managerin, ja okay, was ist dann meine Rolle?
+
+00:36:42.290 --> 00:36:45.290
+Aber auf der anderen Seite wird ihnen ja natürlich auch viel abgenommen.
+
+00:36:45.290 --> 00:36:55.620
+Also da und vielleicht muss er dann oder sie dann nur in Anführungszeichen als Leader so da sein,
+
+00:36:55.620 --> 00:36:58.620
+vielleicht irgendwelche Probleme aus der Welt schaffen, weiß ich nicht.
+
+00:36:58.620 --> 00:37:04.840
+Ja, also ich meine, dann kommen wir so ein bisschen in die, was ist Führung in einem agilen Umfeld, in die Diskussion.
+
+00:37:04.840 --> 00:37:08.810
+Aber genau das, ne, Führung ist halt in einem agilen Umfeld dann nicht mehr die Entscheidung zu treffen.
+
+00:37:08.810 --> 00:37:14.900
+Das ist ja nicht die Aufgabe von jemandem, der in einer, ich sag jetzt mal, leadersche Position ist, dann in die Entscheidung zu treffen,
+
+00:37:14.900 --> 00:37:21.430
+sondern die Entscheidung trifft das Team. Und mit Sicherheit ist das eine Entlastung für einen Manager.
+
+00:37:21.430 --> 00:37:29.220
+Es ist auch für jemanden, der in einer Management-Position ist, keine gute Situation alleine Verantwortung für diese Entscheidung zu tragen.
+
+00:37:29.220 --> 00:37:34.680
+Ich glaube, dass diese Verantwortung dann auf dem Team liegt.
+
+00:37:34.680 --> 00:37:41.660
+Also ich meine, das ist natürlich ein Punkt, der oft kritisiert wird, weil gesagt wird, okay, diese Entscheidung wird halt abgeschoben auf das Team.
+
+00:37:41.660 --> 00:37:47.240
+Ich sehe das halt viel mehr so, dass das Team die Möglichkeit bekommt, diese Entscheidung mitzutreffen.
+
+00:37:47.240 --> 00:37:55.240
+Und wie ich, das habe ich am Anfang ja schon gesagt, dass ich das auch am Ende glaube, dass dann der Outcome besser ist oder das Ergebnis besser ist.
+
+00:37:55.240 --> 00:38:01.800
+Und wahrscheinlich führt das dazu, dass es für Manager wahrscheinlich weniger stressig ist, ja.
+
+00:38:01.800 --> 00:38:04.800
+Wir hatten ja auch im Podcast schon jemanden zu positiven Psychologie.
+
+00:38:04.800 --> 00:38:14.520
+Und das passt so ein bisschen zu ihm, was er gesagt hat, also positive Psychologie beschäftigt ja damit, wie Menschen sich besser fühlen.
+
+00:38:14.520 --> 00:38:24.760
+Also und viele Punkte, so wie Selbstwirksamkeit und sich so mit seinen Stärken vielleicht auch einbringen, passt da eigentlich ganz gut rein, also auch aus diesem Ambilen.
+
+00:38:24.760 --> 00:38:28.760
+Ja, das passt perfekt, weil genau am Ende, also das ist ein ganz großer Punkt, worum es halt geht.
+
+00:38:28.760 --> 00:38:37.130
+Und den Leuten einfach die Verantwortung zu geben, die Menschen können damit umgehen, die Leute sind die Experten dafür.
+
+00:38:37.130 --> 00:38:42.180
+Und wenn ich als Experte, wenn ich die Entscheidung treffe, werde ich meine Meinung ja auch wertgeschätzt.
+
+00:38:42.180 --> 00:38:45.240
+Natürlich. Ich glaube auch, dass man sich dann am Ende damit wohler fühlt.
+
+00:38:45.240 --> 00:38:48.240
+Also ich fühle mich in so einem Umfeld wohler. Ich möchte in keinem anderen Umfeld arbeiten.
+
+00:38:48.240 --> 00:38:56.800
+Ist das auch so ein bisschen, dass im agilen Bereich die Leute viel mehr mit sich, mit den Stärken einbringen können?
+
+00:38:56.800 --> 00:39:04.240
+Ist das auch so ein Teil? Das, was sie am besten können, können sie damit einbringen, sich mehr einbringen? Weiß ich nicht.
+
+00:39:04.240 --> 00:39:16.740
+Ich glaube schon. Wenn ich in einem Team arbeite, mich als Team selbst organisiere, in meiner Rolle als Experte wahrgenommen werde,
+
+00:39:16.740 --> 00:39:20.740
+und meine Stärke ist das jetzt, ich weiß es nicht, vielleicht bin ich ein super Frontendentwickler.
+
+00:39:20.740 --> 00:39:25.990
+Wenn ich mich dann als Team einfach so organisiere, demjenigen das auch ermögliche, das zu tun,
+
+00:39:25.990 --> 00:39:31.020
+hat er natürlich auch eine sehr, sehr starke Möglichkeit, seine Stärken da einzubringen.
+
+00:39:31.020 --> 00:39:35.550
+Das bezieht sich mit Sicherheit nicht nur auf so Hard Skills.
+
+00:39:35.550 --> 00:39:43.110
+Natürlich auch in der Interaktion im Team kann ich dann auch mit Sicherheit Soft Skills einbringen.
+
+00:39:43.110 --> 00:39:46.110
+Lass es einfach sein, eine Retrospektive zu moderieren.
+
+00:39:46.110 --> 00:39:50.080
+Vielleicht mache ich das total gerne und bin darin wirklich gut.
+
+00:39:50.080 --> 00:39:59.290
+Hab dann in so einem Umfeld natürlich auch die Möglichkeit, einfach da effektiv diese Dinge zu tun.
+
+00:39:59.290 --> 00:40:03.350
+Ja, weil es noch so ein bisschen bei Organisationen, ich glaube, viele haben auch so ein bisschen,
+
+00:40:03.350 --> 00:40:10.930
+erstens, dass vielleicht agil auch ist das Denken, das geht eigentlich nur für Softwareentwickler.
+
+00:40:10.930 --> 00:40:18.310
+Es kommt natürlich auch zur Softwareentwicklung, aber ich glaube, mittlerweile ist das eigentlich auch für andere Bereiche, denke ich mal, anwendbar.
+
+00:40:18.310 --> 00:40:22.270
+Ich meine, da haben wir jetzt, ich habe schon drüber gesprochen, das ist ja nicht nur auf Softwareentwicklung.
+
+00:40:22.270 --> 00:40:29.420
+Außer vielleicht im agilen Manifest, was du gesagt hast, funktionierende Software über, was war das?
+
+00:40:29.420 --> 00:40:33.420
+Das ist nur darauf gemünzt.
+
+00:40:33.420 --> 00:40:37.770
+Also ich meine, die Leute, die das Agile Manifest geschrieben haben, waren Softwareentwickler.
+
+00:40:37.770 --> 00:40:39.770
+Also gut, kommt es halt her.
+
+00:40:39.770 --> 00:40:41.960
+Nein, ich glaube tatsächlich.
+
+00:40:41.960 --> 00:40:48.310
+Also die Grundprinzipien, das, was dahinter steht, ist eigentlich am Ende auf jede Form, auf fast jede Form,
+
+00:40:48.310 --> 00:40:52.310
+ich möchte mich nicht aufs Pestalieren, aber mit Sicherheit auf fast jede Form von Arbeit anwendbar.
+
+00:40:52.310 --> 00:40:59.270
+In fast allen Bereichen, in denen Arbeit stattfindet oder in denen wir uns organisieren,
+
+00:40:59.270 --> 00:41:07.620
+vielleicht muss nicht mal Arbeit sein, gibt es Experten, die die Dinge erledigen, die die Dinge tun,
+
+00:41:07.620 --> 00:41:13.160
+die mit Sicherheit am besten wissen, wie man zusammenarbeiten möchte.
+
+00:41:13.160 --> 00:41:20.240
+Und überall, wo das der Fall ist, kann man, denke ich, agil arbeiten.
+
+00:41:20.240 --> 00:41:25.240
+Also wenn wir das wieder darauf runterbrechen, dass es am Ende darum geht, wie organisiere ich meine Arbeit,
+
+00:41:25.240 --> 00:41:29.550
+wie organisiere ich die Interaktion zwischen den Arbeiten, unabhängig vielleicht von Prozessen,
+
+00:41:29.550 --> 00:41:35.560
+wie reagiere ich auf Veränderungen von außen, kollaboriere ich miteinander,
+
+00:41:35.560 --> 00:41:37.560
+das müssen ja nicht unbedingt Kunden sein, mit denen ich kollaboriere,
+
+00:41:37.560 --> 00:41:40.550
+sondern vielleicht die Nachbarabteilung.
+
+00:41:40.550 --> 00:41:46.760
+Wenn ich das auf diese Punkte runterbreche, sehe ich, ist das auf jede Form von Arbeit anwendbar,
+
+00:41:46.760 --> 00:41:52.460
+dass wir uns selbst organisiert bewegen.
+
+00:41:52.460 --> 00:41:59.420
+Und so weißt du, wenn so Organisationen vielleicht Angst davor haben,
+
+00:41:59.420 --> 00:42:05.380
+ich weiß nicht, ob es sowas gibt, dass sie vielleicht sagen, okay, ach, das ist so viel, das ist irgendwie auch so abstrakt.
+
+00:42:05.380 --> 00:42:09.660
+Wie könnten die vielleicht so starten, vielleicht wirklich auch sich erstmal Scrum anschauen
+
+00:42:09.660 --> 00:42:13.790
+oder eine Manifest oder die Retrospektive einfach mal einführen?
+
+00:42:13.790 --> 00:42:18.790
+Also ich glaube, ja, also eine Retrospektive einführen, das ist ein super Punkt.
+
+00:42:18.790 --> 00:42:24.960
+Ich glaube, das funktioniert einfach immer, darüber zu reflektieren, was man tut.
+
+00:42:24.960 --> 00:42:29.320
+Scrum kann funktionieren, muss aber auch nicht unbedingt.
+
+00:42:29.320 --> 00:42:33.620
+Ich glaube, Arbeit transparent machen ist ein ganz wichtiger Punkt.
+
+00:42:33.620 --> 00:42:38.130
+Zum Beispiel einfach mit einem Kanban-Bot anfangen, transparent zu machen,
+
+00:42:38.130 --> 00:42:40.080
+welche Arbeit machen wir denn überhaupt?
+
+00:42:40.080 --> 00:42:43.120
+Weil am Ende muss ich mir, wenn ich eine Retrospektive mache,
+
+00:42:43.120 --> 00:42:46.120
+ich muss ja auch eine Grundlage haben, über was diskutiere ich denn überhaupt?
+
+00:42:46.120 --> 00:42:49.120
+Dafür muss ich vielleicht auch wissen, was tue ich denn am Ende?
+
+00:42:49.120 --> 00:42:52.760
+Also welche Arbeit findet denn statt?
+
+00:42:52.760 --> 00:42:57.400
+Also ich glaube, das agile Manifest, ich weiß nicht, ob es ein guter Startpunkt ist,
+
+00:42:57.400 --> 00:43:00.400
+ich glaube eher nicht, weil, wie du sagst, das ist halt recht abstrakt.
+
+00:43:00.400 --> 00:43:04.120
+Und am Ende hilft es mit Sicherheit auch, sich jemanden zu holen,
+
+00:43:04.120 --> 00:43:11.190
+der das Team coachen kann und einfach guckt, okay, wie funktioniert das Team gerade?
+
+00:43:11.190 --> 00:43:13.350
+Wie arbeitet das Team zusammen?
+
+00:43:13.350 --> 00:43:19.620
+Und dann auch individuell zu empfehlen, welche Tools und welche Frameworks vielleicht hier sinnvoll sind.
+
+00:43:19.620 --> 00:43:21.620
+Also eine Retrospektive immer.
+
+00:43:21.620 --> 00:43:24.750
+Da bin ich überzeugt von, die wird immer helfen am Ende,
+
+00:43:24.750 --> 00:43:26.690
+weil ich einfach darüber spreche, wie ich arbeite.
+
+00:43:26.690 --> 00:43:29.960
+Und daraus vielleicht dann auch eine Diskussion entstehen kann,
+
+00:43:29.960 --> 00:43:31.960
+wie ändere ich vielleicht die Art und Weise, wie ich arbeite.
+
+00:43:31.960 --> 00:43:37.610
+Und weil ich es noch so gelesen habe oder du auch schon erzählt hattest,
+
+00:43:37.610 --> 00:43:44.040
+also jetzt nicht in diesem Podcast-Folge, aber dass Softwareentwickler langsam auch dieses agil,
+
+00:43:44.040 --> 00:43:48.040
+wie das jetzt heute Verständnis, also dann schon wie so ein Buzzword wird,
+
+00:43:48.040 --> 00:43:52.350
+dass sie das irgendwie nicht mehr cool finden.
+
+00:43:52.350 --> 00:43:54.690
+Woher kommt das, oder?
+
+00:43:54.690 --> 00:43:57.790
+Nicht mehr cool finden ist manchmal doch recht milder ausgerückt.
+
+00:43:57.790 --> 00:44:01.040
+Also es gibt ja dieses Buzzword inzwischen,
+
+00:44:01.040 --> 00:44:05.040
+das ich in einigen Foren, in einigen Twitter-Diskussionen finde, dark agile.
+
+00:44:05.040 --> 00:44:09.040
+Also ich finde die Diskussion ganz interessant.
+
+00:44:09.040 --> 00:44:13.730
+Und offensichtlich haben wir es geschafft,
+
+00:44:13.730 --> 00:44:20.060
+viele Leute davon abzuschrecken und also auch wirklich agiles Arbeiten,
+
+00:44:20.060 --> 00:44:23.180
+also nicht wirklich nicht agiles Arbeiten,
+
+00:44:23.180 --> 00:44:26.180
+wie wir beide gerade darüber diskutiert haben, abzulehnen,
+
+00:44:26.180 --> 00:44:29.480
+aber es ist ablehnen, agil zu arbeiten.
+
+00:44:29.480 --> 00:44:31.480
+Ja, wie unterscheide ich das jetzt?
+
+00:44:31.480 --> 00:44:34.950
+Aber dass sie erstmal ablehnen, agil zu arbeiten.
+
+00:44:34.950 --> 00:44:42.300
+Also es ist ganz interessant, wenn man sich mal ein bisschen auf Hacker-News oder dergleichen unterwegs ist,
+
+00:44:42.300 --> 00:44:46.730
+wo man einfach viele Diskussionen von Software-Entwicklern findet,
+
+00:44:46.730 --> 00:44:49.730
+die sagen, sie möchten nie wieder in einem agilen Umfeld arbeiten,
+
+00:44:49.730 --> 00:44:54.780
+weil sie da wirklich, das ist traurig, weil sie da einfach viel Negatives erlebt haben.
+
+00:44:54.780 --> 00:45:00.900
+Und auch in dem Kontext, wenn ich mich mit Kollegen hier unterhalte,
+
+00:45:00.900 --> 00:45:06.590
+dass das oft einfach schon als negativer Begriff wahrgenommen wird.
+
+00:45:06.590 --> 00:45:10.240
+Ja, genau, da wollte ich jetzt drauf kommen.
+
+00:45:10.240 --> 00:45:14.360
+Also ich glaube, es gibt zwei Aspekte zum einen.
+
+00:45:14.360 --> 00:45:19.610
+Es gibt zum einen oft ein falsches Verständnis davon, was agiles Arbeiten bedeutet.
+
+00:45:19.610 --> 00:45:25.310
+Also gerade dieser Punkt, den du am Anfang erwähnt hattest mit nur iterativ arbeiten
+
+00:45:25.310 --> 00:45:30.560
+und okay, wir fahren halt vollständig auf Sicht und ich überlege mir morgen,
+
+00:45:30.560 --> 00:45:36.720
+was ich am nächsten Tag mache und habe halt überhaupt keinen Plan, keine Idee davon,
+
+00:45:36.720 --> 00:45:38.850
+wo ich mit der ganzen Sache hin möchte.
+
+00:45:38.850 --> 00:45:43.200
+Das ist eine häufige Interpretation von agilem Arbeiten, die man leider findet.
+
+00:45:43.200 --> 00:45:47.740
+Es ist völlig okay, einen Plan zu haben und eine Idee zu haben, wo ich hin möchte
+
+00:45:47.740 --> 00:45:55.060
+und auch Zeit damit zu verbringen, um zu verstehen, welche Probleme möchte ich denn überhaupt lösen
+
+00:45:55.060 --> 00:45:57.060
+und wie möchte ich die vielleicht auch lösen.
+
+00:45:57.060 --> 00:46:05.370
+Und daher kommt oft eine Ablehnung davon, weil die Kollegen dann einfach erlebt haben,
+
+00:46:05.370 --> 00:46:12.930
+dass kein sinnvolles Produkt gebaut wird oder dass man immer nur auf Sicht fährt,
+
+00:46:12.930 --> 00:46:16.960
+dass man nie eine Idee davon hat, wo man hin möchte.
+
+00:46:16.960 --> 00:46:21.960
+Und so auch einfach nie ein vernünftiges Stück Software, wenn der entsteht.
+
+00:46:21.960 --> 00:46:26.790
+Und daher kommt viel aus den Diskussionen, die ich jetzt mit Kollegen auch tatsächlich
+
+00:46:26.790 --> 00:46:30.100
+jetzt die Tage noch hatte, daher kommt viel Ablehnung.
+
+00:46:30.100 --> 00:46:38.500
+Der andere Punkt ist halt, es gibt inzwischen doch eine recht extreme Monetarisierung des Ganzen.
+
+00:46:38.500 --> 00:46:49.190
+Es wird an sehr vielen Stellen sehr viel Wert auf Zertifikate und auf Frameworks gelegt.
+
+00:46:49.190 --> 00:46:53.190
+Also ein ganz großes Thema ist gerade Skalierungsframeworks mal wieder.
+
+00:46:53.190 --> 00:46:58.600
+Frameworks wie SAFE, die halt oft abgelehnt werden.
+
+00:46:58.600 --> 00:47:02.820
+Also ich bin auch jetzt kein großer Freund von Dingen wie SAFE,
+
+00:47:02.820 --> 00:47:08.860
+weil ich am Ende glaube, dass sie viel von der individuellen Wirksamkeit
+
+00:47:08.860 --> 00:47:11.860
+und von der individuellen Selbstorganisation wegnehmen.
+
+00:47:11.860 --> 00:47:17.490
+Und ich glaube, genau das sind so die Punkte, aus denen dann tatsächlich auch eine Ablehnung entsteht,
+
+00:47:17.490 --> 00:47:22.020
+was schade ist, weil ich auch in den Diskussionen, die ich da mit den Kollegen führe,
+
+00:47:22.020 --> 00:47:28.230
+eigentlich nie wirklich Ablehnung hinter diesen Prinzipien, die wir diskutiert haben.
+
+00:47:28.230 --> 00:47:32.610
+Es lehnt nie jemanden ab, dass er gerne Eigenverantwortung dafür tragen möchte,
+
+00:47:32.610 --> 00:47:37.090
+wie er arbeitet und sich selbst organisieren möchte in seiner täglichen Arbeit
+
+00:47:37.090 --> 00:47:41.090
+und selbst entscheiden möchte, welche Tools er benutzt und selbst entscheiden möchte,
+
+00:47:41.090 --> 00:47:45.540
+wie jetzt die Architektur für die Software aussehen soll.
+
+00:47:45.540 --> 00:47:50.880
+Da gibt es eigentlich nie letztendlich die Ablehnung hinter, sondern die Ablehnung kommt dann,
+
+00:47:50.880 --> 00:47:57.620
+wenn dir jemand zum einen in so ein Konstrukt wie SAFE stärker vorgibt, wie du zu arbeiten hast,
+
+00:47:57.620 --> 00:48:01.860
+oder halt dieses, wir fahren komplett planlos durch die Gegend.
+
+00:48:01.860 --> 00:48:05.680
+Ja, mit dem Planlos, das verstehe ich noch nicht so ganz.
+
+00:48:05.680 --> 00:48:12.930
+Also, dass gesagt wird, wir machen agil, aber nicht der Sinn dahinter, oder was ist dieses Plan?
+
+00:48:12.930 --> 00:48:19.630
+Also, bleiben wir bei dem Beispiel Softwareentwicklung.
+
+00:48:19.630 --> 00:48:25.130
+Ich möchte ein digitales Produkt entwickeln und ich fange damit an in meinem Sprint.
+
+00:48:25.130 --> 00:48:28.130
+In meinem ersten Sprint habe ich einen Satz von User Stories.
+
+00:48:28.130 --> 00:48:32.190
+Ich kenne das größere Bild nicht, wo das Ganze hingehen soll.
+
+00:48:32.190 --> 00:48:35.890
+Und ich mache mir vorher auch keine fünf Minuten Gedanken darüber,
+
+00:48:35.890 --> 00:48:39.890
+was wäre auf Basis dieses größeren Bildes, was ist denn eine sinnvolle Architektur dafür,
+
+00:48:39.890 --> 00:48:45.290
+sondern fange dann an, auf Sicht zu fahren und das einfach runterzuentwickeln.
+
+00:48:45.290 --> 00:48:50.150
+Da findest du sehr, sehr viel Ablehnung bei vielen Kollegen.
+
+00:48:50.150 --> 00:48:53.530
+Und das kommt aus meiner Sicht aus einem falschen Verständnis,
+
+00:48:53.530 --> 00:48:55.530
+was letztendlich Agiles arbeiten würde.
+
+00:48:55.530 --> 00:48:58.530
+Das heißt nicht, ich fange jetzt komplett iterativ an,
+
+00:48:58.530 --> 00:49:02.120
+morgen das Stück Software zu entwickeln.
+
+00:49:02.120 --> 00:49:05.640
+Es ist halt völlig okay, sich auch einen Plan darüber zu machen.
+
+00:49:05.640 --> 00:49:07.630
+Was möchte ich denn architektonisch schaffen?
+
+00:49:07.630 --> 00:49:09.790
+Was möchte ich da jetzt als Produkt bauen?
+
+00:49:09.790 --> 00:49:16.000
+Also eine Vision zu haben von dem Produkt und vielleicht die großen Blöcke davon zu kennen.
+
+00:49:16.000 --> 00:49:20.510
+Was da wieder nicht agil wäre, diesen Plan stupide zu verfolgen.
+
+00:49:20.510 --> 00:49:23.570
+Aber diesen Plan zu haben, widerspricht dem halt am Ende nicht.
+
+00:49:23.570 --> 00:49:26.570
+Und das findest du sehr, das findet man sehr oft in Diskussionen,
+
+00:49:26.570 --> 00:49:30.270
+dass halt auch genau einfach das schon abgelehnt wird
+
+00:49:30.270 --> 00:49:34.330
+oder dass das Verständnis ist, dass ich gar keinen Plan haben muss.
+
+00:49:34.330 --> 00:49:36.330
+Natürlich kann ich den haben und sollte ich vielleicht auch.
+
+00:49:36.330 --> 00:49:38.290
+Also ich sollte den sogar haben.
+
+00:49:38.290 --> 00:49:44.080
+Das heißt, es wäre so ein bisschen dieses Agile, dass jemand agil einführt, aber gar nicht.
+
+00:49:44.080 --> 00:49:48.080
+Nein, es geht nicht darum, agil einzuführen, sondern die Arbeit in einem,
+
+00:49:48.080 --> 00:49:51.430
+also wie Arbeit in einem agilen Umfeld interpretiert wird.
+
+00:49:51.430 --> 00:49:57.210
+Es gibt halt, ja genau, es gibt halt zum einen die Vorstellung, dass Agilität bedeutet,
+
+00:49:57.210 --> 00:50:01.120
+ich mache alles komplett iterativ, ohne einen Plan vorher zu haben.
+
+00:50:01.120 --> 00:50:06.130
+Und es gibt dann halt, und das habe ich persönlich so nie erlebt,
+
+00:50:06.130 --> 00:50:10.780
+aber wenn du die Diskussionen verfolgst, die dazu im Internet gibt,
+
+00:50:10.780 --> 00:50:14.870
+dann gibt es viele Leute, die das genauso erlebt haben, wo dann einfach wirklich
+
+00:50:14.870 --> 00:50:17.930
+am Anfang nicht der Plan gemacht wurde, okay, wo will ich denn jetzt damit hin?
+
+00:50:17.930 --> 00:50:21.030
+Was soll die Architektur meiner Software sein, dann einfach angefangen wurde?
+
+00:50:21.030 --> 00:50:26.130
+Und das kann ich mir sehr, sehr, also das ist natürlich auch keine Situation,
+
+00:50:26.130 --> 00:50:33.340
+in der es dann am Ende Spaß macht zu arbeiten oder wo du am Ende was Sinnvolles dabei rauskommst wahrscheinlich.
+
+00:50:33.340 --> 00:50:40.580
+Und dann dadurch entsteht dann halt viel Ablehnung, weil du dann Beispiele liest von Software,
+
+00:50:40.580 --> 00:50:44.510
+die entwickelt wurde, wo es dann am Ende einfach wirklich schwierig war,
+
+00:50:44.510 --> 00:50:49.730
+also sehr, sehr schwer war einfach weiterzukommen und diese Software weiter zu gestalten,
+
+00:50:49.730 --> 00:50:54.310
+neue Features hinzufügen, weil sich am Ende nicht mal kurz darüber Gedanken gemacht wurde,
+
+00:50:54.310 --> 00:50:58.460
+wo soll das Ganze hingehen? Und dann kann ich diese Ablehnung auch sehr gut verstehen.
+
+00:50:58.460 --> 00:51:02.790
+Aber das ist am Ende nicht das, was agiles Arbeiten bedeutet.
+
+00:51:02.790 --> 00:51:06.790
+Aber wenn die Leute natürlich unter dem Monika von Scrum das genauso erleben,
+
+00:51:06.790 --> 00:51:10.560
+dann kann ich diese Ablehnung halt auch wieder sehr gut verstehen.
+
+00:51:10.560 --> 00:51:14.920
+Das heißt, dass dann irgendwelche Leute kommen und irgendwas sagen, das ist agil,
+
+00:51:14.920 --> 00:51:16.920
+obwohl es für die Softwareentwickler vielleicht gar nicht agil ist.
+
+00:51:16.920 --> 00:51:21.460
+Ja, genau. Aber sie, dass das Einzige ist, was sie jemals als agil erlebt haben.
+
+00:51:21.460 --> 00:51:24.920
+Und dann ist die Ablehnung halt auch verständlich.
+
+00:51:24.920 --> 00:51:27.670
+Und das kommt vielleicht ein bisschen auch von diesem Hype,
+
+00:51:27.670 --> 00:51:30.670
+dass dann viele da drauf springen, aber das ist vielleicht gar nicht so...
+
+00:51:30.670 --> 00:51:34.080
+Ja, genau. Das kommt mit Sicherheit auch viel von dem Hype.
+
+00:51:34.080 --> 00:51:41.150
+Und darüber, dass du dann agile Coaches hast, die vielleicht dann doch nicht so agile Coaches sind,
+
+00:51:41.150 --> 00:51:47.490
+wie sie dann letztendlich auf dem Papier klangen und es viel mehr um Methoden gibt
+
+00:51:47.490 --> 00:51:50.490
+und um Frameworks, die dann eingeführt werden müssen und weniger darum,
+
+00:51:50.490 --> 00:51:52.550
+was am Ende gebaut werden muss.
+
+00:51:52.550 --> 00:51:55.550
+Also eigentlich ist es ja genau das Gegenteil von dem, was du machen möchtest.
+
+00:51:55.550 --> 00:52:01.370
+Du möchtest die Leute dazu enablen oder befähigen,
+
+00:52:01.370 --> 00:52:05.260
+ihre Arbeit selbst organisiert zu machen.
+
+00:52:05.260 --> 00:52:08.350
+Dann kommst du aber als Coach rein und sagst den Leuten,
+
+00:52:08.350 --> 00:52:12.730
+hey, ihr sollt jetzt dieses und jenes Framework und Tool und Workshop benutzen
+
+00:52:12.730 --> 00:52:14.730
+und nur dann arbeitet ihr agil.
+
+00:52:14.730 --> 00:52:17.790
+Weil die Beispiele gibt es halt auch.
+
+00:52:17.790 --> 00:52:22.750
+Ich möchte nicht sagen, ich denke, die meisten Coaches machen genau das nicht,
+
+00:52:22.750 --> 00:52:26.260
+aber es gibt halt auf der anderen Seite viele Leute, die genau das erlebt haben
+
+00:52:26.260 --> 00:52:29.260
+und wenn du solche negativen Erfahrungen damit machst,
+
+00:52:29.260 --> 00:52:32.280
+dann färbt das den Begriff agiles Arbeiten sich halt auch negativ für dich.
+
+00:52:32.280 --> 00:52:35.850
+Und auf der anderen Seite ist dieser Hype natürlich auch gut,
+
+00:52:35.850 --> 00:52:39.010
+dass diese Art zu arbeiten natürlich dann bekannter wird.
+
+00:52:39.010 --> 00:52:41.950
+Jetzt will das jeder machen, dass irgendwie auch so ein bisschen
+
+00:52:41.950 --> 00:52:44.390
+die Unternehmen sich damit beschäftigen.
+
+00:52:44.390 --> 00:52:49.030
+Genau, aber das führt natürlich auch dazu, dass du Menschen hast,
+
+00:52:49.030 --> 00:52:54.890
+die genau das ausnutzen und vielleicht dann eben nicht das Mindset mitbringen,
+
+00:52:54.890 --> 00:52:58.750
+sondern einfach mit auf den Hype-Train aufsteigen.
+
+00:52:58.750 --> 00:53:01.230
+Ja, ich hatte auch einer, der hatte mal gesagt,
+
+00:53:01.230 --> 00:53:05.360
+er hatte in irgendeinem Workshop zu Scrum,
+
+00:53:05.360 --> 00:53:07.610
+hat irgendwie eine Person kennengelernt,
+
+00:53:07.610 --> 00:53:11.920
+die dann das gerade gelernt hat, dieses Framework und diese Arbeitsweise
+
+00:53:11.920 --> 00:53:16.010
+und sich drei Monate später dann als Agile-Coach genannt hat.
+
+00:53:16.010 --> 00:53:20.040
+Und er war so ein bisschen, okay, die Person hat noch keine Erfahrung
+
+00:53:20.040 --> 00:53:24.040
+und fand es ein bisschen komisch, dass sie sich dann Agile-Coach nennt.
+
+00:53:24.040 --> 00:53:28.260
+Ich meine, aber rein theoretisch, wenn sie dieses Verständnis
+
+00:53:28.260 --> 00:53:32.260
+in diesen drei Monaten erlangt hat, dann ist das doch eigentlich auch egal.
+
+00:53:32.260 --> 00:53:38.660
+Oder meinst du, brauchst du mehr Erfahrung, damit du das dann als Agile-Coach vielleicht da…
+
+00:53:38.660 --> 00:53:42.660
+Das ist eine schwierige Frage, wie viel Erfahrung man letztendlich braucht.
+
+00:53:42.660 --> 00:53:45.110
+Ich glaube, ich weiß natürlich nicht, was hat die Person vorher gemacht,
+
+00:53:45.110 --> 00:53:47.110
+bevor sie Scrum Master war.
+
+00:53:47.110 --> 00:53:49.110
+Vielleicht hat sie schon im magilen Umfeld gearbeitet.
+
+00:53:49.110 --> 00:53:51.110
+Vielleicht bringt sie das richtige Mindset bei.
+
+00:53:51.110 --> 00:53:53.110
+Vielleicht kennt sie die richtigen Tools, um den Teams zu helfen.
+
+00:53:53.110 --> 00:53:56.110
+Vielleicht hat sie auch Coaching in einem anderen Kontext gemacht.
+
+00:53:56.110 --> 00:53:58.070
+Ist halt schwer zu sagen.
+
+00:53:58.070 --> 00:54:04.890
+Ich sehe das aber auch, dass sich Leute nach kurzen Schulungen
+
+00:54:04.890 --> 00:54:07.890
+oder dann ein Scrum-Training gemacht haben und sich sofort Agile-Coach nennen,
+
+00:54:07.890 --> 00:54:09.890
+dieses Mindset halt nicht haben.
+
+00:54:09.890 --> 00:54:11.840
+Das sieht man leider auch viel zu oft.
+
+00:54:11.840 --> 00:54:14.200
+Ist dann schwierig.
+
+00:54:14.200 --> 00:54:18.530
+Ja, kommen wir auch langsam schon zum Ende.
+
+00:54:18.530 --> 00:54:21.500
+Wir haben jetzt auch lange darüber geredet.
+
+00:54:21.500 --> 00:54:29.830
+Ja, hast du vielleicht noch irgendwie so letzte Worte für vielleicht Unternehmen zu Magil
+
+00:54:29.830 --> 00:54:32.950
+oder wurde eigentlich schon alles jetzt gesagt?
+
+00:54:32.950 --> 00:54:37.150
+Das meiste haben wir gesagt.
+
+00:54:37.150 --> 00:54:42.300
+Ich glaube, der wichtige Punkt am Ende ist, schaut euch nicht Frameworks an.
+
+00:54:42.300 --> 00:54:46.340
+Schaut euch an, welche Werte ihr in eurem Unternehmen haben wollt.
+
+00:54:46.340 --> 00:54:53.990
+Möchtet ihr Teams haben, die selbst organisiert arbeiten, die ihr befähigen wollt,
+
+00:54:53.990 --> 00:54:56.990
+selbst Entscheidungen zu treffen, um dann vielleicht am Ende auch bessere Entscheidungen zu treffen
+
+00:54:56.990 --> 00:54:58.990
+und effektiver zu arbeiten.
+
+00:54:58.990 --> 00:55:03.560
+Das ist die Grundlage von agilem Arbeiten.
+
+00:55:03.560 --> 00:55:08.750
+Und ich glaube, das ist auch die Grundlage, um in dieser VUCA-Welt am Ende zu überleben.
+
+00:55:08.750 --> 00:55:13.750
+Ja, dann vielen Dank auch für die tiefen Einblicke in agiles Arbeiten.
+
+00:55:13.750 --> 00:55:16.750
+Ich glaube, da haben wir ein ganz gutes Verständnis jetzt zu mir.
+
+00:55:16.750 --> 00:55:17.660
+Ich habe mich auch noch mal.

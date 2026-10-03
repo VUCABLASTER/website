@@ -1,0 +1,2092 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #35: #35 Holokratie mit Susanne E. Kopp
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:36.610
+Willkommen zu unserer heutigen Folge der Wollrhein-Ruhr-Community. Stellvertretend ist heute hier Tamara und ich werde euch hier durch die Folge begleiten zu einem ganz, ganz spannenden Thema, dem Thema Holacracy, Holokratie. Manuel, der häufig euer Gastgeber ist, ist leider ausgerechnet heute krank geworden.
+
+00:00:36.610 --> 00:00:49.850
+Also insofern sind wir heute, habt ihr es heute mit mir, Tamara Wyczynski, zu tun und mit unserem Gast Susanne Kopp. Ganz herzlich willkommen, Susanne.
+
+00:00:49.850 --> 00:00:53.830
+Dankeschön. Vielen Dank, dass ich da sein darf. Freue mich.
+
+00:00:53.830 --> 00:01:07.010
+Ja, ich freue mich auch sehr auf unser Gespräch und ja, möchte dich mal kurz bitten, dass du dich kurz unseren HörerInnen einmal vorstellst.
+
+00:01:07.010 --> 00:01:38.200
+Gerne. Ja, Susanne und ich bin hier aus Stuttgart. Immer wieder auch mal ein bisschen in der, ja, früher Welt, jetzt eher so in Deutschland unterwegs und arbeite bei einem Unternehmen, in dem Fall gehören wir mittlerweile zur Mercedes-Benz und da hatte ich eben auch Berührpunkte in der Vergangenheit schon mit der Holokratie und genau. Und da davor, was habe ich da davor gemacht?
+
+00:01:38.200 --> 00:02:07.610
+Wir haben in verschiedenen Bereichen gearbeitet vom Projektmanagement und dann eben bedingt auch durch das holokratische Setup auch gleich wieder andere Rollen noch mitgehabt, unter anderem eben die Organisationsentwicklung in dem Fall, weil als wir gestartet sind, waren wir zehn Leute und heute sind wir ein paar mehr, ein paar hundert und diesen Wandlungsprozess, Aufbauprozess und das eben von Anfang an in der Holokratie zu machen, nachdem das Netzwerk quasi einfach zu unübersichtlich wurde,
+
+00:02:07.610 --> 00:02:37.960
+Programstruktur, dann haben wir gesagt, wir machen es anders. Das war auch so ein bisschen der, oder das war der Auftrag. Genau, so bin ich so ein bisschen zur Holokratie gekommen, das war auch gar nicht geplant. Und dann war ich eben in der Organisationsentwicklung und im Projektmanagement, Programmmanagement, dann Scrum Masterin für Produktteams in unterschiedlichen Bereichen. Bis hin heute arbeite ich teilweise auch noch als Scrum Masterin, aber dann, man würde jetzt vielleicht sagen, Agile HR, das machen wir.
+
+00:02:37.960 --> 00:03:07.620
+Das Team, in das ich jetzt ganz neu vor zwei Monaten gekommen bin, also bei mir ist auch gerade wieder Wandlung, so wie es stetig Wandlung war in den letzten sechs, sieben Jahren, im Gegensatz zu zuvor, wo ich mit einem klassischen Unternehmen, mit einer klassischen Aufbauorganisation war und da davor noch mal Unternehmen mit einer sehr patriarchischen Struktur sogar, also ganz unterschiedliche Bereiche kennengelernt. Genau, und jetzt im Bereich Employee Experience mit dem Fokus, den ich mir jetzt ganz neu
+
+00:03:07.620 --> 00:03:21.280
+berufen durfte, auch mit viel Selbstorganisation, viel selber nachdenken und Engagement, Inklusion oder inklusive Arbeitsplatz und das ist für mich sehr, sehr weit gefasst und da nähere ich mich selber sogar noch an.
+
+00:03:21.280 --> 00:03:37.570
+Ja, vielen Dank, das finde ich ja schon total spannend. Also du hast in deinen Berufserfahrungen deckst du auch tatsächlich ganz andere Unternehmenskontexte ab, also eher auch klassisch, hierarchisch habe ich verstanden und bist jetzt etwa
+
+00:03:37.570 --> 00:03:44.950
+seit sechs, sieben Jahren in dieser Holo-Kratie-Organisation, ja Zusammenarbeit.
+
+00:03:44.950 --> 00:04:08.230
+Ja, also ich war, ich bin seit 2016 in dem Unternehmen jetzt und als wir gestartet sind, noch als sehr kleines Unternehmen, ich war glaube ich Nummer 10 oder so ist meine Personalnummer oder Nummer 12 und wie gesagt jetzt immer so 500 oder jetzt auch noch mehr, da ist
+
+00:04:08.230 --> 00:04:17.460
+natürlich sehr, sehr viel passiert und da davor war ich in einem ganz klassisch pyramidial strukturierten Unternehmen und da davor auch.
+
+00:04:17.460 --> 00:04:28.940
+Ja. Also ich kenne unterschiedliche auch, ja Arbeitsweisen, sowohl in der operativen Arbeit, also sei es jetzt, wenn man jetzt Projektmanagement betrachtet oder auch in der klassischen Abteilung.
+
+00:04:28.940 --> 00:04:38.440
+Jetzt gehen wir wieder auf Abteilung, auch bei uns im Unternehmen, das heißt wir sind jetzt eher so ein Schritt Holokratie, da das jetzt in eine
+
+00:04:38.440 --> 00:04:47.430
+Sprache Hierarchie zu überführen. Das ist auch ein super spannender Prozess. Was passiert denn da? Wie viel von dem Holokratischen bleibt, von diesen Prinzipien?
+
+00:04:47.430 --> 00:04:56.730
+Woran liegt das? Wer bringt es mit? Und da ist so mein, vielleicht ist es als vorab schon Fazit, das ist die überall, das ist der Mensch.
+
+00:04:56.730 --> 00:05:08.050
+Also und deshalb finde ich es auch so schön und spannend jetzt weiterhin auch in diesem Bereich, wo der Mensch ja sogar vom Namen her, also People Culture, da ist ja der Mensch im Fokus, in dem Bereich zu arbeiten.
+
+00:05:08.050 --> 00:05:14.690
+Auch in den Produkten hat man ja sehr viel mit Menschen zu tun, aber da steht es ja sogar noch im Namen drin.
+
+00:05:14.690 --> 00:05:33.220
+Okay, also ich habe schon, ja jetzt schon tausend Fragen aus der kurzen Intro. Bevor wir tiefer einsteigen, glaube ich, ist es für unsere HörerInnen extrem hilfreich, einmal diesen Begriff Holokratie, Holacracy, ja mal zu verstehen, was bedeutet das?
+
+00:05:33.220 --> 00:05:47.220
+Also ich glaube, ich habe so 2019 das erste Mal davon gehört und ja, habe den Eindruck oder meine Wahrnehmung ist, dass es nach wie vor nicht so super verbreitet ist.
+
+00:05:47.220 --> 00:06:01.250
+Aber vielleicht kannst du uns mal so eine kurze Definition geben, was du jetzt darunter verstehst und was es für unsere HörerInnen ja einfacher macht, uns auch im weiteren Gespräch zu folgen
+
+00:06:01.250 --> 00:06:08.660
+und vielleicht sogar auch, ja, wie verbreitet ist der Ansatz bisher? Seit wann gibt es das überhaupt?
+
+00:06:08.660 --> 00:06:10.880
+Es waren jetzt viele Fragen.
+
+00:06:10.880 --> 00:06:21.360
+Ja, die Holokratie, so wie mein Verständnis ist, die ist gar nicht mal so neu, glaube ich, weil sie aus der Soziokratie also ganz viele Elemente mitbringt
+
+00:06:21.360 --> 00:06:29.360
+oder auch so das Thema, ich habe kollegiale Führung, als ich dieses Buch gelesen habe, habe ich sehr, sehr viel, da ist Holokratie auch integriert.
+
+00:06:29.360 --> 00:06:34.360
+Aber da ist sehr viel von der Soziokratie auch besprochen werden und das gibt es schon sehr, sehr lange.
+
+00:06:34.360 --> 00:06:41.610
+Ich glaube, der Ursprung, ich hoffe, ich liege nicht falsch, ist in Holland schon über 100 Jahre alt.
+
+00:06:41.610 --> 00:06:49.470
+Und Holokratie ist es einfach, ja, ich möchte mal salopp sagen, auf ein Business Model umgesetzt.
+
+00:06:49.470 --> 00:06:54.760
+Der Kern von der Holokratie ist, und das ist mir persönlich immer ganz wichtig, das ist auch eine Hierarchie.
+
+00:06:54.760 --> 00:06:59.900
+Das ist allerdings nicht eine Hierarchie basierend auf Menschen, sondern eine Hierarchie basierend auf Purpose.
+
+00:06:59.900 --> 00:07:04.900
+Also, warum gründe ich? Das ist so meine erste Frage ja als Unternehmer oder Unternehmerin.
+
+00:07:04.900 --> 00:07:10.860
+Und das ist ja im Sinn. Ich habe eine tolle Idee. Ich bin überzeugt von etwas. Mich treibt etwas an.
+
+00:07:10.860 --> 00:07:17.270
+Also mein Why. Damit lege ich los. Und damit habe ich schon Unternehmens-Purpose. Und an dem richtet sich alles aus.
+
+00:07:17.270 --> 00:07:23.360
+Und am Anfang, also nur noch ein Beispiel, da waren wir zehn Leute, da richtet sich eben jede Rolle, die darunter ist.
+
+00:07:23.360 --> 00:07:30.360
+Also man hat verschiedene Verantwortlichkeiten. Richtet sich ja immer wieder da ein Purpose aus, dass ich den möglichst gut, ich sage immer, fütter.
+
+00:07:30.360 --> 00:07:40.740
+Also so, dann wächst er ja auch. Und wenn es irgendwann zu kompliziert wird, dann macht man also, wenn die Rolle nicht mehr ganz klar und transparent ist, fängt man an aufzusplitten.
+
+00:07:40.740 --> 00:07:48.730
+Und da denkt man sehr genau darüber nach, um mehr Klarheit zu schaffen, brauche ich aber so einen administrativen Grundstock.
+
+00:07:48.730 --> 00:07:56.720
+Da brauche ich dann so Grundrollen. Die nennt man in der Holokratie Kernrollen. Ich benutze jetzt die englischen Wörter, weil ich finde, die Übersetzung ist da schwierig.
+
+00:07:56.720 --> 00:08:07.940
+Der Facilitator, also es ist mehr als ein Moderator, Moderatorin, Secretary. Auch da wird mehr als nur dokumentiert, sondern da geht es auch darum, im Zweifelsfall zu interpretieren,
+
+00:08:07.940 --> 00:08:16.200
+wie sind denn Governance-Entscheidungen, also wenn man strukturell arbeitet, an Rollen arbeitet und an Kreisen arbeitet, zu lesen.
+
+00:08:16.200 --> 00:08:24.200
+Und dann gibt es den sogenannten oder die sogenannte Wrap-Link. Das ist eine Eskalation aus dem Kreis heraus.
+
+00:08:24.200 --> 00:08:33.660
+Also der Kreis ist quasi eine Rolle, die zu groß geworden ist und dann macht man einen Kreis drumherum und verteilt die Rollen mit ihren Verantwortlichkeiten drunter.
+
+00:08:33.660 --> 00:08:46.100
+Genau, so ist dann, hat man eben einen Kreis gebaut und der Kreis ist wiederum integriert immer im Global Company Circle, also der sogenannte GCC, General Company Circle.
+
+00:08:46.100 --> 00:08:53.600
+Das ist der GCC. Und das ist da, wo mein Unternehmenszweck, also der Unternehmens-Purpose hängt.
+
+00:08:53.600 --> 00:08:57.690
+Und alles richtet sich danach aus. Also da ist diese Hierarchie schon erkennbar.
+
+00:08:57.690 --> 00:09:02.690
+Weil wenn ich etwas in meinem Kreis nicht mehr klären kann, eskaliere ich es aus meinem Kreis heraus.
+
+00:09:02.690 --> 00:09:05.810
+Und Eskalation ist gar nichts Schlimmes, sondern es ist einfach, ich kann es nicht klären.
+
+00:09:05.810 --> 00:09:13.820
+Also gehe ich auf die höhere Stufe und das Höhe ist auch nicht mehr höherwertig, sondern da kann die Klärung erfolgen.
+
+00:09:13.820 --> 00:09:21.100
+Das heißt, der wesentliche Unterschied zu einer klassischen Pyramide, der Mensch hat eine Rolle,
+
+00:09:21.100 --> 00:09:28.510
+hat vielleicht sogar mehrere Rollen in unterschiedlichen Kreisen und die Macht ist quasi am Purpose ausgerichtet.
+
+00:09:28.510 --> 00:09:33.510
+Und weniger die Macht, an wie viele Personen sind für mich zuständig und arbeiten in meinem Bereich.
+
+00:09:33.510 --> 00:09:36.670
+Das finde ich ein ganz wesentlicher Unterschied dort.
+
+00:09:36.670 --> 00:09:42.830
+Deshalb tue ich mir vielleicht als Führungskraft auch viel leichter, die Entscheidungskompetenz dahin abzugeben.
+
+00:09:42.830 --> 00:09:48.270
+Aber jetzt kommen wir schon sehr in die Details, was auch Führung angeht.
+
+00:09:48.270 --> 00:09:51.270
+Genau, wo dann tatsächlich Entscheidungen auch getroffen werden sollten.
+
+00:09:51.270 --> 00:09:54.490
+Also da, wo gearbeitet wird. So mal ein Stück raus zu zoomen.
+
+00:09:54.490 --> 00:09:59.520
+Also holokratiebasierend, da gibt es den GCC, General Company Circle.
+
+00:09:59.520 --> 00:10:03.520
+Da ist mein Unternehmenszweck dran. Und darunter habe ich eben Rollen.
+
+00:10:03.520 --> 00:10:06.520
+Und wenn Rollen nicht mehr ausreichen, dann mache ich Kreise.
+
+00:10:06.520 --> 00:10:10.490
+Die sind quasi, die Rollen sind integriert in diesen Kreisen.
+
+00:10:10.490 --> 00:10:13.810
+Und auch da, Rolle richtet sich wiederum am Purpose aus.
+
+00:10:13.810 --> 00:10:17.050
+Das ist wie eine mathematische Ableitung von oben nach unten.
+
+00:10:17.050 --> 00:10:21.070
+Es gibt Kernrollen. Das ist der Facilitator, die Secretary und der Red Link.
+
+00:10:21.070 --> 00:10:24.190
+Und dann gibt es noch den Lead Link oder die Lead Link.
+
+00:10:24.190 --> 00:10:31.500
+Das ist quasi derjenige, der prüft oder die prüft, was gehört denn zu meinem Kreis.
+
+00:10:31.500 --> 00:10:37.500
+Also macht auch das Assignment oder das Zuordnen von Menschen zu Rollen.
+
+00:10:37.500 --> 00:10:41.500
+Weil dieser Lead Link möchte, dass der Purpose des Kreises maximiert wird.
+
+00:10:41.500 --> 00:10:45.650
+Das heißt, ich suche mir schon Menschen, wo ich glaube, hey, die können die Verantwortlichkeiten
+
+00:10:45.650 --> 00:10:49.680
+oder die können das, was ich brauche, auch wirklich erfüllen.
+
+00:10:49.680 --> 00:10:53.260
+Und ich kann demjenigen die Rolle aber auch wieder wegnehmen, wenn es sein muss.
+
+00:10:53.260 --> 00:11:02.400
+Okay, das finde ich jetzt ganz spannend, weil für mich war Holacracy sehr eng verknüpft mit dem Thema Selbstorganisation.
+
+00:11:02.400 --> 00:11:06.400
+Also das war so mein Laienverständnis.
+
+00:11:06.400 --> 00:11:13.400
+Und jetzt sagtest du vom Prinzip, es gibt auch da in diesem Ansatz Hierarchie ausgerichtet am Purpose.
+
+00:11:13.400 --> 00:11:21.590
+Ich habe jetzt verstanden, es gibt sogar Führungskräfte, die allerdings über den Purpose definiert sind.
+
+00:11:21.590 --> 00:11:22.590
+Habe ich das richtig verstanden?
+
+00:11:22.590 --> 00:11:30.610
+Ja, das ist alles richtig und es ist für mich dennoch immer noch ein ganz, ganz großes Maß an Selbstorganisation notwendig,
+
+00:11:30.610 --> 00:11:38.730
+weil eben nicht die Führungskraft per disziplinarische Führung, sondern die Führungskraft ist sehr kontextuell.
+
+00:11:38.730 --> 00:11:46.270
+Das kann sein, ich bin Lead Link eines Kreises, habe die Verantwortlichkeit, dass mein Purpose des Kreises maximiert wird
+
+00:11:46.270 --> 00:11:53.290
+und im anderen Kreis bin ich dann eine operative Kraft, die an einem bestimmten Themengebiet arbeitet.
+
+00:11:53.290 --> 00:11:59.510
+Ich darf aber die Entscheidungen genau dafür treffen auf meiner operativen Ebene, weil ich die Rolle dafür habe.
+
+00:11:59.510 --> 00:12:04.450
+Also dieses Führen ist viel, ich würde mal sagen, wertfreier.
+
+00:12:04.450 --> 00:12:13.230
+Da ist nicht irgendein Status dran gekoppelt, sondern je nachdem, wenn ich richtig gut bin in diesem Bereich,
+
+00:12:13.230 --> 00:12:18.230
+dann habe ich eben erstmal die fachliche Führung von diesem Kreis, weil ich ja den Purpose dann maximieren kann.
+
+00:12:18.230 --> 00:12:23.230
+Natürlich ist es auch super, wenn ich dann selber noch führen kann und wenn ich mich selbst vor allem,
+
+00:12:23.230 --> 00:12:28.450
+selbst organisiert heißt immer von mir selbst persönlich erstmal ausgehend, wenn ich weiß, was ich will,
+
+00:12:28.450 --> 00:12:35.600
+dann kann ich ja auch meine Führungskompetenzen entsprechend sowohl fachlich als auch persönlich viel besser einsetzen.
+
+00:12:35.600 --> 00:12:43.430
+Genau, also es ist schon, die Selbstorganisation ist ein Grundbedürfnis, weil, das ist auch noch ganz wichtig,
+
+00:12:43.430 --> 00:12:48.560
+das Thema an der Organisation arbeiten, das heißt, das passiert im sogenannten Governance Meeting,
+
+00:12:48.560 --> 00:12:55.000
+also das ist die organisatorische Arbeit, die muss immer mitgemacht werden, die macht niemand für mich.
+
+00:12:55.000 --> 00:13:01.980
+Es sei denn, ich mache sie für meine Rolle, für meinen Kreis, in dem ich bin, für mein Gesamtunternehmen.
+
+00:13:01.980 --> 00:13:06.170
+Das heißt, es ist eine sehr unternehmerische Denkweise notwendig, weil es ist auch so,
+
+00:13:06.170 --> 00:13:11.130
+wenn meine Rolle vielleicht mal nicht mehr gebraucht wird, bin ich selbst dafür zuständig, sie auch wieder zu eliminieren.
+
+00:13:11.130 --> 00:13:22.100
+Okay, bevor wir tiefer noch einsteigen, würde ich noch mal kurz auf diese Kreise zurückkommen,
+
+00:13:22.100 --> 00:13:27.100
+weil das ist mir noch nicht ganz klar geworden. Ich hatte, muss ich zugeben, vorher mal ganz kurz
+
+00:13:27.100 --> 00:13:34.130
+auch ein bisschen gelesen, was ist Holokratie und nur, dass wir jetzt das gleiche Verständnis haben.
+
+00:13:34.130 --> 00:13:42.440
+Ich hatte jetzt verstanden, dass quasi gleiche Rollen oder ähnliche Rollen,
+
+00:13:42.440 --> 00:13:49.410
+vielleicht kann man das auch in Fachabteilungen mal festmachen, Marketing, in einem Kreis organisiert sind
+
+00:13:49.410 --> 00:13:55.380
+und wenn es da fachlich irgendwie nochmal eine Unterscheidung gibt, sei es jetzt Social Media
+
+00:13:55.380 --> 00:14:02.750
+und ein anderer Aspekt von Marketing, dann wird es wieder getrennt oder habe ich das jetzt?
+
+00:14:02.750 --> 00:14:09.350
+Also ich finde es gerade nicht ganz so leicht, muss ich sagen, da reinzukommen.
+
+00:14:09.350 --> 00:14:12.440
+Es fällt mir auch sehr schwierig, es ohne ein Bild zu erklären.
+
+00:14:12.440 --> 00:14:17.440
+Vielleicht einfach mal, wenn du dir jetzt so grafisch vorstellst, wir malen jetzt mal einen Kreis an die Wand
+
+00:14:17.440 --> 00:14:20.440
+und das ist das Unternehmen. Das Unternehmen hat einen Zweck.
+
+00:14:20.440 --> 00:14:26.820
+Und auch als wir damals gestartet sind, sind wir gestartet, wir hatten Managing Directors
+
+00:14:26.820 --> 00:14:31.820
+und wir hatten jemand, der hat sich um den Bereich alles, was im weitesten Sinne mit Personal zu tun hat,
+
+00:14:31.820 --> 00:14:38.000
+das war dann ein Mensch mit einer Rolle und daraus hat sich irgendwann dann auch mal ein Kreis ergeben.
+
+00:14:38.000 --> 00:14:41.020
+Genau das Gleiche mit der IT als Beispiel.
+
+00:14:41.020 --> 00:14:46.020
+Wir hatten jemand, der hat sich darum gekümmert, dass unsere Systeme laufen, dass wir Rechner haben und so weiter.
+
+00:14:46.020 --> 00:14:51.020
+Sowohl Hardware als auch die Software betreut, die wir hatten.
+
+00:14:51.020 --> 00:14:57.050
+Und dann, wenn wir bei der IT bleiben, dann haben wir jetzt den GCC, also einmal das Unternehmen
+
+00:14:57.050 --> 00:15:01.260
+und da haben wir IT und Personal und MDs.
+
+00:15:01.260 --> 00:15:08.260
+Und jetzt in der IT brauchen wir dann vielleicht nochmal einen Systemadministrator oder Systemadministratorin
+
+00:15:08.260 --> 00:15:13.180
+und dann haben wir noch jemanden, kümmert sich hauptsächlich um den Einkauf der IT.
+
+00:15:13.180 --> 00:15:18.580
+Gut, das kann jetzt eine Person sein, die diese zwei Rollen bekleidet.
+
+00:15:18.580 --> 00:15:23.770
+Einmal Einkauf und die andere Rolle wäre die Betreuung der Software.
+
+00:15:23.770 --> 00:15:32.490
+Und diese Rollen haben Verantwortlichkeiten und die sind dafür da, damit wir eine gute IT-Infrastruktur haben.
+
+00:15:32.490 --> 00:15:36.930
+Es ist aber jetzt erstmal egal, wer das macht, also welcher Mensch an sich.
+
+00:15:36.930 --> 00:15:41.930
+Es ist eigentlich ziemlich menschenunfreundlich, wenn man das System anguckt, weil es ja eigentlich erstmal wurscht ist.
+
+00:15:41.930 --> 00:15:46.970
+Es geht nur darum, dass die Rollen da sind und dass da geleistet wird.
+
+00:15:46.970 --> 00:15:52.560
+Und dann guckt eben der Lead Link, das ist der, der eben den Kreiszweck verantwortet,
+
+00:15:52.560 --> 00:15:56.780
+diesen Purpose maximieren möchte, dass er die passenden Menschen dazu findet.
+
+00:15:56.780 --> 00:16:00.780
+Und im Zweifelsfall, wenn er niemanden findet, dann ist er oder sie das immer selbst.
+
+00:16:00.780 --> 00:16:05.840
+Also der Lead Link füllt alle Rollen in dem Kreis drin, also Einkäuferin oder Einkäufer
+
+00:16:05.840 --> 00:16:09.940
+und die Softwarebetreuungsrolle, wenn niemand anders da ist.
+
+00:16:09.940 --> 00:16:14.390
+Und ich splitte es aber auf, dass ich von außen mehr Klarheit habe, dass ich weiß,
+
+00:16:14.390 --> 00:16:19.450
+okay, diese zwei Themenbereiche sind abgedeckt mit diesen Verantwortlichkeiten.
+
+00:16:19.450 --> 00:16:23.450
+Und dann mache ich eben diese sogenannten Accountabilities, die klären noch mehr,
+
+00:16:23.450 --> 00:16:27.980
+wofür diese Rolle steht, um diesen Purpose zu erreichen.
+
+00:16:27.980 --> 00:16:30.120
+Jetzt ist es ein bisschen klarer.
+
+00:16:30.120 --> 00:16:41.190
+Ja, und für mich ergibt sich daraus direkt die Frage auch so an die Anforderungen der Mitarbeiter,
+
+00:16:41.190 --> 00:16:50.320
+was das Thema Fähigkeiten angeht. Also es ist ja wirklich anders organisiert.
+
+00:16:50.320 --> 00:16:57.320
+Es ist eine oder höhere Verantwortung, höre ich jetzt raus, in den Kreisen auch vorhanden schon.
+
+00:16:57.320 --> 00:17:10.660
+Dann eine Selbstorganisation in den Kreisen. Was ist so deine Erfahrung, was für Kernfähigkeiten
+
+00:17:10.660 --> 00:17:16.900
+es von den Mitarbeitern erfordert, um hier wirklich toll, gut arbeiten zu können
+
+00:17:16.900 --> 00:17:22.770
+und den Purpose immer wieder maximieren zu können?
+
+00:17:22.770 --> 00:17:27.100
+Übergreifend würde ich sagen, es ist eine unternehmerische Denkweise.
+
+00:17:27.100 --> 00:17:31.100
+Das fasst es für mich ganz gut zusammen und zwar unternehmerisch in dem Sinne,
+
+00:17:31.100 --> 00:17:35.160
+ich arbeite immer, um am Ende des Tages muss ich meine Brötchen verdienen,
+
+00:17:35.160 --> 00:17:38.160
+aber ich möchte mich selber ja auch weiterentwickeln.
+
+00:17:38.160 --> 00:17:41.160
+Ein Unternehmer oder Unternehmerin möchte sich selbst ja auch verwirklichen,
+
+00:17:41.160 --> 00:17:47.700
+sonst starte ich nicht. Dafür brauche ich bestimmte Dinge, um die kümmere ich mich auch.
+
+00:17:47.700 --> 00:17:50.700
+Und wenn die noch nicht da sind, also wenn ich jetzt in der IT beispielsweise feststelle,
+
+00:17:50.700 --> 00:17:55.280
+ach Mensch, ich muss mich um das Thema Compliance kümmern, ja dann mache ich das.
+
+00:17:55.280 --> 00:17:58.280
+Und dann gucke ich natürlich auch, dass es irgendwo festgeschrieben ist,
+
+00:17:58.280 --> 00:18:02.280
+aber erst mal tue ich das. Das heißt, ich mache taktische Arbeit erst mal.
+
+00:18:02.280 --> 00:18:07.650
+Ich kümmere mich. Und wenn ich es sehe, dass dieses Thema eben nicht bearbeitet ist,
+
+00:18:07.650 --> 00:18:10.710
+dann ist es erst mal wurscht, ob ich dafür eine Stellenbeschreibung habe oder nicht,
+
+00:18:10.710 --> 00:18:15.930
+sondern ich tue es. Und ich glaube, genau den Blick dafür zu haben, was ist denn notwendig?
+
+00:18:15.930 --> 00:18:20.890
+Also welche Themen sind denn da in unserem Kreis oder in unserem Team letztlich?
+
+00:18:20.890 --> 00:18:23.890
+Weil wir ja alles Menschen sind, die zusammenarbeiten.
+
+00:18:23.890 --> 00:18:28.110
+Diesen Blick, diese Neugier dann auch zu sagen, okay, das kann ich zwar noch nicht,
+
+00:18:28.110 --> 00:18:32.080
+aber ich gucke es mir mal an, entweder ich lerne es oder ich finde jemanden,
+
+00:18:32.080 --> 00:18:36.110
+der vielleicht in mein Team passt. Und das kann der Lead Link sein oder die Lead Link,
+
+00:18:36.110 --> 00:18:39.110
+kann aber auch jemand aus dem Team sein, der dann sagt, hey, wie wärs denn?
+
+00:18:39.110 --> 00:18:42.110
+Ich weiß, du kannst es, kannst du uns dabei helfen?
+
+00:18:42.110 --> 00:18:45.110
+Und dann machen wir auch dieses Rollen-Assignment, dass man sagt,
+
+00:18:45.110 --> 00:18:47.110
+man bringt Mensch und Rolle zueinander.
+
+00:18:47.110 --> 00:18:50.170
+Also es ist eben dieses von innen heraus, ich habe so einen Blick dafür,
+
+00:18:50.170 --> 00:18:54.170
+ich habe ein Interesse daran, das verstehe ich auch unter diesem Selbstorganisierten.
+
+00:18:54.170 --> 00:18:56.360
+Und gleichzeitig dieses Unternehmerische.
+
+00:18:56.360 --> 00:19:00.360
+Also jeder ist so ein Kleiner oder eine kleine Unternehmerin und hat das,
+
+00:19:00.360 --> 00:19:03.890
+trägt das so mit sich rum.
+
+00:19:03.890 --> 00:19:09.620
+Das ist ja nicht unbedingt eine Fähigkeit, die jeder mitspringt.
+
+00:19:09.620 --> 00:19:16.680
+Und vielleicht auch in unserem Kulturkreis vielleicht jetzt auch gar nicht mal unbedingt so das,
+
+00:19:16.680 --> 00:19:23.780
+was wir die letzten Jahre gelernt haben, auch in der Arbeitswelt, ist jetzt meine Hypothese.
+
+00:19:23.780 --> 00:19:34.930
+Wie stellt ihr denn sicher, dass eure oder dass Mitarbeiter diese Fähigkeit erlernen,
+
+00:19:34.930 --> 00:19:41.340
+vielleicht auch eine Verhaltensänderung in diese Richtung machen können?
+
+00:19:41.340 --> 00:19:47.620
+Also hast du da Erfahrungen, wie vielleicht Menschen, die ja das gar nicht mitgebracht haben,
+
+00:19:47.620 --> 00:19:55.840
+diese Kernkompetenz, wie es denen doch gut gelungen ist, da reinzuwachsen?
+
+00:19:55.840 --> 00:20:00.990
+Ja, ich habe das einmal bei mir selber, aber auch bei Kollegen gesehen,
+
+00:20:00.990 --> 00:20:05.990
+weil wir sind alle nicht so gestartet, weil genau das, was du gesagt hast, spricht mir aus dem Herzen.
+
+00:20:05.990 --> 00:20:12.110
+Auch wenn ich an meine frühere Arbeitszeit oder auch an die Schule, an das Studium zurückdenke.
+
+00:20:12.110 --> 00:20:17.110
+Das ist ganz klar, es gibt jemanden, der es schon besser weiß und du adaptierst entsprechend.
+
+00:20:17.110 --> 00:20:22.110
+Es ist selten so, dass wir geschult sind, in Frage zu stellen, dass wir hinterfragen,
+
+00:20:22.110 --> 00:20:28.200
+dass wir eben genau diese Fähigkeiten trainieren und unsere Neugier uns immer wieder antreiben darf.
+
+00:20:28.200 --> 00:20:36.350
+Also Selbstreflexion, ja, es ist in Ordnung, aber wenn, dann zu Hause, spätestens dann.
+
+00:20:36.350 --> 00:20:43.040
+Also arbeiten, kommt eben halt sehr auf das Unternehmen drauf an und wie meine Führungskraft ist.
+
+00:20:43.040 --> 00:20:50.690
+Also da ist Führungsentwicklung sehr, sehr wichtig, wenn ich vor allem Menschen habe, die diese Neugier,
+
+00:20:50.690 --> 00:20:56.970
+die ist auch wichtig, mitbringen, dieses Interesse daran und dann ein ganz wesentlicher Kern ist,
+
+00:20:56.970 --> 00:21:02.060
+es ist super schwer zu erklären, deshalb muss ich es üben. Es hilft nur üben, ich muss es erfahren.
+
+00:21:02.060 --> 00:21:07.060
+Am Anfang fand ich auch diese Tacticals und Governance, ich fand das ganz furchtbar schrecklich.
+
+00:21:07.060 --> 00:21:12.060
+Ich wusste nie, wann darf ich jetzt sprechen und wer fällt mir ins Wort und ist es jetzt richtig?
+
+00:21:12.060 --> 00:21:16.510
+Oder auch allein schon dieses, ist es richtig?
+
+00:21:16.510 --> 00:21:20.510
+Diese Frage stelle ich mir heute anders. Natürlich denke ich immer noch, passt das jetzt zum Prozess?
+
+00:21:20.510 --> 00:21:25.830
+Aber dann frage ich mich manchmal dann auch in meinem Team jetzt und da ist jetzt Hologratie
+
+00:21:25.830 --> 00:21:32.530
+oder für mich ist es eher so das Thema Agilität. Passt der Prozess zu mir? Passt das Rahmenwerk zu mir?
+
+00:21:32.530 --> 00:21:37.590
+Oder was aus dem Rahmenwerk nehme ich, wenn ich das Rahmenwerk gelernt habe?
+
+00:21:37.590 --> 00:21:42.810
+Es soll mir dienen, der Prozess dient mir und dem Team und ich nicht dem Prozess.
+
+00:21:42.810 --> 00:21:49.990
+Weil dann bin ich ein Lemming oder wie man diese Tierchen da nennt.
+
+00:21:49.990 --> 00:21:53.990
+Und das immer wieder zu hinterfragen, ohne jedes Mal zu sagen, ich schmeiße meine Prozesse und alles komplett um.
+
+00:21:53.990 --> 00:21:58.050
+Weil es gibt bestimmte Themen, an die muss ich mich auch halten.
+
+00:21:58.050 --> 00:22:04.550
+Es ist eben genau das Thema Compliance oder so. Aber auch da, dient es mir oder schadet es?
+
+00:22:04.550 --> 00:22:10.730
+Das ist sowas, was ich immer wieder versuche, einfach auch als Fragende in solchen Meetings anzubieten.
+
+00:22:10.730 --> 00:22:13.850
+Weil ich glaube, wir Menschen, wir wissen ganz, ganz viel.
+
+00:22:13.850 --> 00:22:17.840
+Und manchmal ist es, glaube ich, einfach nur tief in uns drin versteckt, weil wir es so lange nicht mehr geübt haben.
+
+00:22:17.840 --> 00:22:27.080
+Und dieses Thema, dieses Fragen und nach Antworten zu suchen, das wieder zu trainieren, ist vielleicht so die erste Stufe.
+
+00:22:27.080 --> 00:22:31.210
+Und wenn Menschen da schon wieder so in diesen Frage-Antwort-Modus gekommen sind, zu sagen,
+
+00:22:31.210 --> 00:22:35.210
+okay, wer hat uns denn beigebracht, dass Antworten immer besser sind als Fragen?
+
+00:22:35.210 --> 00:22:40.210
+Manchmal kann die Frage nämlich auch total schön sein, weil erst wenn ich frage, kann ich ja wieder draufkommen,
+
+00:22:40.210 --> 00:22:43.530
+was Neues zu entdecken und das wieder zu üben.
+
+00:22:43.530 --> 00:22:48.530
+Also auch da wieder das Experiment ist ganz wichtig, wie in der agilen Arbeit eben allgemein, Empirie.
+
+00:22:48.530 --> 00:22:54.020
+Ich gucke es mir an und ich mache es aber halt relativ schnell und nicht, dass ich schneller produziere
+
+00:22:54.020 --> 00:22:58.020
+oder schneller Software entwickle oder dass ich meine Prozesse schneller anpasse.
+
+00:22:58.020 --> 00:23:02.790
+Ich habe einfach kleinere Iterationszyklen der Reflexion.
+
+00:23:02.790 --> 00:23:09.160
+Ich glaube, das fasst es dann zusammen am Ende. Diese Fähigkeiten sind notwendig.
+
+00:23:09.160 --> 00:23:17.160
+Okay. Und du sagtest, Übung ist an der Stelle ganz wichtig, um diese Kernkompetenz,
+
+00:23:17.160 --> 00:23:24.190
+dieses unternehmerische Denken, was bei euch auch, habe ich verstanden, am Anfang gar nicht so ausgeprägt war.
+
+00:23:25.190 --> 00:23:33.730
+Also diese Übung ist ganz wichtig. Habt ihr da oder hast du da so ein paar Übungen oder eine Übung,
+
+00:23:33.730 --> 00:23:41.200
+die du vielleicht mal gerade erklären magst? Also wirklich konkret, wie übt man das?
+
+00:23:42.200 --> 00:23:49.190
+Also in der Holokratie übt man es tatsächlich, indem man sich am Anfang relativ strikt an die Empfehlungen hält,
+
+00:23:49.190 --> 00:23:52.190
+ein Governance-Meeting so zu machen, wie es auf diesen Karten draufsteht.
+
+00:23:53.190 --> 00:23:58.190
+Und das beim Tactical auch, weil das Tactical darf ich später anpassen, das Governance-Meeting nicht,
+
+00:23:59.190 --> 00:24:02.380
+sondern ich nehme diese Karten her und ich gucke mir die vorher an.
+
+00:24:03.380 --> 00:24:09.380
+Früher, als wir dann die Facilitator-Trainings gemacht haben, also die, die quasi den Meeting-Rahmen halten,
+
+00:24:09.380 --> 00:24:12.380
+die ein bisschen mehr sind als die Moderatoren dann letztlich auch,
+
+00:24:13.510 --> 00:24:15.490
+oder mehr machen, nicht mehr sind, Entschuldigung,
+
+00:24:16.770 --> 00:24:22.220
+dass die trainiert werden und aber auch, wenn es jemand ist, der das noch nicht so oft gemacht hat,
+
+00:24:23.220 --> 00:24:25.220
+dass wir, wir haben so ein genanntes Cross-Fazilitieren gemacht.
+
+00:24:26.220 --> 00:24:29.220
+Wir haben gesagt, okay, ich gebe dir jemanden, der hat das schon öfter gemacht oder die,
+
+00:24:30.190 --> 00:24:33.220
+da kannst du mal ein paar Mal zuhören, ein paar Mal lernen und dann schmeißen wir dich einfach ins kalte Wasser
+
+00:24:34.220 --> 00:24:37.220
+und wir hatten früher immer so ein Time-out-Zeichen, dass wir gesagt haben,
+
+00:24:37.220 --> 00:24:40.220
+okay, jetzt gehe ich kurz aus dem Prozess raus, weil ich muss fragen, ich verstehe es gerade nicht,
+
+00:24:41.220 --> 00:24:44.190
+wo sind wir denn gerade? Und dann springen wir wieder in den Prozess rein.
+
+00:24:45.190 --> 00:24:48.370
+Also wir haben uns erstmal, das meinte ich vorhin auch, erstmal das Rahmenwerk zu verstehen.
+
+00:24:49.370 --> 00:24:52.370
+Das heißt, ich nutze es erstmal, ich experimentiere damit und ich passe es nicht gleich an.
+
+00:24:53.370 --> 00:24:56.370
+Und ich glaube, das wird ganz oft gemacht und sagt, ja, das passt nicht zu uns, also passen wir es an.
+
+00:24:57.370 --> 00:25:02.370
+Bevor ich es verstanden habe, gerne später anpassen, weil genau der Prozess soll zu uns passen,
+
+00:25:02.370 --> 00:25:04.370
+zum Team, zum Menschen vor allem.
+
+00:25:06.390 --> 00:25:08.390
+Dafür brauche ich aber vorher mal ein gewisses Verständnis dafür,
+
+00:25:09.350 --> 00:25:10.350
+wie soll es sich denn überhaupt anfühlen?
+
+00:25:11.350 --> 00:25:12.540
+Und dann mache ich wirklich bewusst das anfühlen.
+
+00:25:13.540 --> 00:25:15.540
+Fühlt sich das jetzt gerade, bin ich jetzt in so einem Fluss,
+
+00:25:16.540 --> 00:25:19.020
+wir kennen ja so Arbeitsfluss, im Flow.
+
+00:25:20.020 --> 00:25:23.020
+Und irgendwann kommt so dieser Punkt, je öfter man das mal geübt hat,
+
+00:25:24.020 --> 00:25:27.020
+je weniger komisch kommt es einem irgendwann vor und je eher versteht man,
+
+00:25:28.020 --> 00:25:30.020
+okay, das ist so eine Art Fluss und dann kann ich mal drauf gucken und kann sagen,
+
+00:25:31.020 --> 00:25:32.020
+okay, aber hier eckt es irgendwie immer.
+
+00:25:33.280 --> 00:25:35.280
+Okay, und dann entscheide ich aber auch als Team wiederum.
+
+00:25:36.660 --> 00:25:39.660
+Oder nehme mir sogar von außen wieder so jemand für eine Crossfacilitation dazu
+
+00:25:40.570 --> 00:25:43.750
+und sage so, dass ich mich mal mehr auf das Operative konzentrieren kann.
+
+00:25:44.750 --> 00:25:45.750
+Kannst du mir dabei mal helfen?
+
+00:25:47.130 --> 00:25:48.130
+Das finde ich sehr probat an dieser Stelle.
+
+00:25:49.130 --> 00:25:53.670
+Also erst mal dran halten, ausprobieren und dann immer wieder von außen
+
+00:25:54.730 --> 00:25:59.780
+ja, sich Konsultatoren oder Konsultatorinnen hinzuziehen oder auch immer beobachte.
+
+00:26:00.780 --> 00:26:02.780
+Also gerne auch Menschen mal einladen und sagen, komm doch einfach mal zu uns,
+
+00:26:03.780 --> 00:26:07.780
+schau dir das mal an. Da kriegt man auch ganz, ganz oft Impulse, weil man allein schon Fragen gestellt kriegt,
+
+00:26:08.780 --> 00:26:13.320
+wo man sich denkt, boah, das ist eine gute Frage, weil habe ich lange nicht mehr darüber nachgedacht.
+
+00:26:14.320 --> 00:26:15.600
+Dankeschön.
+
+00:26:16.970 --> 00:26:22.130
+Ja, die so eine Selbstreflexion anregen, quasi wie im Coaching-Prozess auch.
+
+00:26:23.130 --> 00:26:24.130
+Genau.
+
+00:26:25.420 --> 00:26:32.170
+Und was ist so deine Erfahrung, wie lange es braucht, um da auch wirklich so reinzuwachsen
+
+00:26:33.170 --> 00:26:39.390
+in diese neuen Fähigkeiten? Und ich könnte mir vorstellen, nicht jeder tut sich gleich.
+
+00:26:40.840 --> 00:26:47.280
+Wie soll ich es ausdrücken? Es wird sicher MitarbeiterInnen geben, die da wirklich schnell reinwachsen
+
+00:26:48.280 --> 00:26:52.760
+und vielleicht manche, die sich da ein bisschen schwerer mit tun.
+
+00:26:54.370 --> 00:26:56.800
+Wie geht man auch an der Stelle damit um?
+
+00:26:58.150 --> 00:27:02.150
+Ich glaube, also eine Zahl kann ich ganz schwer nennen. Ich habe gerade selber so an mich gedacht.
+
+00:27:03.150 --> 00:27:10.110
+Und darauf an, wie viel Unterstützung, gerade so das Thema Cross-Facilitation da ist,
+
+00:27:11.110 --> 00:27:14.110
+wie viel Expertenwissen ist schon da in dem Kreis, in dem man sich dann befindet.
+
+00:27:15.620 --> 00:27:18.620
+Je eher ich vielleicht auch, je nach Typ wahrscheinlich, der eine lernt durchs Zugucken,
+
+00:27:19.620 --> 00:27:21.620
+der andere lernt durchs Selbermachen.
+
+00:27:23.040 --> 00:27:26.040
+Was ich da wiederum für ein Typ bin, ich würde mal ganz grob mindestens ein Jahr,
+
+00:27:27.040 --> 00:27:30.040
+bis es mal so ein bisschen ankommt, so ein bisschen in den Habitus übergeht auch.
+
+00:27:31.010 --> 00:27:35.270
+Und dann, ich weiß nicht, es gibt ja, glaube ich, irgendwie so 60 Wiederholungen oder sowas,
+
+00:27:36.270 --> 00:27:38.270
+sagt man, bis man was wirklich verinnerlicht hat.
+
+00:27:39.230 --> 00:27:42.230
+Und wahrscheinlich passt es ja auch da ganz gut, wenn man so zwei Meetings die Woche
+
+00:27:43.230 --> 00:27:45.230
+oder drei Meetings die Woche hat, plus die Schulungen, die intensiver sind.
+
+00:27:46.230 --> 00:27:48.230
+Dann ist es wahrscheinlich etwas mehr als ein Jahr.
+
+00:27:49.380 --> 00:27:50.380
+Ich hoffe, ich setze mich mathematisch nicht jetzt in die Nesseln.
+
+00:27:53.720 --> 00:27:56.690
+Ich denke, diesen Zeithorizont sich selbst auch einzugestehen
+
+00:27:57.630 --> 00:28:01.720
+und auch dieses Lernen und dieses, dass vielleicht mal das, was komisch ist
+
+00:28:02.720 --> 00:28:04.720
+oder dass man manche Sachen einfach auch nicht weiß oder den Prozess unterbricht.
+
+00:28:05.720 --> 00:28:08.720
+Und das kostet Zeit, ja, und ich glaube, das ist oft auch das Hindernis zu sagen,
+
+00:28:09.720 --> 00:28:11.720
+ja, das ist ja nicht besser als das, was wir vorher gemacht haben.
+
+00:28:12.720 --> 00:28:16.130
+Ja, wenn ich eine Sprache lerne, dann lerne ich sie ja auch nicht perfekt
+
+00:28:17.130 --> 00:28:19.130
+innerhalb von einem Jahr oder so. Das holpert ja auch.
+
+00:28:20.130 --> 00:28:22.130
+Und dann habe ich auch Rückschläge, weil ich manche Wörter wieder vergesse.
+
+00:28:23.280 --> 00:28:26.280
+Und so ist es da ja letztlich auch. Nur da gestehen wir es uns vielleicht nicht zu.
+
+00:28:27.250 --> 00:28:32.630
+Genau. Und ich denke, wenn ich, ich sollte einfach wissen, was ist so ein bisschen mein Lernmodus?
+
+00:28:33.980 --> 00:28:40.010
+Und auf jeden Fall sollte ein Teil des Lernmodus oder meine Art zu lernen sein, Experimente zu machen.
+
+00:28:41.010 --> 00:28:46.220
+Weil wenn das nicht der Fall ist, dann tue ich mir ja ganz, ganz schwer, etwas Neues zu lernen,
+
+00:28:47.220 --> 00:28:51.370
+was eben operativ umgesetzt werden muss. Und ich glaube, dass mittlerweile in der Arbeitswelt
+
+00:28:52.370 --> 00:28:54.370
+komme ich ja fast nicht mehr drum rum. Und ich glaube auch im Privaten nicht.
+
+00:28:55.370 --> 00:28:59.370
+Unsere Welt verändert sich ja ständig. Also ich glaube, das haben wir die letzten paar Jahre jetzt ja echt gelernt,
+
+00:29:00.320 --> 00:29:05.510
+dass uns eigentlich gar nichts anderes übrig bleibt, als diesen, ich nenne ihn immer, Veränderungsmuskel zu trainieren.
+
+00:29:06.710 --> 00:29:10.970
+Und ich habe dabei mir gelernt, an mir selbst, ich weiß nicht vielleicht, wie es dir da geht,
+
+00:29:11.970 --> 00:29:20.500
+je mehr ich diesen Muskel trainiert habe, je gefühlt schneller kann ich jetzt mich auch wiederum auf dieses Verändern einstellen.
+
+00:29:21.500 --> 00:29:24.500
+Das heißt nicht, dass es mir nicht weh tut. Das heißt nicht, dass ich mich nicht ärgere.
+
+00:29:25.500 --> 00:29:28.500
+Manchmal schon, wenn innerhalb eines Tages sich ein Termin ändert, denke ich mir so, oh.
+
+00:29:29.560 --> 00:29:34.520
+Oder beispielsweise, ich war in der Yogastunde und dann hat sich die Lehrerin, war auf einmal jemand anders,
+
+00:29:34.520 --> 00:29:41.160
+und dann dachte ich so, oh, ah, okay, ja, aber ah, ist ja gut, weil ich habe ja lange nicht mehr bei ihr geübt.
+
+00:29:42.160 --> 00:29:46.190
+Das ist total toll, weil da kriege ich neue Inspiration. Aber ich habe schon gemerkt, ah, das ist anders, als ich geplant hatte.
+
+00:29:47.540 --> 00:29:50.660
+Und dieser kleine Widerstand in mir drin, der hat was ausgelöst.
+
+00:29:51.660 --> 00:29:53.660
+Der hat danach aber auch ausgelöst, dass ich es total toll fand.
+
+00:29:54.660 --> 00:29:57.660
+Widerstand, Stichwort Holokratie, Tensions.
+
+00:29:58.940 --> 00:30:02.940
+Das ist ja genau das. Wir alle mögen eigentlich Spannung nicht so gerne im Leben, Anspannung.
+
+00:30:04.290 --> 00:30:08.930
+Aber jeder weiß, wenn man Muskeln anspannt und den wieder entspannt, dann wächst der ja auch.
+
+00:30:09.930 --> 00:30:10.930
+Und genauso ist es bei einer Tension in der Holokratie.
+
+00:30:11.930 --> 00:30:15.960
+Wenn ich etwas habe, was mir nicht gefällt, was ich verbessern möchte, dann ist das eine Tension.
+
+00:30:16.960 --> 00:30:19.960
+Und dann bringe ich die entweder ins Governance Meeting, wenn es um die strukturelle Anpassung geht,
+
+00:30:20.960 --> 00:30:21.960
+oder eben ins taktische Meeting.
+
+00:30:22.960 --> 00:30:25.960
+Wenn ich etwas bearbeiten möchte, dann bringe ich die mit, weil dann kann ich es lösen.
+
+00:30:27.110 --> 00:30:31.110
+Und das ist ja mein Ziel am Ende, diese Spannung gelöst zu haben und das ist wieder ein Motor nach vorne.
+
+00:30:32.750 --> 00:30:33.750
+Weil Spannung kreiert Energie.
+
+00:30:35.450 --> 00:30:45.050
+Ja, was können denn so Gründe, Motivationen sein für Unternehmen oder Teams?
+
+00:30:46.320 --> 00:30:48.660
+Also ich habe so tausend Fragen.
+
+00:30:49.660 --> 00:30:54.390
+Ist es nur möglich, das direkt für die ganze Organisation zu machen?
+
+00:30:55.390 --> 00:30:59.390
+Diese Umstellung von traditionellem Team auf Holokratie?
+
+00:31:00.350 --> 00:31:05.730
+Oder ist es auch möglich, das nur innerhalb eines Teams umzusetzen?
+
+00:31:06.730 --> 00:31:11.370
+Und dann auch wirklich, es scheint ja wirklich ein größerer Aufwand zu sein.
+
+00:31:12.370 --> 00:31:18.910
+Also Pi mal Daumen, mal so ein Ja auch, wo viel Energie auch reingesteckt wird.
+
+00:31:19.910 --> 00:31:25.910
+Neue Verhaltensweisen, Denkweisen etc. zu lernen, Fähigkeiten sich anzueignen.
+
+00:31:26.910 --> 00:31:28.910
+Das ganze Konzept zu verstehen.
+
+00:31:30.260 --> 00:31:34.480
+Was sind denn so, aus deiner Erfahrung heraus, was können denn Motivationen sein,
+
+00:31:35.420 --> 00:31:38.810
+sich zu entscheiden, diesen großen Schritt zu gehen?
+
+00:31:41.430 --> 00:31:43.560
+Also ich kann jetzt von mir halt insofern sprechen.
+
+00:31:44.560 --> 00:31:46.560
+Wir waren ja erstmal netzwerkartig strukturiert.
+
+00:31:47.560 --> 00:31:49.520
+Jeder weiß ungefähr, was der andere macht.
+
+00:31:50.520 --> 00:31:51.520
+Und wenn nicht, dann packt er mit an.
+
+00:31:52.740 --> 00:31:53.740
+Das heißt, wir haben es andersrum gemacht.
+
+00:31:54.740 --> 00:31:56.740
+Wir haben direkt mit, wir strukturieren uns anders.
+
+00:31:57.740 --> 00:32:02.740
+Ein System, was nicht das ist, was wir immer schon kennen und schon ein paar Mal geübt haben.
+
+00:32:04.340 --> 00:32:06.340
+Da ist die Voraussetzung ein bisschen eine andere.
+
+00:32:08.200 --> 00:32:12.200
+Ich weiß aber auch, dass es Unternehmen gibt, die haben kleine Unternehmensbereiche
+
+00:32:13.200 --> 00:32:14.200
+holokratisch dann umstrukturiert.
+
+00:32:15.200 --> 00:32:17.200
+Ich weiß auch, dass es einige gibt, die dann wieder zurückgegangen sind.
+
+00:32:18.200 --> 00:32:22.200
+Und jetzt, wenn ich diese Erzählungen mit dem kombiniere,
+
+00:32:23.420 --> 00:32:27.420
+auch was in meiner Vergangenheit in den Unternehmen oder in meinem Unternehmen passiert ist, glaube ich,
+
+00:32:28.570 --> 00:32:34.760
+das hängt sehr stark auch von der jeweiligen Führung ab, die für diesen Bereich,
+
+00:32:35.760 --> 00:32:37.760
+wenn man jetzt sagt, okay, das ist nur ein Bereich, den ich umstellen möchte,
+
+00:32:38.750 --> 00:32:41.790
+dann ist meine Hypothese, es hängt sehr stark daran, dass diese Führungskraft,
+
+00:32:42.790 --> 00:32:47.040
+die diesen Gesamtbereich, diese Division verantwortet, dieses abschirmt.
+
+00:32:48.000 --> 00:32:51.220
+Also sagt, okay, wir machen das für uns und versucht auch nach außen,
+
+00:32:52.220 --> 00:32:53.220
+denn das immer wieder zu erklären, wie das so grob funktioniert.
+
+00:32:54.220 --> 00:32:57.280
+Aber von außen ist es einfach, und da habe ich vollstes Verständnis,
+
+00:32:58.280 --> 00:33:01.280
+völlig unverständlich, wenn ich in einer klassischen Aufbauorganisation bin,
+
+00:33:02.280 --> 00:33:04.560
+ja, was macht ihr denn eigentlich da? Das ist nicht verständlich.
+
+00:33:05.560 --> 00:33:08.560
+Und das war mein Aha-Moment, wo ich mal mit ein paar Studenten zusammengearbeitet habe,
+
+00:33:09.560 --> 00:33:11.560
+die gesagt haben, ja, aber das ist ja nicht intuitiv, was ihr da macht.
+
+00:33:12.820 --> 00:33:17.130
+Und ich dachte mir, das stimmt. Für mich ja, aber für euch oder für irgendjemand anderen,
+
+00:33:18.130 --> 00:33:21.130
+der nicht in diesem Unternehmen arbeitet seit x Jahren, ist es nicht intuitiv,
+
+00:33:22.130 --> 00:33:26.440
+weil das ist nicht das, was wir gelernt haben. Das heißt, also da der in der Holokratie,
+
+00:33:27.440 --> 00:33:30.440
+oder die Leadlink, die prüft, was gehört überhaupt in diesen Kreis rein.
+
+00:33:31.400 --> 00:33:34.470
+Und wenn man jetzt den General Company Circle nimmt, dann ist es eben der Divisionsleiter,
+
+00:33:35.470 --> 00:33:39.690
+Divisionsleiterin, die abschirmen müssen in dem Fall und sagen, okay,
+
+00:33:40.690 --> 00:33:43.690
+ich erkläre es euch gerne außen so ein bisschen, aber lasst mich mit meinem Team mal machen.
+
+00:33:45.130 --> 00:33:49.130
+Und da geht viel Kapazität, gerade die Lernkapazität, die geht am Anfang einfach drauf, das ist so.
+
+00:33:50.130 --> 00:33:52.290
+Und die Menschen müssen dann mit einer Veränderung klarkommen,
+
+00:33:53.290 --> 00:33:56.290
+plus müssen sie noch ihre Arbeit machen und das wird erstmal langsamer.
+
+00:33:57.290 --> 00:34:00.290
+Das ist immer, wenn man eine Transformation macht, dann wird es erstmal langsamer.
+
+00:34:01.290 --> 00:34:05.250
+Wer alles das in Kauf nimmt und das als Führungskraft stemmen kann, Chapeau,
+
+00:34:06.630 --> 00:34:10.760
+weil nach außen hin auch noch die Stakeholder damit zu versorgen, das ist auch sehr, sehr schwierig.
+
+00:34:11.760 --> 00:34:17.260
+Da braucht er oder sie, glaube ich, einfach eine gute, vielleicht auch schon eine gute Ausbildung in diesem Bereich
+
+00:34:18.260 --> 00:34:22.260
+oder vielleicht im wertesten Sinne ein agiles Mindset, um vielleicht nochmal ein Buzzword zu verwenden,
+
+00:34:23.260 --> 00:34:29.630
+damit eben sowohl nach innen ins Unternehmen rein oder dieses Subunternehmen
+
+00:34:30.630 --> 00:34:34.850
+als auch nach außen das verkörpert werden kann, was Selbstorganisation bedeutet.
+
+00:34:36.520 --> 00:34:40.550
+Und dass es eben manchmal ein bisschen Schmerzen macht und zwar für alle Beteiligten tatsächlich,
+
+00:34:41.550 --> 00:34:51.750
+sowohl innen als auch außen. Und da, ja, als so eine Art, ja, Switch zu funktionieren
+
+00:34:52.810 --> 00:34:58.190
+oder, ja, genau so eine Schnittstelle einfach zu sein. Ich denke, dann kann es erfolgreich sein
+
+00:34:59.190 --> 00:35:06.010
+und dem Stabilität wenigstens für ein bis zwei Jahre zu geben. Und das ist verdammt viel,
+
+00:35:07.420 --> 00:35:13.050
+wenn es darum geht, eine Divisionsleitung, weil alle wollen sich eben, das ist ja genau dieses,
+
+00:35:14.050 --> 00:35:17.050
+in einem klassisch organisierten Unternehmen komme ich nur dann weiter,
+
+00:35:18.050 --> 00:35:23.360
+indem ich mich von einer Stelle ja woanders hin bewege. Meistens auch woanders in der Hierarchie.
+
+00:35:24.830 --> 00:35:30.370
+Jetzt sage ich aber, ich mache jetzt zwei Jahre mindestens das, um die Stabilität,
+
+00:35:31.370 --> 00:35:38.740
+die im Subunternehmen oder eben in dieser Subdivision drin ist, zu halten und nach außen hin zu verkörpern.
+
+00:35:42.040 --> 00:35:45.260
+Wer macht das schon? Ohne dass ich jetzt natürlich klar, es kann immer was dazwischen kommen,
+
+00:35:46.260 --> 00:35:50.320
+es kann immer was passieren. Aber grundsätzlich, wer trifft denn so eine Entscheidung von uns heute?
+
+00:35:51.670 --> 00:35:55.820
+Geht das überhaupt? Also genau solche Fragen, glaube ich, das sind so viele Unbekannte.
+
+00:35:57.170 --> 00:36:01.840
+Aber wer es tut, ich kann mir vorstellen, dass es dann funktionieren kann.
+
+00:36:03.280 --> 00:36:07.170
+Es braucht in gewisser Weise eine stabile, ein bisschen abschirmende Führung,
+
+00:36:08.170 --> 00:36:10.420
+sodass in beiden Bereichen was Neues entstehen kann.
+
+00:36:12.210 --> 00:36:14.210
+Das ist wie so eine Wiese, die ist dann frisch angepflanzt.
+
+00:36:15.430 --> 00:36:18.870
+Und da kann man auch nicht direkt drüber watscheln, braucht ein bisschen.
+
+00:36:20.090 --> 00:36:23.090
+Und wenn dann sich alles da so ein bisschen geformt hat und so ein Ökosystem entstanden ist,
+
+00:36:24.880 --> 00:36:25.880
+dann kann das auch selber weiter wachsen.
+
+00:36:26.940 --> 00:36:28.940
+Und dann kann ich da auch ein bisschen mehr Stress wieder reinlassen.
+
+00:36:29.940 --> 00:36:33.900
+Und da dieses Gefühl dafür zu haben, wie viel Pflege und wie viel Stress es gibt,
+
+00:36:34.900 --> 00:36:36.900
+also tut dann auch vielleicht dem System schon gut.
+
+00:36:37.900 --> 00:36:39.900
+Weil sonst ruht man sich ja irgendwann wieder aus und es entwickelt sich ja wieder nicht mehr.
+
+00:36:41.310 --> 00:36:42.310
+Aber das ist echt eine Kunst.
+
+00:36:44.140 --> 00:36:46.140
+Ja, was ist der Gewinn am Ende?
+
+00:36:47.140 --> 00:36:51.750
+Also ich höre raus, es ist wirklich schon eine große Anstrengung
+
+00:36:52.970 --> 00:36:55.970
+oder es ist einfach mit sehr viel verbunden.
+
+00:36:56.970 --> 00:37:00.220
+Was macht es so wertvoll, diesen Weg zu gehen?
+
+00:37:01.220 --> 00:37:05.140
+Was erhält man am Ende im Gegensatz zu vorher?
+
+00:37:06.140 --> 00:37:09.550
+Eine ganz andere Einstellung zum Leben und zum Arbeiten.
+
+00:37:10.510 --> 00:37:15.510
+Für mich ist das die Grundvoraussetzung, so eine Arbeitswelt zu haben für Work-Life-Flow.
+
+00:37:17.240 --> 00:37:20.240
+Weil ich kann ohnehin nicht unterscheiden, ist ja auch jetzt gerade, arbeite ich jetzt gerade?
+
+00:37:21.240 --> 00:37:26.240
+Denke ich jetzt gerade über meine Arbeit über Organisations- oder früher denke ich über Organisationsentwicklung nach?
+
+00:37:27.620 --> 00:37:30.620
+Oder ist es gerade mein Vergnügen oder bilde ich mich vielleicht sogar weiter?
+
+00:37:31.840 --> 00:37:32.840
+Ist das nicht alles irgendwo ineinander?
+
+00:37:33.990 --> 00:37:39.120
+Also wenn ich jetzt ganz banal am Wochenende schreibe ich jetzt meine Stunden auf, wenn ich ein Fachbuch gelesen habe?
+
+00:37:40.080 --> 00:37:41.080
+Das macht ja auch kein Mensch.
+
+00:37:42.110 --> 00:37:50.190
+Also eben genau, um in diesen Fluss irgendwie zu kommen, ist es glaube ich für mich super wichtig, erstmal gelernt zu haben, was bedeutet Selbstorganisation?
+
+00:37:51.190 --> 00:37:52.190
+Was bedeutet Selbstentscheidungen zu treffen?
+
+00:37:53.190 --> 00:37:59.220
+Ich kann mich noch sehr gut daran erinnern, ganz am Anfang vor sieben Jahren, wo ich so diesen, ich hatte gefühlt wirklich auch physisch noch diesen Schulterblick zu sagen,
+
+00:38:00.220 --> 00:38:03.220
+ich muss jetzt meinen Chef oder meine Chefin fragen, aber da war niemand.
+
+00:38:04.180 --> 00:38:08.180
+Und diese Erkenntnis, diesen Moment, wo ich denke, mein Chef hat damals zu mir gesagt, ja entscheid doch, ist doch deine Rolle.
+
+00:38:09.180 --> 00:38:16.290
+Und ich dachte mir so, ja stimmt, okay, ah, okay, ja, ja, bin ja ich.
+
+00:38:17.330 --> 00:38:20.570
+Und das war ich vorher einfach so nicht in dieser Intensität gewohnt.
+
+00:38:21.570 --> 00:38:24.820
+Das hat mir eben halt natürlich auch privat was gegeben.
+
+00:38:25.970 --> 00:38:30.500
+Und das war aber auch halt furchtbar anstrengend, weil ich das auch wieder erstmal lernen musste.
+
+00:38:31.420 --> 00:38:37.490
+Ich glaube, es ist einmal Freiheit, die kommt in gleichem Maße Verantwortung.
+
+00:38:38.490 --> 00:38:41.490
+Ich sage, die zwei kommen immer als Paar. Es gibt nicht nur das eine oder das andere.
+
+00:38:42.490 --> 00:38:49.650
+Die kommen immer gleichmäßig und in innere persönliche Entwicklung.
+
+00:38:50.590 --> 00:38:59.740
+Also dieses Stichwort Adult Development, da bin ich jetzt zumindest im letzten Jahr auch dankbar durch Mentorenschaften immer wieder darüber gesteuert.
+
+00:39:02.010 --> 00:39:09.170
+Dafür ist Selbstorganisation und genau solche Systeme in Unternehmen, die können sehr, sehr viel bewirken.
+
+00:39:10.490 --> 00:39:18.060
+Und ich glaube, auch für unsere Gesellschaft ist es sehr, sehr wichtig, dass wir alle wieder diesen Veränderungsmuskel, den wir ja brauchen, den überall trainieren.
+
+00:39:19.060 --> 00:39:20.060
+Zu Hause, in der Arbeit.
+
+00:39:21.410 --> 00:39:28.410
+Wir haben ja gesehen, wenn wirklich mal größere Veränderungen um uns herum sind, die unser Leben sehr, sehr stark einschränken oder auch verändern.
+
+00:39:30.080 --> 00:39:34.080
+Wer baut sich schneller an? Wer braucht etwas länger dafür? Oder wer kann sich auch gar nicht anpassen?
+
+00:39:35.170 --> 00:39:42.390
+Deshalb Deggi hatte sogar gesellschaftliche Relevanz und da könnten Unternehmen tatsächlich einfach durchs Tun, sehr viel sogar schon tun, für Gesellschaft.
+
+00:39:44.540 --> 00:39:54.500
+Und was ist so aus Unternehmenssicht wirklich der absolute Mehrwert, weil es, du sagtest eben auch, es dauert erstmal alles langsamer.
+
+00:39:55.500 --> 00:39:59.500
+Und eigentlich ist es ja genau gerade das, was Unternehmen sich überhaupt nicht erlauben können.
+
+00:40:00.500 --> 00:40:18.310
+Was ist jetzt so aus Unternehmenssicht die Entscheidung oder der Mehrwert zu sagen, ich nehme das in Kauf, wir nehmen uns die Zeit durch diese Phase von ein bis zwei Jahren durchzugehen, weil wir uns im Anschluss X erwarten?
+
+00:40:19.600 --> 00:40:27.460
+Ich würde zum einen erstmal die Frage stellen, haben wir die Zeit wirklich nicht oder haben wir uns das jetzt irgendwann so antrainiert, dass wir alles schnell machen?
+
+00:40:28.460 --> 00:40:33.890
+Welchen Wert geben wir unserer Zeit denn eigentlich? Also wie füllen wir sie denn?
+
+00:40:34.860 --> 00:40:41.240
+Wenn wir viel, viel mehr Meetings haben, sind wir dann wirklich produktiver? Sind wir dann noch in den richtigen Meetings?
+
+00:40:42.240 --> 00:40:52.960
+Das ist so ein Beispiel. Und ich glaube, für das Unternehmen ist nicht nur das, also dass man vielleicht einfach an den relevanten Themen arbeitet, weil Mitarbeiter mitdenken.
+
+00:40:54.440 --> 00:41:02.760
+Dass ich zwischendurch, also das, was ich jetzt wieder auch in meiner Transformation in eine neue Rolle, in eine neue Aufgabe, das habe ich selbst gesteuert.
+
+00:41:03.760 --> 00:41:10.760
+Ich habe mir immer wieder die Frage gestellt, natürlich mit meinen Führungskräften, natürlich mit meinen Peers, mit allen, also im Unternehmen, außerhalb des Unternehmens.
+
+00:41:11.760 --> 00:41:14.760
+Das ist für mich ein Selbstverständnis. Ich kümmere mich ja auch um meine persönliche Entwicklung.
+
+00:41:15.760 --> 00:41:20.760
+Und das zahlt das Unternehmen ein, weil das Unternehmen ist ja auch das, was mir am Ende des Tages mein Leben mitfinanziert.
+
+00:41:21.810 --> 00:41:28.200
+Also ich denke ganzheitlich. Und da geben mir solche selbstorganisierten Systeme ja mehr Freiheiten dazu.
+
+00:41:29.200 --> 00:41:32.200
+Das heißt, ich habe mehr Menschen im Unternehmen, die ganzheitlich denken.
+
+00:41:33.190 --> 00:41:36.190
+Zumindest meine Hypothese, weil ich spreche immer nur von meiner Erfahrung.
+
+00:41:37.190 --> 00:41:42.310
+Für mich ganz persönlich und für die Menschen, die ich so um mich rum in meiner, ich sage jetzt mal provokant Bubble habe.
+
+00:41:43.460 --> 00:41:51.290
+Und ich denke, das ist einmal was, was die Unternehmen bekommen und damit auch, ich habe jetzt gestern mit unserem neuen Praktikanten ein Gespräch gehabt.
+
+00:41:52.280 --> 00:41:55.350
+Das war auch total spannend, seine Beweggründe zu kennen.
+
+00:41:55.350 --> 00:41:57.350
+Und ich denke mir so, ach Mensch, die sind ja gar nicht so weit weg von meinem.
+
+00:41:57.350 --> 00:42:03.630
+Offenbar zieht es ja dann auch Menschen an, die ähnlich sind und trotzdem super unterschiedlich,
+
+00:42:03.630 --> 00:42:07.630
+weil wir ganz unterschiedliche, eine ganz unterschiedliche Historie haben.
+
+00:42:08.570 --> 00:42:12.630
+Aber es gibt wieder etwas Gemeinsames. Und das ist dieser, was treibt mich an?
+
+00:42:13.630 --> 00:42:16.630
+Und genau das zu hinterfragen. Ich glaube, das gibt einen enormen Wert für Unternehmen.
+
+00:42:17.690 --> 00:42:21.930
+Menschen zu haben, die immer wieder darüber nachdenken, wie kann ich mich und mein Umfeld
+
+00:42:21.930 --> 00:42:26.930
+Unternehmen, Gesellschaft, alles um mich herum, dieses gesamte Ökosystem weiterbringen.
+
+00:42:26.930 --> 00:42:31.120
+Und da wir so viel Zeit im Unternehmen verbringen, bringe ich ja immer auch das weiter,
+
+00:42:31.120 --> 00:42:33.120
+wenn ich genau diese Denkweise schule.
+
+00:42:34.400 --> 00:42:40.130
+Ja, und ich finde es halt ganz spannend, dass immer so auf diesen Unternehmenszweck ausgerichtet ist.
+
+00:42:41.130 --> 00:42:46.510
+Das heißt, ihr überlegt wirklich immer wieder aus dieser unternehmerischen Denkweise heraus,
+
+00:42:47.510 --> 00:42:52.790
+ist diese Arbeit jetzt sinnvoll, wenn wir jetzt mal bei diesen vielen Meetings bleiben,
+
+00:42:52.790 --> 00:43:02.790
+was ja so der Klassiker ist, in hierarchisch organisierten Unternehmen oder traditionelleren Unternehmenskontexten.
+
+00:43:03.790 --> 00:43:11.410
+Also auch da, wie viel Zeit man unter Umständen verliert, die unproduktiv ist.
+
+00:43:12.410 --> 00:43:17.440
+Und da höre ich jetzt so raus, dass ihr da wirklich kontinuierlich euch Gedanken macht.
+
+00:43:18.360 --> 00:43:23.050
+Ist das sinnvoll? Zahlt es in den Unternehmenszweck ein?
+
+00:43:23.050 --> 00:43:28.050
+Bringt uns das als Unternehmen, als Organisation weiter?
+
+00:43:29.020 --> 00:43:32.490
+Und dementsprechend auch, ist das Meeting sinnvoll?
+
+00:43:33.580 --> 00:43:41.140
+Und vielleicht dann wirklich auch viel unproduktive Zeit unter Umständen einfach gar nicht erst anfällt.
+
+00:43:42.780 --> 00:43:47.130
+Ist das so von der Wahrnehmung jetzt die Richtung, in die es gehen kann?
+
+00:43:49.020 --> 00:43:51.690
+Ja, das Letzte war wichtig, gehen kann.
+
+00:43:52.690 --> 00:43:54.690
+Weil ich kann jetzt ja immer nur für mich selbst und persönlich sprechen.
+
+00:43:55.690 --> 00:43:58.690
+Weil ich gelernt habe und daher auch glaube, was ich ins Unternehmen einbringe.
+
+00:43:59.780 --> 00:44:05.810
+Eben mit diesem Disclaimer auch, und das hat ja Gründe, dass wir unsere Organisationsstruktur umändern.
+
+00:44:07.160 --> 00:44:14.310
+Dass wir eine flache Hierarchie jetzt, zumindest in dem Unternehmen, wo ich meine Haupt-Erwerbsarbeit
+
+00:44:15.330 --> 00:44:21.360
+ja habe oder meine Erwerbstätigkeit habe, so muss ich sagen, einen anderen Weg geht.
+
+00:44:22.360 --> 00:44:27.340
+Und darum habe ich ja diese Fähigkeiten durch die Historie im Unternehmen bekommen
+
+00:44:28.340 --> 00:44:32.460
+und sicherlich auch durch den Austausch, Stichwort Konzernaustausch selbst organisiert,
+
+00:44:33.460 --> 00:44:37.460
+da ja auch wieder Input bekommen. Das heißt, andere Unternehmen und Konzerne machen sowas ja auch.
+
+00:44:38.700 --> 00:44:42.740
+Und es sind nicht die, wer ist ein Unternehmen? Ein Unternehmen besteht aus ganz vielen Menschen.
+
+00:44:43.680 --> 00:44:46.770
+Deshalb vielleicht eher so rumgesprochen, wenn ich Menschen haben möchte,
+
+00:44:47.770 --> 00:44:51.860
+ich als Geschäftsführerin vielleicht von einem Unternehmen mir zu überlegen,
+
+00:44:53.050 --> 00:44:56.270
+welche Einstellung sollen diese Menschen zur Arbeit haben?
+
+00:44:57.270 --> 00:45:01.290
+Und ich denke, ganz viele Unternehmen stellen auf dieses agil um
+
+00:45:02.290 --> 00:45:05.290
+oder stellen eben halt auf eine holokratische oder möchten es versuchen,
+
+00:45:06.290 --> 00:45:07.290
+weil sie, glaube ich, so etwas haben möchten.
+
+00:45:08.290 --> 00:45:13.770
+Die möchten Menschen haben, die einfach selbst kleine Unternehmerinnen sind,
+
+00:45:14.900 --> 00:45:16.900
+die sagen, okay, ich denke immer wieder mal darüber nach, ob das jetzt Purpose ist
+
+00:45:17.900 --> 00:45:18.900
+oder ob ich das anders nenne. Ist völlig egal.
+
+00:45:19.900 --> 00:45:20.900
+Ich hänge persönlich auch überhaupt nicht an Holokratie.
+
+00:45:21.990 --> 00:45:22.990
+Mir geht es nur darum, genau diese Fragestellungen.
+
+00:45:23.990 --> 00:45:25.990
+Und die bringt dieses Setting halt zumindest als Rahmenwerk mit.
+
+00:45:26.940 --> 00:45:28.990
+Wenn ich das mal verstanden habe, kann ich super anpassen.
+
+00:45:29.990 --> 00:45:30.090
+Machen wir ja auch.
+
+00:45:30.990 --> 00:45:31.990
+Oder mache ich mit dem Team, in dem ich jetzt bin, auch.
+
+00:45:32.980 --> 00:45:36.360
+Wir machen es so, wie wir es gerade brauchen, weil aber ich das schon mal lernen durfte.
+
+00:45:37.360 --> 00:45:41.580
+Und da hat mir meine Geschichte in dem Unternehmen ganz viel gegeben.
+
+00:45:42.530 --> 00:45:42.630
+Ja.
+
+00:45:44.210 --> 00:45:46.520
+Und ich denke, die Unternehmerinnen und Unternehmer da draußen,
+
+00:45:47.520 --> 00:45:49.490
+die suchen auch Menschen, die halt immer wieder denken so,
+
+00:45:50.490 --> 00:45:52.490
+ja, wie kann ich dann maximal auf mein Team beitragen?
+
+00:45:53.420 --> 00:45:54.550
+Was brauche ich dafür?
+
+00:45:56.170 --> 00:45:59.250
+Was kann ich dem Team geben und damit ja auch dem Unternehmen geben?
+
+00:46:02.270 --> 00:46:05.270
+Ich finde ganz spannend, du hast es jetzt schon ein paar Mal angesprochen,
+
+00:46:06.940 --> 00:46:10.940
+diesen Punkt, dass ihr jetzt doch wieder in eine flache Hierarchie euch entwickelt.
+
+00:46:11.940 --> 00:46:15.940
+Da hatte ich mir zu Beginn mal eine kleine Notiz hier gemacht.
+
+00:46:16.940 --> 00:46:28.740
+Gibt es ja so eine Mitarbeitergröße, bis zu welcher Größe sich dieser Ansatz
+
+00:46:29.740 --> 00:46:35.150
+anders bewährt hat oder eignet? Oder ist es jetzt unabhängig von der Mitarbeiterzahl?
+
+00:46:36.150 --> 00:46:39.150
+Hat es andere Gründe oder wie sind da so deine Erfahrungen?
+
+00:46:40.150 --> 00:46:44.210
+Hast du auch so vielleicht, du hast sicherlich auch viel gelesen dazu und hast gesagt,
+
+00:46:45.210 --> 00:46:50.240
+du hast auch Unternehmensaustausch mit anderen Mitarbeitern von anderen Unternehmen.
+
+00:46:51.970 --> 00:46:55.970
+Ja, also nach dieser Zahl werde ich ganz oft gefragt und ich stelle mir auch furchtbar oft diese Frage.
+
+00:46:56.970 --> 00:47:02.160
+Ganz persönlich und auch geprägt durch diese, also das, was man im Scrum ja auch hat,
+
+00:47:03.160 --> 00:47:04.160
+wie groß Teams sein sollten, je kleiner, je besser.
+
+00:47:05.140 --> 00:47:09.900
+Die Erfahrung habe ich auch gemacht, weil dann einfach so allein Dunbar's Number 150,
+
+00:47:10.900 --> 00:47:11.900
+ich glaube, das ist so eine kritische Zahl.
+
+00:47:12.860 --> 00:47:17.860
+Und auch so das Thema, wie viel Zeit, diese Lernzeit, die ich vorhin nannte,
+
+00:47:18.830 --> 00:47:22.950
+wie viele Wiederholungen brauche ich? Und wenn ich in einem sehr, sehr raschen Tempo wachse,
+
+00:47:23.950 --> 00:47:25.950
+dann habe ich ja gar nicht die Zeit, so viel noch zu lernen.
+
+00:47:27.070 --> 00:47:29.070
+Das ist, glaube ich, auch ein ganz kritischer Faktor.
+
+00:47:30.130 --> 00:47:32.130
+Deshalb tue ich mir sehr, sehr schwer, da eine Zahl zu nennen.
+
+00:47:33.130 --> 00:47:36.350
+Ich glaube schon, da gibt es eine Zahl, die ist wichtig, je kleiner, je besser.
+
+00:47:37.730 --> 00:47:41.730
+Aber wenn ich die Menschen habe, die alle schon mal in so einem Bereich gearbeitet haben,
+
+00:47:42.730 --> 00:47:45.730
+glaube ich, kann ich das auch mit 500 Leuten machen, kann ich das auch mit 1.000 Leuten machen.
+
+00:47:46.950 --> 00:47:50.950
+Wenn die einfach dieses agiles Mindset oder diese Haltung mitbringen,
+
+00:47:51.950 --> 00:47:53.950
+dann geht das, glaube ich, auch so, weil dann weiß ja jeder, von was wir sprechen.
+
+00:47:54.950 --> 00:47:58.940
+Sie sind aber geprägt von einem anderen Mindset und von einer anderen Arbeitsweise.
+
+00:48:00.560 --> 00:48:02.810
+Zumindest in den meisten großen Unternehmen.
+
+00:48:04.320 --> 00:48:06.320
+Und deshalb ist, glaube ich, so eine feste Zahl, würde ich sagen,
+
+00:48:07.320 --> 00:48:09.320
+kommt auch die Menschen eben darauf an, wie sie geprägt sind.
+
+00:48:11.150 --> 00:48:12.150
+Tendenziell aber eher kleiner.
+
+00:48:13.090 --> 00:48:16.270
+Und wenn ich jetzt so an das denke, über was ich gelesen habe,
+
+00:48:17.360 --> 00:48:18.360
+dann bestätigt es das auch.
+
+00:48:19.460 --> 00:48:20.640
+Ah ja. Ja.
+
+00:48:22.340 --> 00:48:29.010
+Dennoch denke ich, es zu probieren, ich würde es tun, weil da genau das passiert.
+
+00:48:30.010 --> 00:48:35.010
+Selbst wenn wir jetzt auf eine flache Hierarchie gehen, allein das, was alle Menschen da drin gelernt haben,
+
+00:48:36.160 --> 00:48:42.090
+selbst ob sie noch da sind oder schon in anderen Unternehmen, da ist ja ein Wert kreiert worden,
+
+00:48:43.440 --> 00:48:45.440
+in der Zeit, wo die Menschen das gelernt haben, als auch danach.
+
+00:48:46.520 --> 00:48:55.940
+Ja, absolut. Und ich fand es auch ganz spannend, da möchte ich auch noch mal ganz kurz zurückkommen zum Anfang,
+
+00:48:56.940 --> 00:49:03.160
+als du gesagt hattest, du hast dir deine aktuelle Stelle vom Prinzip auch selber kreiert,
+
+00:49:04.160 --> 00:49:06.160
+habe ich es so verstanden. Du hast dir sehr viele Gedanken gemacht,
+
+00:49:07.160 --> 00:49:11.380
+wie du diese Verantwortungsbereich ausfüllen möchtest.
+
+00:49:12.380 --> 00:49:16.670
+Kannst du das vielleicht noch mal so ein bisschen im Detail irgendwie beschreiben?
+
+00:49:18.270 --> 00:49:24.490
+Ja, also kreiert im Sinne von, wir sind jetzt eben eine Abteilung und wir haben bestimmte Cluster,
+
+00:49:25.490 --> 00:49:29.490
+die wir uns eben gemeinsam selber auch irgendwo nochmal definiert und erarbeitet haben
+
+00:49:29.490 --> 00:49:33.490
+und die wir darin ausgerichtet haben, wofür ist denn People Culture allgemein bei uns zuständig?
+
+00:49:34.610 --> 00:49:35.610
+Und wofür ist unser Bereich zuständig?
+
+00:49:36.610 --> 00:49:39.610
+Und dann habe ich mir eben diese Bereiche auch angeguckt oder jeder bei uns auf dem Team
+
+00:49:40.610 --> 00:49:42.610
+und dann ist es für mich halt einfach immer konkreter geworden,
+
+00:49:43.610 --> 00:49:45.610
+ja, was sind meine Fähigkeiten, wo glaube ich, kann ich am besten,
+
+00:49:46.610 --> 00:49:51.920
+zumindest nach aktuellem Wissen, maximal darauf einzahlen, dass mein Team erfolgreich ist,
+
+00:49:52.920 --> 00:49:53.920
+dass wir die Projekte, die wir haben, umsetzen.
+
+00:49:54.920 --> 00:49:57.920
+Dann passiert natürlich auch ein Verhandlungsprozess, dann passiert natürlich auch,
+
+00:49:57.920 --> 00:50:00.920
+ja, aber naja, können ja nicht alle, wenn wir jetzt alle das Gleiche können,
+
+00:50:01.920 --> 00:50:03.920
+es ist ein bisschen schwierig, wenn wir andere Themen auch noch abdecken müssen.
+
+00:50:05.260 --> 00:50:08.260
+Aber je klarer ich mir selber bin, was kann ich denn, was kann ich denn anbieten?
+
+00:50:09.260 --> 00:50:11.260
+Je eher ist ja die Wahrscheinlichkeit da, dass ich das dann auch bekomme.
+
+00:50:12.290 --> 00:50:15.290
+Und wir sind auch immer noch in diesem Findungsprozess und vielleicht hört er sogar nie auf,
+
+00:50:16.290 --> 00:50:19.290
+weil von außen wieder Themen kommen, die wir auch bearbeiten müssen.
+
+00:50:20.380 --> 00:50:23.700
+Dennoch, glaube ich, eben kommt es, ich glaube, es ist auch einfach nur die Denkweise,
+
+00:50:24.700 --> 00:50:27.700
+die ich rangegangen bin. Ob ich mir wirklich selber was geschrieben habe, weiß ich gar nicht.
+
+00:50:28.760 --> 00:50:31.760
+Ich glaube, ich habe mich einfach langsam daran gearbeitet, immer mit diesem,
+
+00:50:32.760 --> 00:50:34.760
+ich richte mich danach aus, was kann ich, was bringe ich, was sind meine Stärken,
+
+00:50:35.760 --> 00:50:38.760
+was braucht das Team? Okay, das ist der Plan, das sind die Projekte.
+
+00:50:39.950 --> 00:50:42.950
+Was bringe ich mit? Was brauche ich noch dafür? Bekopplung mit der Führungskraft.
+
+00:50:43.950 --> 00:50:45.950
+Gibt es irgendetwas, was ich wissen müsste, was vielleicht auch in der Pipeline ist,
+
+00:50:46.950 --> 00:50:50.950
+was mir noch gar nicht klar ist? Eben genau dieses immer wieder, mich da iterativ
+
+00:50:52.490 --> 00:50:59.020
+ran zu robben. Das ist eben für mich, wie ich habe mir das selber ja auch gesucht.
+
+00:51:01.780 --> 00:51:03.780
+Im Prinzip war es da. Also wir haben Projekte, wir haben Aufgaben, wir haben ein Roadmap,
+
+00:51:04.780 --> 00:51:08.000
+wir sollen es umsetzen. Ich glaube, es ist einfach eher so meine Sichtweise darauf.
+
+00:51:09.000 --> 00:51:13.730
+Jetzt auch, ja, danke für diese Reflexion. Das ist eben diese, vielleicht ist es genau diese,
+
+00:51:14.730 --> 00:51:18.700
+meine Haltung da dazu mittlerweile. Das hätte ich vor zehn Jahren sicherlich anders gemacht.
+
+00:51:19.700 --> 00:51:23.990
+Hätte ich darauf gewartet, dass mein Chef mir sagt, welches ist genau mein Bereich?
+
+00:51:24.990 --> 00:51:27.990
+Dann hätte ich nicht so viel weiter gedacht. Weil ich habe diese Frage natürlich auch immer
+
+00:51:28.990 --> 00:51:32.980
+meinem vorigen Chef und meinem jetzigen Chef gestellt. Immer wieder so, ja, was ist denn,
+
+00:51:33.940 --> 00:51:37.000
+wo kann ich mich denn einbringen? Und dann haben wir auch da, das ist ein Gespräch,
+
+00:51:38.000 --> 00:51:40.130
+das ist ein Prozess, aber auch immer wieder von mir selbst angesteuert.
+
+00:51:41.260 --> 00:51:44.260
+Ich warte nicht, bis mir jemand sagt, das ist jetzt deine Stelle, das steht da jetzt drin
+
+00:51:45.450 --> 00:51:46.870
+und das machst du jetzt.
+
+00:51:47.870 --> 00:51:49.870
+Ja, ich finde es auch ganz spannend, dass du das mit der Frage verknüpfst.
+
+00:51:50.870 --> 00:51:53.870
+Na, was habt ihr aktuell für Projekte, Prioritäten?
+
+00:51:54.870 --> 00:51:58.090
+Und das auch daran ausrichtest.
+
+00:51:59.090 --> 00:52:03.050
+Und was ich so raushöre ist, dass es auch schon sehr viel Klarheit erfordert
+
+00:52:04.050 --> 00:52:08.050
+über die eigenen Stärken, Fähigkeiten oder dass es auf jeden Fall hilfreich ist,
+
+00:52:09.050 --> 00:52:14.880
+wenn man diese Klarheit besitzt oder da schon weit gekommen ist,
+
+00:52:15.880 --> 00:52:20.140
+dass es dann auch wieder hilft, die Rollen anders auszurichten.
+
+00:52:21.090 --> 00:52:26.440
+Ja, Klarheit über mich selbst, meine Stärken, das, was ich auch noch lerne,
+
+00:52:26.440 --> 00:52:27.440
+auch noch lernen möchte.
+
+00:52:28.440 --> 00:52:32.440
+Das heißt, ich denke, in meinem Fall, ich habe ja schon etwas mehr Berufserfahrung,
+
+00:52:33.720 --> 00:52:38.000
+wenn ich jetzt weiß, ich habe die noch nicht, dann eben jemanden an der Seite zu haben,
+
+00:52:39.000 --> 00:52:41.000
+der mir genau diese Fragen stellt, die ich mir noch gar nicht stellen kann,
+
+00:52:42.000 --> 00:52:43.000
+weil ich die Erfahrung dazu nicht habe.
+
+00:52:44.000 --> 00:52:48.090
+Also da so das Thema Mentoring, dass so etwas angeboten wird in Unternehmen
+
+00:52:49.090 --> 00:52:53.090
+für Menschen, die, das hat auch mit dem Alter, glaube ich, gar nicht so viel zu tun,
+
+00:52:54.090 --> 00:52:57.090
+sondern eher habe ich sowas schon mal in dieser Form einfach gemacht?
+
+00:52:58.090 --> 00:53:00.080
+Wie denke ich über meine persönliche Entwicklung nach?
+
+00:53:01.470 --> 00:53:02.470
+Vielleicht auch, welcher Typ bin ich?
+
+00:53:03.470 --> 00:53:05.470
+Also ich bin sicherlich auch so ein Typ, der sich sehr, sehr viel einfach auch aus der Fachlichkeit
+
+00:53:06.470 --> 00:53:10.470
+mit auseinandersetzt, weil mir so das Thema, und wie gesagt, jetzt die letzten paar Jahre
+
+00:53:11.470 --> 00:53:15.470
+immer wieder so ein Weg gelaufen ist, Erwachsenenentwicklung oder Adult Development.
+
+00:53:16.620 --> 00:53:21.740
+Das ist natürlich eine gute Voraussetzung, die ich dann habe, um diesen Prozess so zu gestalten.
+
+00:53:22.740 --> 00:53:26.990
+Ich merke, hey, ich habe da was gelernt. Was, wenn das für jemand anders auch probat ist?
+
+00:53:27.990 --> 00:53:31.990
+Also ich habe da jetzt auch öfter mal in meinem Team, sei es jetzt, wenn ich Praktikanten
+
+00:53:32.990 --> 00:53:36.990
+oder Praktikantinnen mal betreut habe, da so ein bisschen versucht zu teilen, eben dieses,
+
+00:53:37.990 --> 00:53:39.990
+ich habe nicht die Antwort, aber ich habe eine Frage dabei.
+
+00:53:41.150 --> 00:53:47.200
+Ja, ja, schön. Ja, ich als systemischer Coach bin ja auch wirklich mittlerweile ein großer Fan
+
+00:53:48.200 --> 00:53:53.200
+von die richtigen Fragen stellen. Und ja, das kann sehr wirksam sein.
+
+00:53:53.200 --> 00:53:58.200
+Und teilweise wirklich viel wirksamer und nachhaltiger auch, als wenn man direkt
+
+00:53:58.200 --> 00:54:03.260
+mit der perfekten Lösung, vermeintlich perfekten Lösung ankommt und jemanden
+
+00:54:04.220 --> 00:54:08.900
+vielleicht auch an einer ganz anderen Stelle antrifft und das dann gar nicht funktioniert.
+
+00:54:09.810 --> 00:54:17.550
+Wir werden, denke ich, jetzt mal langsam so zum Abschluss kommen des Gesprächs.
+
+00:54:18.550 --> 00:54:24.990
+Also ich finde es wahnsinnig spannend. Ich weiß noch nicht, ob ich überall in der Tiefe
+
+00:54:24.990 --> 00:54:28.990
+auf die Schnelle verstanden habe, aber ich fand es sehr, sehr spannend,
+
+00:54:29.990 --> 00:54:32.990
+was du da aus deinen Erfahrungen uns jetzt einfach zu berichten konntest.
+
+00:54:33.990 --> 00:54:36.990
+Wenn wir jetzt hier HörerInnen dabei haben, die sagen,
+
+00:54:37.990 --> 00:54:39.990
+Mensch, also das hat mich total gepackt, dieses Thema.
+
+00:54:40.990 --> 00:54:43.990
+Ich möchte da jetzt auch anfangen, tiefer reinzusteigen,
+
+00:54:44.990 --> 00:54:47.990
+vielleicht das sogar bei mir in der Organisation anstoßen
+
+00:54:48.990 --> 00:54:51.990
+oder zumindest schon mal im Team erste Schritte gehen.
+
+00:54:52.990 --> 00:54:57.960
+Hast du da irgendwie Literaturtipps oder Netzwerke,
+
+00:54:58.960 --> 00:55:02.070
+wo es hilfreich ist, beizutreten?
+
+00:55:03.070 --> 00:55:07.980
+Also das erste, was mir in den Kopf kam, war jetzt der Konzernaustausch
+
+00:55:08.980 --> 00:55:10.980
+Selbstorganisation, wenn man in einem Konzern drin ist,
+
+00:55:11.980 --> 00:55:13.980
+weil da ist eben zumindest das Thema Selbstorganisation,
+
+00:55:14.980 --> 00:55:16.980
+ob es Holokratie ist, sei mal dahingestellt.
+
+00:55:18.550 --> 00:55:21.210
+Weitere Netzwerke bin ich jetzt nicht drin,
+
+00:55:22.210 --> 00:55:25.210
+aber gibt es welche, gibt es auch bei LinkedIn.
+
+00:55:27.430 --> 00:55:32.430
+Bücher hat mich sehr stark geprägt von, während Österreicher kollegiale Führung,
+
+00:55:33.420 --> 00:55:37.420
+weil da eben nicht nur Holokratie drin ist, sondern das ist eine größere Bandbreite.
+
+00:55:38.420 --> 00:55:40.420
+Wenn jemand das bei sich einführt, finde ich immer super,
+
+00:55:41.420 --> 00:55:42.420
+es kommt vielleicht auch aus meiner Fachlichkeit raus,
+
+00:55:43.380 --> 00:55:46.380
+mit den Agilisten sozusagen zu sprechen, also Scrum Master, Product Owner
+
+00:55:47.380 --> 00:55:49.380
+oder Agile Coaches, die man im Unternehmen hat,
+
+00:55:50.380 --> 00:55:52.440
+die sind meistens auch schon recht offen dafür
+
+00:55:53.440 --> 00:55:57.410
+oder einfach auch gutes Bearings-Partner, wenn es darum geht,
+
+00:55:58.410 --> 00:56:03.530
+wie kann ich denn da was anders machen und sich von außen jemanden zu nehmen,
+
+00:56:04.530 --> 00:56:07.820
+der so eine Art Consulting macht, aber im Unternehmen mitarbeitet.
+
+00:56:08.820 --> 00:56:11.820
+Also nicht einfach nur eine beratende Agentur oder so nehmen,
+
+00:56:12.820 --> 00:56:14.820
+die dann später wieder weg ist, sondern wirklich jemanden,
+
+00:56:15.820 --> 00:56:17.820
+der den Prozess dauerhaft mit begleitet und Menschen intern ausbildet.
+
+00:56:19.780 --> 00:56:25.800
+Und das, was du eben auch in deiner Profession hast, Coaching, ganz, ganz viel.
+
+00:56:26.800 --> 00:56:29.800
+Also mit so einer Haltung dann diesen Prozess wiederum zu begleiten
+
+00:56:30.800 --> 00:56:32.800
+und sich da mal Gedanken zu machen, möchte ich das, kann ich das?
+
+00:56:33.860 --> 00:56:36.920
+Und ein Mentoring. Also einfach mal zu gucken,
+
+00:56:37.920 --> 00:56:40.920
+gibt es Menschen, die sowas anbieten? Gibt es dazu Netzwerke?
+
+00:56:41.920 --> 00:56:43.920
+Da bin ich jetzt tatsächlich überfragt, ob es die so schon gibt.
+
+00:56:44.920 --> 00:56:46.920
+Fände ich aber eigentlich ganz spannend, wenn es sowas geben würde,
+
+00:56:48.580 --> 00:56:51.870
+wird genau das anbieten. Also genau das Thema Selbstorganisation,
+
+00:56:52.870 --> 00:56:56.870
+Schrägstrich Soziokratie, Holokratie, eben die Erfahrungen zu teilen.
+
+00:56:58.120 --> 00:57:01.120
+Damit würde ich, glaube ich, mal losgehen. Und dann gibt es noch so ein paar Blogs.
+
+00:57:02.380 --> 00:57:04.380
+Ich weiß, das gibt es bei den neuen Narrativen,
+
+00:57:05.380 --> 00:57:07.380
+waren mal so, waren einige Artikel da dazu drin.
+
+00:57:08.440 --> 00:57:10.440
+Auch so das Thema My Müsli, da kann ich mich dran erinnern,
+
+00:57:10.440 --> 00:57:13.560
+die hatten was mit Meetings gemacht. Auch super spannend.
+
+00:57:14.750 --> 00:57:16.750
+Aber sehr viele Unternehmen gibt es leider halt nicht,
+
+00:57:16.750 --> 00:57:18.750
+die es zumindest sehr, sehr öffentlich machen, wo man sich mal ein bisschen
+
+00:57:18.750 --> 00:57:23.780
+orientieren kann. Es gibt wahrscheinlich so ein paar Podcasts und Blogs.
+
+00:57:23.780 --> 00:57:27.040
+Einfach mal so langsam damit einsteigen und versuchen,
+
+00:57:27.040 --> 00:57:30.040
+sich eher in einem Austausch, also zu gucken,
+
+00:57:30.040 --> 00:57:33.040
+vielleicht im Unternehmen Inseln zu finden, Austauschpartner zu finden,
+
+00:57:34.040 --> 00:57:36.990
+kleine Experimente zu machen, wenn es im Großen nicht geht.
+
+00:57:38.160 --> 00:57:41.430
+Ah ja, okay. Also einfach mal da auch, ja,
+
+00:57:43.020 --> 00:57:46.100
+so zu gucken, auch wer von den KollegInnen hat Interesse,
+
+00:57:46.100 --> 00:57:49.100
+springt auf das Thema ebenfalls an und dann auch so diesen
+
+00:57:49.100 --> 00:57:55.280
+gemeinsamen Lern, diese gemeinsame Lernreise da unter Umständen anzufangen.
+
+00:57:56.280 --> 00:58:00.280
+Das fände ich super spannend, also weil du hattest diese kollegiale Führung,
+
+00:58:00.280 --> 00:58:01.280
+nanntest du es, ne, dieses Buch.
+
+00:58:02.280 --> 00:58:04.280
+Das hattest du ja ganz am Anfang auch schon erwähnt.
+
+00:58:05.280 --> 00:58:08.250
+Das fände ich total spannend, wenn, ne,
+
+00:58:09.280 --> 00:58:12.280
+wenn wir das dann auch in die Shownotes hineinpacken,
+
+00:58:13.280 --> 00:58:15.280
+für diejenigen, die da mit starten wollen.
+
+00:58:16.280 --> 00:58:19.820
+Jetzt habe ich, glaube ich, ziemlich viele Fragen gestellt,
+
+00:58:20.820 --> 00:58:21.820
+die knapp letzte Stunde.
+
+00:58:22.820 --> 00:58:25.820
+Gibt es noch etwas, was ich nicht gefragt habe,
+
+00:58:26.820 --> 00:58:30.240
+wo du denkst, das wäre noch wertvoll für unsere HörerInnen?
+
+00:58:33.330 --> 00:58:40.280
+Keine Aussage oder vielleicht das Thema ganz grob Agilität im Allgemeinen.
+
+00:58:41.280 --> 00:58:44.470
+Einfach diese Haltung zu haben und Agilität,
+
+00:58:45.470 --> 00:58:47.470
+also meine persönliche, mein Verständnis ist,
+
+00:58:48.470 --> 00:58:51.820
+ich bin schneller in meinem Tun, ich bin schneller in meiner Anpassungsfähigkeit,
+
+00:58:52.820 --> 00:58:54.820
+in meiner Reaktion auf die Umgebung.
+
+00:58:56.240 --> 00:58:59.520
+Das ist sehr wichtig in so einem, wenn man sich entscheidet,
+
+00:59:00.520 --> 00:59:03.520
+auf Selbstorganisation zu gehen und die Persönlichkeitsentwicklung der Menschen.
+
+00:59:04.520 --> 00:59:06.520
+Und das braucht Raum und es braucht Unterstützung.
+
+00:59:07.520 --> 00:59:10.540
+Weil sonst kann es auch mal, können Menschen auch untergehen in dem,
+
+00:59:11.540 --> 00:59:14.670
+dass sie dann entweder innerlich kündigen oder dass sie vielleicht sogar krank werden.
+
+00:59:15.700 --> 00:59:18.700
+Also das ist wirklich eine Gefahr in so einem System, weil wir das einfach nicht gewohnt sind.
+
+00:59:18.700 --> 00:59:19.700
+Wir sind das nicht trainiert.
+
+00:59:20.700 --> 00:59:23.700
+Wir schirmen uns sehr stark auch ab durch dieses, ja okay, dann ist es nur ein Job.
+
+00:59:24.700 --> 00:59:30.490
+Und damit, das ist auch total wichtig für Menschen, die damit noch nicht umgehen können.
+
+00:59:31.490 --> 00:59:36.800
+Deshalb ist diese Entwicklungsarbeit oder Betreuung auch sehr, sehr wichtig für diese Menschen,
+
+00:59:37.860 --> 00:59:42.820
+in solchen Organisationen darauf zu achten, dass keiner oder keine unter die Räder kommt.
+
+00:59:43.880 --> 00:59:45.040
+Ja, ja.
+
+00:59:46.040 --> 00:59:51.040
+Und auch vielleicht, das ist mir persönlich auch immer noch ganz wichtig, ganz früh damit anzufangen.
+
+00:59:51.040 --> 00:59:54.040
+Deshalb gehe ich auch immer wieder mal an Hochschulen und sage, es geht schon.
+
+00:59:55.740 --> 00:59:57.740
+Es ist aber sehr anstrengend und es ist nicht das, was wir gewohnt sind.
+
+00:59:58.740 --> 01:00:01.740
+Und ich würde mir wünschen, dass noch mehr Menschen, die so eine Geschichte zu erzählen haben,
+
+01:00:02.830 --> 01:00:03.830
+genau das hin und wieder mal anbieten.
+
+01:00:05.010 --> 01:00:10.010
+Und mal eben genau da, wo vielleicht gar noch nicht so viel gelernt ist,
+
+01:00:11.010 --> 01:00:15.010
+dass es eben nur diese eine Organisationsform gibt, wo ich eben klare Beschreibungen habe,
+
+01:00:16.010 --> 01:00:20.980
+und dann aber ja doch wieder so die Grauzonen entstehen und so diese informellen Wege,
+
+01:00:21.980 --> 01:00:22.980
+die ja dann ehrlicherweise doch da sind.
+
+01:00:24.200 --> 01:00:27.160
+Das ist auch noch anders, zumindest ein Experiment wert ist.
+
+01:00:28.250 --> 01:00:29.250
+Das ist so ein Anliegen vielleicht.
+
+01:00:30.690 --> 01:00:30.790
+Wunderbar.
+
+01:00:32.140 --> 01:00:35.140
+Susanne, ich danke dir von Herzen, dass du dir die Zeit für uns genommen hast,
+
+01:00:36.140 --> 01:00:42.140
+uns diesen Ansatz, ja wirklich mal so aus deiner Erfahrung heraus ein bisschen näher zu bringen.
+
+01:00:43.140 --> 01:00:49.650
+Und ja, wer Lust bekommen hat, ja, hat jetzt ein paar Quellen bekommen auch, ne,
+
+01:00:50.650 --> 01:00:53.650
+wo ihr euch mit, ja, einfach tiefer einsteigen könnt.
+
+01:00:54.650 --> 01:00:58.650
+Vielleicht stehst du, Susanne, ja auch mal für einen Austausch noch bereit, ne.
+
+01:00:59.650 --> 01:01:05.650
+Und ansonsten, ja, wünsche ich allen HörerInnen, ja, erstmal eine gute Zeit
+
+01:01:06.650 --> 01:01:08.650
+und weiterhin eine gute Lernreise.
+
+01:01:09.650 --> 01:01:12.650
+Ich glaube, wir sind alle, ja, wer sich mit solchen Themen beschäftigt,
+
+01:01:13.650 --> 01:01:17.580
+ja, wir sind alle an Lernen interessiert und neugierig.
+
+01:01:18.580 --> 01:01:21.580
+Und ja, Susanne, ganz herzlichen Dank für deine Zeit.
+
+01:01:23.120 --> 01:01:25.120
+Danke, dass ich meine Geschichte erzählen durfte.
+
+01:01:26.120 --> 01:01:26.220
+Dankeschön.

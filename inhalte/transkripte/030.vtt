@@ -1,0 +1,1885 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #30: #30 Selbstorganisation mit Lennart Keil
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:33.380
+Ja, herzlich willkommen zu einer neuen VUCA Blaster-Podcast-Folge. Ja, und Glück auf aus dem Pott, hatte ich von der Dörte gelernt, was zu sagen. Heute haben wir Lennar Keil hier bei uns im Podcast. Er ist Organisationspsychologe. Er ist lange im Konzern, zehn Jahre im Konzern tätig, aktuell im Bereich Future of Work.
+
+00:00:33.380 --> 00:00:57.920
+Ich habe ihn im CASO Selbstorganisation kennengelernt. Dort hat er sein Buch Unlearning Hierarchy vorgestellt, welches ich auch schon bei uns im Konzern einmal vorgestellt habe. Nachdem ich mir das durchgelesen habe, habe ich mal so eine Buchrezension gemacht und finde das eigentlich ganz cool. Geht halt auch um Selbstorganisation. Das ist auch so das Thema von heute.
+
+00:00:57.920 --> 00:01:05.650
+Und habe ich noch was Wichtiges vergessen bei der Vorstellung, was dir noch wichtig ist?
+
+00:01:05.650 --> 00:01:07.960
+Ne, alles dabei. Vielen Dank.
+
+00:01:07.960 --> 00:01:08.960
+Perfekt.
+
+00:01:08.960 --> 00:01:10.370
+Danke für die Einladung.
+
+00:01:10.370 --> 00:01:27.390
+Kommen wir zu den drei Check-in Fragen. Ich mache hier random, gucke ich mir so rückwärts aus. Auf diese Aufgabe freue ich mich derzeit besonders. Punkt, Punkt, Punkt.
+
+00:01:27.390 --> 00:01:38.530
+Ich bin vor drei Monaten Vater geworden und natürlich kommen dann sofort etwaige Herausforderungen mit dieser Vaterrolle in meinen Sinn.
+
+00:01:38.530 --> 00:01:49.430
+Und ich glaube, im Moment freue ich mich auf die Herausforderung, diese Rolle für mich zu gestalten und irgendwie mit Leben zu füllen.
+
+00:01:49.430 --> 00:01:59.650
+Und da gibt es gute Tage und nicht so gute Tage. Und meine Hoffnung ist, dass ich da einfach einen guten Weg für mich finde.
+
+00:01:59.650 --> 00:02:07.290
+Die zweite Frage, eine gute Frage, die ich zuletzt gehört habe.
+
+00:02:07.290 --> 00:02:25.030
+Oh, ein bisschen ein Klassiker, aber irgendwie doch noch immer unterschätzt. Wofür bist du heute dankbar?
+
+00:02:25.030 --> 00:02:36.940
+Hoppte auf, ich weiß nicht, ob du das kennst, dieses Check-In-Seite, Check-In, Check-Out, wo man sich so eine Zufallsgenerator-Frage ausspucken lassen kann.
+
+00:02:36.940 --> 00:02:43.130
+Und da kam die und ich habe die sofort genommen fürs Team, für den Check-In an dem Tag. Und das wurde dann ein richtig schönes Gespräch.
+
+00:02:43.130 --> 00:02:49.120
+Ich möchte mir auch mal für meine Workshops gehen, diese Check-In, Check-Out.
+
+00:02:49.120 --> 00:02:54.120
+Ja, die ist gut. Kann ich sehr empfehlen. Kann gerne den Link irgendwie für die Show Notes oder so rausrücken.
+
+00:02:54.120 --> 00:02:59.470
+Und dann die letzte Frage wäre, bei diesen Aufgaben fühle ich mich energetisiert?
+
+00:02:59.470 --> 00:03:11.890
+Energie kommt bei mir, wenn ich das Gefühl habe, dass es wirklich einen Unterschied macht.
+
+00:03:11.890 --> 00:03:20.900
+Also, dass wir was machen, was Menschen was bedeutet. Ich gebe mal ein Beispiel. Wir haben gerade, wir machen intern so eine
+
+00:03:20.900 --> 00:03:28.400
+Lernreise über sieben Wochen und die haben wir nochmal neu designt und das war sehr aufwendig.
+
+00:03:28.400 --> 00:03:30.400
+Und wir haben uns immer wieder gefragt, warum machen wir das eigentlich?
+
+00:03:30.400 --> 00:03:35.460
+Und dann war immer wieder klar, naja, 100 Leute gehen da sieben Wochen lang durch diese Lernreise.
+
+00:03:35.460 --> 00:03:40.650
+Wenn wir das jetzt gut machen, bedeutet das was für die und denen ist das wichtig.
+
+00:03:40.650 --> 00:03:43.620
+Und dann bin ich motiviert. Dann habe ich Spaß.
+
+00:03:43.620 --> 00:03:47.740
+Wenn du so einen Wert schaffst für andere.
+
+00:03:47.740 --> 00:04:03.530
+Ja, genau. Wenn es jetzt nicht nur darum geht, irgendwas besonders perfekt in PowerPoint Folien zu gießen oder was am Ende keinen Unterschied macht und deswegen motiviert mich das nicht, sondern halt was, was hinten raus irgendwie Menschen berührt.
+
+00:04:03.530 --> 00:04:09.350
+Okay. Ja, dann vielen Dank für die Beckenfragen.
+
+00:04:09.350 --> 00:04:10.350
+Gerne.
+
+00:04:10.350 --> 00:04:17.350
+Dann wollen wir mal ins Thema starten. Es geht ja so ein bisschen um Selbstorganisation, ist jetzt ja auch ein großes Thema.
+
+00:04:17.350 --> 00:04:25.440
+Wieso ist so Selbstorganisation gerade in so einer VUCA-Welt vielleicht sehr wichtig?
+
+00:04:25.440 --> 00:04:42.510
+Also ich glaube, das wurde ja schon von vielen Seiten auf unterschiedliche Art und Weisen postuliert, dass man sagt, also warum brauchen wir mehr Anpassungsfähigkeit, Lernfähigkeit und damit auch mehr Selbstorganisation,
+
+00:04:42.510 --> 00:04:51.330
+gerade in Umfeldern, wo ich nicht weiß, was morgen ist, wo ich nicht vorhersehen kann, was funktioniert.
+
+00:04:51.330 --> 00:05:03.310
+Und der Begriff VUCA fasst das für mich halt immer noch gut zusammen, dass wir immer weniger Kontexte haben, wo ich heute weiß, was die beste Lösung ist.
+
+00:05:03.310 --> 00:05:14.100
+Und dann entsprechend in einem klassischen Management-Stil auf diese beste Lösung hin optimieren kann und auch aus der Distanz, aus der Ferne steuern kann.
+
+00:05:14.100 --> 00:05:28.390
+Und für mich ist Selbstorganisation auch so eine Art, nein, ein bisschen mehr wieder so eine Rückkehr in eine natürlichere Art, in eine flüssigere Art, in eine beweglichere Art der Zusammenarbeit.
+
+00:05:28.390 --> 00:05:38.060
+Weg von dem eigentlich so einer Überkompensation, alles managen zu müssen, alles strukturieren zu müssen, alles auch kontrollieren und messen und zählen zu wollen.
+
+00:05:38.060 --> 00:05:42.210
+Und ich finde, dieser Paradigmenwechsel, der ist absolut überfällig.
+
+00:05:42.210 --> 00:05:54.580
+Ist denn so Selbstorganisation dann Anarchie? Also das denken ja immer viele, dass dann irgendwie jeder macht, was er will, jeder genau kein Management mehr vielleicht?
+
+00:05:54.580 --> 00:06:06.560
+Ja, zum Glück nicht. Ich muss auch gestehen, am Anfang habe ich auch, ich habe am Anfang auch gedacht, Selbstorganisation ist vielleicht ein bisschen mehr näher an der Anarchie, als ich es heute sagen würde.
+
+00:06:06.560 --> 00:06:17.000
+Also heute würde ich sagen, dass das ein Missverständnis ist, wenn man glaubt, dass sich Selbstorganisation selbst organisiert und dann bekommt man nämlich Anarchie und Chaos, wenn man das macht.
+
+00:06:17.000 --> 00:06:30.690
+Also um sozusagen eine Organisation so auch aufzustellen, dass das gesund ist, dass das effektiv und effizient ist, dafür braucht es eine ganze Menge Steuerung.
+
+00:06:30.690 --> 00:06:38.170
+Da braucht es eine ganze Menge Rahmenbedingungen, die man schaffen muss. Es braucht eine ganze Menge Führung von vielen Menschen.
+
+00:06:38.170 --> 00:06:47.090
+Und ein Missverständnis beim Thema Selbstorganisation ist sozusagen auch der Motto, okay, jetzt lasse ich alles los, ich lasse alles fallen und höre auch auf zu führen.
+
+00:06:47.090 --> 00:06:55.150
+Also manche Führungskräfte sind schon fast erleichtert, wenn sie dann sagen, ja jetzt, dann könnt ihr das ja selbst organisieren, dann muss ich ja nichts mehr machen.
+
+00:06:55.150 --> 00:06:58.180
+Und das ist nicht das, worum es geht.
+
+00:06:58.180 --> 00:07:09.410
+Also meinst du so Führung, du brauchst es dann trotzdem, weil es gibt glaube ich auch so Führungskräfte, die dann natürlich Angst haben, dass sie dann man gar nicht mehr braucht.
+
+00:07:09.410 --> 00:07:13.470
+Also dann, wofür ist die Führungskraft dann überhaupt noch da?
+
+00:07:13.470 --> 00:07:24.160
+Also es braucht Führung. Es braucht aber nicht mehr unbedingt die eine Führungskraft, die alle Führungsaufgaben und Kompetenzen in sich bündelt.
+
+00:07:24.160 --> 00:07:33.600
+Und die dann auch noch das so eng mit ihrer Person verschmelzen lässt, dass es sozusagen eigentlich nur noch so dieses ich bin der Chef.
+
+00:07:33.600 --> 00:07:41.660
+Also das ist es eben nicht, sondern die Idee ist, dass es immer noch sehr viel Führungsbedarf gibt und man viel Führung braucht.
+
+00:07:41.660 --> 00:07:44.660
+Nur das kann aus verschiedenen Rollen kommen. Es muss nicht eine Person sein.
+
+00:07:44.660 --> 00:07:51.660
+Menschen können Führung und Verantwortung übernehmen und auch wieder abgeben, je nachdem, was die Situation braucht und verlangt.
+
+00:07:51.660 --> 00:07:57.190
+Und in diesem Sinne wird es weiterhin Führungskräfte geben. Auf jeden Fall.
+
+00:07:57.190 --> 00:08:00.310
+Es wird auch nie hierarchiefreie Organisationen geben.
+
+00:08:00.310 --> 00:08:06.100
+Das ist auch so ein Missverständnis, dass der Titel unseres Buches ist ja Unlearning Hierarchy.
+
+00:08:06.100 --> 00:08:11.100
+Und das ist ein bisschen ein Eigentor, weil der suggeriert so, okay, weg mit den Hierarchien.
+
+00:08:11.100 --> 00:08:19.380
+Was wir aber eigentlich sagen wollen ist, lass uns die neu denken, lass uns die anders leben, lass uns die beweglicher gestalten und nicht weg damit.
+
+00:08:19.380 --> 00:08:24.790
+Weil das wäre dann wiederum ein Schuss übers Ziel hinaus in die andere Richtung.
+
+00:08:24.790 --> 00:08:31.060
+Ich fand das auch ganz spannend, weil ich im Buch war mir auch gar nicht so bewusst, dass selbst...
+
+00:08:31.060 --> 00:08:38.060
+Also man kann Hierarchie gar nicht so abschaffen, selbst wenn man alle Strukturen auflöst, dass der Mensch eigentlich dann...
+
+00:08:38.060 --> 00:08:46.210
+Also automatisch, biologisch, dass sich so eine Hierarchie bildet, sozusagen. Fand ich ganz interessant, ja.
+
+00:08:46.210 --> 00:08:51.680
+Ja, ich habe mich da auch ein bisschen dann nochmal versucht, mit auseinanderzusetzen.
+
+00:08:51.680 --> 00:08:56.680
+Was ist jetzt da vielleicht evolutionär, biologisch vorprogrammiert?
+
+00:08:56.680 --> 00:09:04.240
+Und ich glaube, es ist jetzt nicht der klassische Organigramm, dass jeder an einen berichtet. Das ist es natürlich nicht.
+
+00:09:04.240 --> 00:09:10.200
+Aber was es schon immer geben wird, vermute ich, und so habe ich auch die Wissenschaft verstanden,
+
+00:09:10.200 --> 00:09:19.540
+dass man soziale Ordnungen bildet, dass manche Menschen mehr Einfluss und Status und Macht haben als andere.
+
+00:09:19.540 --> 00:09:22.820
+Und dass das was ganz Natürliches ist.
+
+00:09:22.820 --> 00:09:26.820
+Dass es nicht darum geht, alles gleich zu machen und zu sagen, jeder ist genau gleich,
+
+00:09:26.820 --> 00:09:31.910
+jeder hat genau gleich viel Verantwortung, sondern mit diesem natürlichen Prozess auch anzuerkennen
+
+00:09:31.910 --> 00:09:38.060
+und auch Menschen zu erlauben und zu sagen, hey, ja, du darfst führen, mach das, geh voran.
+
+00:09:38.060 --> 00:09:45.450
+Aber eben mit einem, sag ich mal, beweglicheren Verständnis und nicht so mit diesem Starren,
+
+00:09:45.450 --> 00:09:49.450
+was ich heute immer noch sehr, sehr viel sehe in vielen großen Organisationen.
+
+00:09:49.450 --> 00:09:53.950
+Und vielleicht auch dieses, die Führungskraft kann einfach alles.
+
+00:09:53.950 --> 00:09:55.950
+Ja, ja, klar.
+
+00:09:55.950 --> 00:10:02.050
+Strategie, die kann, ich glaube, da ist ja auch, war auch im Buch ja so eine Gallup-Studie,
+
+00:10:02.050 --> 00:10:06.050
+dass viele ausgebrannt oder gar keinen Bock mehr haben auf so Führungskraft.
+
+00:10:06.050 --> 00:10:11.720
+Natürlich, wenn du da tausend Aufgaben hast, aber in manchen sind vielleicht andere besser,
+
+00:10:11.720 --> 00:10:16.970
+dann kann man ja eigentlich diese vielleicht auch abgeben an Personen oder diese Rolle als,
+
+00:10:16.970 --> 00:10:20.190
+weiß nicht was, abgeben an andere Personen.
+
+00:10:20.190 --> 00:10:24.340
+Ja, und es ist gar nicht auch nur so dieses so Aufgaben und dass man das macht,
+
+00:10:24.340 --> 00:10:29.840
+was man besser kann oder nicht, sondern Führungskräfte sind auch oft wie so
+
+00:10:29.840 --> 00:10:31.840
+ein Blitzableiter, was die Verantwortung angeht.
+
+00:10:31.840 --> 00:10:36.810
+Also viele auch, sag ich mal in Anschlusszeichen, normale Mitarbeiter,
+
+00:10:36.810 --> 00:10:40.810
+die jetzt nicht in der Führungsrolle sind, haben sich halt angewöhnt,
+
+00:10:40.810 --> 00:10:46.150
+ganz viel Verantwortung da abzuladen und das so nach oben hochzureichen,
+
+00:10:46.150 --> 00:10:49.500
+weil das auch bequem ist. Und das ist anstrengend.
+
+00:10:49.500 --> 00:10:56.200
+Und das ist auch, aber wir haben uns irgendwie gegenseitig eingetrichtert.
+
+00:10:56.200 --> 00:10:59.160
+Nee, das ist so. Die Führungskräfte kriegen alles ab so.
+
+00:10:59.160 --> 00:11:05.160
+Und dass die dann reihenweise umfallen, je komplexer alles wird, je dynamischer, je unvorhersehbarer.
+
+00:11:05.160 --> 00:11:09.570
+Also das System ist sozusagen gar nicht für diese ganze Komplexität ausgelegt.
+
+00:11:09.570 --> 00:11:12.570
+Das heißt, wo landet es auf dem Tisch der Führungskraft?
+
+00:11:12.570 --> 00:11:17.720
+Und die werden davon krank. Das kann man leider nicht anders sagen.
+
+00:11:17.720 --> 00:11:19.870
+Das ist echt ein Riesenthema.
+
+00:11:19.870 --> 00:11:24.910
+Und es ist aber dann nicht so, dass man dann die Verantwortung
+
+00:11:24.910 --> 00:11:27.910
+dann einfach auf die Mitarbeiter und Mitarbeiterinnen lässt
+
+00:11:27.910 --> 00:11:30.860
+und die vielleicht auch gar nicht mit umgehen können?
+
+00:11:30.860 --> 00:11:35.150
+Aber da es dann vielleicht verteilt ist, ist das dann nicht mehr so viel?
+
+00:11:35.150 --> 00:11:41.460
+Ja, ich würde jetzt gerne sagen, dass die Selbstorganisation so super entspannt ist
+
+00:11:41.460 --> 00:11:44.460
+und so ganz für alle so total natürlich und locker.
+
+00:11:44.460 --> 00:11:48.780
+Aber das ist es leider nicht. Es ist auch anspruchsvoll, sag ich mal.
+
+00:11:48.780 --> 00:11:55.040
+Also es ist auch ein System, wo auch viel von jedem Einzelnen erwartet wird,
+
+00:11:55.040 --> 00:11:58.040
+dass er sich gut abstimmt, dass er sich selbst gut kennt.
+
+00:11:58.040 --> 00:12:01.010
+Also wenn ich nicht so stark durch Strukturen steuere,
+
+00:12:01.010 --> 00:12:04.010
+dann müssen die Leute sich halt viel mehr alle selbst steuern.
+
+00:12:04.010 --> 00:12:07.200
+Also blödes Beispiel, wenn mir keiner meine Arbeitszeit vorgibt,
+
+00:12:07.200 --> 00:12:10.200
+dann muss ich mir das selber überlegen, wie ich das mache.
+
+00:12:10.200 --> 00:12:14.160
+Und das ist jetzt nur eine Kleinigkeit, aber wenn man das immer weiterdenkt,
+
+00:12:14.160 --> 00:12:18.280
+bis hin zu welche Aufgaben mache ich, welche Rollen nehme ich an etc.,
+
+00:12:18.280 --> 00:12:20.660
+dann verlangt das schon viel von dem Einzelnen.
+
+00:12:20.660 --> 00:12:25.420
+Insofern ist es jetzt nicht irgendwie locker entspannt immer,
+
+00:12:25.420 --> 00:12:27.420
+sondern durchaus eben auch anspruchsvoll.
+
+00:12:27.420 --> 00:12:31.220
+Und ja, das muss man halt dann lernen und da langsam reinwachsen.
+
+00:12:31.220 --> 00:12:35.630
+Also deswegen glaube ich ja, würde ich den Führungskräften dann auch nicht sagen,
+
+00:12:35.630 --> 00:12:41.630
+gebt alle Verantwortung auf einmal ab, sondern lieber wachst da so schrittweise rein, wenn es geht.
+
+00:12:41.630 --> 00:12:46.740
+Ich glaube auch bei den Mitarbeitern, die müssen ja auch das erstmal damit umgehen.
+
+00:12:46.740 --> 00:12:50.740
+Also wahrscheinlich wird man die versuchen, in dem Prozess dann zu enablen und sagen,
+
+00:12:50.740 --> 00:12:58.460
+okay, ich weiß nicht, irgendwie so ein Seminar, wie teile ich mir meine Arbeitszeit selber ein oder ähnlich.
+
+00:12:58.460 --> 00:13:02.460
+Ich glaube, ja, ich weiß, von heute auf morgen, man ist es gewohnt in der Hierarchie
+
+00:13:02.460 --> 00:13:06.460
+und dann plötzlich soll man da das alles übernehmen und weiß gar nicht, wie das geht.
+
+00:13:06.460 --> 00:13:11.020
+Muss man ja wahrscheinlich auch erstmal so ein bisschen das lernen.
+
+00:13:11.020 --> 00:13:19.710
+Ja, also Lernen, klar, da gibt es dann Basiskompetenzen, die man sich auch über Kurse ranschaffen kann.
+
+00:13:19.710 --> 00:13:25.710
+Zum Beispiel gewaltfreie Kommunikation, um gut im Dialog mit seinen Kollegen zu sein.
+
+00:13:25.710 --> 00:13:30.680
+Oder Zeitmanagement, Selbstmanagement, um sich selbst da irgendwie zu steuern.
+
+00:13:30.680 --> 00:13:34.800
+Oder auch, ja, man kann Meeting-Praktiken lernen und, und, und.
+
+00:13:34.800 --> 00:13:39.890
+Aber trotzdem wird es nie ausreichen, Leute da nur in den Kurs zu setzen.
+
+00:13:39.890 --> 00:13:52.410
+Also, ich bin großer Fan davon, Dinge im Tun zu lernen, zu erleben und dann zu reflektieren.
+
+00:13:52.410 --> 00:13:57.410
+Und da irgendwie halt um so einen Prozess drumherum immer wieder so Lerngelegenheiten zu schaffen
+
+00:13:57.410 --> 00:14:04.000
+und nicht zu erwarten, okay, wir schicken jetzt alle in den Kurs und dann läuft das schon.
+
+00:14:04.000 --> 00:14:10.720
+Aber ich glaube, das ist mittlerweile auch gang und gäbe, dass das sozusagen beides gemacht wird.
+
+00:14:10.720 --> 00:14:19.310
+Meinst du denn, jeder hat da Lust drauf? Ich kenne auch bei uns viel, also ich bin auch Fan von Selbstorganisation,
+
+00:14:19.310 --> 00:14:23.280
+aber es gibt auch viele, die sagen, ich habe da eigentlich gar keine Lust drauf.
+
+00:14:23.280 --> 00:14:27.410
+Ich bin eigentlich froh, also das ist vielleicht dann, was wir eben hatten, sondern die Verantwortung wegschieben,
+
+00:14:27.410 --> 00:14:33.440
+dass wenn mein Vorgesetzter mir sagt, was ich so zu tun und zu lassen habe, ist natürlich angenehm.
+
+00:14:33.440 --> 00:14:38.430
+Aber meint es denn, jeder kann das, diese Selbstorganisation? Oder ist das eine Typfrage?
+
+00:14:38.430 --> 00:14:40.490
+Manche können es, manche nicht?
+
+00:14:40.490 --> 00:14:51.710
+Ich glaube, jeder kann das. Aber genauso wie es Leute gibt, die in einem sehr, sage ich mal,
+
+00:14:51.710 --> 00:14:56.960
+durchgesteuerten System sich nicht so wohlfühlen, weil sie da sich stärker anpassen müssen,
+
+00:14:56.960 --> 00:15:01.430
+wird es Leute geben, die sich in einem eher selbstorganisierteren System nicht so wohlfühlen.
+
+00:15:01.430 --> 00:15:07.690
+So hat jedes System auch seine Vor- und Nachteile und seinen Wert und auch seine Berechtigung.
+
+00:15:07.690 --> 00:15:11.690
+Und auch jeder Mensch und jede Persönlichkeit und jeder, wie er so ist.
+
+00:15:11.690 --> 00:15:14.610
+Also deswegen würde ich davon ab, würde ich vermeiden, sozusagen so,
+
+00:15:14.610 --> 00:15:19.680
+manchmal so ein bisschen so das Bashing auf die Unbeweglichen oder Unflexiblen,
+
+00:15:19.680 --> 00:15:26.340
+die, das ist, das wäre nicht fair und auch zu einfach.
+
+00:15:26.340 --> 00:15:30.800
+Und ich finde es auch wichtig, dass man anerkennt, dass also viele Menschen, die ich erlebe,
+
+00:15:30.800 --> 00:15:38.440
+die dann zögern oder die auch nicht so sofort mitziehen, das auch aus der Erfahrung raus tun,
+
+00:15:38.440 --> 00:15:41.440
+dass oft vollmundig solche Dinge angepriesen werden und gesagt wird,
+
+00:15:41.440 --> 00:15:45.440
+so, jetzt werden wir, jetzt kommt die große Lean-Welle, jetzt kommt die große agile Welle,
+
+00:15:45.440 --> 00:15:48.730
+jetzt kommt die große selbstorganisierte Welle.
+
+00:15:48.730 --> 00:15:54.950
+Aber dass dann auch gar nicht in letzter Konsequenz oft auch von oben das wirklich so umgesetzt wird
+
+00:15:54.950 --> 00:15:59.400
+und dass die dann auch zu Recht sagen, so puh, und ich soll jetzt jedes Mal an mir arbeiten,
+
+00:15:59.400 --> 00:16:03.400
+aber irgendwie an anderer Stelle sehe ich das nicht so.
+
+00:16:03.400 --> 00:16:08.940
+Also meine umständliche Art und Weise zu versuchen, ein bisschen mehr Empathie zu zeigen,
+
+00:16:08.940 --> 00:16:15.190
+auch für die Leute, die sich da, die da auch Fragen haben und zögern und so.
+
+00:16:15.190 --> 00:16:20.950
+Aber ja, deine ursprüngliche Frage, ich glaube, dass das jeder kann, ja.
+
+00:16:20.950 --> 00:16:23.040
+Ich glaube nicht, dass das eine Persönlichkeitsfrage ist.
+
+00:16:23.040 --> 00:16:28.680
+Und wie würdest du die überzeugen, die vielleicht dann noch, wie du sagst, auch skeptisch sind?
+
+00:16:28.680 --> 00:16:35.500
+Wie würdest du da drangehen? Oder lässt sie einfach fallen?
+
+00:16:35.500 --> 00:16:43.220
+Ein bisschen von beidem. Also ich sag mal so, ich glaube, das eine ist,
+
+00:16:43.220 --> 00:16:53.110
+erleben lassen. Also viele Konflikte entstehen auch eher so ein bisschen in der Theorie oder so in der Vorstellung.
+
+00:16:53.110 --> 00:17:02.250
+Dass man sagt, die Leute denken ja dann, dass das was ganz anderes ist, als es vielleicht ist.
+
+00:17:02.250 --> 00:17:07.250
+Also weil sie sagen, Selbstorganisation ist Anarchie. Und dann sagen sie, auf Anarchie habe ich keine Lust.
+
+00:17:07.250 --> 00:17:12.250
+Oder sie sagen, Selbstorganisation bedeutet keine Führung. Und ich finde aber Führung wichtig und gut.
+
+00:17:12.250 --> 00:17:17.570
+Und dann ist es manchmal schwierig, dann zu sagen, naja, aber das ist es nicht.
+
+00:17:17.570 --> 00:17:20.570
+Und dann kann man irgendwie versuchen, sich das zu erklären.
+
+00:17:20.570 --> 00:17:27.260
+Oder man sagt halt, hey, lass uns das doch mal ausprobieren. Lass uns das doch mal in dem Bereich testen.
+
+00:17:27.260 --> 00:17:35.280
+Das hilft. Es hilft aber auch, auch ehrlich miteinander zu sein und zu sagen,
+
+00:17:35.280 --> 00:17:38.280
+also haben wir es auch bei uns in der Organisation erlebt. Es gab ein paar Leute.
+
+00:17:38.280 --> 00:17:43.690
+Es war jetzt zum Beispiel auch in unserem Fall auch aus dem amerikanischen Kulturkreis,
+
+00:17:43.690 --> 00:17:50.750
+die was so Mitbestimmung, Beteiligung und so angeht, noch mal viel skeptischer sind als wir in Europa.
+
+00:17:50.750 --> 00:17:57.100
+Und die dann gesagt haben, nee, das ist ihnen zu weit weg von dem, wie sie das erwarten würden.
+
+00:17:57.100 --> 00:18:07.020
+Und dann haben wir uns auch getrennt im Guten, im Respekt, aber auch so in der Erkenntnis so, nee, das hat irgendwie nicht gepasst.
+
+00:18:07.020 --> 00:18:12.240
+Und das kann und wird auch oft, glaube ich, passieren, wenn man sich da so auf den Weg macht,
+
+00:18:12.240 --> 00:18:18.640
+dass es Leute gibt, die das halt nicht mitgehen. Das gehört, finde ich, dazu.
+
+00:18:18.640 --> 00:18:25.940
+Und ich habe so ein bisschen rausgehört, dass man klein startet oder man kann natürlich beides machen.
+
+00:18:25.940 --> 00:18:29.940
+Man sagt irgendwie das nächste Change-Programm, jetzt machen wir Holokratie, jetzt machen wir.
+
+00:18:29.940 --> 00:18:34.940
+Weil ich so ein bisschen rausgehört habe, dass man vielleicht in Teilen erstmal guckt, passt das zu uns,
+
+00:18:34.940 --> 00:18:40.220
+für unser Team und dann irgendwie so sich so langsam rantastet, oder?
+
+00:18:40.220 --> 00:18:47.380
+Ja, das ist ein spannender Drahtseilakt. Auf der einen Seite ist Ausprobieren gut und hilfreich.
+
+00:18:47.380 --> 00:18:55.010
+Eben, wie gesagt, damit man was erlebt, damit man da nicht nur drüber redet, sondern das ausprobieren kann.
+
+00:18:55.010 --> 00:19:01.580
+Auf der anderen Seite, so ein ewiger Experimental-Status tut auch nicht gut.
+
+00:19:01.580 --> 00:19:08.910
+Also sozusagen zu lange, zu offen zu sein und immer zu sagen, ja, wir probieren dir noch ein bisschen was aus
+
+00:19:08.910 --> 00:19:10.910
+und da noch ein bisschen und mal gucken.
+
+00:19:10.910 --> 00:19:16.930
+Ich glaube, es braucht dann schon auch manchmal wirklich dann die klare,
+
+00:19:16.930 --> 00:19:22.920
+es braucht die klare Vision dann auch mal zu sagen, nein, das ist die generelle Richtung, in die wir wollen.
+
+00:19:22.920 --> 00:19:25.920
+Und das ist jetzt auch kein Experiment mehr. Das ist die Richtung, die wir gehen.
+
+00:19:25.920 --> 00:19:27.920
+Und zwar aus dem und dem und dem Grund.
+
+00:19:27.920 --> 00:19:33.520
+Und das ist ganz wichtig, weil es kostet viel Kraft und Energie, sich auf so eine Reise zu machen.
+
+00:19:33.520 --> 00:19:38.480
+Und man braucht halt schon diesen klaren Zug von so einem gemeinsamen Ziel und zu sagen so, okay.
+
+00:19:38.480 --> 00:19:43.600
+Und wenn man immer nur sagt, ah ja, wir probieren so ein bisschen lockerflockig was aus und so, das zieht nicht.
+
+00:19:43.600 --> 00:19:51.070
+Das, das verpufft dann irgendwann, weil das, ja, ich glaube, das nicht die ausreichende Konsequenz hat.
+
+00:19:51.070 --> 00:19:58.260
+Aber irgendwie doch muss auch jedes Team so ein bisschen selber gucken, was, also ich finde immer so,
+
+00:19:58.260 --> 00:20:03.260
+es gibt nicht diese One-Fits-All-Blueprint, weiß nicht was, zum Beispiel auch so mit Scrum.
+
+00:20:03.260 --> 00:20:08.390
+Hier macht man Scrum, aber das passt vielleicht gar nicht zum Team oder zu der Arbeitsweise.
+
+00:20:08.390 --> 00:20:12.450
+Jetzt würde ich so sagen, Holakratie ist das wahrscheinlich das bekannteste.
+
+00:20:12.450 --> 00:20:13.450
+Ja.
+
+00:20:13.450 --> 00:20:17.450
+Aber es gibt wahrscheinlich verschiedene. Wie würde man denn da so drangehen?
+
+00:20:17.450 --> 00:20:23.510
+Wird man erstmal sich verschiedene Modelle angucken, wie arbeiten die und dann sich so das Beste für sich, für das Team rauspicken?
+
+00:20:23.510 --> 00:20:30.780
+Ich bin absolut, deiner Meinung so, es gibt kein One-Side-Fits-All.
+
+00:20:30.780 --> 00:20:41.750
+Ich glaube, solche klaren Konzepte haben ihren großen Wert, also Scrum und Holakratie oder auch so Frameworks wie Safe oder Less,
+
+00:20:41.750 --> 00:20:45.780
+die dann Scrum nochmal auf eine Organisationsebene ausdifferenzieren.
+
+00:20:45.780 --> 00:20:48.740
+Die haben einen großen Wert, weil da steckt eine ganze Menge Wissen drin.
+
+00:20:48.740 --> 00:20:53.700
+Da steckt eine ganze Menge auch drin, was Leute schon mal ausprobiert haben, wo sie gemerkt haben,
+
+00:20:53.700 --> 00:20:59.610
+hey, das und das, so und so im Zusammenspiel mit diesen Rollen kann ganz gut funktionieren.
+
+00:20:59.610 --> 00:21:04.990
+Und das kann einem Team natürlich einen deutlich leichteren Einstieg geben,
+
+00:21:04.990 --> 00:21:09.990
+als wenn man sagt, man erarbeitet sich das selbst oder man fängt irgendwie bei null an.
+
+00:21:09.990 --> 00:21:14.780
+Und also ja, ich glaube, wo liegt die richtige Balance zwischen sozusagen,
+
+00:21:14.780 --> 00:21:22.100
+ich halte mich dann an das Lehrbuch, an die Scrum by the Book oder Scrum with the Flavor.
+
+00:21:22.100 --> 00:21:27.580
+Das hängt dann sehr stark, glaube ich, von dem Team ab, von der Größe der Organisation.
+
+00:21:27.580 --> 00:21:30.580
+Wie sehr haben die Interdependenzen, finde ich, ist auch wichtig.
+
+00:21:30.580 --> 00:21:38.060
+Also wenn das Beispiel, was ja gerne genommen wird, ist ja Spotify, die auch so ein eigenes Modell entwickelt haben
+
+00:21:38.060 --> 00:21:44.470
+und sehr dezentral agieren oder es dann ein Team gibt, was nur an der Suchfunktion arbeitet
+
+00:21:44.470 --> 00:21:48.750
+und die anderen arbeiten nur an der Discover Weekly Playlist.
+
+00:21:48.750 --> 00:21:54.170
+Und die haben sich so von Anfang an auch von ihrer Technologie aufgebaut, dass das möglich ist,
+
+00:21:54.170 --> 00:21:58.170
+dass jeder einzelne Teil der Applikation unabhängig voneinander gut funktioniert.
+
+00:21:58.170 --> 00:22:03.030
+Bei SAP Software zum Beispiel, wo ich ja arbeite, ist das halt anders.
+
+00:22:03.030 --> 00:22:10.030
+Die ganze Historie, das ist 50 Jahre alt, das Unternehmen, die Software ist jetzt nicht 50 Jahre alt,
+
+00:22:10.030 --> 00:22:13.030
+aber die ist gewachsen über die Zeit, die ganzen Use Cases etc.
+
+00:22:13.030 --> 00:22:17.060
+Da kannst du nicht sagen, okay, ihr kümmert euch nur um die Suchleiste
+
+00:22:17.060 --> 00:22:21.060
+und ihr kümmert euch nur um diese eine Funktionalität und dann macht das komplett, wie ihr wollt,
+
+00:22:21.060 --> 00:22:26.210
+weil das macht Spotify. Die sagen, arbeitet wie ihr wollt, Hauptsache es funktioniert.
+
+00:22:26.210 --> 00:22:30.230
+Auch wenn sie selber gar nicht mehr nach dem Spotify Modell arbeiten, oder?
+
+00:22:30.230 --> 00:22:37.900
+Ja, ja, ja, genau. Ich habe die mal da besucht in Stockholm, was sehr interessant war
+
+00:22:37.900 --> 00:22:41.900
+und das ist ja auch so ein bisschen so ein Hype und dann haben ganz viele gefragt,
+
+00:22:41.900 --> 00:22:44.900
+ja, und wie läuft das denn bei euch mit dem Spotify Modell?
+
+00:22:44.900 --> 00:22:50.620
+Und die haben halt gesagt, das hat mal so ein Berater aufgemalt in einem Whiteboard,
+
+00:22:50.620 --> 00:22:54.620
+das ist total viral gegangen, alle haben sich das angeschaut, aber wir arbeiten selber gar nicht mehr so.
+
+00:22:54.620 --> 00:23:01.700
+Das ist ja schon zig Jahre her und so, das fand ich dann eigentlich ganz erfrischend zu hören.
+
+00:23:01.700 --> 00:23:08.080
+Gibt es denn da auch, wie die jetzt arbeiten, wenn man das sehen kann, oder ist das geheim?
+
+00:23:08.080 --> 00:23:11.300
+Ist auch nicht sehr viel anders als das ursprünglich?
+
+00:23:11.300 --> 00:23:18.650
+Also, wäre auch interessant, ich meine, Vermutung wäre, das ist dann nicht mehr so knackig erzählt,
+
+00:23:18.650 --> 00:23:25.060
+weil das halt einfach relativ komplex und auch unterschiedlich ist, aber ich habe die schon so verstanden,
+
+00:23:25.060 --> 00:23:31.320
+dass sie sich schon, die wachsen ja auch immer weiter und das wird immer größer und dass sie sich schon auch
+
+00:23:31.320 --> 00:23:36.700
+in manchen Stellen wieder ein bisschen mehr Strukturen geben, als sie es in der Vergangenheit gemacht haben.
+
+00:23:36.700 --> 00:23:43.450
+Einfach um so dieser, wenn man sich sehr stark selbstorganisiert, ist das wie so eine Zentrifuge,
+
+00:23:43.450 --> 00:23:47.790
+es kann die Sachen so auseinander ziehen und man braucht schon immer wieder so,
+
+00:23:47.790 --> 00:23:52.810
+man muss schon immer wieder auch die Balance finden zu sagen, okay, wie viel Struktur ist dann doch wichtig
+
+00:23:52.810 --> 00:23:59.500
+oder wie viel Abstimmung, Steuerung und da haben die dann schon also sowas wie Chief Product Owner
+
+00:23:59.500 --> 00:24:04.560
+und sowas angefangen einzuführen, die dann nochmal auf einer Ebene drüber koordinieren
+
+00:24:04.560 --> 00:24:08.560
+und was sie eigentlich vorher nicht machen wollten und sich immer gegen gewährt hatten
+
+00:24:08.560 --> 00:24:10.560
+und dann irgendwann haben sie es doch gemacht.
+
+00:24:10.560 --> 00:24:13.740
+Also noch so ein bisschen die Hierarchie dann oder?
+
+00:24:13.740 --> 00:24:19.740
+Ja, eben ja, aber genau das ist es ja. Also da nicht dann auch sozusagen falsche Scheu haben und sagen so,
+
+00:24:19.740 --> 00:24:23.990
+ja, wir glauben zwar, dass das bräuchte, aber weil wir irgendwie Idealisten sind,
+
+00:24:23.990 --> 00:24:28.270
+was die Selbstorganisation angeht, dürfen wir das nicht. Das wäre doch blöd.
+
+00:24:28.270 --> 00:24:35.490
+Ja, ja, ist total nachvollziehbar. Es passiert uns auch immer noch, glaube ich.
+
+00:24:35.490 --> 00:24:40.030
+Aber ja, ich glaube, da liegt die Kunst so ein bisschen drin.
+
+00:24:40.030 --> 00:24:44.030
+Gibt es denn da irgendwie so Limits? Klar, so in kleinen Startup oder mittelständischen
+
+00:24:44.030 --> 00:24:48.120
+ist das wahrscheinlich einfacher durchzusetzen als das vielleicht so ein Riesenunternehmen
+
+00:24:48.120 --> 00:24:53.270
+oder ist das mit Selbstorganisation eigentlich, gibt es da Fälle, auch so richtig großen Unternehmen?
+
+00:24:53.270 --> 00:24:58.150
+Also die Frage ist jetzt ein bisschen, was du meinst.
+
+00:24:58.150 --> 00:25:08.510
+Also ich glaube, es gibt ja selbstorganisierte Prozesse und Ansätze auch innerhalb von einer Organisation,
+
+00:25:08.510 --> 00:25:13.510
+die von ihrer formellen Organisationsstruktur eher klassisch-hierarchisch aufgesetzt ist.
+
+00:25:13.510 --> 00:25:17.660
+Aber gewisse Themen und Prozesse funktionieren selbstorganisierter.
+
+00:25:17.660 --> 00:25:28.700
+Also zum Beispiel gibt es jetzt bei Google klassische Hierarchien, eine klassische Organisationsstruktur.
+
+00:25:28.700 --> 00:25:36.020
+Aber in deren Fall ist es zum Beispiel so, dass sehr viel Verantwortung bei den Fachleuten liegt,
+
+00:25:36.020 --> 00:25:41.560
+bei den Product Ownern und nicht nur bei den Managern, um dem einen Gegenpol zu geben.
+
+00:25:41.560 --> 00:25:44.560
+Das heißt, die verteilen dann in dem Moment Führung schon anders.
+
+00:25:44.560 --> 00:25:57.150
+Oder auch so Dinge wie das interne Designstandards, interne Optimierung von Produkten läuft eher über Communities.
+
+00:25:57.150 --> 00:26:01.850
+Auch da hast du dann wieder Leute, die da mehr Verantwortung übernehmen.
+
+00:26:01.850 --> 00:26:08.000
+Aber du hast nicht jetzt eine Person, der das alles verantwortet und wenn der ausgetauscht ist,
+
+00:26:08.000 --> 00:26:12.000
+dann wackelt das ganze Gerüst. So ist es zumindest in vielen großen Organisationen.
+
+00:26:12.000 --> 00:26:17.310
+Sondern halt Netzwerke von Menschen, Fachleuten, Experten.
+
+00:26:17.310 --> 00:26:23.490
+Und das ist dann zwar formal strukturell eine Hierarchie, aber an wichtigen Stellen.
+
+00:26:23.490 --> 00:26:25.540
+Verteilte Führung, Denken im Netzwerk.
+
+00:26:25.540 --> 00:26:31.600
+Alles, was für mich sozusagen Manifestationen von einer stärker selbstorganisierten Arbeitsweise ist.
+
+00:26:31.600 --> 00:26:36.840
+Gibt es jetzt dieses eine Paradebeispiel Unternehmen?
+
+00:26:36.840 --> 00:26:43.950
+Nein, weil es sind halt Mischformen. So verstehe ich das im Moment.
+
+00:26:43.950 --> 00:26:50.070
+Okay, ja. Ja, ich finde das immer verrückt, höre ich immer von ganz vielen oder auch bei uns im Unternehmen,
+
+00:26:50.070 --> 00:26:55.320
+dass eine Person, wenn die mal krank ist oder weg ist, dass das ganze Wissen weg ist
+
+00:26:55.320 --> 00:26:58.320
+und dann irgendwie kein anderer das machen kann. Das kann doch nicht wahr sein.
+
+00:26:58.320 --> 00:27:04.320
+Auch das wird nirgendwo dokumentiert. Und das hatte ich jetzt gerade bei so einem mittelständischen Freund-Arbeiter.
+
+00:27:04.320 --> 00:27:08.770
+Und wenn der weg ist, dann läuft da eigentlich fast so die ganze IT nicht mehr.
+
+00:27:08.770 --> 00:27:11.770
+Irgendwie ist ja nicht so gut.
+
+00:27:11.770 --> 00:27:22.670
+Ja, das ist krass. Das ist sehr riskant und ich glaube auch sehr teuer. Und das sieht man nur nicht so.
+
+00:27:22.670 --> 00:27:31.070
+Also eine Sache, die mich immer wieder nach zehn Jahren im Konzern immer noch überrascht ist,
+
+00:27:31.070 --> 00:27:40.920
+wie mit welcher Selbstverständlichkeit einerseits irgendwo Personen ausgetauscht werden in oberen Führungsetagen
+
+00:27:40.920 --> 00:27:46.620
+und auf der anderen Seite Organisationen hin und her und umstrukturiert werden.
+
+00:27:46.620 --> 00:27:53.610
+Und aus meiner Erfahrung ist das so, also wenn man immer wieder sagt,
+
+00:27:53.610 --> 00:27:57.610
+guck mal, wie wichtig es ist, wie deine Struktur ist, guck mal, wie wichtig es ist, wer dein Manager ist
+
+00:27:57.610 --> 00:28:03.270
+und diese aber immer wieder austauscht, dann hast du irgendwie so ein Konstrukt,
+
+00:28:03.270 --> 00:28:09.360
+wo du etwas immer wieder entwertest, also nämlich diese Führungsrolle und diese Struktur
+
+00:28:09.360 --> 00:28:12.360
+und aber trotzdem versuchst darüber ganz viel zu steuern.
+
+00:28:12.360 --> 00:28:18.040
+Und das geht meiner Meinung nach voll in die Hose und es kostet viel.
+
+00:28:18.040 --> 00:28:22.860
+Und genau, dazu gehört auch, ja, wenn ich alles auf eine Karte setze
+
+00:28:22.860 --> 00:28:30.210
+und diese Person ist krank oder geht oder sonst was, dann sieht es schlecht aus.
+
+00:28:30.210 --> 00:28:33.800
+Ja, das sehe ich auch manchmal in so Meetings, wenn dann die Führungskraft mal krank ist.
+
+00:28:33.800 --> 00:28:37.800
+Und wenn nur retro sollte das ja eigentlich nicht sein, aber dann passiert da nichts.
+
+00:28:37.800 --> 00:28:46.150
+Keiner übernimmt dann mal kurz die Führung, aber finde ich auch immer ein bisschen komisch.
+
+00:28:46.150 --> 00:28:49.400
+Aber ich glaube, es hat auch viel so mit Vertrauen.
+
+00:28:49.400 --> 00:28:55.580
+Also wenn immer die Führungskraft wechselt, hast ja auch das Vertrauen zu den neuen Personen irgendwie fehlt.
+
+00:28:55.580 --> 00:28:59.960
+Aber auch, ich weiß nicht, die Führungskraft kennen natürlich auch die Mitarbeiter und Mitarbeiterinnen nicht.
+
+00:28:59.960 --> 00:29:08.710
+Ich glaube auch das Vertrauen ist ja auch dieser Research da von Google mit psychologischer Sicherheit,
+
+00:29:08.710 --> 00:29:12.680
+dass das halt einer der entscheidenden Punkte ist so für High-Performance-Teams.
+
+00:29:12.680 --> 00:29:19.530
+Ja, ich finde das schon, also ist inzwischen so, haben das viele gehört und gesehen.
+
+00:29:19.530 --> 00:29:25.230
+Aber wenn man nochmal drüber nachdenkt, woran liegt denn das eigentlich? Was meinst du denn?
+
+00:29:25.230 --> 00:29:29.440
+Also warum ist psychologische Sicherheit so wichtig für Leistung?
+
+00:29:29.440 --> 00:29:36.200
+Ich könnte ja auch einfach Vollgas geben, sozusagen im Sinne meiner Karriere oder aus anderen Gründen.
+
+00:29:36.200 --> 00:29:38.290
+Aber warum ist das so wichtig? Was meinst du?
+
+00:29:38.290 --> 00:29:43.860
+Ja, man kann halt sich weiterentwickeln, wenn man immer die Fehler vertuscht,
+
+00:29:43.860 --> 00:29:48.050
+nur damit man weiterkommt und sich nicht traut, da ist ja glaube ich diese psychologische,
+
+00:29:48.050 --> 00:29:51.050
+dass man traut auch Fehler zuzugeben oder offen anzusprechen,
+
+00:29:51.050 --> 00:29:57.080
+ohne die Konsequenz zu fürchten, dass man entlassen wird oder irgendwelche anderen Konsequenzen hat.
+
+00:29:58.110 --> 00:30:02.450
+Ja, man probiert viel mehr aus, man experimentiert viel mehr, wenn man immer denkt,
+
+00:30:02.450 --> 00:30:06.450
+okay, wenn ich das jetzt mache und das geht schief, verliere ich meinen Job
+
+00:30:06.450 --> 00:30:09.450
+oder kriege irgendwie sonst, er kriegt meinen Bonus nicht.
+
+00:30:09.450 --> 00:30:14.470
+Das finde ich auch immer sehr interessant mit diesem Bonussystem.
+
+00:30:14.470 --> 00:30:19.760
+Auch so für ein Jahr dann irgendwelche Jahresziele und dann ändert sich irgendwas
+
+00:30:19.760 --> 00:30:22.760
+und dann arbeitest du aber trotzdem an den Jahreszielen, weil du deinen Bonus haben willst.
+
+00:30:22.760 --> 00:30:28.130
+Und das Rest, was eigentlich viel wichtiger ist, bearbeitest du gar nicht mehr.
+
+00:30:28.130 --> 00:30:31.770
+Das finde ich auch total strange, muss ich sagen.
+
+00:30:31.770 --> 00:30:40.380
+Ja, für mich ist so die, also das Menschenbild, was dem zugrunde liegt,
+
+00:30:40.380 --> 00:30:50.260
+wenn ich höre, dass Google eben, eigentlich wollten die gerne eine Formel entwickeln,
+
+00:30:50.260 --> 00:30:53.260
+wie sie das perfekte Team zusammenstellen können.
+
+00:30:53.260 --> 00:30:57.260
+Die wollen gerne das so programmieren, nachvollziehbarerweise, Softwareunternehmen.
+
+00:30:57.260 --> 00:31:03.720
+Und haben dann festgestellt, Mist, das sind ja doch soziale Wesen und keine Maschinen.
+
+00:31:03.720 --> 00:31:06.750
+Und was brauchen diese sozialen Wesen?
+
+00:31:06.750 --> 00:31:14.510
+Letztendlich eine Verantwortungskultur und eine Leistungskultur in einem Team.
+
+00:31:14.510 --> 00:31:16.500
+Und wie entsteht die?
+
+00:31:16.500 --> 00:31:24.010
+Naja, die Grundzutat ist halt ein gegenseitiges Vertrauen, gegenseitige Offenheit und auch Verletzlichkeit,
+
+00:31:24.010 --> 00:31:27.780
+weil wir dann die Masken ablegen und ehrlich miteinander reden.
+
+00:31:27.780 --> 00:31:29.780
+Und dann können wir auch Vollgas geben.
+
+00:31:29.780 --> 00:31:36.080
+Und wenn man sich jetzt Hochleistungsteams anschaut, auch im Sport oder so,
+
+00:31:36.080 --> 00:31:42.430
+dann merkt man halt, ja, die richtig guten Teams, die das auch auf Dauer was leisten,
+
+00:31:42.430 --> 00:31:45.710
+man kann sich nicht vorstellen, dass die irgendwie alle nur nett zueinander sind
+
+00:31:45.710 --> 00:31:52.920
+oder dass die irgendwie, ja, jeder sich nur für sich interessiert,
+
+00:31:52.920 --> 00:31:59.240
+sondern füreinander, offen miteinander und dann fühlen die sich auch mitverantwortlich.
+
+00:31:59.240 --> 00:32:02.520
+Und das finde ich das Spannende daran.
+
+00:32:02.520 --> 00:32:09.340
+Also ein schöner Begriff, der gerade auch viel bei uns, auch bei SAP diskutiert wird,
+
+00:32:09.340 --> 00:32:13.620
+so psychologische Sicherheit ist, ob man es jetzt aber Vertrauen nennt
+
+00:32:13.620 --> 00:32:17.260
+oder naja, also vielleicht auch ein bisschen schon mal da gewesen,
+
+00:32:17.260 --> 00:32:20.480
+aber dann kommt es halt nochmal, das ist auch gut.
+
+00:32:20.480 --> 00:32:25.570
+Ja, aber auch hier, ich glaube, da ist auch immer, denke ich so bei Selbstorganisation,
+
+00:32:25.570 --> 00:32:31.050
+dann, wenn ich jetzt auch merke, je größeres Team, desto mehr natürlich Background,
+
+00:32:31.050 --> 00:32:35.170
+mehr Sichtweisen, mehr, natürlich dann auch sehr viel, wahrscheinlich auch so sehr,
+
+00:32:35.170 --> 00:32:42.230
+braucht man wahrscheinlich eine gute Streitkultur oder wie findet man da irgendwie so eine gemeinsame Lösung?
+
+00:32:42.230 --> 00:32:47.190
+Konsens, weiß ich nicht was, merke ich immer wieder, das ist sehr, sehr schwer,
+
+00:32:47.190 --> 00:32:52.540
+weil irgendwie jeder ja auch, man will eigentlich auch diese Diversität haben im Team,
+
+00:32:52.540 --> 00:32:56.820
+weil das natürlich auch gut ist und man da andere Perspektiven reinnimmt,
+
+00:32:56.820 --> 00:32:59.780
+aber es ist natürlich auch schwer, wenn alle aufeinander klatschen
+
+00:32:59.780 --> 00:33:05.160
+und dann irgendwie man eigentlich so was erreichen will, irgendwie eine Entscheidung oder ähnliches.
+
+00:33:05.160 --> 00:33:09.050
+Wie kann man denn damit irgendwie umgehen?
+
+00:33:09.050 --> 00:33:14.420
+Ja, ich muss gerade, als du so, Spaß fiel mir die Situation ein,
+
+00:33:14.420 --> 00:33:22.240
+als ich vor fünf Jahren ungefähr das erste Mal auch in so einem recht konsequent,
+
+00:33:22.240 --> 00:33:27.300
+selbstorganisiert arbeitenden Team war und da ein halbes Jahr lang mitgearbeitet habe.
+
+00:33:27.300 --> 00:33:31.550
+Es war innerhalb der SAP so eine Innovationsberatung,
+
+00:33:31.550 --> 00:33:35.580
+so ein bisschen so eine Enklave, sage ich mal.
+
+00:33:35.580 --> 00:33:38.670
+Und ich dachte, ich komme da rein und da ist jetzt irgendwie super Stimmung
+
+00:33:38.670 --> 00:33:42.670
+und alle sind total cool und locker und so.
+
+00:33:42.670 --> 00:33:45.670
+Und ich kam da rein und da flogen richtig die Fetzen, also im guten Sinne.
+
+00:33:45.670 --> 00:33:47.630
+Aber ich war das überhaupt nicht gewohnt.
+
+00:33:47.630 --> 00:33:49.630
+Ich war so, ich kam auch so aus dem HR.
+
+00:33:49.630 --> 00:33:55.790
+Da war es immer ein bisschen alle auch sehr vorsichtig und behutsam im Umgang miteinander.
+
+00:33:55.790 --> 00:34:01.430
+Da habe ich plötzlich gemerkt, wow, die gehen in der Sache ganz schön zur Sache.
+
+00:34:01.430 --> 00:34:05.910
+Und das war ich gar nicht gewohnt und hatte ich auch gar nicht so erwartet.
+
+00:34:05.910 --> 00:34:10.020
+Aber das ist, so ist das, also weil die Menschen plötzlich offen,
+
+00:34:10.020 --> 00:34:13.020
+weil dann plötzlich einer sich hinstellt und sagt, nee, finde ich gut.
+
+00:34:13.020 --> 00:34:17.710
+Oder nee, also da hast du mich jetzt gerade komplett verloren, verstehe ich nicht so.
+
+00:34:17.710 --> 00:34:23.670
+Und in so einer, so einer, ja, wenn man keine gute Streitkultur hat,
+
+00:34:23.670 --> 00:34:26.630
+dann spricht man das sowas nicht an, sondern lässt man den halt reden
+
+00:34:26.630 --> 00:34:30.630
+und denkt sich das und geht hinterher aus dem Meeting und lästert.
+
+00:34:30.630 --> 00:34:36.030
+Das ist jetzt etwas provokant ausgedrückt.
+
+00:34:36.030 --> 00:34:39.590
+Aber ich finde eigentlich auch so, ich finde Harmonie,
+
+00:34:39.590 --> 00:34:44.610
+man mag halt total, wenn es harmonisch ist und dann natürlich diese Streitkultur.
+
+00:34:44.610 --> 00:34:47.610
+Ja, wie du sagst, wenn dann die Sicherheit da ist oder man sich sicher fühlt,
+
+00:34:47.610 --> 00:34:53.210
+dann macht man vielleicht nicht so, was man dem anderen irgendwie so,
+
+00:34:53.210 --> 00:34:58.210
+der Schnauze bei dem anderen sozusagen redet und sagt, okay, du hast recht.
+
+00:34:58.210 --> 00:35:05.730
+Dann kommt das vielleicht auch diese Klarheit in diese Meetings rein.
+
+00:35:05.730 --> 00:35:11.320
+Ja, und noch ein Gedanke war, du hast ja auch das Thema Vielfalt angesprochen gerade.
+
+00:35:11.320 --> 00:35:15.380
+Ist auch so ein Ding, also mehr Vielfalt ist nicht automatisch besser, finde ich.
+
+00:35:15.380 --> 00:35:18.340
+Also und hat auch, glaube ich, einiges an Forschung gezeigt,
+
+00:35:18.340 --> 00:35:22.260
+weil es eben schwieriger zu integrieren ist.
+
+00:35:22.260 --> 00:35:26.870
+Also homogene Teams haben es in mancher Hinsicht leichter.
+
+00:35:26.870 --> 00:35:30.220
+Aber trotzdem lohnt sich Vielfalt.
+
+00:35:30.220 --> 00:35:34.470
+Aber nur, wenn man es schafft, sie auch wirklich abzuholen, einzubinden
+
+00:35:34.470 --> 00:35:38.470
+und dann auch eine entsprechende Streitkultur hat, weil nur Leute einstellen,
+
+00:35:38.470 --> 00:35:41.440
+die dann irgendwie ein anderes Geschlecht haben,
+
+00:35:41.440 --> 00:35:44.440
+einen anderen kulturellen Hintergrund oder sonst was,
+
+00:35:44.440 --> 00:35:48.440
+als es sozusagen normalerweise üblich wäre für diese oder jene Rolle,
+
+00:35:48.440 --> 00:35:52.630
+heißt noch lange nicht, dass da diese Vielfalt zu Wort kommt.
+
+00:35:52.630 --> 00:35:57.100
+Und das nervt mich manchmal so ein bisschen an dieser ganzen Debatte,
+
+00:35:57.100 --> 00:35:59.100
+wo es dann hauptsächlich darum geht,
+
+00:35:59.100 --> 00:36:04.130
+saß da jetzt irgendwie jemand, der eine bestimmte Gruppe repräsentiert hat,
+
+00:36:04.130 --> 00:36:06.270
+auch mit am Tisch? Das ist die Frage.
+
+00:36:06.270 --> 00:36:11.810
+Aber die Frage, wurden die vielen verschiedenen Perspektiven,
+
+00:36:11.810 --> 00:36:14.810
+die da potenziell im Raum sind, irgendwie gehört?
+
+00:36:14.810 --> 00:36:16.940
+So weit kommt man da gar nicht, ehrlich gesagt.
+
+00:36:16.940 --> 00:36:20.130
+Verstehe ich auch, ist auch schwierig, aber nervt mich trotzdem.
+
+00:36:20.130 --> 00:36:22.740
+Kann man das denn irgendwie fördern?
+
+00:36:22.740 --> 00:36:25.740
+Vielleicht, dass die Führungskraft oder irgendjemand dann immer sagt,
+
+00:36:25.740 --> 00:36:28.120
+ja, ist denn deine Perspektive dazu?
+
+00:36:28.120 --> 00:36:30.120
+Ob das man dadurch das so ein bisschen fördern kann,
+
+00:36:30.120 --> 00:36:34.400
+dass diese Perspektivvielfalt dann auch einfließt?
+
+00:36:34.400 --> 00:36:42.750
+Natürlich. Also, ich denke da gerade, wir haben gerade das Thema
+
+00:36:42.750 --> 00:36:47.830
+hybrides Arbeiten und Meetings ist in aller Munde gerade,
+
+00:36:47.830 --> 00:36:50.830
+weil wir jetzt alle wieder so halb zurück ins Büro gehen,
+
+00:36:50.830 --> 00:36:52.890
+aber eben halt nur so halb.
+
+00:36:52.890 --> 00:36:55.980
+Und dann ging es viele auch bei uns jetzt um die Frage,
+
+00:36:55.980 --> 00:37:00.070
+ja, wir haben so viele Meetings und das ist alles so,
+
+00:37:00.070 --> 00:37:02.070
+auch nicht so einfach im hybriden Setting.
+
+00:37:02.070 --> 00:37:05.480
+Und die meisten Ratschläge, die ich dann höre,
+
+00:37:05.480 --> 00:37:08.480
+ist ja, mach weniger Meetings, mach noch schnellere Meetings,
+
+00:37:08.480 --> 00:37:11.640
+mach noch mehr die Agenda vorneweg klar und
+
+00:37:11.640 --> 00:37:14.800
+also sozusagen noch mehr vom Alten.
+
+00:37:14.800 --> 00:37:17.950
+Und ich glaube, ich brauche halt ein neues Verständnis auch
+
+00:37:17.950 --> 00:37:20.950
+von Dialog und Begegnung und Auseinandersetzung.
+
+00:37:20.950 --> 00:37:24.080
+Das heißt, mehr Offenheit, mehr im Moment sein,
+
+00:37:24.080 --> 00:37:27.430
+mehr zuhören und das bedeutet dann jetzt,
+
+00:37:27.430 --> 00:37:29.430
+wie du gerade sagtest, wie kann ich dafür sorgen,
+
+00:37:29.430 --> 00:37:31.430
+dass auch solche Stimmen gehört werden.
+
+00:37:31.430 --> 00:37:36.390
+Wenn ich ein Abteilungsmeeting von Anfang an so gestalte,
+
+00:37:36.390 --> 00:37:40.540
+dass die Leute, die dabei sind, das mitgestalten,
+
+00:37:40.540 --> 00:37:42.990
+dann entsteht vielleicht was ganz anderes,
+
+00:37:42.990 --> 00:37:45.990
+als wenn ich das von vornherein schon durchstrukturiere,
+
+00:37:45.990 --> 00:37:49.020
+alles schon auf PowerPoint fertig habe
+
+00:37:49.020 --> 00:37:51.020
+und dann nur noch so durchorchestriere.
+
+00:37:51.020 --> 00:37:53.720
+Also Vielfalt heißt für mich nicht,
+
+00:37:53.720 --> 00:37:56.900
+heißt dann eben auch mehr ins Risiko gehen
+
+00:37:56.900 --> 00:37:59.920
+und vielleicht riskieren, dass jemand ein Meeting torpediert,
+
+00:37:59.920 --> 00:38:03.980
+was gar nicht so geplant war.
+
+00:38:03.980 --> 00:38:04.980
+Entorpedieren im Sinne von,
+
+00:38:04.980 --> 00:38:06.980
+ja, ich habe da aber vielleicht eine andere Meinung.
+
+00:38:06.980 --> 00:38:09.650
+Also weg von dieser Idee,
+
+00:38:09.650 --> 00:38:12.870
+wir spielen so ein schönes flüssiges Schauspiel ab,
+
+00:38:12.870 --> 00:38:15.840
+alles schön vorgeplant und durchorchestriert.
+
+00:38:15.840 --> 00:38:19.590
+Jo, aber wo ist der Mehrwert?
+
+00:38:19.590 --> 00:38:21.880
+Da sind wir gerade viel in dem Thema,
+
+00:38:21.880 --> 00:38:24.480
+deswegen kam ich drauf.
+
+00:38:24.480 --> 00:38:27.450
+Also bei uns heißt das dann Co-Creation
+
+00:38:27.450 --> 00:38:33.820
+oder, ja, offene Agenda, offene, ja, stärker den Prozess moderieren,
+
+00:38:33.820 --> 00:38:36.080
+aber den Inhalt offener lassen.
+
+00:38:36.080 --> 00:38:39.140
+Das sind alles so Dinge, die mir dazu, glaube ich, einfallen würden.
+
+00:38:39.140 --> 00:38:42.060
+Ja, oder wie du gesagt hast, so das Meeting strukturieren,
+
+00:38:42.060 --> 00:38:46.060
+das, wir hatten auch schon mal eine Folge zu Liberating Structures,
+
+00:38:46.060 --> 00:38:47.060
+ist ja auch so ein bisschen,
+
+00:38:47.060 --> 00:38:50.210
+dass man versucht, jeden mit einzubinden, jede Idee
+
+00:38:50.210 --> 00:38:54.210
+und diese Struktur von dem Meeting allein schon mal,
+
+00:38:54.210 --> 00:38:56.210
+dass das so jeden abholt, sozusagen.
+
+00:38:56.210 --> 00:38:59.210
+Genau, das ist genau die, da gibt es richtig coole Praktiken
+
+00:38:59.210 --> 00:39:03.240
+von dem Liberating Structures, die bei sowas helfen, genau.
+
+00:39:03.240 --> 00:39:08.480
+Sonst, ich glaube auch irgendwie,
+
+00:39:08.480 --> 00:39:11.480
+vielleicht so deine Meinung dazu, dieser Reorganisation,
+
+00:39:11.480 --> 00:39:15.800
+das ist ja, ich finde auch so, Selbstorganisation ist ja auch,
+
+00:39:15.800 --> 00:39:20.600
+man arbeitet ja eigentlich ständig an seiner eigenen Organisation weiter
+
+00:39:20.600 --> 00:39:26.140
+und man braucht nicht mehr diese großen Reorgs von Unternehmen,
+
+00:39:26.140 --> 00:39:29.140
+was jetzt wahrscheinlich alle paar Jahre kommt,
+
+00:39:29.140 --> 00:39:31.260
+weil sich die Welt immer weiter verändert
+
+00:39:31.260 --> 00:39:34.220
+und das ist natürlich sehr stressig so immer für alle,
+
+00:39:34.220 --> 00:39:36.220
+dann bist du wieder in einem neuen Team,
+
+00:39:36.220 --> 00:39:38.220
+bist wieder eine neue Aufgabe, hast wieder einen neuen Namen,
+
+00:39:38.220 --> 00:39:39.220
+das habe ich jetzt auch schon ein paar Mal erlebt,
+
+00:39:39.220 --> 00:39:41.410
+hat man irgendwie, einmal heißt man so,
+
+00:39:41.410 --> 00:39:45.690
+dann ein Jahr später, dann soll man für diese neue Team,
+
+00:39:45.690 --> 00:39:47.690
+für die neue Marke dann widerstehen,
+
+00:39:47.690 --> 00:39:49.690
+dieser Identitätsverlust ist dann auch da.
+
+00:39:49.690 --> 00:39:54.030
+Ist das bei so Selbstorganisation anders, besser
+
+00:39:54.030 --> 00:39:59.500
+oder wie siehst du das, braucht man da trotzdem so ein Re-Org dann irgendwann nochmal?
+
+00:39:59.500 --> 00:40:04.170
+Ich denke schon, dass du auch, dass es,
+
+00:40:04.170 --> 00:40:07.380
+es gibt vielleicht die Makrostruktur
+
+00:40:07.380 --> 00:40:10.380
+oder die Mikrostrukturen, also,
+
+00:40:10.380 --> 00:40:15.080
+und dass du auch manchmal am großen Rad drehen musst,
+
+00:40:15.080 --> 00:40:18.080
+je nachdem wie groß die Organisation ist und sagen musst so,
+
+00:40:18.080 --> 00:40:21.240
+wir bauen einen ganz neuen Bereich auf
+
+00:40:21.240 --> 00:40:24.300
+oder wir schließen auch mal einen Bereich,
+
+00:40:24.300 --> 00:40:26.300
+das ist man ja auch manchmal eher zurückhaltend,
+
+00:40:26.300 --> 00:40:28.300
+dass alles noch immer weiter läuft,
+
+00:40:28.300 --> 00:40:30.300
+ist auch nicht so einfach dann aber zu sagen,
+
+00:40:30.300 --> 00:40:32.390
+nee, wir überführen das,
+
+00:40:32.390 --> 00:40:34.370
+wir geben dem einen neuen Fokus,
+
+00:40:34.370 --> 00:40:37.220
+das glaube ich gerade in einem,
+
+00:40:37.220 --> 00:40:39.410
+also ich glaube, es wäre ein Fehler jetzt zu sagen,
+
+00:40:39.410 --> 00:40:41.410
+mach das auf keinen Fall und bau darauf,
+
+00:40:41.410 --> 00:40:43.410
+dass es immer nur kleine Zellen sind,
+
+00:40:43.410 --> 00:40:45.540
+die sich irgendwie anpassen.
+
+00:40:45.540 --> 00:40:47.950
+Ich glaube, das reicht nicht.
+
+00:40:47.950 --> 00:40:49.950
+Aber wenn die,
+
+00:40:49.950 --> 00:40:52.230
+wenn ich jetzt mal beispielsweise,
+
+00:40:52.230 --> 00:40:54.420
+ich habe ja jetzt irgendwie viele Jahre
+
+00:40:54.420 --> 00:40:56.420
+in der Personalabteilung gearbeitet
+
+00:40:56.420 --> 00:40:58.420
+und da viele auch Umstrukturierungen erlebt
+
+00:40:58.420 --> 00:41:00.550
+und auch mit vielen,
+
+00:41:00.550 --> 00:41:01.550
+auch oft aus guten Gründen
+
+00:41:01.550 --> 00:41:03.550
+und strategisch klug aufgesetzt,
+
+00:41:03.550 --> 00:41:06.050
+aber auch,
+
+00:41:06.050 --> 00:41:10.170
+also was mir aber ein bisschen gefehlt hat,
+
+00:41:10.170 --> 00:41:13.300
+war, dass die Personalabteilung von sich raus
+
+00:41:13.300 --> 00:41:17.580
+sich angepasst hat an die sich verändernden Bedürfnisse
+
+00:41:17.580 --> 00:41:20.610
+der Menschen da draußen, ihrer Klienten,
+
+00:41:20.610 --> 00:41:23.610
+sondern dass es sozusagen so war,
+
+00:41:23.610 --> 00:41:24.610
+okay, wir haben Modell A
+
+00:41:24.610 --> 00:41:26.800
+und wir arbeiten jetzt in Modell A
+
+00:41:26.800 --> 00:41:28.800
+und auch wenn wir immer wieder das Gefühl haben,
+
+00:41:28.800 --> 00:41:29.800
+das passt vorne und hinten nicht,
+
+00:41:29.800 --> 00:41:30.800
+wir bleiben in Modell A,
+
+00:41:30.800 --> 00:41:31.760
+anstatt mal zu sagen,
+
+00:41:31.760 --> 00:41:33.760
+okay, lass uns mal stellenweise hier ausprobieren,
+
+00:41:33.760 --> 00:41:36.760
+wie könnte denn jetzt eine Alternative aussehen,
+
+00:41:36.760 --> 00:41:39.760
+also eine neue Interpretation des HR-Business-Partners
+
+00:41:39.760 --> 00:41:41.760
+zum Beispiel als so eine Rolle
+
+00:41:41.760 --> 00:41:45.270
+und stattdessen gab es dann lieber so ruckartig Umbau
+
+00:41:45.270 --> 00:41:49.020
+und da gibt es, glaube ich, eine bessere Mischung.
+
+00:41:49.020 --> 00:41:56.860
+Das heißt, so Selbstorganisation schützt nicht vor solchen Prozessen irgendwie?
+
+00:41:56.860 --> 00:42:01.040
+Ich weiß es nicht.
+
+00:42:01.040 --> 00:42:06.100
+Also würde ich super gerne mal ausprobieren.
+
+00:42:06.100 --> 00:42:07.100
+Was würde passieren,
+
+00:42:07.100 --> 00:42:12.090
+wenn man jetzt in einer Organisation ein Re-Org-Moratorium verhängen würde
+
+00:42:12.090 --> 00:42:17.090
+und stattdessen massiv in die Selbstorganisationskräfte und Kompetenzen investieren würde?
+
+00:42:17.090 --> 00:42:20.110
+Müsste man sich nochmal genauer überlegen, wie das funktionieren kann?
+
+00:42:20.110 --> 00:42:22.200
+Wahrscheinlich sollte man das nicht gleichzeitig machen,
+
+00:42:22.200 --> 00:42:26.580
+sondern vorbereiten oder so und sagen, wir machen jetzt ein Jahr,
+
+00:42:26.580 --> 00:42:30.710
+ja, üben wir das und dann sagen wir so, jetzt ein Jahr wird nichts umgebaut.
+
+00:42:30.710 --> 00:42:34.970
+Und das mal zu schauen, was macht das denn mit der Organisation,
+
+00:42:34.970 --> 00:42:37.970
+fände ich, das wäre radikal und vielleicht auch gar nicht sinnvoll,
+
+00:42:37.970 --> 00:42:39.970
+aber eine interessante Überlegung.
+
+00:42:39.970 --> 00:42:45.750
+Weil oft ist es so, zumindest jetzt aus meiner Erfahrung,
+
+00:42:45.750 --> 00:42:49.990
+du hast halt immer Vor- und Nachteile von irgendeiner Struktur.
+
+00:42:49.990 --> 00:42:57.850
+Dezentral, zentral, nah am Produkt, nah an der Region, wie auch immer.
+
+00:42:57.850 --> 00:43:00.910
+Und es hat immer Vor- und Nachteile.
+
+00:43:00.910 --> 00:43:05.680
+Und es pendelt, weil man dann in dem einen drin hängt und merkt,
+
+00:43:05.680 --> 00:43:10.030
+ach Mist, wir sind zu nah am Produkt, wir verlieren die Augen für die Bedürfnisse in der Region.
+
+00:43:10.030 --> 00:43:12.030
+Und dann zack, wird es wieder regional organisiert.
+
+00:43:12.030 --> 00:43:16.030
+Ach, wir sind zu regional organisiert, wir müssen wieder näher ans Produkt, zack.
+
+00:43:16.030 --> 00:43:23.050
+Und da irgendwie mal sozusagen dieses Pendel einfach mal festzuhalten und zu sagen,
+
+00:43:23.050 --> 00:43:25.820
+stopp, ihr bleibt jetzt da, wo ihr seid.
+
+00:43:25.820 --> 00:43:27.820
+Ja, das hat alles Vor- und Nachteile, aber jetzt gucken wir mal.
+
+00:43:27.820 --> 00:43:29.820
+Fände ich irgendwie sehr interessant.
+
+00:43:29.820 --> 00:43:37.260
+Oh, da war ich noch auf Stumm.
+
+00:43:37.260 --> 00:43:43.390
+Meinst du denn so, Selbstorganisation ist überhaupt pünktlich auch Teil in Teilen?
+
+00:43:43.390 --> 00:43:47.470
+Also ich, zum Beispiel in einem großen Konzern, dass so, weiß ich,
+
+00:43:47.470 --> 00:43:53.760
+so Graswurzel-mäßig da ein Team oder ein Bereich das macht oder macht das keinen Sinn?
+
+00:43:53.760 --> 00:43:56.850
+Ich glaube, im Buch hat es irgendwie auch mal so ein Beispiel, wo die gesagt haben,
+
+00:43:56.850 --> 00:44:00.040
+okay, macht Selbstorganisation, aber die Strukturen bleiben, wie sie sind.
+
+00:44:00.040 --> 00:44:04.230
+Und dann war das irgendwie sehr nichts Halbes, nichts Ganzes irgendwie.
+
+00:44:04.230 --> 00:44:10.240
+Aber vielleicht, wenn man das in so auch so Team-Ebene runter bricht?
+
+00:44:10.240 --> 00:44:17.720
+Ich glaube, dass viel möglich ist, auch innerhalb von einem Bereich zum Beispiel.
+
+00:44:17.720 --> 00:44:24.000
+Als einzelnes Team, vor allen Dingen dann, wenn man sehr abhängig ist auch von anderen Teams,
+
+00:44:24.000 --> 00:44:26.000
+wäre ich ein bisschen vorsichtig.
+
+00:44:26.000 --> 00:44:31.250
+Also klar kann man sozusagen seine tagtägliche Arbeit als Team flexibler gestalten,
+
+00:44:31.250 --> 00:44:36.310
+aber wenn alle um mich herum planen jährlich und ich fange plötzlich an
+
+00:44:36.310 --> 00:44:41.660
+und mache zweiwöchentliche Sprints und plane eben höchstens quartalsweise,
+
+00:44:41.660 --> 00:44:44.780
+dann wird das schnell zu Reibungen führen.
+
+00:44:44.780 --> 00:44:49.220
+Oder man hat ganz andere Rollen und von außen wird immer erwartet,
+
+00:44:49.220 --> 00:44:52.220
+dass einer das Team vertritt und für das Team spricht.
+
+00:44:52.220 --> 00:44:56.660
+Und im Team hast du aber verteilte Führung und lebst es gar nicht so.
+
+00:44:56.660 --> 00:45:01.660
+Also ich würde sagen so auf Abteilungsebenen, also Abteilung meine ich jetzt so mehrere Teams,
+
+00:45:01.660 --> 00:45:07.490
+die gemeinsam einen Verantwortungsbereich haben, da kann man schon viel machen.
+
+00:45:07.490 --> 00:45:13.960
+Wenn man von oben halt auch irgendwie da viel, also wenn nach oben das Verständnis dafür da ist
+
+00:45:13.960 --> 00:45:18.050
+und auch die Bereitschaft, daraus Spielräume einzuräumen.
+
+00:45:18.050 --> 00:45:22.770
+Aber es hat auch Grenzen. Also wir haben auch erfahren und erlebt,
+
+00:45:22.770 --> 00:45:29.240
+dass ich jetzt zum Beispiel, also jedes Unternehmen hat halt seine eigene Kultur.
+
+00:45:29.240 --> 00:45:35.370
+Bei SAP ist es so, wir sind halt sehr, wir arbeiten sehr im Netzwerk, wir sind das sehr gewohnt.
+
+00:45:35.370 --> 00:45:38.460
+Wir sind aber auch sehr auf die Personen fokussiert.
+
+00:45:38.460 --> 00:45:44.060
+Und das heißt, in dem Moment, wo ein Abteilungsleiter so was in seiner Abteilung macht,
+
+00:45:44.060 --> 00:45:48.920
+kriegt er da viel Freiraum. Aber wenn er dann zum Beispiel die Rolle wechselt,
+
+00:45:48.920 --> 00:45:53.330
+dann wird das relativ schnell alles wieder hinterfragt, weil dann kommt jemand Neues rein
+
+00:45:53.330 --> 00:45:56.900
+und der sagt, ja, ich möchte es so machen, wie ich das jetzt für richtig halte.
+
+00:45:56.900 --> 00:46:03.300
+Und dann fängt es an zu wackeln. Also deswegen braucht es schon, finde ich, langfristig beides.
+
+00:46:03.300 --> 00:46:10.420
+Auch einen Rahmen auf Organisationsebene, eine gemeinsame Vereinbarung,
+
+00:46:10.420 --> 00:46:17.730
+das ist jetzt gerade auch mal, probieren wir aus, das lassen wir, wie es ist.
+
+00:46:17.730 --> 00:46:22.210
+Strukturell, Strukturen fassen wir nicht an oder Strukturen bauen wir so und so um,
+
+00:46:22.210 --> 00:46:27.400
+damit das, weil nach so zwei, drei Jahren, so war unsere Erfahrung,
+
+00:46:27.400 --> 00:46:33.660
+nach zwei, drei Jahren Experimentieren im Inselmodus geht vielen Organisationen die Luft aus.
+
+00:46:33.660 --> 00:46:43.110
+Okay, kommen wir langsam schon zum Ende. Sagst du gern, was würdest du denn,
+
+00:46:43.110 --> 00:46:50.080
+Unternehmen raten? Warum sollten die mit Selbstorganisation starten?
+
+00:46:50.080 --> 00:46:59.260
+Ich würde es ihnen gar nicht per se raten. Ich würde erst mal fragen,
+
+00:46:59.260 --> 00:47:06.500
+was denn in der Art und Weise, wie sie heute arbeiten, ihnen denn im Wege steht
+
+00:47:06.500 --> 00:47:16.900
+und wo sie das Gefühl haben, dass auch viel Kräfte, Ressourcen verpuffen
+
+00:47:16.900 --> 00:47:20.860
+und mal mit den Leuten reden, was die da sagen jetzt, also auf unterschiedlichen
+
+00:47:20.860 --> 00:47:27.710
+Ebenen vielleicht. Weil es ist jetzt nicht so, dass da Selbstorganisation irgendwie
+
+00:47:27.710 --> 00:47:36.230
+die Lösung für alles ist. Ich glaube, in vielen Fällen sind es Varianten und Aspekten davon,
+
+00:47:36.230 --> 00:47:41.520
+die die Organisation weiterbringen. Vor allen Dingen die, die nicht vorankommen
+
+00:47:41.520 --> 00:47:46.770
+mit Digitalisierung, die nicht vorankommen damit, dass sie anpassungsfähiger
+
+00:47:46.770 --> 00:47:55.240
+und schneller werden, sondern erst in der Corona-Pandemie gemerkt haben, dass man
+
+00:47:55.240 --> 00:48:00.490
+seinen Mitarbeitern auch vertrauen kann, dass sie mal zuhause arbeiten und und und.
+
+00:48:00.490 --> 00:48:05.470
+Also ich würde sie als erstes versuchen, besser zu verstehen und auch ihnen
+
+00:48:05.470 --> 00:48:11.750
+versuchen zu helfen, für sich zu verstehen, wo könnte ein Mehrwert für uns liegen.
+
+00:48:11.750 --> 00:48:14.820
+Und ich habe auch schon erlebt, ich habe auch mit einem Team so einen Workshop gemacht,
+
+00:48:14.820 --> 00:48:20.170
+so ja, was braucht ihr, wo steht ihr? Und die haben eigentlich im Endeffekt gesagt,
+
+00:48:20.170 --> 00:48:26.000
+ihre Zusammenarbeit ist super, funktioniert. Sie haben gerade keine größeren Baustellen.
+
+00:48:26.000 --> 00:48:31.060
+Sie sind halt neugierig, deswegen haben sie gesagt, hey, vielleicht ist das ja was für uns,
+
+00:48:31.060 --> 00:48:35.920
+aber wir haben dann uns am Ende darauf geeinigt und gesagt, nee, also ist gerade bei euch
+
+00:48:35.920 --> 00:48:38.920
+jetzt gar nicht so ein großes Thema, also braucht ihr da jetzt vielleicht euch
+
+00:48:38.920 --> 00:48:44.170
+gar nicht so mit auseinandersetzen. Die hatten, das war dann auch, was man dann festgestellt hat,
+
+00:48:44.170 --> 00:48:48.450
+an vielen Stellen auf natürliche Art und Weise sich schon so organisiert,
+
+00:48:48.450 --> 00:48:53.220
+aber haben es halt nicht so genannt, zum Beispiel. Also das kann auch gut sein.
+
+00:48:53.220 --> 00:48:57.310
+Manchmal ist es auch gut, eine Veränderung bewusst nicht so anzutreten.
+
+00:48:57.310 --> 00:49:02.300
+Aber im Grunde genommen, ja, glaube ich, steckt da mega viel Potenzial drin.
+
+00:49:02.300 --> 00:49:03.260
+Davon bin ich überzeugt.
+
+00:49:03.260 --> 00:49:06.810
+Muss man da nicht aufdringen, sozusagen.
+
+00:49:06.810 --> 00:49:12.810
+Nee, das wäre Idealismus und das wäre auch so Missionarstum.
+
+00:49:12.810 --> 00:49:16.740
+Und ich neige auch dazu, weil ich überzeugt bin und so ein Fan bin
+
+00:49:16.740 --> 00:49:23.010
+und musste auch mit der Zeit lernen, dass das nicht so hilfreich ist.
+
+00:49:23.010 --> 00:49:28.480
+Klar, Inspiration und sagen, hey, da geht was, aber dann nicht sagen so,
+
+00:49:28.480 --> 00:49:32.920
+und dann fragen, was meint ihr denn? Wo könnte euch das denn helfen?
+
+00:49:32.920 --> 00:49:38.420
+Und nicht sagen, hier, deswegen müsst ihr jetzt das neue Framework einführen.
+
+00:49:38.420 --> 00:49:42.310
+Das ist ja gerade so ein bisschen das Problem in diesem ganzen Berater-Business,
+
+00:49:42.310 --> 00:49:46.310
+dass man dann, dass dann immer wieder ein neues Modell entwickelt wird,
+
+00:49:46.310 --> 00:49:51.310
+was man dann schön zertifiziert und dann die Scrum Master zertifizieren lässt
+
+00:49:51.310 --> 00:49:55.630
+und die SAFE-Experten dann mit ein Heidengeld verdient.
+
+00:49:55.630 --> 00:50:01.420
+Ja, super. Ich weiß nicht, ob das jetzt gute letzte Worte sind.
+
+00:50:01.420 --> 00:50:09.420
+Vielleicht finden wir noch einen anderen Abbinder, außer mein Bashing auf irgendwelche Zertifizierungsdinger.
+
+00:50:09.420 --> 00:50:11.420
+Das finde ich schon schön.
+
+00:50:11.420 --> 00:50:16.700
+Willst du da genau so ein paar letzte Worte sagen und dann vielleicht,
+
+00:50:16.700 --> 00:50:21.950
+wie können Unternehmen jetzt anstarten und sagen, ja, finde ich cool, wo könnte ich anfangen?
+
+00:50:21.950 --> 00:50:30.160
+Ja, also anfangen würde ich bei zwei Fragen.
+
+00:50:30.160 --> 00:50:34.510
+Das eine ist, die hatte ich gerade schon mal angedeutet, sich zu überlegen,
+
+00:50:34.510 --> 00:50:42.780
+was sind denn eigentlich unsere Hebel, also die Chancen, die wir haben oder auch die Dinge, die uns im Wege stehen?
+
+00:50:42.780 --> 00:50:50.780
+Und woran würde auch, also woran würden unsere Kunden und Klienten denn merken, dass sich was verändert?
+
+00:50:50.780 --> 00:50:59.250
+Weil um die geht es ja am Ende, dass das, was die erleben oder an Dienstleistungen oder an Produkten erleben, besser wird.
+
+00:50:59.250 --> 00:51:02.240
+Also da würde ich immer fragen, woran würden die das merken?
+
+00:51:02.240 --> 00:51:08.780
+Und das andere würde ich dann sagen, was versteht ihr denn überhaupt unter diesen Begriffen?
+
+00:51:08.780 --> 00:51:13.160
+Und welches Verständnis davon ist für euch hilfreich?
+
+00:51:13.160 --> 00:51:17.670
+Also schon so ein bisschen eine Grundlage schaffen, wo geht es hin und warum?
+
+00:51:17.670 --> 00:51:19.690
+Und dann, worüber reden wir hier eigentlich?
+
+00:51:19.690 --> 00:51:26.730
+Weil das kann man gar nicht gut genug klären, glaube ich. Das lohnt sich.
+
+00:51:26.730 --> 00:51:30.270
+Ich glaube auch, weil jeder irgendwie so ein bisschen was anderes merkt.
+
+00:51:30.270 --> 00:51:35.230
+Das merkt man ja bei alten Begriffen, jeder versteht auch von agilen Arbeiten, jeder versteht da was anderes.
+
+00:51:35.230 --> 00:51:36.290
+Und ja, genau.
+
+00:51:36.290 --> 00:51:41.420
+Das ist echt wertvoll, sich da nicht davon auszugehen, dass das klar ist,
+
+00:51:41.420 --> 00:51:46.240
+sondern da wirklich ein bisschen sich Zeit zu nehmen, das hilft.
+
+00:51:46.240 --> 00:51:50.910
+Okay. Ja, dann vielen Dank für das Interview.
+
+00:51:50.910 --> 00:51:52.910
+Gerne, gerne. Vielen Dank dir.
+
+00:51:52.910 --> 00:51:54.450
+Was sagt man am Ende?
+
+00:51:54.450 --> 00:51:55.450
+Hat Spaß gemacht.
+
+00:51:55.450 --> 00:51:59.450
+Man sagt Glück auf am Anfang und ich habe ja gehört, du kommst auch aus.
+
+00:51:59.450 --> 00:52:01.450
+Prost, sagt man dann, glaube ich, am Ende.
+
+00:52:01.450 --> 00:52:03.870
+Ich war doch Prost und Prost.

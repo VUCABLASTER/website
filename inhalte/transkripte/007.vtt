@@ -1,0 +1,3436 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #7: #7 Agile Coaching mit Empathie und Begeisterung vom Ich zum Wir
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.930 --> 00:00:38.770
+Wir beginnen mit Glück auf aus dem Pott und herzlich willkommen zu einer neuen Podcast-Folge. Mein Name ist Dörte Dennis und ich freue mich riesig heute eine absolute Expertin zum Thema, wie kann ein Agile Coach Selbstorganisationen in Teams fördern, begrüßen zu dürfen. Stefanie Klicks aus Berlin ist heute mein Gast. Hallo Dörte. Hi. Stefanie, du bringst jahrelange Erfahrung als Agile Coach.
+
+00:00:38.790 --> 00:01:09.530
+in einer großen Organisation mit. Darüber hinaus bist du Spezialistin für Transformation, Mitbegründerin der Transform to Growth Youth Initiative, Netzwerkerin, Mutter von Zwillingen, so wie ich auch, Weltreisende, Brückenbauerin und nun möchtest du als selbstständige Inhaberin Organisationen und Schulen im Kulturwandel hin zu einer Lernkultur und zur Zusammenarbeit auf Augenhöhe unterstützen.
+
+00:01:09.550 --> 00:01:17.980
+Herzlich Willkommen nochmal, liebe Stefanie. Ich freue mich riesig, dass du Zeit gefunden hast, heute mit mir den Podcast aufzunehmen.
+
+00:01:17.980 --> 00:01:20.150
+Vielen Dank Dörte für die Einladung.
+
+00:01:20.150 --> 00:01:36.500
+Sehr, sehr gerne. Stefanie, ich hatte ja dich mal gefragt, magst du mal deine Erfahrungen teilen als agiler Coach? Und dann hatte ich die Idee, man könnte ja auch direkt einen Podcast draus machen, denn es werden immer mehr agile Coaches gesucht.
+
+00:01:36.500 --> 00:01:45.690
+Und mich würde es nochmal interessieren, magst du dich nochmal, ich habe dich kurz vorgestellt, etwas näher vorstellen, vielleicht was treibt dich an und um?
+
+00:01:45.690 --> 00:01:56.450
+Ja, danke. Ich habe auch ein bisschen gestaunt, als du die ersten Worte gerade gewählt hast. Am meisten angepingt hat mich das Thema Weltreisende und Brückenbauerin.
+
+00:01:56.450 --> 00:02:07.620
+Weltreisende zum einen, weil es für mich im privaten Umfeld ganz stark mitschwingt. Da steckt für mich nämlich auch ganz viel Neugier und Offenheit.
+
+00:02:07.620 --> 00:02:18.620
+Und so bin ich. Also ich bin sehr neugierig, auch immer neue Ideen dann anzupacken und umzusetzen. Und Brückenbauerin ganz besonders im beruflichen Umfeld jetzt,
+
+00:02:18.620 --> 00:02:25.290
+weil ich super gerne Menschen verbinde, Menschen zusammenbringe. Darüber werden wir bestimmt später auch noch sprechen,
+
+00:02:25.290 --> 00:02:30.290
+zum Thema Community-Arbeit, wie das auch im besten Sinne selbstorganisiert ablaufen kann.
+
+00:02:30.290 --> 00:02:37.290
+Aber vor allem auch gerade jetzt und aktuell das Thema Brückenbauen zwischen Schule und Arbeitswelten.
+
+00:02:37.290 --> 00:02:42.290
+Denn ich glaube, dass man diese Veränderungsthemen, die da inne liegen, du hast es angesprochen,
+
+00:02:42.290 --> 00:02:48.350
+agile Begleitung, Transformationsbegleitung, dass man das eben nicht so isoliert sehen sollte,
+
+00:02:48.350 --> 00:02:52.350
+einerseits in den Arbeitswelten und andererseits in der Schule.
+
+00:02:52.350 --> 00:02:57.350
+Die Senioren dabei ganz vergessen, sondern dass wir eigentlich gemeinsame Lernwelten schaffen sollten.
+
+00:02:57.350 --> 00:03:02.350
+Und das bringt mich gerade wieder auf das Thema Weltreise, weil das auch irgendwie damit verbunden ist.
+
+00:03:03.640 --> 00:03:09.110
+Und bevor wir jetzt in die Zukunft gucken, gucken wir nochmal in die Vergangenheit bei dir.
+
+00:03:09.110 --> 00:03:18.110
+Wie wurdest du denn Agile Coach? Also du hattest mir mal gesagt, dass das so vor circa fünf Jahren oder fünf Jahre lang warst du Agile Coach.
+
+00:03:18.110 --> 00:03:23.110
+Wie bist du denn der geworden? Also heutzutage, man sucht immer mehr Agile Coaches.
+
+00:03:23.110 --> 00:03:27.080
+Aber vor fünf Jahren, kann ich mir vorstellen, war das noch ein absolutes Novo.
+
+00:03:27.080 --> 00:03:32.100
+Genau. Also meine zurückliegende berufliche Vergangenheit ist im Personalwesen,
+
+00:03:32.100 --> 00:03:38.100
+wo ich acht Jahre einen ganz normalen personaler Job hatte, operativ-strategische Themen.
+
+00:03:38.100 --> 00:03:45.890
+Und bin dann, so gesagt, ins Geschäft gewechselt und habe dort Lean-Themen, Lean-Prozesse begleitet.
+
+00:03:45.890 --> 00:03:49.890
+Und auch das war noch sehr prozessual organisiert.
+
+00:03:49.890 --> 00:03:53.890
+Und mir fehlte immer die Komponente, okay, was passiert mit den Menschen?
+
+00:03:53.890 --> 00:04:00.850
+Weil ich ja aus der personaler Welt kam und hatte dann 2015 das erste Mal
+
+00:04:00.850 --> 00:04:04.850
+zu einer wirklich selbstorganisierten Gruppe, Community-Bezug.
+
+00:04:04.850 --> 00:04:09.850
+Und das war die Grains-Community bei Siemens, die sich selbstorganisiert,
+
+00:04:09.850 --> 00:04:14.200
+selbstlernend innerhalb unseres Konzerns gestärkt haben.
+
+00:04:14.200 --> 00:04:18.200
+Aber auch dann vieles von dem neuen Wissen, was damals vielleicht noch gar nicht
+
+00:04:18.200 --> 00:04:22.170
+unter diesem Begriff Agile Coaching lief, an andere im Konzern
+
+00:04:22.170 --> 00:04:25.170
+und auch außerhalb im Netzwerk weitergegeben haben.
+
+00:04:25.170 --> 00:04:30.170
+Also es lief sehr viel gemeinsames Lernen und Weitergabe in der ersten Community,
+
+00:04:30.170 --> 00:04:33.940
+in der ich dann auch sehr stark involviert war.
+
+00:04:33.940 --> 00:04:39.940
+Und war das eher so durch das Netzwerk, dass du als Agile Coach dich weiterentwickelt hast?
+
+00:04:39.940 --> 00:04:46.940
+Oder wurdest du sozusagen auch von offizieller Personalseite sozusagen ernannt als Agile Coach?
+
+00:04:46.940 --> 00:04:51.770
+Also ich habe dann selbst für mich ein Scrum-Training wahrgenommen.
+
+00:04:51.770 --> 00:04:56.770
+Und über ein, zwei Jahre später, als ich quasi in diesem Bereich zum Thema Kulturwandel
+
+00:04:56.770 --> 00:05:02.770
+aktiver wurde bei mir an meinem Standort damals, hat sich die Stelle automatisch herauskristallisiert.
+
+00:05:02.770 --> 00:05:08.770
+Weil man gemerkt hat, okay, jetzt nur über Tool, Methode, Technik denken allein reicht nichts,
+
+00:05:08.770 --> 00:05:15.830
+sondern wir brauchen gerade diese Begleitung mit Empathie im Wandel in all dem, was bei uns geschieht,
+
+00:05:15.830 --> 00:05:18.830
+gerade erst recht bei uns Menschen, auch mit unserer eigenen Haltung.
+
+00:05:18.830 --> 00:05:25.990
+Da kam mehr Gewicht drauf, auch in meinem damaligen Job als Projektverantwortliche im Produktionsumfeld,
+
+00:05:25.990 --> 00:05:31.010
+wie ich damals war, dass gesehen wurde, hey, da haben wir doch eine Lücke,
+
+00:05:31.010 --> 00:05:34.010
+nämlich genau an dem Thema Haltungsarbeit, wie ich es eigentlich überschreibe,
+
+00:05:34.010 --> 00:05:41.030
+wenn es um Transformationsbegleitung geht, da viel mehr mit den Menschen im besten Sinne
+
+00:05:41.030 --> 00:05:49.070
+mitarbeiterzentriert uns zu bewegen. Und so ist es gekommen, tatsächlich sehr iterativ über Lernmomente,
+
+00:05:49.070 --> 00:05:54.070
+die ich mir selbst besucht habe, die ich aber auch durch Communities zurückerhalten habe
+
+00:05:54.070 --> 00:06:01.030
+und dann durch die klare Einsicht bei mir am Standort, hey, es ist nötig, dass wir diese Stelle gründen,
+
+00:06:01.030 --> 00:06:06.030
+die es damals noch gar nicht im Job-Katalog bei uns im Unternehmen gab.
+
+00:06:06.030 --> 00:06:13.030
+Ja, das wäre jetzt auch meine Frage gewesen. Also für alle Interne, es gibt ja die berühmt-berüchtigten Job-Codes
+
+00:06:13.030 --> 00:06:19.030
+oder die Job-Beschreibung in einem Konzern und oftmals, ich kann mir vorstellen,
+
+00:06:19.030 --> 00:06:24.030
+vor fünf Jahren gab es in diesem schönen Excel-Katalog noch kein Agile Coach.
+
+00:06:24.030 --> 00:06:29.030
+Und wenn, gab es vielleicht einen Scrum Master, aber Agile Coach war schon sehr, ich sag mal,
+
+00:06:29.030 --> 00:06:33.030
+Vonguard und innovativ. Aber das heißt, wenn ich dich richtig verstanden habe,
+
+00:06:33.030 --> 00:06:37.030
+die Organisation hat dich schon unterstützt und hat gesagt, okay, selbst wenn es das im Job-Code-Katalog
+
+00:06:37.030 --> 00:06:41.980
+nicht gibt, sehen wir den Bedarf für diese Stelle. Und wie wurde es das dann auch sozusagen offiziell?
+
+00:06:41.980 --> 00:06:47.190
+Absolut, genau. Also mit einer Job-Beschreibung, also den Worten dahinter,
+
+00:06:47.190 --> 00:06:53.190
+die wirklich auf die aktuelle Zeit passen, wo ich heute, fünf Jahre später immer noch denke,
+
+00:06:53.190 --> 00:06:57.190
+hey, das haben wir damals richtig gut eingetütet, auch so, dass ich, ja,
+
+00:06:57.190 --> 00:07:03.190
+das Commitment dafür bekommen habe, so zu agieren zu können bei uns in der Organisation,
+
+00:07:03.190 --> 00:07:09.160
+mit viel Kreativität und Freiraum auch wirklich die Veränderungen anzuschieben.
+
+00:07:09.160 --> 00:07:15.310
+Also war das dann für dich auch nicht so ein harter Cut, so von einem Tag auf den anderen,
+
+00:07:15.310 --> 00:07:18.310
+so jetzt bin ich Agile Coach und wie mache ich das jetzt überhaupt, sondern
+
+00:07:18.310 --> 00:07:22.310
+du hattest schon das Gefühl, das ist organisch gewachsen, du hattest Rückenwind von der Organisation
+
+00:07:22.310 --> 00:07:27.310
+und konntest dich in deiner neuen Rolle auch finden und selber lernen?
+
+00:07:27.310 --> 00:07:32.310
+Genau, es ist deswegen organisch gewachsen, weil ich schon ein bis zwei Jahre vorher
+
+00:07:32.310 --> 00:07:37.310
+zu diesem Thema Kulturwandel bei unserem Standort, ja, Initiativen gestartet habe,
+
+00:07:37.310 --> 00:07:42.310
+die vielleicht nicht unbedingt zu meinem Job gehörten, aber ich fand es wichtig,
+
+00:07:42.310 --> 00:07:47.310
+im Rahmen von Digitalisierung eben auch mit den Menschen zu denken und eben nicht zu sagen,
+
+00:07:47.310 --> 00:07:52.310
+okay, bestimmte Projektverantwortliche machen jetzt hier Digitalisierungsprojekte,
+
+00:07:52.310 --> 00:07:56.310
+sondern wie tun wir das eigentlich? Und da gab es vorher,
+
+00:07:56.310 --> 00:08:00.310
+bevor ich quasi diesen offiziellen Job dann bekommen habe, schon Initiativen,
+
+00:08:00.310 --> 00:08:07.040
+die ich sehr gerne und auch für mich vom Herzen heraus angestoßen habe.
+
+00:08:07.040 --> 00:08:10.040
+Damals gab es auch, und das ist vielleicht so auch ein wichtiger Punkt,
+
+00:08:10.040 --> 00:08:15.010
+es gab damals schon ganz viele neugierige Kollegen quasi an der Basis sozusagen.
+
+00:08:15.010 --> 00:08:20.010
+Ich war ja damals noch im Fertigungsumfeld, aber es gab eben auch das Commitment
+
+00:08:20.010 --> 00:08:24.010
+von der Leitung, das zu tun. Also beides von unten und von oben hat sich geschlossen
+
+00:08:24.010 --> 00:08:29.100
+und das ist ja auch ein Problem, was man ganz häufig heute hat, dass eine Stelle fehlt.
+
+00:08:29.100 --> 00:08:33.100
+Weil manchmal gibt es den Willen von oben, das ist dann immer noch das Beste,
+
+00:08:33.100 --> 00:08:36.100
+wenn eine Geschäftsleitung oder so sagt, hey komm, wir packen es jetzt an,
+
+00:08:36.100 --> 00:08:41.190
+wir wollen die Dinge anders machen. In den meisten Fällen gibt es ganz viel Bewegung von unten
+
+00:08:41.190 --> 00:08:45.250
+und irgendwann stockt es. Und ich hatte einfach das Glück, dass sich beides geschlossen hat
+
+00:08:45.250 --> 00:08:49.150
+und wir dann so als solches am Standort weitergegangen sind.
+
+00:08:49.150 --> 00:08:53.630
+Das sind natürlich auch die besten Voraussetzungen, dass so eine Position
+
+00:08:53.630 --> 00:08:56.630
+oder eine Rolle auch wirklich ausgelebt werden kann.
+
+00:08:56.630 --> 00:08:57.630
+Genau.
+
+00:08:57.630 --> 00:09:02.630
+Dass du nicht nur aus der Mitte oder von unten die Veränderung begleitet hast,
+
+00:09:02.630 --> 00:09:06.630
+sondern dass du Rückenwind auch von oben hattest.
+
+00:09:06.630 --> 00:09:11.760
+Und du hattest gerade gesagt, du hattest vorher auch schon Initiativen gestartet.
+
+00:09:11.760 --> 00:09:15.760
+Waren das so klassische Graswurzelinitiativen, die du da gestartet hast?
+
+00:09:15.760 --> 00:09:21.760
+Oder waren das für dich so in der Retrospektive gar keine großen Graswurzelinitiativen,
+
+00:09:21.760 --> 00:09:27.720
+sondern eher so kleine Akzente, kleine Events und Einladungen gemeinsam zu lernen?
+
+00:09:27.720 --> 00:09:29.720
+Oder was meinst du damit?
+
+00:09:29.720 --> 00:09:33.720
+Das waren in dem Sinne Graswurzelinitiativen, die mich durch die,
+
+00:09:33.720 --> 00:09:36.720
+vielleicht können wir da auch nachher nochmal ein bisschen intensiver drüber reden,
+
+00:09:36.720 --> 00:09:41.720
+über diese Grains Community, also eine selbstorganisierte Gruppe im Konzern,
+
+00:09:41.720 --> 00:09:46.720
+die wirklich das Thema Kulturwandel angestoßen hat, dass wir uns schon in diesem Kreis,
+
+00:09:46.720 --> 00:09:50.720
+das war ungefähr 2015, schon befruchtet haben, dass wir uns Wissen weitergegeben haben,
+
+00:09:50.720 --> 00:09:54.720
+fit gemacht haben, dass wir mit Siemens-Einheiten die Sachen,
+
+00:09:54.720 --> 00:09:58.720
+hey komm, wir wollen den Weg mal anders gehen, Führung auf Augenhöhe ganz neu denken,
+
+00:09:58.720 --> 00:10:01.720
+dass wir uns da schon auf den Weg gemacht haben.
+
+00:10:01.720 --> 00:10:04.880
+Ganz häufig, hört man auch heute, lief das als U-Boot.
+
+00:10:04.880 --> 00:10:08.880
+Es hat mir so viel Energie gegeben, dass ich mich natürlich dann auch getraut habe,
+
+00:10:08.880 --> 00:10:12.880
+das in meinem eigenen Standort anzusprechen, weil du jetzt konkret fragtest,
+
+00:10:12.880 --> 00:10:16.910
+eine der ersten Initiativen waren sogenannte Marktplätze,
+
+00:10:16.910 --> 00:10:20.910
+die wir rund um das Thema Digitalisierung gestartet haben.
+
+00:10:20.910 --> 00:10:25.870
+Nämlich, okay, wir haben Technologie-Projekte, aber mit den Menschen,
+
+00:10:25.870 --> 00:10:28.870
+also dieses Thema mit den Menschen gemeinsam zu sagen,
+
+00:10:28.870 --> 00:10:33.870
+was ist denn eigentlich da an Themen bei uns am Standort und macht mit.
+
+00:10:33.870 --> 00:10:37.830
+Das war der wichtigste Kern, der auch dann wirklich diese,
+
+00:10:37.830 --> 00:10:40.830
+ich nenne es jetzt mal weiter Graswurzelbewegung ins Schwingeln gebracht hat,
+
+00:10:40.830 --> 00:10:45.830
+weil sobald ein Standort sagt, wir haben hier Projekte und aber ihr dürft mitmachen,
+
+00:10:45.830 --> 00:10:48.830
+dann gehe ich ja sofort raus aus der Silo-Struktur.
+
+00:10:48.830 --> 00:10:53.830
+Ich gehe sofort raus aus dem Standard-Job-Beschreibung, das darfst du tun.
+
+00:10:53.830 --> 00:10:58.860
+Und wir haben in dem ersten Marktplatz dann 2017 gesagt, macht gerne mit.
+
+00:10:58.860 --> 00:11:01.860
+Und das hat natürlich erst langsam begonnen,
+
+00:11:01.860 --> 00:11:04.860
+aber es hat mehr Menschen quasi aus einer komplett anderen Abteilung
+
+00:11:04.860 --> 00:11:07.860
+zu den relevanten Themen für uns gebracht.
+
+00:11:07.860 --> 00:11:13.860
+Und auf einmal hat man Wissen, was sonst nur am Wochenende in der Garage,
+
+00:11:13.860 --> 00:11:16.860
+wenn ich irgendwie kleine Programmierungen mache für die Heimautomation,
+
+00:11:16.860 --> 00:11:20.860
+hat zurückgebracht zu uns in die Digitalisierungsprojekte.
+
+00:11:20.860 --> 00:11:23.860
+Und das ist durch solche Initiativen gestartet,
+
+00:11:23.860 --> 00:11:26.860
+wie sogenannte Marktplätze, digitale Stunden.
+
+00:11:26.860 --> 00:11:29.860
+Und ich hätte mich ohne die selbstorganisierte Community,
+
+00:11:29.860 --> 00:11:32.860
+damals Grains, heute gibt es davon noch viel mehr,
+
+00:11:32.860 --> 00:11:35.860
+nicht getraut, dies einfach bei uns zu starten.
+
+00:11:35.860 --> 00:11:38.850
+Also es ging auch wirklich unter dem Motto einfach starten
+
+00:11:38.850 --> 00:11:42.850
+und es wird bestimmt zum Besseren werden
+
+00:11:42.850 --> 00:11:46.010
+und nicht zum Schlechteren, wenn wir es mal ausprobieren.
+
+00:11:46.010 --> 00:11:49.010
+Ja, und du bist nicht alleine, sondern da sind ganz viele andere,
+
+00:11:49.010 --> 00:11:51.010
+vielleicht nicht in deiner unmittelbaren Umgebung,
+
+00:11:51.010 --> 00:11:56.010
+aber so das Gefühl zu haben, man gehört dazu, zu einem Größeren,
+
+00:11:56.010 --> 00:12:00.010
+dass das so ein bisschen ermutigt, kann ich sehr gut nachvollziehen.
+
+00:12:00.010 --> 00:12:02.010
+Du hattest gerade noch mal eingangs erwähnt,
+
+00:12:02.010 --> 00:12:06.010
+dass das für dich der Mensch immer ein bisschen gefehlt hat,
+
+00:12:06.010 --> 00:12:11.010
+ja auch bei diesem ganzen prozessualen Denken und der Vorgehensweisen.
+
+00:12:11.010 --> 00:12:13.010
+Wie hast du das denn persönlich gemerkt,
+
+00:12:13.010 --> 00:12:16.170
+dass der Mensch in dem ganzen Konstrukt gefehlt hat?
+
+00:12:16.170 --> 00:12:20.200
+Also was war da dein Schlüsselerlebnis oder dein Aha-Moment?
+
+00:12:20.200 --> 00:12:22.200
+Also das eine ist sprachlich,
+
+00:12:22.200 --> 00:12:27.170
+dass wir in einer sehr technischen Sprache vor vielen Jahren,
+
+00:12:27.170 --> 00:12:30.170
+es hat sich jetzt geändert, aber da quasi erklärt haben,
+
+00:12:30.170 --> 00:12:33.170
+was ist das Neue, was heißt die Transformation.
+
+00:12:33.170 --> 00:12:36.170
+Also es war eine sehr technische Sprache.
+
+00:12:36.170 --> 00:12:40.270
+Das zweite war, diejenigen, die ganz am Anfang dabei waren,
+
+00:12:40.270 --> 00:12:43.270
+waren häufig die üblichen Verdächtigen, die man schon immer kannte.
+
+00:12:43.270 --> 00:12:46.270
+Vielleicht vielerorts Führungskräfte.
+
+00:12:46.270 --> 00:12:50.550
+Und auf die Organisation, damals mit 900 Mitarbeitern geblickt,
+
+00:12:50.550 --> 00:12:54.550
+gab es aber noch viel mehr, die bis dahin ganz unentdeckt waren.
+
+00:12:54.550 --> 00:12:58.550
+Und ich dachte immer, hey, wenn wir jetzt wirklich sehr viele neue Themen angehen
+
+00:12:58.550 --> 00:13:02.550
+und digitalisieren, da schlummert so viel Know-how.
+
+00:13:02.550 --> 00:13:08.610
+Ich war damals auch mitten in der Fertigung und die Menschen sind noch nicht angedockt an das Neue.
+
+00:13:08.610 --> 00:13:10.640
+Und das war halt ganz offensichtlich gesehen.
+
+00:13:10.640 --> 00:13:15.640
+Und deswegen war das so der Augenöffner zu sagen, lasst uns doch dann mit denen.
+
+00:13:15.640 --> 00:13:18.580
+Also sehr viel Mitarbeiter zentrierter weitergehen.
+
+00:13:18.580 --> 00:13:22.020
+Und wie hast du das gesehen? Hast du das in den Gesichtern gesehen,
+
+00:13:22.020 --> 00:13:28.020
+dass die noch ein bisschen ahnungslos waren oder vielleicht auch manchmal frustriert waren, unzufrieden waren?
+
+00:13:28.020 --> 00:13:30.020
+Oder was konkret hast du bei den Menschen beobachtet?
+
+00:13:30.020 --> 00:13:36.110
+Also ich kannte den Standort schon sehr gut, weil ich vorher dort Personalverantwortliche war.
+
+00:13:36.110 --> 00:13:39.450
+Aber vor allem waren es auch, was mir spontan einfällt, die Ganggespräche.
+
+00:13:39.450 --> 00:13:44.450
+Man geht durch den Gang, sieht okay, da ist ein Poster über ein neues Thema.
+
+00:13:44.450 --> 00:13:46.450
+Aber was liegt da eigentlich inne?
+
+00:13:46.450 --> 00:13:50.450
+Und in den Gesprächen mit den Kollegen konkret war die Rückmeldung,
+
+00:13:50.450 --> 00:13:53.540
+schaut mal auf das Thema Sprache und ich bin auch noch da.
+
+00:13:53.540 --> 00:13:56.820
+Also es waren die Ganggespräche dann in dem Moment.
+
+00:13:57.880 --> 00:14:07.580
+Und dann bist du gestartet als Agile Coach mit dem Thema, okay, Selbstorganisation fördern.
+
+00:14:07.580 --> 00:14:08.580
+Klingt erstmal gut.
+
+00:14:08.580 --> 00:14:15.610
+Wie bist du denn gestartet oder mit welchem Ziel vor Augen bist du losgegangen?
+
+00:14:15.610 --> 00:14:19.830
+Also der Job war dann weniger jetzt ausgeschlackt zum Thema Selbstorganisation,
+
+00:14:19.830 --> 00:14:23.830
+sondern benannt als Kulturwandelverantwortliche.
+
+00:14:23.830 --> 00:14:26.790
+Also um zu sagen, genau die Stelle.
+
+00:14:26.790 --> 00:14:30.790
+Wir haben sehr, sehr viele Technologen bei uns im Haus, sehr, sehr viele Experten.
+
+00:14:30.790 --> 00:14:36.880
+Aber der Punkt Begleitung des Menschen mit allem, was er umlernen kann, neu entdecken darf,
+
+00:14:36.880 --> 00:14:40.880
+was sich wieder öffnen kann, hatten wir dann überschrieben mit Kulturwandel.
+
+00:14:40.880 --> 00:14:49.510
+Und dann habe ich im Prinzip die Aktionen, die wir ein, zwei Jahre vorher schon gemacht haben, mitgenommen, mitgezogen.
+
+00:14:49.510 --> 00:14:54.510
+Das heißt, wir haben das Format Marktplätze und wirklich so, ich biete, ich suche Formate,
+
+00:14:54.510 --> 00:14:58.510
+so wie man es auch aus dem Supermarkt kennt, dass man so Karten hat.
+
+00:14:58.510 --> 00:15:02.510
+Die haben wir auch aktiv genutzt, um wirklich das Know-how aus der Organisation herauszubekommen
+
+00:15:02.510 --> 00:15:07.510
+und dann damit in den neuen Projekten, in den neuen Themen zu arbeiten.
+
+00:15:07.510 --> 00:15:12.510
+Also wir haben sehr viel auch Richtung Überblick, wer kann was, wer mag überhaupt was
+
+00:15:12.510 --> 00:15:15.860
+und dann neue Team-Setups gearbeitet.
+
+00:15:15.860 --> 00:15:20.390
+Und bis heute, ich bin ja jetzt nicht mehr in den Konzernen seit Februar,
+
+00:15:20.390 --> 00:15:24.390
+bis heute ist dieses Format Marktplatz oder auch dieses Öffnende mal über die Projekte,
+
+00:15:24.390 --> 00:15:28.410
+ich sehe wieder das Thema Brücken bauen, was du auch eingangs gesagt hast,
+
+00:15:28.410 --> 00:15:35.950
+also über die Brücke zu gehen, zur anderen Abteilung und miteinander wirklich zusammenzuarbeiten,
+
+00:15:35.950 --> 00:15:38.950
+in eine ganz andere Form der Zusammenarbeit zu kommen.
+
+00:15:38.950 --> 00:15:43.140
+Das ist, finde ich, jetzt nach den Jahren gut etabliert.
+
+00:15:43.140 --> 00:15:45.140
+Sehr schön. Da kannst du ja auch stolz auf dich sein.
+
+00:15:45.140 --> 00:15:48.140
+Da hast du sicherlich auch einen großen Anteil gehabt.
+
+00:15:48.140 --> 00:15:54.140
+Hast du denn am Anfang so deine Rolle auch darin gesehen, ich mache das erstmal sichtbar,
+
+00:15:54.140 --> 00:15:59.140
+was schon alles da ist, die Potenziale, das Wissen, die Expertise,
+
+00:15:59.140 --> 00:16:04.140
+um dann das Wissen vielleicht auch zu teilen, zu vermehren?
+
+00:16:04.140 --> 00:16:09.100
+Oder bist du da gar nicht so, sag ich mal, zielfokussiert rangegangen
+
+00:16:09.100 --> 00:16:12.100
+und hast erstmal gedacht, ich gucke mal, wo steht der Einzelne
+
+00:16:12.100 --> 00:16:16.130
+und schaue, wie ich ihn oder sie am besten begleiten kann?
+
+00:16:16.130 --> 00:16:21.190
+Ja doch, es ging eher in Richtung sichtbar machen, was ist alles schon da,
+
+00:16:21.190 --> 00:16:24.190
+weil es gibt ganz viel Reichtum in jeder Organisation,
+
+00:16:24.190 --> 00:16:27.190
+mal weg auch von meinem früheren Arbeitgeber gesprochen,
+
+00:16:27.190 --> 00:16:30.190
+wenn man in die Firmen schaut und in die Organisation,
+
+00:16:30.190 --> 00:16:34.190
+ist da so viel Reichtum, der oft unentdeckt bleibt,
+
+00:16:34.190 --> 00:16:38.190
+weil wir ganz häufig im Alltag drin sind und gar nicht mehr im Tunnel
+
+00:16:38.190 --> 00:16:41.190
+und gar nicht mehr sehen, was hat der andere eigentlich?
+
+00:16:41.190 --> 00:16:44.190
+Und deswegen gibt es ja auch so schöne Meeting-Strukturen
+
+00:16:44.190 --> 00:16:47.190
+und Meeting-Modelle, wo man da rankommt und sagt,
+
+00:16:47.190 --> 00:16:49.190
+ich steige mal nicht sofort ins Thema rein,
+
+00:16:49.190 --> 00:16:51.190
+sondern gehe erstmal über einen Check-in.
+
+00:16:51.190 --> 00:16:53.190
+Ganz häufig haben sich schon Themen darüber entdeckt,
+
+00:16:53.190 --> 00:16:56.190
+dass ich erstmal den Menschen ankommen lasse im Meeting,
+
+00:16:56.190 --> 00:16:58.190
+sag, was bewegt dich gerade,
+
+00:16:58.190 --> 00:17:01.570
+damit du dich dann voll konzentrieren kannst
+
+00:17:01.570 --> 00:17:03.570
+und über das, was bewegt dich gerade,
+
+00:17:03.570 --> 00:17:04.570
+entdecke ich auch so viel.
+
+00:17:04.570 --> 00:17:06.880
+Und so sind wir damals auch rangegangen
+
+00:17:06.880 --> 00:17:09.880
+und haben das dann versucht, transparent zu machen.
+
+00:17:09.880 --> 00:17:13.880
+Ich muss dazu sagen, das ist im Fertigungsumfeld extrem schwer,
+
+00:17:13.880 --> 00:17:17.880
+weil man die unterschiedlichsten Wege der Kommunikation nutzen muss
+
+00:17:17.880 --> 00:17:21.910
+und es ist immer wieder eine starke Kommunikation,
+
+00:17:21.910 --> 00:17:24.910
+die es dann braucht, die wir damals gelöst haben
+
+00:17:24.910 --> 00:17:26.910
+über Monitore in den Fertigungen,
+
+00:17:26.910 --> 00:17:30.910
+natürlich auch direkt über die Teams gegangen sind,
+
+00:17:30.910 --> 00:17:31.910
+in die Teamrunden,
+
+00:17:31.910 --> 00:17:34.870
+aber es ist ein immenser Kommunikationsaufwand,
+
+00:17:34.870 --> 00:17:38.870
+der dazu führt, überhaupt erstmal gehört zu werden
+
+00:17:38.870 --> 00:17:39.870
+mit den neuen Themen.
+
+00:17:39.870 --> 00:17:42.320
+Wir haben sehr viel auch das Thema Social Media
+
+00:17:42.320 --> 00:17:44.320
+bei uns im Konzern genutzt.
+
+00:17:44.320 --> 00:17:47.450
+Auch das geht in der Fertigung,
+
+00:17:47.450 --> 00:17:49.450
+über die Monitore sichtbar zu machen,
+
+00:17:49.450 --> 00:17:50.450
+aber es ist halt anders,
+
+00:17:50.450 --> 00:17:54.480
+wenn ein Montierer die ganze Zeit am Band steht,
+
+00:17:54.480 --> 00:17:57.480
+als wenn, wie wir, ein Bürokollege,
+
+00:17:57.480 --> 00:17:58.480
+Büromitarbeiter,
+
+00:17:58.480 --> 00:18:01.890
+da wirklich den PC immer vor der Nase hat.
+
+00:18:01.890 --> 00:18:03.850
+Also die Menschen auch da abholen,
+
+00:18:03.850 --> 00:18:04.850
+wo sie sind,
+
+00:18:04.850 --> 00:18:06.840
+in den Pokus rücken
+
+00:18:06.840 --> 00:18:08.840
+und wirklich genau hinhören,
+
+00:18:08.840 --> 00:18:11.840
+was brauchst du gerade im Moment,
+
+00:18:11.840 --> 00:18:13.840
+um vielleicht auch einen Schritt weiter zu gehen?
+
+00:18:13.840 --> 00:18:14.840
+Ganz genau.
+
+00:18:14.840 --> 00:18:16.840
+Und über diese Frage
+
+00:18:16.840 --> 00:18:17.840
+und über diesen Ansatz
+
+00:18:17.840 --> 00:18:19.840
+haben sich sehr viele neue Ideen weitergesponnen.
+
+00:18:19.840 --> 00:18:21.840
+Also es gab dann,
+
+00:18:21.840 --> 00:18:23.900
+beispielsweise,
+
+00:18:23.900 --> 00:18:26.600
+haben wir ein Format eingeführt,
+
+00:18:26.600 --> 00:18:28.600
+das ist über so einen Marktplatz entstanden.
+
+00:18:28.600 --> 00:18:30.600
+Wir standen in einer kleinen Gruppe zusammen,
+
+00:18:30.600 --> 00:18:32.600
+haben gesagt, Mensch, wir merken,
+
+00:18:32.600 --> 00:18:33.600
+wir müssen uns,
+
+00:18:33.600 --> 00:18:36.600
+oder wir wollen uns stärker mit unserem Produkt identifizieren.
+
+00:18:36.600 --> 00:18:38.600
+Ja, wir fertigen kleine Schutzgeräte
+
+00:18:38.600 --> 00:18:42.910
+und jeder von den 900 Mitarbeitern sollte doch wissen,
+
+00:18:42.910 --> 00:18:44.870
+wo wird das Gerät eingesetzt?
+
+00:18:44.870 --> 00:18:45.870
+Wofür ist es da?
+
+00:18:45.870 --> 00:18:48.120
+Was wird eigentlich geschützt?
+
+00:18:48.120 --> 00:18:49.120
+Was ist Stromspannung?
+
+00:18:49.120 --> 00:18:51.120
+Und dann kamen wir auf die Idee,
+
+00:18:51.120 --> 00:18:53.120
+es müsste doch so einfach sein,
+
+00:18:53.120 --> 00:18:55.120
+als könnte es ein Kind erklären.
+
+00:18:55.120 --> 00:18:58.220
+Und als wir da so zusammenstanden in der Fünferrunde,
+
+00:18:58.220 --> 00:18:59.220
+haben wir dann gesagt,
+
+00:18:59.220 --> 00:19:00.510
+okay, gute Idee.
+
+00:19:00.510 --> 00:19:01.510
+Es müsste so einfach sein,
+
+00:19:01.510 --> 00:19:03.510
+als könnte es ein Kind erklären.
+
+00:19:03.510 --> 00:19:04.510
+Dann machen wir das doch
+
+00:19:04.510 --> 00:19:06.510
+und haben dann in diesem Setup
+
+00:19:06.510 --> 00:19:07.510
+noch mit fünf weiteren,
+
+00:19:07.510 --> 00:19:09.510
+also wir waren zehn Eltern
+
+00:19:09.510 --> 00:19:11.510
+und haben die Initiative
+
+00:19:11.510 --> 00:19:13.510
+unser Produkt Kinder leicht erklärt
+
+00:19:13.510 --> 00:19:15.510
+ins Leben gerufen.
+
+00:19:15.510 --> 00:19:18.510
+Da haben wir dann quasi über die Mitarbeiterkinder
+
+00:19:18.510 --> 00:19:21.480
+mit Videos, die jetzt nicht perfekt waren,
+
+00:19:21.480 --> 00:19:23.480
+die waren in Heimarbeit gedreht,
+
+00:19:23.480 --> 00:19:25.480
+quasi erklärt,
+
+00:19:25.480 --> 00:19:26.480
+was ist Differenzialschutz,
+
+00:19:26.480 --> 00:19:27.480
+was ist Motorenschutz,
+
+00:19:27.480 --> 00:19:29.480
+was ist Stromspannung,
+
+00:19:29.480 --> 00:19:31.440
+wo wirkt unser Gerät am Flughafen.
+
+00:19:31.440 --> 00:19:33.440
+Und das war eine Initiative.
+
+00:19:33.440 --> 00:19:34.440
+Deswegen sage ich es so,
+
+00:19:34.440 --> 00:19:36.440
+es ist immer so konkret entstanden über die,
+
+00:19:36.440 --> 00:19:37.440
+ich sage es jetzt wieder,
+
+00:19:37.440 --> 00:19:38.440
+Ganggespräche,
+
+00:19:38.440 --> 00:19:39.440
+die uns auch heute in der Arbeitswelt
+
+00:19:39.440 --> 00:19:40.440
+sehr stark fehlen,
+
+00:19:40.440 --> 00:19:42.440
+weil diese Ideen
+
+00:19:42.440 --> 00:19:43.440
+oder diese Innovation
+
+00:19:43.440 --> 00:19:44.440
+kommt ja genau dann zustande,
+
+00:19:44.440 --> 00:19:46.440
+wenn ich im Dialog bin
+
+00:19:46.440 --> 00:19:49.470
+und haben damit mit der Initiative Kinderleicht
+
+00:19:49.470 --> 00:19:52.470
+so im Prinzip ein Dingstar-Verschnitt geschaffen
+
+00:19:52.470 --> 00:19:55.500
+und haben bei vielen Kollegen am Standort
+
+00:19:55.500 --> 00:19:57.500
+sehr viel Identifikation geschaffen.
+
+00:19:57.500 --> 00:19:58.500
+Wir haben erklärt,
+
+00:19:58.500 --> 00:19:59.500
+was tun wir,
+
+00:19:59.500 --> 00:20:00.500
+in kurzen Videoschnipseln,
+
+00:20:00.500 --> 00:20:01.500
+40 Sekunden
+
+00:20:01.500 --> 00:20:03.500
+und haben dafür aber auch
+
+00:20:03.500 --> 00:20:04.500
+einen sehr empathischen,
+
+00:20:04.500 --> 00:20:06.500
+menschlichen Geist mit reingebracht.
+
+00:20:06.500 --> 00:20:08.270
+Und Kinder,
+
+00:20:08.270 --> 00:20:10.270
+die von den Mitarbeitern mitgedreht hatten,
+
+00:20:10.270 --> 00:20:12.270
+waren dann immer ganz neugierig
+
+00:20:12.270 --> 00:20:13.270
+und richtig verbunden
+
+00:20:13.270 --> 00:20:15.270
+auch mit der Arbeit ihrer Eltern.
+
+00:20:15.270 --> 00:20:17.270
+Also, es war eine meiner Lieblingsaktionen,
+
+00:20:17.270 --> 00:20:20.620
+deswegen siehst du vielleicht auch gerade mein Leuchten in den Augen.
+
+00:20:20.620 --> 00:20:21.620
+Ja, ich sehe das Leuchten,
+
+00:20:21.620 --> 00:20:23.620
+ich spüre das Leuchten
+
+00:20:23.620 --> 00:20:25.620
+und du hast auch etwas ganz, ganz Wichtiges gesagt.
+
+00:20:25.620 --> 00:20:26.620
+Also, man merkt,
+
+00:20:26.620 --> 00:20:28.620
+du bist da total begeistert in dem,
+
+00:20:28.620 --> 00:20:30.620
+wie du das alles erzählst
+
+00:20:30.620 --> 00:20:32.620
+und auch empathisch.
+
+00:20:32.620 --> 00:20:34.620
+Wäre das in deinen Augen
+
+00:20:34.620 --> 00:20:36.620
+auch eine wichtige Grundvoraussetzung
+
+00:20:36.620 --> 00:20:37.620
+als agiler Coach,
+
+00:20:37.620 --> 00:20:40.780
+diese Empathie zu entwickeln,
+
+00:20:40.780 --> 00:20:42.780
+reinzuspüren, reinzuhorchen,
+
+00:20:42.780 --> 00:20:44.780
+die Sensoren und Antennen so weit aufzustellen,
+
+00:20:44.780 --> 00:20:47.780
+dass du das auf dem Gang mitbekommst,
+
+00:20:47.780 --> 00:20:50.780
+weil du hättest ja auch dran vorbeilaufen können
+
+00:20:50.780 --> 00:20:51.780
+und sagen, die jetzt wieder,
+
+00:20:51.780 --> 00:20:54.780
+jetzt mosern die vielleicht oder so,
+
+00:20:54.780 --> 00:20:56.780
+sondern du bist dann vielleicht stehen geblieben
+
+00:20:56.780 --> 00:20:58.780
+und hast dich dazu geöffnet und gesagt,
+
+00:20:58.780 --> 00:21:00.770
+okay, was steht dahinter?
+
+00:21:00.770 --> 00:21:02.770
+Genau, also ich glaube,
+
+00:21:02.770 --> 00:21:05.770
+Empathie ist der größte Schlüssel für das alles.
+
+00:21:05.770 --> 00:21:07.770
+Man kann jetzt irgendwie ausgebildet sein
+
+00:21:07.770 --> 00:21:09.770
+oder den Titel haben,
+
+00:21:09.770 --> 00:21:11.740
+Agiler Coach,
+
+00:21:11.740 --> 00:21:12.860
+aber wenn,
+
+00:21:12.860 --> 00:21:14.860
+und das ist ja auch, was du wahrscheinlich erlebt hast,
+
+00:21:14.860 --> 00:21:18.860
+wenn Führungskräfte allein mit Empathie wirklich schauen,
+
+00:21:18.860 --> 00:21:19.860
+was braucht das Team gerade,
+
+00:21:19.860 --> 00:21:21.860
+was braucht es gerade in der Runde, in der ich bin
+
+00:21:21.860 --> 00:21:24.860
+oder eben Kollegen untereinander auch schauen,
+
+00:21:24.860 --> 00:21:25.860
+wann sage ich mal nichts,
+
+00:21:25.860 --> 00:21:28.830
+wann halte ich mich mal zurück mit der entsprechenden Empathie,
+
+00:21:28.830 --> 00:21:30.830
+dann spürt man immer,
+
+00:21:30.830 --> 00:21:33.420
+dann gelingen die Themen nach vorn.
+
+00:21:33.420 --> 00:21:35.500
+Wenn ich mit einem Standardansatz,
+
+00:21:35.500 --> 00:21:37.500
+mit einer standardgelernten Methode reingehe,
+
+00:21:37.500 --> 00:21:40.500
+wenn ich mit so einem Berateransatz,
+
+00:21:40.500 --> 00:21:42.500
+ich habe das mal und diesen Beraterstil,
+
+00:21:42.500 --> 00:21:45.500
+ich glaube, dann machen die Menschen zu
+
+00:21:45.500 --> 00:21:46.500
+und das auch zurecht,
+
+00:21:46.500 --> 00:21:48.500
+weil ich finde, es ist immer sehr wichtig,
+
+00:21:48.500 --> 00:21:53.140
+dass die Organisation oder das Gegenüber,
+
+00:21:53.140 --> 00:21:56.140
+das Team gehört wird da, wo sie sind.
+
+00:21:56.140 --> 00:21:58.140
+Und das kriege ich eben nur hin mit der Empathie,
+
+00:21:58.140 --> 00:21:59.140
+meiner Meinung nach.
+
+00:21:59.140 --> 00:22:01.140
+Und dazu gehört auch sehr viel Haltungsarbeit
+
+00:22:01.140 --> 00:22:03.230
+bei jedem Einzelnen,
+
+00:22:03.230 --> 00:22:05.230
+bei dem, der da reingeht,
+
+00:22:05.230 --> 00:22:07.230
+nennen wir ihn mal weiter Agile Coach
+
+00:22:07.230 --> 00:22:09.230
+oder auch bei denen, die drin sind im Meeting
+
+00:22:09.230 --> 00:22:11.230
+oder bei der Führungskraft an sich.
+
+00:22:13.280 --> 00:22:17.530
+Was meinst du denn, Stefanie,
+
+00:22:17.530 --> 00:22:19.530
+kann man Empathie lernen?
+
+00:22:19.530 --> 00:22:20.530
+Also für Menschen,
+
+00:22:20.530 --> 00:22:25.970
+die vielleicht nicht so empathisch sind,
+
+00:22:25.970 --> 00:22:28.970
+können die das entwickeln, trainieren,
+
+00:22:28.970 --> 00:22:31.380
+empathischer zu sein,
+
+00:22:31.380 --> 00:22:34.500
+den Perspektivwechsel vorzunehmen?
+
+00:22:34.500 --> 00:22:36.500
+Am Anfang jetzt bei deiner Frage dachte ich,
+
+00:22:36.500 --> 00:22:38.500
+ich weiß es auch nicht,
+
+00:22:38.500 --> 00:22:41.070
+wenn ich jetzt mal so weiterdenke,
+
+00:22:41.070 --> 00:22:44.070
+wenn man sich selbst mit sich selbst auseinandersetzt.
+
+00:22:44.070 --> 00:22:47.070
+Also wirklich, es geht ja immer darum, fang bei dir selbst an,
+
+00:22:47.070 --> 00:22:49.070
+um zu sagen, ah, die anderen und da,
+
+00:22:49.070 --> 00:22:51.070
+sondern guck mal bei dir, was kannst du bei dir ändern?
+
+00:22:51.070 --> 00:22:54.070
+Und wenn man da immer stärker hinschaut und guckt,
+
+00:22:54.070 --> 00:22:56.170
+warum triggert mich das eine oder andere,
+
+00:22:56.170 --> 00:22:58.170
+die eine oder andere Person,
+
+00:22:58.170 --> 00:22:59.170
+das haben wir, glaube ich, alle erlebt,
+
+00:22:59.170 --> 00:23:01.170
+dass man da so Triggerpunkte hat und schaut,
+
+00:23:01.170 --> 00:23:03.170
+was passiert da bei mir?
+
+00:23:03.170 --> 00:23:05.170
+Ich glaube, dann ist das schon ein Schritt,
+
+00:23:05.170 --> 00:23:07.170
+dass man da in diesen Prozess geht
+
+00:23:07.170 --> 00:23:09.170
+und mehr das Gefühl für sich bekommt
+
+00:23:09.170 --> 00:23:12.640
+und dann, glaube ich, auch das viel besser mit anderen,
+
+00:23:12.640 --> 00:23:16.570
+das Gefühl für andere bekommt, also sprich Empathie.
+
+00:23:16.570 --> 00:23:18.570
+Hast du da eine Idee zu, Dörte?
+
+00:23:18.570 --> 00:23:21.570
+Ich wollte nicht vorpreschen,
+
+00:23:21.570 --> 00:23:23.570
+aber das, was du jetzt gerade gesagt hast,
+
+00:23:23.570 --> 00:23:25.570
+hat ja auch ganz viel mit Selbstreflexion zu tun,
+
+00:23:25.570 --> 00:23:27.570
+also mal in den eigenen Spiegel schauen.
+
+00:23:27.570 --> 00:23:29.570
+Aber diese Frage, die ich dir gerade gestellt habe,
+
+00:23:29.570 --> 00:23:31.570
+habe ich schon mal jemandem gestellt,
+
+00:23:31.570 --> 00:23:34.570
+bei dem ich ein Digi-Coaching gemacht habe.
+
+00:23:34.570 --> 00:23:37.780
+Und ich auch die gleiche Frage hatte,
+
+00:23:37.780 --> 00:23:39.910
+kann man Empathie erlernen?
+
+00:23:39.910 --> 00:23:41.910
+Weil wir haben alle bestimmt schon mal
+
+00:23:41.910 --> 00:23:42.910
+Erfahrungen mit Menschen gemacht,
+
+00:23:42.910 --> 00:23:44.910
+die Welt erklären wollen
+
+00:23:44.910 --> 00:23:45.910
+und die vielleicht schon die Weisheit
+
+00:23:45.910 --> 00:23:47.910
+mit allen Löffeln zu sich genommen haben
+
+00:23:47.910 --> 00:23:49.910
+und wo man überhaupt nicht rankommt
+
+00:23:49.910 --> 00:23:50.910
+und das Gefühl hat,
+
+00:23:50.910 --> 00:23:52.910
+da prallt einfach alles ab.
+
+00:23:52.910 --> 00:23:56.870
+Der oder die ist einfach nicht zugewandt oder offen.
+
+00:23:56.870 --> 00:24:00.670
+Und dieser Coach hatte mir gesagt,
+
+00:24:00.670 --> 00:24:02.660
+ja, das kann man erlernen.
+
+00:24:02.660 --> 00:24:04.660
+Und das hat mich unfassbar erleichtert.
+
+00:24:04.660 --> 00:24:07.010
+Aber er sagte auch natürlich,
+
+00:24:07.010 --> 00:24:10.160
+umso älter du bist, umso schwieriger wird es.
+
+00:24:10.160 --> 00:24:11.510
+Genauso wie mit,
+
+00:24:11.510 --> 00:24:13.510
+wenn ich jetzt Klavier spielen lernen möchte,
+
+00:24:13.510 --> 00:24:16.480
+brauche ich unfassbar lange.
+
+00:24:16.480 --> 00:24:18.480
+Ja, und ich sehe meinen kleinen Sohn,
+
+00:24:18.480 --> 00:24:20.480
+der sitzt da am Klavier und spielt,
+
+00:24:20.480 --> 00:24:23.480
+als wäre es das Leichteste der Welt.
+
+00:24:23.480 --> 00:24:26.470
+Also mit gehobenem Alter wird es wohl schwieriger.
+
+00:24:26.470 --> 00:24:29.470
+Also was mir dazu jetzt wieder in den Sinn kommt ist,
+
+00:24:29.470 --> 00:24:31.470
+ich glaube auch,
+
+00:24:31.470 --> 00:24:32.470
+also ich glaube auch,
+
+00:24:32.470 --> 00:24:33.470
+habe ganz, ganz viele Kollegen,
+
+00:24:33.470 --> 00:24:35.470
+die, wenn du jetzt sagst, gehobenes Alter,
+
+00:24:35.470 --> 00:24:37.470
+die mega neugierig sind
+
+00:24:37.470 --> 00:24:40.470
+und auch sehr sich einstellen können auf andere.
+
+00:24:40.470 --> 00:24:42.530
+Was mir noch so zusätzlich einfiel ist,
+
+00:24:42.530 --> 00:24:45.590
+ist, man sollte Weltenbummler sein.
+
+00:24:45.590 --> 00:24:47.590
+Und zwar Weltenbummler nicht der Weltreisen wegen,
+
+00:24:47.590 --> 00:24:50.590
+sondern der Neugier und der Offenheit wegen.
+
+00:24:50.590 --> 00:24:53.900
+Ich glaube, wenn man damit an die Dinge geht,
+
+00:24:53.900 --> 00:24:54.900
+dann kommt man automatisch dazu,
+
+00:24:54.900 --> 00:24:55.900
+hey, wo stehe ich?
+
+00:24:55.900 --> 00:24:56.900
+Was bewegt mich?
+
+00:24:56.900 --> 00:24:57.900
+So diese Selbstreflexion,
+
+00:24:57.900 --> 00:24:59.900
+wie du angesprochen hast.
+
+00:24:59.900 --> 00:25:00.900
+Ich glaube,
+
+00:25:00.900 --> 00:25:02.900
+eine Portion Neugier und Offenheit ist sehr wichtig,
+
+00:25:02.900 --> 00:25:04.860
+um da mehr zu lernen.
+
+00:25:04.860 --> 00:25:06.150
+Absolut.
+
+00:25:06.150 --> 00:25:08.150
+Und das ist auch unabhängig vom Alter.
+
+00:25:08.150 --> 00:25:11.150
+Also es gibt auch ältere Menschen,
+
+00:25:11.150 --> 00:25:13.150
+die sehr, sehr offen sind, neugierig sind
+
+00:25:13.150 --> 00:25:15.150
+und noch gerne lernen wie kleine Kinder
+
+00:25:15.150 --> 00:25:17.120
+und vielleicht auch jüngere Menschen,
+
+00:25:17.120 --> 00:25:20.120
+von denen man das dann nicht erwartet.
+
+00:25:20.120 --> 00:25:23.520
+Mich würde noch mal interessieren,
+
+00:25:23.520 --> 00:25:25.770
+das Thema Haltung.
+
+00:25:25.770 --> 00:25:28.800
+Welche Haltung empfindest du als Agile Coach
+
+00:25:28.800 --> 00:25:31.760
+als ideal oder hilfreich?
+
+00:25:31.760 --> 00:25:36.470
+Und was wäre für dich so die Haltung,
+
+00:25:36.470 --> 00:25:41.330
+die ein Coach an den Tag legen sollte?
+
+00:25:41.330 --> 00:25:43.520
+Gibt es eine hilfreiche Haltung,
+
+00:25:43.520 --> 00:25:45.520
+die das Ganze unterstützt?
+
+00:25:45.520 --> 00:25:47.150
+Also genau.
+
+00:25:47.150 --> 00:25:50.480
+Also grundsätzlich ist es halt wertvoll,
+
+00:25:50.480 --> 00:25:52.470
+so dieses experimentelle Denken,
+
+00:25:52.470 --> 00:25:53.470
+zu sagen,
+
+00:25:53.470 --> 00:25:55.470
+okay, wir arbeiten Schritt für Schritt durch,
+
+00:25:55.470 --> 00:25:57.470
+aber wir fangen wenigstens erstmal an.
+
+00:25:57.470 --> 00:25:58.470
+Das sollte, finde ich,
+
+00:25:58.470 --> 00:26:00.470
+immer einen sehr hilfreichen Modus zu sagen,
+
+00:26:00.470 --> 00:26:01.470
+wir starten
+
+00:26:01.470 --> 00:26:03.470
+und vieles passiert dann im Laufen
+
+00:26:03.470 --> 00:26:04.470
+und im Gehen,
+
+00:26:04.470 --> 00:26:06.470
+wenn wir erstmal die ersten Schritte gehen.
+
+00:26:06.470 --> 00:26:08.470
+So hat sich das bei mir
+
+00:26:08.470 --> 00:26:10.470
+im alten Job quasi auch jedes Mal entwickelt,
+
+00:26:10.470 --> 00:26:13.470
+so wie ich es jetzt mit den Initiativen beschrieben habe,
+
+00:26:13.470 --> 00:26:14.470
+Marktplatz Kinderleicht,
+
+00:26:14.470 --> 00:26:15.470
+es kam immer wieder was dazu,
+
+00:26:15.470 --> 00:26:18.470
+bis wir dann im nächsten Schritt gemerkt haben,
+
+00:26:18.470 --> 00:26:19.430
+oh ja,
+
+00:26:19.430 --> 00:26:21.530
+wir wollen die Kompetenzen sichtbar machen,
+
+00:26:21.530 --> 00:26:22.530
+die unsere Kollegen haben,
+
+00:26:22.530 --> 00:26:24.530
+weil so können wir am besten voneinander lernen
+
+00:26:24.530 --> 00:26:26.460
+und in den Projekten unterstützen.
+
+00:26:26.460 --> 00:26:29.560
+Dieses Schritt für Schritt vorwärts gehen
+
+00:26:29.560 --> 00:26:30.560
+und dann auch mal,
+
+00:26:30.560 --> 00:26:31.560
+wie du sagst,
+
+00:26:31.560 --> 00:26:33.560
+im Sinne von Experimente starten,
+
+00:26:33.560 --> 00:26:36.510
+manches wird dann zum regulären Prozess
+
+00:26:36.510 --> 00:26:38.830
+und zwischendurch vor allem auch innehalten
+
+00:26:38.830 --> 00:26:40.830
+und gucken, was passiert hier in meinem Umfeld.
+
+00:26:40.830 --> 00:26:43.270
+Sollte ich mal abbiegen von diesem Weg.
+
+00:26:43.270 --> 00:26:46.130
+Genau, das finde ich so ganz wichtig.
+
+00:26:46.130 --> 00:26:50.760
+Und was waren für dich die größten Hürden auf dem Weg?
+
+00:26:50.760 --> 00:26:53.760
+Und wenn du vor einer großen Hürde standst,
+
+00:26:53.760 --> 00:26:55.760
+was hat dir konkret geholfen?
+
+00:26:55.760 --> 00:26:57.750
+Also was hat dir Licht gegeben,
+
+00:26:57.750 --> 00:26:59.750
+einen Ausweg gegeben oder einen Lösungsansatz?
+
+00:26:59.750 --> 00:27:04.640
+Das, was mich in den letzten Jahren umgeben hat,
+
+00:27:04.640 --> 00:27:07.640
+waren sehr viel diese Netzwerke und die Communities,
+
+00:27:07.640 --> 00:27:10.790
+im besten Fall selbst organisiert.
+
+00:27:10.790 --> 00:27:11.790
+Also das heißt,
+
+00:27:11.790 --> 00:27:12.790
+es waren Gruppen,
+
+00:27:12.790 --> 00:27:15.790
+mit denen wir die verschiedensten Themen bewegt haben.
+
+00:27:15.790 --> 00:27:18.780
+Und weil ich habe das nicht allein gemacht,
+
+00:27:18.780 --> 00:27:19.780
+weil es wäre dann auch wieder so,
+
+00:27:19.780 --> 00:27:20.780
+okay, einer sagt, was der,
+
+00:27:20.780 --> 00:27:21.780
+also das heißt,
+
+00:27:21.780 --> 00:27:22.780
+es waren immer Gruppen beieinander,
+
+00:27:22.780 --> 00:27:26.780
+die ich dann im Prinzip gerne auch mal,
+
+00:27:26.780 --> 00:27:30.000
+wo ich gerne mal den Hut getragen habe und sagte,
+
+00:27:30.000 --> 00:27:31.000
+hey, komm, uns fehlt der nächste Schritt
+
+00:27:31.000 --> 00:27:32.000
+oder wieder zusammengeholt,
+
+00:27:32.000 --> 00:27:33.000
+weil das bei vielen,
+
+00:27:33.000 --> 00:27:35.000
+die das quasi nicht so als Job haben,
+
+00:27:35.000 --> 00:27:36.000
+dann wieder wegdriftet.
+
+00:27:36.000 --> 00:27:37.000
+Das heißt,
+
+00:27:37.000 --> 00:27:40.160
+eine der größten Hürden war Zeitrestriktionen
+
+00:27:40.160 --> 00:27:42.160
+beziehungsweise in den Themen,
+
+00:27:42.160 --> 00:27:45.160
+wo wir dann so selbstorganisiert unterwegs waren.
+
+00:27:45.160 --> 00:27:49.160
+immer wieder natürlich die Kollision mit dem Alltagsgeschäft,
+
+00:27:49.160 --> 00:27:51.160
+was jeder in seinem Job hat
+
+00:27:51.160 --> 00:27:53.160
+und dann eine Priorisierung.
+
+00:27:53.160 --> 00:27:54.160
+Und du hast dann jedes Mal gemerkt,
+
+00:27:54.160 --> 00:27:56.220
+wenn die Mitstreiter,
+
+00:27:56.220 --> 00:27:59.220
+die Mitbewegenden in den Momenten
+
+00:27:59.220 --> 00:28:03.410
+mit dem Herzen zutiefst auch vom Sinn überzeugt waren,
+
+00:28:03.410 --> 00:28:04.410
+dass das sinnvoll ist,
+
+00:28:04.410 --> 00:28:05.410
+was wir tun,
+
+00:28:05.410 --> 00:28:07.380
+dann war das Zeitlimit wieder weg.
+
+00:28:07.380 --> 00:28:08.380
+Also es war ganz wichtig,
+
+00:28:08.380 --> 00:28:09.380
+dafür zu sorgen und zu sagen,
+
+00:28:09.380 --> 00:28:10.380
+warum tun wir das?
+
+00:28:10.380 --> 00:28:12.380
+Was eint uns im Kern?
+
+00:28:12.380 --> 00:28:17.010
+Und dann aber auch mit den Limits umzugehen drumrum,
+
+00:28:17.010 --> 00:28:19.010
+weil entweder organisational
+
+00:28:19.010 --> 00:28:21.010
+oder die Rahmenbedingungen ganz klar zu haben,
+
+00:28:21.010 --> 00:28:24.010
+was auch so sehr wichtig ist im Sinne von Selbstorganisation.
+
+00:28:24.010 --> 00:28:25.010
+Das sollte klar sein.
+
+00:28:25.010 --> 00:28:27.010
+Es ist kein rein flüssiger Prozess.
+
+00:28:27.010 --> 00:28:29.010
+Jeder kann machen, was er will,
+
+00:28:29.010 --> 00:28:31.010
+sondern es gibt ganz klare auch Spielregeln
+
+00:28:31.010 --> 00:28:33.010
+in solchen Teams.
+
+00:28:33.010 --> 00:28:35.010
+Wenn die nicht da sind,
+
+00:28:35.010 --> 00:28:36.010
+weil du nach Hürden fragst,
+
+00:28:36.010 --> 00:28:37.010
+dann wird es schwierig.
+
+00:28:37.010 --> 00:28:39.070
+Und dann entsteht auch eine große Unzufriedenheit
+
+00:28:39.070 --> 00:28:40.070
+in solchen Leuten.
+
+00:28:40.070 --> 00:28:42.830
+Aber das heißt schon,
+
+00:28:42.830 --> 00:28:47.830
+die Community oder auch andere waren für dich Inspiration,
+
+00:28:47.830 --> 00:28:48.830
+haben dir Impuls gegeben,
+
+00:28:48.830 --> 00:28:50.810
+Rückenwind gegeben.
+
+00:28:50.810 --> 00:28:54.830
+Bei denen hast du dir vielleicht auch mal Rat geholt,
+
+00:28:54.830 --> 00:28:56.830
+wenn du selber nicht weiter wusstest.
+
+00:28:56.830 --> 00:28:59.800
+Und dadurch, dass es selbstorganisiert war
+
+00:28:59.800 --> 00:29:02.800
+oder in großen Teilen selbstorganisiert war,
+
+00:29:02.800 --> 00:29:05.890
+waren viele, die mitgemacht haben,
+
+00:29:05.890 --> 00:29:07.890
+weil sie den Sinn dahinter erkannt haben,
+
+00:29:07.890 --> 00:29:09.890
+auch viel eher bereit, nochmal die extra Meile zu gehen,
+
+00:29:09.890 --> 00:29:11.870
+die extra Stunde zu investieren.
+
+00:29:11.870 --> 00:29:15.110
+Ja, ganz genau so war es in der ersten Form,
+
+00:29:15.110 --> 00:29:17.110
+die ich vorhin schon mal erwähnt hatte bei den Grains,
+
+00:29:17.110 --> 00:29:20.110
+die wirklich das Thema Kulturwandel,
+
+00:29:20.110 --> 00:29:22.110
+Arbeiten auf Augenhöhe führen,
+
+00:29:22.110 --> 00:29:24.110
+auf Augenhöhe stark propagiert haben,
+
+00:29:24.110 --> 00:29:27.140
+dass ich da so mitgelernt habe,
+
+00:29:27.140 --> 00:29:29.140
+wie du es gerade beschrieben hast.
+
+00:29:29.140 --> 00:29:32.140
+Und später habe ich immer aus dieser Lermerfahrung versucht,
+
+00:29:32.140 --> 00:29:34.140
+die eigenen Gruppen, die dann entstehen,
+
+00:29:34.140 --> 00:29:36.140
+für alle möglichen Projekte.
+
+00:29:36.140 --> 00:29:38.140
+Wir haben dann zum Beispiel auch Siemens Bewegt Schule gegründet,
+
+00:29:38.140 --> 00:29:42.140
+auch wieder aus dem Community-Ansatz heraus.
+
+00:29:42.140 --> 00:29:44.110
+Immer wieder aus dem, was vorher,
+
+00:29:44.110 --> 00:29:46.110
+was ich gesehen habe, gelernt habe,
+
+00:29:46.110 --> 00:29:48.090
+auch wann geht mal so eine Community,
+
+00:29:48.090 --> 00:29:50.140
+wann legt sie sich mal wieder schlafen,
+
+00:29:50.140 --> 00:29:51.140
+sozusagen.
+
+00:29:51.140 --> 00:29:53.140
+Ich glaube, wenn man einmal so eine Verbindung
+
+00:29:53.140 --> 00:29:54.140
+zu den Kollegen hatte,
+
+00:29:54.140 --> 00:29:55.140
+ist sie nie ganz weg.
+
+00:29:55.140 --> 00:29:57.140
+Sie ruht dann mal an der Seite
+
+00:29:57.140 --> 00:29:59.140
+und dann sind vielleicht andere Themen wichtig,
+
+00:29:59.140 --> 00:30:01.260
+was auch völlig fein ist.
+
+00:30:01.260 --> 00:30:03.260
+Aber immer mit der Klarheit,
+
+00:30:03.260 --> 00:30:04.260
+was ist da los?
+
+00:30:04.260 --> 00:30:05.260
+Sind wir beisammen?
+
+00:30:05.260 --> 00:30:06.260
+Was fehlt uns?
+
+00:30:06.260 --> 00:30:08.260
+Fehlt für uns vielleicht nochmal die Verbindung in der Mitte?
+
+00:30:08.260 --> 00:30:09.260
+Wofür sind wir da?
+
+00:30:09.260 --> 00:30:11.260
+Mit den klaren Spielregeln.
+
+00:30:11.260 --> 00:30:14.260
+Das war im Prinzip die erste Community der Lernerfahrung,
+
+00:30:14.260 --> 00:30:16.260
+die ich dann immer wieder auch in das,
+
+00:30:16.260 --> 00:30:19.260
+was sich danach an Saatkörnern entstanden ist,
+
+00:30:19.260 --> 00:30:21.350
+weitergetragen habe.
+
+00:30:21.350 --> 00:30:22.350
+Auch aus der Lernerfahrung,
+
+00:30:22.350 --> 00:30:23.350
+was ist wichtig?
+
+00:30:23.350 --> 00:30:25.380
+Wann scheitert es nochmal?
+
+00:30:25.380 --> 00:30:27.430
+Lernerfahrung,
+
+00:30:27.430 --> 00:30:29.430
+ein super wichtiges Stichwort.
+
+00:30:29.430 --> 00:30:30.430
+Das wollte ich nämlich gerade auch fragen.
+
+00:30:30.430 --> 00:30:32.430
+Was war denn deine größte Lernerfahrung
+
+00:30:32.430 --> 00:30:34.430
+in diesem ganzen Prozess
+
+00:30:34.430 --> 00:30:36.430
+oder in diesen fünf Jahren?
+
+00:30:36.430 --> 00:30:38.430
+oder was war so dein Schlüsselmoment
+
+00:30:38.430 --> 00:30:39.430
+oder Schlüsselerlebnis,
+
+00:30:39.430 --> 00:30:40.430
+dass du sagst, wow,
+
+00:30:40.430 --> 00:30:42.440
+das bringt was,
+
+00:30:42.440 --> 00:30:44.520
+dass sich ein Mensch
+
+00:30:44.520 --> 00:30:47.520
+oder mehrere im Netzwerk dazu austauschen
+
+00:30:47.520 --> 00:30:49.710
+und dem Raum geben?
+
+00:30:49.710 --> 00:30:51.900
+Also das Größte und Stärkste finde ich,
+
+00:30:51.900 --> 00:30:53.840
+dass wenn sich Menschen
+
+00:30:53.840 --> 00:30:55.860
+vom Herzen her zusammenfinden,
+
+00:30:55.860 --> 00:30:56.860
+sei es jetzt bei uns in der Gruppe
+
+00:30:56.860 --> 00:30:57.860
+Siemens Bewegt Schule
+
+00:30:57.860 --> 00:30:59.860
+oder Lernbar Berlin,
+
+00:30:59.860 --> 00:31:00.860
+wir wollen lernen,
+
+00:31:00.860 --> 00:31:01.860
+Freizeit leicht machen.
+
+00:31:01.860 --> 00:31:03.860
+Damals bei Grains,
+
+00:31:03.860 --> 00:31:05.890
+wenn sich Menschen im Herzen verbinden,
+
+00:31:05.890 --> 00:31:08.920
+dann entsteht da sehr viel Arbeit
+
+00:31:08.920 --> 00:31:10.850
+auf der Beziehungsebene,
+
+00:31:10.850 --> 00:31:12.940
+die wir sonst in anderen Projekten
+
+00:31:12.940 --> 00:31:13.940
+und Themen,
+
+00:31:13.940 --> 00:31:14.940
+zumindest in dem Umfeld,
+
+00:31:14.940 --> 00:31:15.940
+was ich bis dahin kannte,
+
+00:31:15.940 --> 00:31:16.940
+gar nicht so stark hatten,
+
+00:31:16.940 --> 00:31:18.950
+sondern es war ganz häufig
+
+00:31:18.950 --> 00:31:20.030
+im größten Teil die Sachebene.
+
+00:31:20.030 --> 00:31:21.030
+Das heißt,
+
+00:31:21.030 --> 00:31:22.220
+wenn wir wissen,
+
+00:31:22.220 --> 00:31:23.220
+dafür sind wir da
+
+00:31:23.220 --> 00:31:25.180
+und brennen dafür wirklich,
+
+00:31:25.180 --> 00:31:26.180
+wie du sagst,
+
+00:31:26.180 --> 00:31:27.180
+die extra Meile zu gehen
+
+00:31:27.180 --> 00:31:28.180
+vom Herzen her
+
+00:31:28.180 --> 00:31:29.180
+und verstehen das warum,
+
+00:31:29.180 --> 00:31:31.720
+dann entsteht diese Beziehungsarbeit,
+
+00:31:31.720 --> 00:31:32.720
+die wirklich nachhält.
+
+00:31:32.720 --> 00:31:35.720
+Ganz anders als in so gesetzten Teams,
+
+00:31:35.720 --> 00:31:36.700
+wenn man sagt,
+
+00:31:36.700 --> 00:31:37.690
+ich beordere dich dahin,
+
+00:31:37.690 --> 00:31:38.690
+du bist jetzt für das zuständig,
+
+00:31:38.690 --> 00:31:40.690
+also dieser Top-Down-Ansatz
+
+00:31:40.690 --> 00:31:42.690
+ist es ja eben an den Stellen nicht,
+
+00:31:42.690 --> 00:31:45.070
+dass das viel auslöst
+
+00:31:45.070 --> 00:31:48.070
+und eine sehr starke Gemeinschaft auslöst,
+
+00:31:48.070 --> 00:31:50.070
+die dann als Gemeinschaft,
+
+00:31:50.070 --> 00:31:51.070
+ganz wichtig,
+
+00:31:51.070 --> 00:31:52.070
+auch immer nicht alleine gehen,
+
+00:31:52.070 --> 00:31:53.070
+sehr viel anschieben
+
+00:31:53.070 --> 00:31:54.070
+und bewegen kann.
+
+00:31:54.070 --> 00:31:56.350
+Und damit natürlich auch wieder
+
+00:31:56.350 --> 00:31:57.350
+auf die große Organisation,
+
+00:31:57.350 --> 00:31:59.350
+die vielleicht noch traditionell arbeitet,
+
+00:31:59.350 --> 00:32:00.350
+wirkt.
+
+00:32:00.350 --> 00:32:01.730
+Genau.
+
+00:32:01.730 --> 00:32:03.200
+Und die größte,
+
+00:32:03.200 --> 00:32:04.200
+das würde ich gerne noch ergänzen,
+
+00:32:04.200 --> 00:32:05.200
+die größte Lernerfahrung dabei,
+
+00:32:05.200 --> 00:32:07.200
+es beginnt ja alles irgendwo im Kern.
+
+00:32:07.200 --> 00:32:08.200
+Bei ein paar Menschen,
+
+00:32:08.200 --> 00:32:09.200
+die sagen,
+
+00:32:09.200 --> 00:32:10.200
+hey, wir haben eine Idee,
+
+00:32:10.200 --> 00:32:12.290
+lass uns da was tun,
+
+00:32:12.290 --> 00:32:14.290
+dann entsteht eine Community.
+
+00:32:14.290 --> 00:32:15.250
+Und was da auch
+
+00:32:15.250 --> 00:32:17.180
+eine der größten Lernerfahrungen ist,
+
+00:32:17.180 --> 00:32:19.660
+wenn das dann stark wächst,
+
+00:32:19.660 --> 00:32:20.660
+diese Community,
+
+00:32:20.660 --> 00:32:22.660
+auf 60, 80, 200
+
+00:32:22.660 --> 00:32:25.880
+und das Wachstum zu schnell ist
+
+00:32:25.880 --> 00:32:26.880
+oder zu groß,
+
+00:32:26.880 --> 00:32:29.850
+dann verliert sich die Verbindung zum Kern,
+
+00:32:29.850 --> 00:32:30.880
+dann werden vielleicht
+
+00:32:30.880 --> 00:32:33.880
+die Gründer der Initiative unzufrieden
+
+00:32:33.880 --> 00:32:36.870
+und dann droht es zu diffundieren.
+
+00:32:36.870 --> 00:32:38.870
+Und deswegen ist ganz, ganz wichtig,
+
+00:32:38.870 --> 00:32:40.870
+dass man immer wieder auch zum Ursprung,
+
+00:32:40.870 --> 00:32:42.870
+also zum Sinn und Zweck zurückführt,
+
+00:32:42.870 --> 00:32:43.870
+zurückholt.
+
+00:32:43.870 --> 00:32:45.870
+Und was wir jetzt ganz häufig machen,
+
+00:32:45.870 --> 00:32:47.870
+ist wirklich mit einem Onboarding-Prozess
+
+00:32:47.870 --> 00:32:49.870
+in solche Gruppen zu starten.
+
+00:32:49.870 --> 00:32:50.870
+Dafür sind wir da.
+
+00:32:50.870 --> 00:32:51.870
+So arbeiten wir,
+
+00:32:51.870 --> 00:32:53.870
+weil es ist auch ganz ungewohnt,
+
+00:32:53.870 --> 00:32:55.870
+in solche Meetings dann reinzukommen.
+
+00:32:55.870 --> 00:32:56.870
+Und so eine,
+
+00:32:56.870 --> 00:32:58.870
+ganz häufig ist es eine Zack-Zack-Struktur.
+
+00:32:58.870 --> 00:33:00.870
+Also es ist nicht die Blümchen-Struktur
+
+00:33:00.870 --> 00:33:01.870
+in solchen Terminen,
+
+00:33:01.870 --> 00:33:02.870
+sondern die kann richtig effizient ablaufen,
+
+00:33:02.870 --> 00:33:04.870
+auch in den Meetings.
+
+00:33:04.870 --> 00:33:06.870
+Und das ist extrem ungewohnt
+
+00:33:06.870 --> 00:33:07.870
+für welche,
+
+00:33:07.870 --> 00:33:08.870
+die quasi jetzt nur aus einem
+
+00:33:08.870 --> 00:33:10.930
+anderen traditionellen Umfeld kommen.
+
+00:33:10.930 --> 00:33:12.930
+Und deswegen machen wir Onboardings,
+
+00:33:12.930 --> 00:33:14.930
+damit wir eben quasi
+
+00:33:14.930 --> 00:33:18.930
+Neugierigen mit den gewachsenen Strukturen
+
+00:33:18.930 --> 00:33:21.930
+in so einer Community auch gut kombinieren können.
+
+00:33:21.930 --> 00:33:22.930
+Das ist so ein Learning
+
+00:33:22.930 --> 00:33:24.900
+und so eine Hürde zu überwinden.
+
+00:33:24.900 --> 00:33:27.960
+Ich höre da auch ganz viel Transparenz raus
+
+00:33:27.960 --> 00:33:28.960
+und Offenheit
+
+00:33:28.960 --> 00:33:31.960
+und auch immer wieder der Fokus auf den Zweck,
+
+00:33:31.960 --> 00:33:33.960
+auf die sogenannte Purpose.
+
+00:33:33.960 --> 00:33:35.960
+Simon Zinnik,
+
+00:33:35.960 --> 00:33:37.960
+den kennen sicherlich auch viele,
+
+00:33:37.960 --> 00:33:39.960
+der hat ja auch gesagt
+
+00:33:39.960 --> 00:33:41.960
+Always start with a Why.
+
+00:33:41.960 --> 00:33:43.960
+Also immer mit dem Warum anfangen
+
+00:33:43.960 --> 00:33:46.960
+und den aber auf der Reise vielleicht nie verlieren
+
+00:33:46.960 --> 00:33:48.960
+und immer wieder allen,
+
+00:33:48.960 --> 00:33:49.960
+die dabei sind,
+
+00:33:49.960 --> 00:33:52.960
+das transparent und offen vor Augen zu führen,
+
+00:33:52.960 --> 00:33:56.180
+nehme ich jetzt so aus deinen Learnings mit.
+
+00:33:56.180 --> 00:33:57.180
+Ganz genau.
+
+00:33:57.180 --> 00:33:59.180
+Und was ich dann wieder erlebt habe,
+
+00:33:59.180 --> 00:34:00.180
+wenn dieses Warum fehlt,
+
+00:34:00.180 --> 00:34:03.180
+und das kann ja auch nur ein prägnanter Satz sein.
+
+00:34:03.180 --> 00:34:05.180
+Zack, das wollen wir schaffen.
+
+00:34:05.180 --> 00:34:06.180
+Oder dafür sind wir da.
+
+00:34:06.180 --> 00:34:07.180
+Wenn das fehlt,
+
+00:34:07.180 --> 00:34:10.210
+dann auf dem Weg merkt man das irgendwann.
+
+00:34:10.210 --> 00:34:11.210
+Was tun wir hier eigentlich?
+
+00:34:11.210 --> 00:34:13.210
+Was verbindet uns?
+
+00:34:13.210 --> 00:34:15.210
+Und dann merkt man das auch im weiteren Verlauf für das,
+
+00:34:15.210 --> 00:34:16.210
+was die Gruppe baut,
+
+00:34:16.210 --> 00:34:17.210
+an Programmen,
+
+00:34:17.210 --> 00:34:18.210
+an Lernelementen,
+
+00:34:18.210 --> 00:34:19.210
+an Produkt,
+
+00:34:19.210 --> 00:34:20.210
+dass diese Verbindung fehlt.
+
+00:34:20.210 --> 00:34:22.210
+Das spürt man dann auch auf dem Weg.
+
+00:34:22.210 --> 00:34:23.210
+Und dann ist es aber auch noch nicht zu spät,
+
+00:34:23.210 --> 00:34:26.100
+dann kann man das nochmal herstellen.
+
+00:34:26.100 --> 00:34:27.100
+Sehr gut.
+
+00:34:27.100 --> 00:34:28.100
+Stefanie,
+
+00:34:28.100 --> 00:34:30.100
+Gegenwind bekommen eine ganz neue Bedeutung
+
+00:34:30.100 --> 00:34:33.100
+nach unserer kurzen Erfahrung hier.
+
+00:34:33.100 --> 00:34:34.100
+Aber mich freut es,
+
+00:34:34.100 --> 00:34:37.100
+dass wir den zweiten Teil des Podcasts aufnehmen können.
+
+00:34:37.100 --> 00:34:40.100
+Wir hatten gerade ein paar technische Schwierigkeiten.
+
+00:34:40.100 --> 00:34:41.100
+Liebe Stefanie,
+
+00:34:41.100 --> 00:34:43.100
+wir sind stehen geblieben beim Thema
+
+00:34:43.100 --> 00:34:45.100
+Rückenwind und Gegenwind.
+
+00:34:45.100 --> 00:34:46.100
+Ich vermute,
+
+00:34:46.100 --> 00:34:48.100
+du hattest nicht nur Rückenwind,
+
+00:34:48.100 --> 00:34:49.100
+was natürlich toll wäre,
+
+00:34:49.100 --> 00:34:53.100
+aber wenn du Gegenwind hattest,
+
+00:34:53.100 --> 00:34:55.100
+wie bist du damit umgegangen?
+
+00:34:55.100 --> 00:34:59.100
+Oder wie bist du mit den Menschen umgegangen,
+
+00:34:59.100 --> 00:35:01.100
+wie,
+
+00:35:01.100 --> 00:35:03.100
+ja, was hat dir in den Momenten geholfen,
+
+00:35:03.100 --> 00:35:04.100
+weiterzumachen?
+
+00:35:04.100 --> 00:35:05.100
+Also das eine,
+
+00:35:05.100 --> 00:35:06.100
+was mir spontan dazu einfällt,
+
+00:35:06.100 --> 00:35:08.100
+ist natürlich immer die Frage,
+
+00:35:08.100 --> 00:35:09.100
+was tut ihr da?
+
+00:35:09.100 --> 00:35:10.100
+Warum macht ihr das eigentlich?
+
+00:35:10.100 --> 00:35:11.100
+Und dann,
+
+00:35:11.100 --> 00:35:12.100
+was dann geholfen hat,
+
+00:35:12.100 --> 00:35:13.100
+vor allem zu sagen,
+
+00:35:13.100 --> 00:35:15.130
+deswegen bin ich da, dafür tue,
+
+00:35:15.130 --> 00:35:18.130
+also wirklich zu einem ganz festen Stand dabei zu haben,
+
+00:35:18.130 --> 00:35:19.130
+in dem, ja,
+
+00:35:19.130 --> 00:35:20.130
+einerseits standkörperlich,
+
+00:35:20.130 --> 00:35:22.130
+aber auch in der eigenen Meinung,
+
+00:35:22.130 --> 00:35:23.130
+dass das gut ist,
+
+00:35:23.130 --> 00:35:24.130
+was ich hier tue.
+
+00:35:24.130 --> 00:35:26.130
+Also das immer wieder zu sagen,
+
+00:35:26.130 --> 00:35:28.130
+und deswegen bin ich da,
+
+00:35:28.130 --> 00:35:29.130
+also das Thema Argumentation,
+
+00:35:29.130 --> 00:35:31.130
+Kommunikation ist immens wichtig,
+
+00:35:31.130 --> 00:35:33.100
+das hatte ich auch täglich erlebt.
+
+00:35:33.100 --> 00:35:34.080
+Diese Frage,
+
+00:35:34.080 --> 00:35:35.160
+wofür eigentlich?
+
+00:35:35.160 --> 00:35:38.160
+Also das habe ich auch stark als Gegenwind erlebt.
+
+00:35:38.160 --> 00:35:39.160
+Viele von denen,
+
+00:35:39.160 --> 00:35:40.160
+die jetzt zuhören,
+
+00:35:40.160 --> 00:35:41.160
+können das sicherlich nachvollziehen,
+
+00:35:41.160 --> 00:35:42.160
+dass man immer wieder,
+
+00:35:42.160 --> 00:35:44.160
+wofür brauchen wir das eigentlich?
+
+00:35:44.160 --> 00:35:46.160
+Und diese Themen rund um Kulturwandel
+
+00:35:46.160 --> 00:35:47.160
+eigentlich die ersten sind,
+
+00:35:47.160 --> 00:35:48.160
+die wieder gehen,
+
+00:35:48.160 --> 00:35:50.160
+wenn es mal eng wird im Geschäft
+
+00:35:50.160 --> 00:35:52.220
+oder im Tagesgeschäft.
+
+00:35:52.220 --> 00:35:53.210
+Und das zweite natürlich,
+
+00:35:53.210 --> 00:35:54.210
+was wir vorhin auch schon mal
+
+00:35:54.210 --> 00:35:55.210
+angesprochen hatten,
+
+00:35:55.210 --> 00:35:57.210
+dass es immer noch ganz viel,
+
+00:35:57.210 --> 00:35:59.200
+ja, sei es jetzt Führungskräfte,
+
+00:35:59.200 --> 00:36:00.200
+aber sei es jetzt auch mal,
+
+00:36:00.200 --> 00:36:02.200
+wenn man mal auf das Schulische schaut,
+
+00:36:02.200 --> 00:36:04.200
+andere Eltern,
+
+00:36:04.200 --> 00:36:05.200
+Lehrkräfte,
+
+00:36:05.200 --> 00:36:06.200
+also in unserer Gesellschaft
+
+00:36:06.200 --> 00:36:08.200
+gibt es einfach immer noch
+
+00:36:08.200 --> 00:36:10.200
+eine sehr starke traditionelle Haltung
+
+00:36:10.200 --> 00:36:11.200
+für das, was bisher da ist,
+
+00:36:11.200 --> 00:36:12.200
+ist gut so
+
+00:36:12.200 --> 00:36:14.200
+und warum sollten wir verändern?
+
+00:36:14.200 --> 00:36:15.200
+Das würde jetzt nicht nur
+
+00:36:15.200 --> 00:36:16.200
+in Richtung Führungskräfte geben,
+
+00:36:16.200 --> 00:36:19.200
+sondern auch über verschiedene andere Beteiligte.
+
+00:36:19.200 --> 00:36:20.200
+Das ist einfach da
+
+00:36:20.200 --> 00:36:21.200
+und die Menschen,
+
+00:36:21.200 --> 00:36:25.200
+die dann quasi gern mal Neues ausprobieren,
+
+00:36:25.200 --> 00:36:26.190
+können das jetzt, glaube ich,
+
+00:36:26.190 --> 00:36:27.190
+gut nachvollziehen.
+
+00:36:27.190 --> 00:36:28.190
+Da gibt es immer wieder
+
+00:36:28.190 --> 00:36:30.190
+und eigentlich fast täglich Gegenwind,
+
+00:36:30.190 --> 00:36:31.160
+den man dann,
+
+00:36:31.160 --> 00:36:32.160
+Dörte,
+
+00:36:32.160 --> 00:36:33.160
+weil du auch fragtest,
+
+00:36:33.160 --> 00:36:34.160
+wie damit umgehen,
+
+00:36:34.160 --> 00:36:36.160
+es heißt immer wieder Kommunikation,
+
+00:36:36.160 --> 00:36:38.160
+Kommunikation, Kommunikation
+
+00:36:38.160 --> 00:36:41.310
+und dann Schritt für Schritt
+
+00:36:41.310 --> 00:36:43.310
+mehr Mitstreiter zu gewinnen.
+
+00:36:45.370 --> 00:36:46.370
+Ich höre da ganz stark
+
+00:36:46.370 --> 00:36:48.370
+so das Thema auch Rückgrat raus,
+
+00:36:48.370 --> 00:36:51.370
+also man braucht ein starkes Rückgrat,
+
+00:36:51.370 --> 00:36:54.370
+um dem dann vielleicht auch mal Stand zu halten.
+
+00:36:54.370 --> 00:36:56.370
+Natürlich einfühlsam und wohlwollend
+
+00:36:56.370 --> 00:36:58.370
+und trotzdem offen,
+
+00:36:58.370 --> 00:37:00.370
+transparent in dem,
+
+00:37:00.370 --> 00:37:01.370
+was man tut,
+
+00:37:01.370 --> 00:37:05.530
+aber auch eine gewisse Bodenständigkeit,
+
+00:37:05.530 --> 00:37:06.530
+ein Rückgrat,
+
+00:37:06.530 --> 00:37:08.530
+der einen hält und trägt,
+
+00:37:08.530 --> 00:37:12.530
+wenn es dann vielleicht auch einmal etwas rauer wird.
+
+00:37:12.530 --> 00:37:14.940
+Genau und ein Rückgrat dazu,
+
+00:37:14.940 --> 00:37:17.940
+natürlich hat man sich selbst als eigene Person,
+
+00:37:17.940 --> 00:37:18.940
+aber ganz stark Teams,
+
+00:37:18.940 --> 00:37:19.940
+die einen umgeben
+
+00:37:19.940 --> 00:37:22.940
+oder Gleichgesinnte natürlich.
+
+00:37:22.940 --> 00:37:23.940
+Wie fängt man an?
+
+00:37:23.940 --> 00:37:25.940
+Man fängt nicht an der kniffligsten Stelle an,
+
+00:37:25.940 --> 00:37:27.940
+sondern man sucht sich erstmal Gleichgesinnte,
+
+00:37:27.940 --> 00:37:29.940
+die sich mit auf den Weg begeben.
+
+00:37:29.940 --> 00:37:31.940
+Und dazu fällt mir auch gerade ein,
+
+00:37:31.940 --> 00:37:33.940
+das Arbeiten im Tandem
+
+00:37:33.940 --> 00:37:35.940
+habe ich wirklich liebgewonnen
+
+00:37:35.940 --> 00:37:37.940
+und ich bin auch zutiefst davon überzeugt,
+
+00:37:37.940 --> 00:37:39.940
+dass es das Miteinander stärkt
+
+00:37:39.940 --> 00:37:41.940
+und dass es selbst
+
+00:37:41.940 --> 00:37:43.970
+in dieser Tandemarbeit,
+
+00:37:43.970 --> 00:37:45.970
+auch wenn ich heute mal auch,
+
+00:37:45.970 --> 00:37:47.970
+wie funktionieren Schulen
+
+00:37:47.970 --> 00:37:49.970
+und wieso ist eigentlich eine Schulleitung so alleine da an der Spitze
+
+00:37:49.970 --> 00:37:51.970
+und der Lehrer so alleine in der Klasse,
+
+00:37:51.970 --> 00:37:53.970
+bin ich zutiefst überzeugt,
+
+00:37:53.970 --> 00:37:55.960
+dass Tandemarbeit uns
+
+00:37:55.960 --> 00:37:57.960
+im Vorankommen und im Bewegen
+
+00:37:57.960 --> 00:37:59.960
+der Dinge, die uns wichtig sind,
+
+00:37:59.960 --> 00:38:01.890
+immens helfen würde und mir auch immer hilft.
+
+00:38:01.890 --> 00:38:05.140
+Absolut.
+
+00:38:05.140 --> 00:38:07.140
+Also einen sogenannten
+
+00:38:07.140 --> 00:38:09.140
+Sparingspartner vielleicht auch mal,
+
+00:38:09.140 --> 00:38:11.140
+mit dem man auch auf Augenhöhe kontrovers
+
+00:38:11.140 --> 00:38:13.140
+sich austauschen kann
+
+00:38:13.140 --> 00:38:15.140
+und vielleicht mal einen
+
+00:38:15.140 --> 00:38:17.140
+Perspektivwechsel wagen kann
+
+00:38:17.140 --> 00:38:19.330
+und sich dann aber auch wieder
+
+00:38:19.330 --> 00:38:21.330
+gestärkter fühlt, weil man weiß,
+
+00:38:21.330 --> 00:38:23.330
+man hat es ja auch schon irgendwie mit anderen besprochen,
+
+00:38:23.330 --> 00:38:25.330
+ausgetauscht und
+
+00:38:25.330 --> 00:38:27.330
+ja, fühlt sich da auch
+
+00:38:27.330 --> 00:38:29.330
+ein bisschen
+
+00:38:29.330 --> 00:38:31.330
+mutiger, gestärkter,
+
+00:38:31.330 --> 00:38:34.790
+was Neues auszuprobieren.
+
+00:38:34.790 --> 00:38:36.790
+Habe ich das richtig interpretiert,
+
+00:38:36.790 --> 00:38:38.780
+dass du vielleicht
+
+00:38:38.780 --> 00:38:40.780
+ab einem gewissen Punkt auch
+
+00:38:40.780 --> 00:38:42.970
+dich immer mehr auf diejenigen
+
+00:38:42.970 --> 00:38:44.970
+fokussiert und konzentriert hast,
+
+00:38:44.970 --> 00:38:46.970
+die, sag ich mal,
+
+00:38:46.970 --> 00:38:49.410
+den Wandel mitgestalten wollten
+
+00:38:49.410 --> 00:38:51.410
+und die im Fokus behalten hast,
+
+00:38:51.410 --> 00:38:53.440
+anstatt, ich sag mal,
+
+00:38:53.440 --> 00:38:55.440
+diejenigen, die vielleicht mehr
+
+00:38:55.440 --> 00:38:57.440
+dagegen,
+
+00:38:57.440 --> 00:38:59.440
+kritisch gegenüberstanden
+
+00:38:59.440 --> 00:39:01.440
+dich gestellt hast, also dass du wirklich
+
+00:39:01.440 --> 00:39:03.440
+eher die mitgenommen hast, die wollten,
+
+00:39:03.440 --> 00:39:05.440
+anstatt die zu überzeugen, die noch nicht bereit
+
+00:39:05.440 --> 00:39:07.440
+waren? Also ich habe
+
+00:39:07.440 --> 00:39:09.440
+so in der, sag ich jetzt mal, Sturm und Brand
+
+00:39:09.440 --> 00:39:11.440
+Zeit, als alles so begann
+
+00:39:11.440 --> 00:39:13.440
+und wirklich so dann auch das
+
+00:39:13.440 --> 00:39:15.440
+Commitment und der Auftrag war, hey,
+
+00:39:15.440 --> 00:39:17.440
+tu was, es an allen
+
+00:39:17.440 --> 00:39:19.440
+Ecken und Enden natürlich probiert,
+
+00:39:19.440 --> 00:39:21.440
+auf jeder Ebene,
+
+00:39:21.440 --> 00:39:23.440
+auf der Mitarbeiter-Ebene,
+
+00:39:23.440 --> 00:39:25.440
+auf der Führungskraft-Ebene, da wirklich
+
+00:39:25.440 --> 00:39:27.440
+in diese Schwingung und in die Bewegung zu kommen.
+
+00:39:27.440 --> 00:39:29.440
+Und was mir jetzt gerade so einfiel,
+
+00:39:29.440 --> 00:39:31.440
+als ich deine Frage noch gelauscht habe, war,
+
+00:39:31.440 --> 00:39:33.440
+manchmal waren es auch lose Enden.
+
+00:39:33.440 --> 00:39:35.630
+Also ganz häufig habe ich
+
+00:39:35.630 --> 00:39:37.630
+dann einfach im Gehen, was wir
+
+00:39:37.630 --> 00:39:39.630
+vorhin hatten, vieles passiert,
+
+00:39:39.630 --> 00:39:41.980
+wenn man losläuft, gemerkt, hey,
+
+00:39:41.980 --> 00:39:43.980
+manche Enden kosten sehr viel Kraft,
+
+00:39:43.980 --> 00:39:45.980
+extrem viel Kraft und an anderen Stellen
+
+00:39:45.980 --> 00:39:47.980
+ist einfach ein Team
+
+00:39:47.980 --> 00:39:49.950
+da, was möchte und
+
+00:39:49.950 --> 00:39:51.950
+habe auch für mich gelernt,
+
+00:39:51.950 --> 00:39:53.950
+die Energie so einzusetzen,
+
+00:39:53.950 --> 00:39:55.950
+dass sie dann die Dinge wirklich
+
+00:39:55.950 --> 00:39:56.950
+in die Bewegung bringt.
+
+00:39:56.950 --> 00:39:57.950
+Und das ist nun mal an den Stellen,
+
+00:39:57.950 --> 00:39:59.950
+die bereit sind und
+
+00:39:59.950 --> 00:40:02.040
+aber auch beobachtet und gelernt,
+
+00:40:02.040 --> 00:40:04.040
+dass das System sich immer mehr
+
+00:40:04.040 --> 00:40:06.040
+öffnen kann, je mehr
+
+00:40:06.040 --> 00:40:08.040
+das in Schwingung gerät.
+
+00:40:08.040 --> 00:40:10.040
+Je mehr Initiativen
+
+00:40:10.040 --> 00:40:12.040
+wir starten, die Neugier hervorrufen,
+
+00:40:12.040 --> 00:40:14.040
+die Mitmachen hervorrufen,
+
+00:40:14.040 --> 00:40:16.040
+gerät eine Schwingung in die Organisation.
+
+00:40:16.040 --> 00:40:18.040
+Und dann sind wieder mehr Menschen
+
+00:40:18.040 --> 00:40:20.040
+bereit und dann nimmt man die wieder mit.
+
+00:40:20.040 --> 00:40:22.040
+Aber ich würde jetzt nicht wirklich
+
+00:40:22.040 --> 00:40:24.040
+bei den beharrlichsten anfangen.
+
+00:40:24.040 --> 00:40:26.040
+Ich habe probiert natürlich
+
+00:40:26.040 --> 00:40:28.040
+und auch da sehr viel Frust gelassen
+
+00:40:28.040 --> 00:40:30.040
+und habe aber auch für mich gelernt,
+
+00:40:30.040 --> 00:40:32.040
+da geht dann an der Stelle so viel Energie weg,
+
+00:40:32.040 --> 00:40:34.040
+die dann leider an den festen Enden,
+
+00:40:34.040 --> 00:40:36.040
+nicht an den losen Enden,
+
+00:40:36.040 --> 00:40:38.040
+sondern an den festen Enden fehlt.
+
+00:40:38.040 --> 00:40:40.040
+Und deswegen auch für mich
+
+00:40:40.040 --> 00:40:42.040
+so meinen eigenen Erfahrungsweg
+
+00:40:42.040 --> 00:40:44.420
+auch zum Thema Gegenwind wieder an der Stelle gelernt.
+
+00:40:44.420 --> 00:40:46.420
+Aber die Gruppe,
+
+00:40:46.420 --> 00:40:48.420
+also wenn man losgeht,
+
+00:40:48.420 --> 00:40:50.420
+ja kontinuierlich weiter
+
+00:40:50.420 --> 00:40:52.420
+und dann hat man auch die,
+
+00:40:52.420 --> 00:40:56.050
+dann spürt man auch die Erfolge auf dem Weg.
+
+00:40:56.050 --> 00:40:58.010
+Und ich nehme an,
+
+00:40:58.010 --> 00:40:59.010
+das ist auch das gewesen,
+
+00:40:59.010 --> 00:41:02.010
+was dich dann motiviert hat und getragen hat,
+
+00:41:02.010 --> 00:41:04.010
+auch wenn es dann mal vielleicht ein bisschen schwieriger war,
+
+00:41:04.010 --> 00:41:06.200
+dass du gesehen hast,
+
+00:41:06.200 --> 00:41:08.200
+hey, da ist so viel Bewegung schon drin
+
+00:41:08.200 --> 00:41:10.200
+und da ist so viel Veränderung möglich
+
+00:41:10.200 --> 00:41:12.160
+und es ist auch schon so viel positives,
+
+00:41:12.160 --> 00:41:14.160
+unentdecktes Potenzial da,
+
+00:41:14.160 --> 00:41:16.160
+was eigentlich nur darauf wartet, entdeckt zu werden,
+
+00:41:16.160 --> 00:41:18.160
+dass sich das immer
+
+00:41:18.160 --> 00:41:20.160
+einen Schritt weiter gebracht hat.
+
+00:41:20.160 --> 00:41:22.160
+Wie hast du es denn, sag ich mal, geschafft,
+
+00:41:22.160 --> 00:41:24.160
+nicht diesen Stempel,
+
+00:41:24.160 --> 00:41:26.160
+den manche vielleicht dann auch
+
+00:41:26.160 --> 00:41:28.440
+manchmal schnell abbekommen,
+
+00:41:28.440 --> 00:41:30.440
+so der Prophet im eigenen Land zu sein?
+
+00:41:30.440 --> 00:41:32.440
+Ja, die schon wieder.
+
+00:41:32.440 --> 00:41:34.440
+Die erzählt ja immer von Veränderungen
+
+00:41:34.440 --> 00:41:36.440
+und dass das alles ganz easy ist und so.
+
+00:41:36.440 --> 00:41:38.720
+Also wie hast du das geschafft,
+
+00:41:38.720 --> 00:41:40.720
+eher zu inspirieren, einzuladen
+
+00:41:40.720 --> 00:41:42.720
+und nicht so,
+
+00:41:42.720 --> 00:41:46.720
+okay, jetzt die schon wieder.
+
+00:41:46.720 --> 00:41:52.990
+Ja, rund um diese Ideen und Initiativen waren immer Gruppen von Menschen.
+
+00:41:52.990 --> 00:41:54.990
+Und was ich dann besonders schön fand,
+
+00:41:54.990 --> 00:41:56.990
+das war auch am Anfang, habe ich noch selbst geredet
+
+00:41:56.990 --> 00:42:00.990
+und dann auf dem Weg einfach dann immer die reden lassen,
+
+00:42:00.990 --> 00:42:02.990
+die auch da aktiv beteiligt sind
+
+00:42:02.990 --> 00:42:06.990
+und ganz bewusst und ganz deutlich nicht mehr selbst geredet.
+
+00:42:06.990 --> 00:42:08.990
+Und das war dann eigentlich das Schönste,
+
+00:42:08.990 --> 00:42:11.090
+dass die Kollegen auch gemerkt haben,
+
+00:42:11.090 --> 00:42:13.150
+hey, da ist jetzt jemand anderes involviert
+
+00:42:13.150 --> 00:42:15.150
+und das ist auch noch abwechselnd und sehr unterschiedlich,
+
+00:42:15.150 --> 00:42:18.150
+von denen, die da mitmachen,
+
+00:42:18.150 --> 00:42:22.150
+dass du dann merkst, hey, da entsteht eher die breitere Basis.
+
+00:42:22.150 --> 00:42:25.150
+Das heißt, weniger in den Vordergrund gehen
+
+00:42:25.150 --> 00:42:27.150
+und mehr die mitreden lassen,
+
+00:42:27.150 --> 00:42:30.150
+die dann auch da aktiv in den Projekten unterwegs sind.
+
+00:42:30.150 --> 00:42:34.140
+Das ist so ein Gedanke, der mir bei deiner Frage gerade kommt.
+
+00:42:35.430 --> 00:42:37.010
+Wunderbar.
+
+00:42:37.010 --> 00:42:40.010
+Welche konkreten Empfehlungen, liebe Stefanie,
+
+00:42:40.010 --> 00:42:43.010
+hättest du denn noch für unsere Hörer und Hörerinnen,
+
+00:42:43.010 --> 00:42:47.170
+die sich vielleicht zum agilen Coach entwickeln wollen
+
+00:42:47.170 --> 00:42:50.170
+oder schon in der Position sind, in der Rolle?
+
+00:42:51.170 --> 00:42:55.170
+Welche konkreten Hacks, Tipps, Empfehlungen
+
+00:42:55.170 --> 00:42:57.170
+möchtest du mit uns teilen?
+
+00:42:57.170 --> 00:42:58.170
+Genau.
+
+00:42:58.170 --> 00:42:59.170
+Ich kriege häufiger mal die Frage,
+
+00:42:59.170 --> 00:43:02.170
+wie hast du das denn gemacht oder wie hast du das angegangen?
+
+00:43:02.170 --> 00:43:04.170
+Und dann ist ja immer die eine Seite,
+
+00:43:04.170 --> 00:43:06.170
+dass man im Prinzip eine Ausbildung macht,
+
+00:43:06.170 --> 00:43:08.170
+eine Weiterbildung und so weiter.
+
+00:43:08.170 --> 00:43:10.170
+Aber viel wichtiger finde ich die Seite,
+
+00:43:10.170 --> 00:43:12.260
+dass ich denen dann antworte,
+
+00:43:12.260 --> 00:43:14.220
+geh rein ins Getümmel.
+
+00:43:14.220 --> 00:43:16.220
+Also es gibt dann meistens
+
+00:43:16.220 --> 00:43:20.220
+Communitys oder Interessengemeinschaften,
+
+00:43:20.220 --> 00:43:21.220
+die so da sind,
+
+00:43:21.220 --> 00:43:23.220
+die vielleicht ein Lernformat planen,
+
+00:43:23.220 --> 00:43:25.220
+die eine nächste Aktion planen.
+
+00:43:25.220 --> 00:43:27.220
+Und ich empfehle denen dann immer,
+
+00:43:27.220 --> 00:43:29.220
+geh rein in so eine Gruppe
+
+00:43:29.220 --> 00:43:32.180
+und lerne innerhalb dieser Gruppe mit,
+
+00:43:32.180 --> 00:43:34.180
+weil da ist halt der größte Lernerfolg.
+
+00:43:34.180 --> 00:43:36.180
+Wie organisieren die sich?
+
+00:43:36.180 --> 00:43:38.180
+Was für Spielregeln bauen sie?
+
+00:43:38.180 --> 00:43:41.180
+Welche Rollen definieren sie in so einem System?
+
+00:43:41.180 --> 00:43:44.180
+Und wie finden sie so ihren Kern?
+
+00:43:44.180 --> 00:43:46.180
+Und durch das Lernen mittendrin
+
+00:43:46.180 --> 00:43:48.240
+in so einer, ja,
+
+00:43:48.240 --> 00:43:49.240
+agileren Organisation,
+
+00:43:49.240 --> 00:43:50.240
+finde ich,
+
+00:43:50.240 --> 00:43:51.240
+nimmt man das meiste mit,
+
+00:43:51.240 --> 00:43:52.240
+nimmt auch mit,
+
+00:43:52.240 --> 00:43:53.240
+was klappt mal nicht,
+
+00:43:53.240 --> 00:43:54.240
+was klappt besonders gut
+
+00:43:54.240 --> 00:43:56.240
+und kann das dann auf die eigene Arbeit
+
+00:43:56.240 --> 00:43:57.240
+sehr gut übertragen.
+
+00:43:57.240 --> 00:43:58.240
+Also ich würde sagen,
+
+00:43:58.240 --> 00:44:01.240
+da führen verschiedene Wege nach Rom.
+
+00:44:01.240 --> 00:44:02.430
+Die wichtigste, finde ich,
+
+00:44:02.430 --> 00:44:05.430
+mitmachen innerhalb von solchen Organisationen.
+
+00:44:05.430 --> 00:44:08.430
+Und das muss nicht immer die eigene im eigenen Haus sein.
+
+00:44:08.430 --> 00:44:10.430
+Ich hatte ja dann
+
+00:44:10.430 --> 00:44:12.430
+vorletztes Jahr ganz stark angefangen,
+
+00:44:12.430 --> 00:44:15.430
+im Thema Schulwandel zu wirken
+
+00:44:15.430 --> 00:44:16.430
+und habe dann erstmal geschaut,
+
+00:44:16.430 --> 00:44:19.430
+was für Gruppen gibt es da in Deutschland.
+
+00:44:19.430 --> 00:44:21.430
+Und da ist sehr, sehr viel selbstorganisiert
+
+00:44:21.430 --> 00:44:24.560
+und ehrenamtlich und freiwillig entstanden,
+
+00:44:24.560 --> 00:44:26.560
+wo man überall mitwirken kann.
+
+00:44:26.560 --> 00:44:30.900
+Und darüber lernt es sich am besten, finde ich.
+
+00:44:30.900 --> 00:44:33.900
+Und hättest du auch noch so ein paar Leseempfehlungen?
+
+00:44:33.900 --> 00:44:34.900
+Gab es Bücher,
+
+00:44:34.900 --> 00:44:37.900
+die dich besonders inspiriert haben,
+
+00:44:37.900 --> 00:44:40.900
+Mut in dir geweckt haben,
+
+00:44:40.900 --> 00:44:42.900
+was auszuprobieren
+
+00:44:42.900 --> 00:44:44.900
+oder was wirklich learning by doing
+
+00:44:44.900 --> 00:44:46.810
+und einfach ab ins Getummel?
+
+00:44:46.810 --> 00:44:49.930
+Also natürlich muss ich jetzt den Klassiker nennen,
+
+00:44:49.930 --> 00:44:51.930
+Reinventing Organizations von LALU.
+
+00:44:51.930 --> 00:44:53.930
+Das war so das erste Buch,
+
+00:44:53.930 --> 00:44:54.930
+was mich dazu,
+
+00:44:54.930 --> 00:44:56.930
+was überhaupt mich in diese Welt gebracht hat
+
+00:44:56.930 --> 00:44:57.930
+und so ein Augenöffner,
+
+00:44:57.930 --> 00:44:58.930
+weil da auch sehr viele Firmen
+
+00:44:58.930 --> 00:45:00.930
+und Unternehmungen beschrieben sind,
+
+00:45:00.930 --> 00:45:01.930
+wie sie es tun.
+
+00:45:01.930 --> 00:45:04.890
+Man kann da schon sehr viel rausziehen
+
+00:45:04.890 --> 00:45:06.890
+und ansonsten auch,
+
+00:45:06.890 --> 00:45:08.890
+ja, ein Klassiker in dem Umfeld,
+
+00:45:08.890 --> 00:45:11.890
+die kollegiale Führung von dem Bernd Österreich,
+
+00:45:11.890 --> 00:45:14.890
+der auch nochmal sehr viele schöne Ansätze,
+
+00:45:14.890 --> 00:45:16.890
+auch im Hinblick auf Soziokratie
+
+00:45:16.890 --> 00:45:18.890
+und einfach unterschiedliche Möglichkeiten
+
+00:45:18.890 --> 00:45:21.880
+da belichtet.
+
+00:45:21.880 --> 00:45:23.880
+Ja, das Buch kannte ich noch nicht.
+
+00:45:23.880 --> 00:45:25.880
+Das kann ich dir sehr empfehlen.
+
+00:45:25.880 --> 00:45:26.880
+Also es ist wirklich auch
+
+00:45:26.880 --> 00:45:28.880
+für die unterschiedlichsten Situationen im Team
+
+00:45:28.880 --> 00:45:30.880
+und für Teamentwicklung
+
+00:45:30.880 --> 00:45:36.050
+sehr schön dargestellt und beschrieben.
+
+00:45:36.050 --> 00:45:38.050
+Jetzt hast du ja den Schritt gewagt
+
+00:45:38.050 --> 00:45:40.050
+aus der großen Organisation heraus,
+
+00:45:40.050 --> 00:45:45.070
+hin auch zu Schulen und Organisationen und Vereinen,
+
+00:45:45.070 --> 00:45:49.070
+um da weiter das Thema Kulturwandel,
+
+00:45:49.070 --> 00:45:53.070
+Kollaboration auf Augenhöhe, Lernkultur voranzubringen
+
+00:45:53.070 --> 00:45:55.070
+und voranzutreiben.
+
+00:45:55.070 --> 00:45:59.070
+Was sind so deine Wünsche für die nächsten Jahre?
+
+00:45:59.070 --> 00:46:02.620
+Ja, also mein größter Wunsch,
+
+00:46:02.620 --> 00:46:05.620
+und das war auch so meine Einsicht,
+
+00:46:05.620 --> 00:46:07.620
+die sich durch meinen Job ergeben hat,
+
+00:46:07.620 --> 00:46:08.620
+ist, ich war ja dann sehr viel
+
+00:46:08.620 --> 00:46:10.620
+in der Erwachsenenbildung unterwegs
+
+00:46:10.620 --> 00:46:14.620
+und in dem Thema Wandel in der Wirtschaft.
+
+00:46:14.620 --> 00:46:17.620
+Und natürlich steht das,
+
+00:46:17.620 --> 00:46:18.620
+und das sehen wir jetzt alle,
+
+00:46:18.620 --> 00:46:20.620
+das ist aber auch erst seit letztem Jahr so deutlich.
+
+00:46:20.620 --> 00:46:23.620
+Vor letztem Jahr hatte man noch viel mehr erklären müssen,
+
+00:46:23.620 --> 00:46:25.620
+warum soll sich die Schule wandeln?
+
+00:46:25.620 --> 00:46:26.620
+Warum ist es notwendig?
+
+00:46:26.620 --> 00:46:28.620
+Und jetzt durch die aktuellen Umstände
+
+00:46:28.620 --> 00:46:30.620
+ist es ja wirklich so offensichtlich
+
+00:46:30.620 --> 00:46:32.620
+für fast alle bei uns im Land.
+
+00:46:32.620 --> 00:46:34.620
+Mein größter Wunsch ist,
+
+00:46:34.620 --> 00:46:35.620
+dass wir das gemeinsam tun.
+
+00:46:35.620 --> 00:46:37.620
+Also dass wir nicht mehr sagen,
+
+00:46:37.620 --> 00:46:38.620
+hey, da sind die Schulen
+
+00:46:38.620 --> 00:46:40.620
+oder gibt es Verantwortliche und die nur.
+
+00:46:40.620 --> 00:46:42.620
+Sondern ich würde gerne in so eine Haltung kommen,
+
+00:46:42.620 --> 00:46:43.620
+dass wir sagen,
+
+00:46:43.620 --> 00:46:45.620
+wir helfen uns gegenseitig.
+
+00:46:45.620 --> 00:46:48.620
+Es gibt zum Beispiel eben Erfahrene aus der Arbeitswelt,
+
+00:46:48.620 --> 00:46:49.620
+aus der Wirtschaft.
+
+00:46:49.620 --> 00:46:51.620
+Und wir finden einen Zugang,
+
+00:46:51.620 --> 00:46:53.620
+dass wir mit diesem wertvollen Erfahrungswissen,
+
+00:46:53.620 --> 00:46:54.620
+und da gibt es noch viel mehr,
+
+00:46:54.620 --> 00:46:57.620
+die jetzt nicht nur aus dem wirtschaftlichen Umfeld kommen,
+
+00:46:57.620 --> 00:47:00.580
+um im Schulwandel mitzuwirken.
+
+00:47:00.580 --> 00:47:02.540
+Ich habe an der Stelle ganz stark das Gefühl,
+
+00:47:02.540 --> 00:47:04.540
+das ist immer noch ein geschlossenes System.
+
+00:47:04.540 --> 00:47:05.540
+Du kommst da nur rein,
+
+00:47:05.540 --> 00:47:07.540
+wenn du Lehramt studiert hast.
+
+00:47:07.540 --> 00:47:08.540
+Du wirst nur gehört,
+
+00:47:08.540 --> 00:47:10.540
+wenn du diesen Hintergrund hast.
+
+00:47:10.540 --> 00:47:14.670
+Und ich wünsche mir da sehr viel mehr Durchlässigkeit im Miteinander lernen.
+
+00:47:14.670 --> 00:47:16.670
+Und das meine ich auch mit Brückenbauer.
+
+00:47:16.670 --> 00:47:19.630
+Das ist so genau der Ansatz und die Stelle,
+
+00:47:19.630 --> 00:47:21.630
+an der ich die nächsten Jahre wirken möchte,
+
+00:47:21.630 --> 00:47:24.630
+dass die Wirtschaft einerseits von Schülern,
+
+00:47:24.630 --> 00:47:25.630
+von jüngeren Menschen,
+
+00:47:25.630 --> 00:47:28.630
+die noch sehr viel mehr Offenheit und Neugier mitbringen,
+
+00:47:28.630 --> 00:47:31.630
+als wir manchmal im Erwachsenenleben dann schon,
+
+00:47:31.630 --> 00:47:33.630
+dass wir davon sehr viel lernen können.
+
+00:47:33.630 --> 00:47:36.630
+Und andersrum eben auch aus dem vielleicht beweglichen Umfeld,
+
+00:47:36.630 --> 00:47:39.630
+was wir jetzt schon länger haben in der Arbeitswelt.
+
+00:47:39.630 --> 00:47:42.290
+Und der Ansatz zu sagen,
+
+00:47:42.290 --> 00:47:47.570
+hey, wenn ich mir so einen Workshop im wirtschaftlichen Umfeld vorstelle,
+
+00:47:47.570 --> 00:47:49.570
+bewusst Kinder dazu zu nehmen,
+
+00:47:49.570 --> 00:47:51.570
+weil sie ganz neue, frische Ansätze haben
+
+00:47:51.570 --> 00:47:53.570
+und eine ganz andere Denke mitbringen.
+
+00:47:53.570 --> 00:47:56.570
+Und das eben nicht nur in dem Erwachsenenumfeld zu lernen,
+
+00:47:56.570 --> 00:47:58.570
+sondern die Welten zu vermischen,
+
+00:47:58.570 --> 00:48:01.570
+generationenübergreifend und dadurch Brücken zu bauen,
+
+00:48:01.570 --> 00:48:03.600
+das stelle ich mir für die nächsten Jahre vor.
+
+00:48:03.600 --> 00:48:05.720
+Wunderbar.
+
+00:48:05.720 --> 00:48:08.720
+Aber also ganz im Sinne der Diversität ist Reichtum
+
+00:48:08.720 --> 00:48:13.720
+und dass man sozusagen auch alles als Ganzes empfindet,
+
+00:48:13.720 --> 00:48:15.720
+dass alles mit allem zusammenhängt.
+
+00:48:15.720 --> 00:48:18.720
+Und da muss die Schule auch schon sozusagen anfangen.
+
+00:48:18.720 --> 00:48:25.720
+Aber nicht nur die Lehrer, sondern auch die Eltern, die Ministerien.
+
+00:48:25.720 --> 00:48:30.130
+Ja, also dass das eine gesamtgesellschaftliche Aufgabe ist
+
+00:48:30.130 --> 00:48:33.130
+und dass man nicht so, wie wir es kennen, in Silos denkt,
+
+00:48:33.130 --> 00:48:39.130
+sondern wirklich darüber hinaus und jeder so seinen Beitrag leistet.
+
+00:48:39.130 --> 00:48:40.290
+Genau.
+
+00:48:40.290 --> 00:48:45.630
+Liebe Stefanie, ich sage tausend Dank für deine Zeit.
+
+00:48:45.630 --> 00:48:47.630
+Ich hätte dir noch stundenlang zuhören können,
+
+00:48:47.630 --> 00:48:52.630
+aber wir wollen die Hörer jetzt auch nicht überfordern mit unserem Podcast.
+
+00:48:52.630 --> 00:48:54.630
+Ich denke mal nach einer Stunde.
+
+00:48:54.630 --> 00:48:56.630
+Das war vollgepackt mit deinen Erfahrungen.
+
+00:48:56.630 --> 00:48:58.630
+Vielen, vielen Dank.
+
+00:48:58.630 --> 00:49:01.630
+Ich wünsche dir für die Zukunft alles Gute und ich bin sicher,
+
+00:49:01.630 --> 00:49:04.880
+wir werden noch ganz, ganz viel von dir hören.
+
+00:49:04.880 --> 00:49:06.880
+Und vielen Dank für deine Zeit heute.
+
+00:49:06.880 --> 00:49:10.260
+Ich danke dir, Dörte. Bis bald.

@@ -1,0 +1,3025 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #32: #32 Innovationsmanagement mit Simon Hensellek
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
+Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:04.900 --> 00:00:33.930
+Herzlich Willkommen zu einer neuen Folge des VUCA Blasters. Heute ist Simon Hensellek zu Gast bei uns. Er ist Juniorprofessor für Entrepreneurship und Digitalisierung an der TU Dortmund. Hat sonst auch schon alle Ruhr-Unis abgeklappert. Beginnend an der Ruhr-Uni Bochum. Hat da studiert und promoviert an der Uni Duisburg-Essen. Hat schon Startups gegründet.
+
+00:00:33.930 --> 00:00:43.690
+Und genau, wir hatten uns auch an einem Projekt kennengelernt. Und fehlt dir noch was, was ich jetzt vergessen habe?
+
+00:00:43.690 --> 00:00:55.320
+Ich glaube, das hast du schon ganz gut zusammengefasst. Tatsächlich bin ich ein Ruhr-Gebiets-Kind. Und insofern habe ich jetzt mal an alle Ruhr-Universitäten hier den Haken dran gemacht.
+
+00:00:55.320 --> 00:01:03.340
+Und habe jetzt erstmal meine Station in Dortmund gefunden, wo ich auch sehr glücklich und zufrieden bin, dass ich da zu meinen Lieblingsthemen
+
+00:01:03.340 --> 00:01:07.340
+Entrepreneurship und Digitalisierung ein bisschen lehren und forschen darf.
+
+00:01:07.340 --> 00:01:10.490
+Also die FHs willst du nicht noch alle?
+
+00:01:10.490 --> 00:01:21.450
+Ja, erstmal nicht. Die Unis genügen mir erstmal. Wenn man da einmal in dem Uni-Bereich unterwegs ist, dann bleibt man da, glaube ich, auch ganz gerne.
+
+00:01:21.450 --> 00:01:33.980
+Okay. Sonst haben wir noch drei verschiedene Check-In-Fragen. Ich mische mal hier durch. Die erste Frage wäre, was inspiriert dich?
+
+00:01:33.980 --> 00:01:45.570
+Was mich inspiriert? Ich glaube, ganz unterschiedliche Sachen an ganz unterschiedlichen Tagen oder auch in ganz unterschiedlichen Bereichen.
+
+00:01:45.570 --> 00:01:57.100
+Zum einen natürlich andere Menschen inspirieren mich immer wieder, keine Frage. Ich habe mit super vielen interessanten Leuten alleine schon aus Berufswegen zu tun.
+
+00:01:57.100 --> 00:02:07.210
+Deshalb finde ich das, glaube ich, auch so spannend an der Uni. Abgesehen davon, dass einen natürlich die Studis auch ein bisschen jung halten und auch da immer wieder Inspiration herkommt.
+
+00:02:07.210 --> 00:02:17.910
+Auch wenn ich zugeben muss, dass ich mich bis heute nicht bei TikTok angemeldet habe, aber da kriegt man auf jeden Fall sehr viel Inspiration her.
+
+00:02:17.910 --> 00:02:27.990
+Aber auch ganz klassisch natürlich, ich lese viel, bekomme da sehr, sehr viele Inspirationen aus im Prinzip ja der ganzen Welt.
+
+00:02:27.990 --> 00:02:38.050
+Also ganz viel der Forschung ist natürlich immer noch aus den USA zum Beispiel, wo auch man merkt, dass eine ganz, ganz große Industrie
+
+00:02:38.050 --> 00:02:44.790
+dahinter steht mit den großen Universitäten. Und da kann man sich schon einiges an Inspiration, glaube ich, glaube ich abholen.
+
+00:02:44.790 --> 00:02:52.230
+Aber manchmal sind es auch so Kleinigkeiten im Alltag einfach. Irgendwas, was man gerade so sieht oder erlebt.
+
+00:02:52.230 --> 00:02:58.280
+Und da kommt die Inspiration dann manchmal sofort, aber manchmal auch erst so ein paar Tage, vielleicht auch ein paar Wochen später.
+
+00:02:58.280 --> 00:03:06.980
+Hast du denn irgendein Lieblingsbuch oder das dich sehr, das du vielleicht empfehlen könntest oder sind es so viele verschiedene?
+
+00:03:06.980 --> 00:03:16.160
+Ach, jetzt fragst du mich eine Sache, wo ich gerade ja gesagt habe, ich lese so viel. Tatsächlich als Juniorprof muss man eben viel Forschungsoutput liefern.
+
+00:03:16.160 --> 00:03:27.920
+Deshalb lese ich leider, leider meistens Paper in den letzten drei, vier Jahren. Ich habe aber ein Buch neben dem Bett liegen und das ist von Stephen Hawking.
+
+00:03:27.920 --> 00:03:44.500
+Auch wahrscheinlich eins der leichteren Bücher mit den kurzen Antworten auf große Fragen. Das habe ich tatsächlich zuletzt gelesen, auch komplett gelesen und fand ich sehr, sehr spannend.
+
+00:03:44.500 --> 00:03:52.250
+Okay, die nächste Frage wäre das letzte Ziel, das du erreicht hast.
+
+00:03:52.250 --> 00:04:08.290
+Das letzte Ziel, das ich erreicht habe, ist relativ profan an der Stelle eine Art Publikation, wo wir echt hart für gearbeitet haben, die aber super wichtig ist in der aktuellen Phase von so einer Juniorprofessur.
+
+00:04:08.290 --> 00:04:14.460
+Und da habe ich mich einfach unfassbar darauf gefreut, dass ich das erreicht habe mit dem Autorenteam zusammen.
+
+00:04:14.460 --> 00:04:21.870
+Und die letzte Check-in-Frage. Ich tanke auf, indem ich...
+
+00:04:21.870 --> 00:04:29.410
+Ich tanke auf, indem ich Zeit mit Familie und Freunden verbringe.
+
+00:04:29.410 --> 00:04:34.560
+Und tatsächlich habe ich für mich selber auch immer mehr die Ruhe in der Natur entdeckt.
+
+00:04:34.560 --> 00:04:40.000
+Früher war ich auch gerne mal für ein bisschen Trubel zu haben, bin ich auch immer noch ganz gerne.
+
+00:04:40.000 --> 00:04:46.000
+Aber so richtig auftanken und abschalten kann man tatsächlich meiner Meinung nach am besten in der Natur.
+
+00:04:46.000 --> 00:04:54.130
+Ja, das finde ich auch so. Also habe ich gerade aus den Corona-Zeiten gemerkt, dieses einfach mal raus in der Natur auch laufen oder spazieren.
+
+00:04:54.130 --> 00:04:59.190
+Das haben viele so für sich dann entdeckt, konnte man ja nicht viel machen.
+
+00:04:59.190 --> 00:05:06.190
+Genau. Und auch, dass das vielen mal gut getan hat, dass im Prinzip nicht so viel Trubel drumherum ist
+
+00:05:06.190 --> 00:05:14.190
+und nicht noch das fünfte Mal Kino was trinken gehen oder feiern gehen oder wie auch immer auf dem Plan steht,
+
+00:05:14.190 --> 00:05:21.160
+sondern tatsächlich mal einfach zu zweit vielleicht auch nur. So ein Haushalt besteht ja manchmal aus ein, zwei Personen nur.
+
+00:05:21.160 --> 00:05:28.860
+Und mehr durfte man ja auch nicht in dieser Corona-Zeit. Und insofern hat das auch, glaube ich, einigen sehr, sehr gut getan mal.
+
+00:05:28.860 --> 00:05:35.160
+Und gerade höre ich es immer so, dass es auch Forschung gibt, dass Natur auch so Glücksempfinden und...
+
+00:05:35.160 --> 00:05:47.190
+Super, super viel gibt es dazu. Tatsächlich, Vogelgezwitscher kann zu gewissen Maßen sogar deinen Lohn ein bisschen substituieren.
+
+00:05:47.190 --> 00:05:58.660
+Also im Gesamt-Glücksempfinden eines Menschen quasi oder Zufriedenheitsempfinden kann tatsächlich die Natur, damals in Form von Vogelgezwitscher gemessen,
+
+00:05:58.660 --> 00:06:06.040
+kann ein bisschen substituieren, wenn du weniger Geld bekommst. Ganz interessant eigentlich.
+
+00:06:06.040 --> 00:06:09.420
+Gucken, wie ihr Unternehmen das umsetzen könnt.
+
+00:06:09.420 --> 00:06:17.380
+Ja, aber klar, was machen die Leute, denen es gut geht? Die ziehen in der Regel, okay, einige lieben es auch im Penthouse zu wohnen.
+
+00:06:17.380 --> 00:06:28.610
+Irgendwo oben in New York, keine Frage. Aber da ist die Aussicht dann halt auch eher schöner auf den Central Park als gegen irgendeine Hauswand.
+
+00:06:28.610 --> 00:06:33.990
+Und insofern kann man das schon gut nachvollziehen, weil einfach der Mensch auch einen gewissen Drang danach hat,
+
+00:06:33.990 --> 00:06:41.020
+irgendwie was Schönes zu sehen, zu hören. Und das ist dann eben nicht der Baustellenlärm, sondern eher die Natur.
+
+00:06:41.020 --> 00:06:49.160
+Und da kommen wir vielleicht auch direkt ins Thema rein. Du hast im Vorgespräch schon gesagt, sie ist Bricolage.
+
+00:06:49.160 --> 00:06:54.440
+Ist auch so ein bisschen dieses Work-Life-Balance für Gründer, Gründerinnen, wenn ich das richtig verstanden habe?
+
+00:06:54.440 --> 00:07:00.750
+Ja, zumindest ist es das, was wir jetzt in der Studie kürzlich gefunden haben.
+
+00:07:00.750 --> 00:07:06.750
+Also eigentlich hat Bricolage jetzt auf den ersten Blick nicht unbedingt was mit Work-Life-Balance oder so zu tun,
+
+00:07:06.750 --> 00:07:13.220
+sondern das ist ein ganz klassisches entrepreneuriales Verhalten, das man beobachten kann,
+
+00:07:13.220 --> 00:07:19.440
+wo dann irgendwann mal Forscher gesagt haben, hey, das ist irgendwie etwas, was wir immer wieder sehen und beobachten können.
+
+00:07:19.440 --> 00:07:23.440
+Das schreiben wir jetzt mal auf. Dann haben sie dem Ganzen eben den Namen Bricolage gegeben.
+
+00:07:23.440 --> 00:07:28.580
+Kommt eigentlich aus noch einer viel früheren Zeit aus der Anthropologie.
+
+00:07:28.580 --> 00:07:33.640
+Da wurde nämlich Bricolage als Gegenstück zum Ingenieur genutzt.
+
+00:07:33.640 --> 00:07:38.640
+Also der Ingenieur, der quasi sich hinsetzt, etwas auf dem Reißbrett entwirft und dann schaut, wie er zu diesem Ziel kommt.
+
+00:07:38.640 --> 00:07:40.640
+Und der Bricoleur ist quasi das Gegenteil.
+
+00:07:40.640 --> 00:07:44.960
+Der macht etwas mit dem, was er gerade zur Hand hat, ist da relativ flexibel.
+
+00:07:44.960 --> 00:07:53.890
+Ich glaube, am besten kann man das so zusammenpassen unter so einer MacGyver-Einstellung oder so ein MacGyver-Verhalten von Entrepreneuren eben,
+
+00:07:53.890 --> 00:08:00.950
+dass die eben mit dem, was sie zur Hand haben, das Bestmögliche versuchen zu machen und insofern flexibel sind,
+
+00:08:00.950 --> 00:08:07.100
+schauen, was sie vielleicht auch für neue Möglichkeiten mit diesen Ressourcen adressieren können.
+
+00:08:07.100 --> 00:08:14.790
+Und da dann entsprechend haben wir uns gedacht, hey, das kann nicht nur irgendwie zu innovativen Lösungen führen,
+
+00:08:14.790 --> 00:08:20.740
+was bis jetzt in der Forschung sich angeschaut wurde, sondern das muss eigentlich auch einen Effekt haben auf die
+
+00:08:20.740 --> 00:08:28.080
+auf die individuellen Gründer und Gründerinnen. Und dann haben wir im Rahmen von einem großen Forschungsprojekt,
+
+00:08:28.080 --> 00:08:34.140
+wo wir relativ viele deutsche Startups befragen konnten, haben wir dann eben gesagt, hey, dann nehmen wir mal
+
+00:08:34.140 --> 00:08:42.850
+eine Messung für Work-Life-Balance mit auf. Wir nehmen eine Messung für Job-Satisfaction, also die Zufriedenheit als Gründer,
+
+00:08:42.850 --> 00:08:49.950
+Gründerin, nehmen wir mit auf und haben dann eben herausgefunden, dass es tatsächlich einen Zusammenhang hat und man
+
+00:08:49.950 --> 00:08:57.550
+dadurch, dass man so ein bisschen flexibel MacGyver mäßig arbeitet als als Entrepreneur, kann man dann in der Tat
+
+00:08:57.550 --> 00:09:04.590
+zum einen eine bessere Arbeitszufriedenheit erreichen, damit ein Entrepreneur zu sein. Und wenn man schon
+
+00:09:04.590 --> 00:09:11.550
+vorherige Gründungserfahrung hat, dann kann man sogar seine Work-Life-Balance auch noch in den Griff bekommen und
+
+00:09:11.550 --> 00:09:18.050
+verbessern, erhöhen und das führt dann wiederum noch mal zu einer noch höheren Arbeitszufriedenheit.
+
+00:09:18.050 --> 00:09:23.550
+Und das trotz, also man hört immer, ich habe selber noch nicht gegründet, aber gerade am Anfang ist das ja
+
+00:09:23.550 --> 00:09:31.090
+schon sehr, sehr viel Arbeit, die man da reinsteckt und man kann trotzdem, man empfindet das oder die Gründer
+
+00:09:31.090 --> 00:09:36.430
+und Gründerinnen empfinden das dann nicht als Arbeit, weil sie sozusagen ihr eigenes Baby ist oder diese
+
+00:09:36.430 --> 00:09:40.430
+Selbstwirksamkeit, dass sie was schaffen oder woran liegt das genau?
+
+00:09:40.430 --> 00:09:47.060
+Ja, schon. Das spielt auch mit rein. Klar, das ist zum einen natürlich auch eine Selbstselektion,
+
+00:09:47.060 --> 00:09:52.400
+wer gründet und wer nicht gründet. Wir haben ja auch schon mal ganz kurz mit ein, zwei Sätzen
+
+00:09:52.400 --> 00:09:57.490
+im Vorfeld darüber gesprochen, dass ja der eine oder andere hier Anwesende vielleicht auch schon
+
+00:09:57.490 --> 00:10:01.650
+Ideen hatte und dann doch nicht gegründet hat. Und insofern ist das zum einen natürlich
+
+00:10:01.650 --> 00:10:09.920
+eine kleine Selbstselektion. Aber auf der anderen Seite ist es natürlich auch so, dass eine gewisse
+
+00:10:09.920 --> 00:10:15.460
+Arbeitsbelastung vielleicht auch gar nicht so schlimm empfunden wird. Das hat dann aber entsprechend,
+
+00:10:15.460 --> 00:10:20.480
+und da kam ja auch unsere Idee her, ein bisschen was mit dem Verhalten und der Einstellung
+
+00:10:20.480 --> 00:10:27.570
+der jeweiligen Person zu tun. Also wenn ich sage, hey, hier ist ein super schwieriges Problem
+
+00:10:27.570 --> 00:10:32.750
+oder heute ist was echt Fieses passiert, wo ich noch keine Lösung zu habe, jetzt auf Anhieb,
+
+00:10:32.750 --> 00:10:40.670
+dann ist eben diese Verhaltensweise, die in diesem Bricolageverhalten drin steckt, die
+
+00:10:40.670 --> 00:10:48.260
+hat auch eine positive Tendenz dahingehend, dass man sagt, okay, ich kann irgendwie mit meinen
+
+00:10:48.260 --> 00:10:52.260
+persönlichen Ressourcen, die ich habe oder die ich vielleicht irgendwie aus meinem Netzwerk ziehen
+
+00:10:52.260 --> 00:10:58.530
+kann, werde ich das Problem schon lösen können. Und genau diese Herangehensweise führt unserer
+
+00:10:58.530 --> 00:11:03.850
+Meinung nach, und das zeigt dann eben auch die statistische Auswertung an der Stelle,
+
+00:11:03.850 --> 00:11:10.580
+die wir ja gemacht haben, zeigt dann entsprechend, dass dadurch, durch diese Einstellung und dieses
+
+00:11:10.580 --> 00:11:16.500
+Verhalten eben das Ganze weniger stressig aufgenommen werden kann. Also wir hätten jetzt natürlich auch
+
+00:11:16.500 --> 00:11:20.500
+sowas wie Burnout messen können, auch ein super Riesenthema bei uns in der Entrepreneurship-Forschung.
+
+00:11:20.500 --> 00:11:26.630
+Also dieses ganze mentale Wellbeing und Gesundheitsthema ist gerade in den letzten vier,
+
+00:11:26.630 --> 00:11:33.450
+fünf Jahren echt sehr groß und sehr relevant geworden, auch mit negativen Faktoren. Keine
+
+00:11:33.450 --> 00:11:39.890
+Frage, die gibt es. Gibt es auch zahlreiche Studien, die finden, dass verschiedene Faktoren
+
+00:11:39.890 --> 00:11:45.430
+des Gründens auch zu negativen Auswirkungen führen kann? Aber wir haben jetzt eben in unserer eher
+
+00:11:45.430 --> 00:11:51.970
+positiv ausgelegten Studie, haben wir zum Glück mal was gefunden, wie man aktiv das Ganze abmildern kann.
+
+00:11:51.970 --> 00:11:56.380
+Und das ist, glaube ich, echt ganz, ganz cool und ganz wichtig, dass die Leute auch mal was an die Hand
+
+00:11:56.380 --> 00:12:00.530
+kriegen, wo sie wissen, okay, hey, ich muss vielleicht ein bisschen mehr mich so verhalten
+
+00:12:00.530 --> 00:12:04.930
+oder so ein Mindset aufbauen und dann komme ich damit besser klar.
+
+00:12:04.930 --> 00:12:13.290
+Da habt ihr dann noch so Tools, Methoden, weiß nicht was, mit denen die arbeiten können,
+
+00:12:13.290 --> 00:12:17.310
+Gründer und Gründerinnen oder ist das dann auch so ein bisschen Typsache? Weiß ich nicht.
+
+00:12:17.310 --> 00:12:22.910
+Ja, also tatsächlich haben wir jetzt an der Stelle daran angesetzt und danach gefragt,
+
+00:12:22.910 --> 00:12:30.230
+wie verhaltet ihr euch generell in eurem Gründeralltag? Also dahingehend haben wir noch gar nicht so viel erforscht.
+
+00:12:30.230 --> 00:12:35.740
+Wo kommt das überhaupt her, dass sich die Leute so verhalten? In gewisser Weise, wenn ich aber darauf schaue,
+
+00:12:35.740 --> 00:12:40.920
+was ich mit meinen Studis mache, dann versuche ich denen das immer schon so ein bisschen mitzugeben.
+
+00:12:40.920 --> 00:12:48.170
+Also ihr seid ja hier der VUCA Blaster und ich habe tatsächlich mal in einem Paper auch so eine schöne Grafik gebastelt
+
+00:12:48.170 --> 00:12:58.490
+zu diesen vier Buchstaben zur VUCA und wie sich das Ganze auf Leadership in der digitalen Welt sich auswirkt.
+
+00:12:58.490 --> 00:13:04.620
+Und da ist im Prinzip ganz besonders wichtig auch so eine gewisse Flexibilität und Anpassungsfähigkeit.
+
+00:13:04.620 --> 00:13:07.620
+Und das ist schon etwas, was wir den Studis auch versuchen mitzugeben.
+
+00:13:07.620 --> 00:13:13.060
+Und das sehe ich auch bei uns im CET. Wir haben so ein Exzellenz-Startup-Center,
+
+00:13:13.060 --> 00:13:18.190
+die natürlich auch ganz, ganz viele Workshops machen und ganz viel betreuen bei uns,
+
+00:13:18.190 --> 00:13:25.810
+was so Startup-Gründungen und so weiter angeht. Und da wird auch immer wieder auf solche Themen eingegangen.
+
+00:13:25.810 --> 00:13:30.230
+Hey, steck den Kopf nicht in den Sand. Und hier gibt es verschiedene Methoden,
+
+00:13:30.230 --> 00:13:34.320
+wie man da im Prinzip auch wirklich versuchen kann, mit klarzukommen.
+
+00:13:34.320 --> 00:13:40.440
+Ganz, ganz viel gibt es mittlerweile schon. Und da überlegen wir uns gerade auch,
+
+00:13:40.440 --> 00:13:43.980
+ob man das nicht mit Bricolage vielleicht auch ein bisschen machen kann.
+
+00:13:43.980 --> 00:13:50.980
+Ganz, ganz viel gibt es schon zu Effectuation. Also da gibt es ein riesen Workshop-Programm, Bücher.
+
+00:13:50.980 --> 00:13:54.980
+Da gibt es natürlich dann auch diese vier sehr greifbaren Prinzipien.
+
+00:13:54.980 --> 00:14:00.040
+Zum Beispiel dieses Bird in Hand Prinzip, dass man im Prinzip den Leuten beibringt.
+
+00:14:00.040 --> 00:14:03.040
+Also nicht nur Studierenden, sondern das wird auch in Unternehmen gemacht
+
+00:14:03.040 --> 00:14:07.230
+und da als Workshop durchgeführt, dass man den Leuten beibringt,
+
+00:14:07.230 --> 00:14:12.510
+wirklich mit den Ressourcen und Fähigkeiten, die sie selber irgendwie unter Kontrolle haben.
+
+00:14:12.510 --> 00:14:15.510
+Also entweder selber besitzen oder wo sie darauf zugreifen können,
+
+00:14:15.510 --> 00:14:18.640
+dass sie damit versuchen, ein bestmögliches Ergebnis zu erreichen.
+
+00:14:18.640 --> 00:14:22.330
+Und nicht so dieses typische vielleicht auch, dass wir uns so unter
+
+00:14:22.330 --> 00:14:28.290
+diesem deutschen Ingenieur-Tum und ständiges Planen auf ein Ziel hin.
+
+00:14:28.290 --> 00:14:30.290
+Das funktioniert halt manchmal nicht.
+
+00:14:30.290 --> 00:14:33.610
+Und das muss man den Leuten so ein bisschen abgewöhnen, entlernen.
+
+00:14:33.610 --> 00:14:40.660
+Und denen dann vielleicht auch ein bisschen, auch mit ein bisschen Mut und
+
+00:14:40.660 --> 00:14:45.660
+positiver Einstellung dann beibringen, sich vielleicht auch andere Prinzipien zu berufen.
+
+00:14:45.660 --> 00:14:53.800
+Weiß sonst diese Effektuation, das ist die Forschung zum Gründertum?
+
+00:14:53.800 --> 00:15:00.150
+Ja, schon in gewisser Weise kann man das schon so zusammenfassen.
+
+00:15:00.150 --> 00:15:04.150
+Also Effektuation als solches ist erstmal eine Entscheidungslogik, die auch beobachtet wurde,
+
+00:15:04.150 --> 00:15:10.370
+bei Gründern und insbesondere bei erfahrenen Seriengründern zum Beispiel.
+
+00:15:10.370 --> 00:15:16.370
+Da hat man gesehen, hey, je mehr Entrepreneurial Expertise, also Expertise mit Gründung
+
+00:15:16.370 --> 00:15:21.930
+die Personen haben, desto dynamischer verhalten die sich während so einer Gründung.
+
+00:15:21.930 --> 00:15:26.430
+Also dann wird zum Beispiel auf einmal gesagt, hey, wir machen gar kein Abo-Modell mehr,
+
+00:15:26.430 --> 00:15:31.490
+sondern irgendwas ganz anderes. Oder wir produzieren jetzt gar kein physisches Produkt mehr,
+
+00:15:31.490 --> 00:15:35.490
+was wir eigentlich vorhatten, sondern wir machen daraus jetzt irgendwie
+
+00:15:35.490 --> 00:15:43.070
+ein Service-Modell oder ähnliches. Das beobachtet man durchaus bei erfahreneren Gründern,
+
+00:15:43.070 --> 00:15:48.340
+dass die echt auch ihre Ziele teilweise extrem krass verschieben.
+
+00:15:48.340 --> 00:15:54.330
+Und das ist dann oftmals eben basierend auf diese Herangehensweise,
+
+00:15:54.330 --> 00:16:00.810
+die man Effectuation nennt. Sie haben ein bestimmtes Gründerteam mit bestimmter Expertise vielleicht
+
+00:16:00.810 --> 00:16:06.340
+und dann beobachten sie den Markt und sehen dann, hey,
+
+00:16:06.340 --> 00:16:09.300
+eigentlich ist was ganz anderes jetzt gerade gefragt als das,
+
+00:16:09.300 --> 00:16:14.930
+was wir quasi uns in unserem stillen Kämmerlein ausgedacht haben oder ausdenken würden.
+
+00:16:14.930 --> 00:16:19.160
+Hat man übrigens auch in der Corona-Krise ganz gut gesehen.
+
+00:16:19.160 --> 00:16:22.160
+Einige waren deutlich anpassungsfähiger als andere.
+
+00:16:22.160 --> 00:16:27.260
+Textilproduzenten, die auf einmal Masken produziert haben oder ähnliches.
+
+00:16:27.260 --> 00:16:30.640
+Da gab es schon echt viel auch zu beobachten.
+
+00:16:30.640 --> 00:16:33.750
+Und da gibt es auch so ein bisschen Forschung,
+
+00:16:33.750 --> 00:16:36.650
+die da relativ schnell reingeschaut hat, was passiert ist.
+
+00:16:36.650 --> 00:16:39.740
+Und die haben insbesondere auch sowas wie Effectuation und Bricolage
+
+00:16:39.740 --> 00:16:42.080
+echt ganz gut beobachten können.
+
+00:16:42.080 --> 00:16:47.150
+Ist das denn, ich glaube, wenn du so ein Start-up hast,
+
+00:16:47.150 --> 00:16:50.150
+ist natürlich vielleicht dann nicht so viele Stakeholder dabei,
+
+00:16:50.150 --> 00:16:53.150
+dann kann man das vielleicht immer relativ schnell auch verändern.
+
+00:16:53.150 --> 00:16:55.720
+Ich weiß nicht, ob das in so mittelständischen,
+
+00:16:55.720 --> 00:16:59.450
+größeren Unternehmen auch noch, wahrscheinlich zu teilen,
+
+00:16:59.450 --> 00:17:01.450
+dann noch möglich ist.
+
+00:17:01.450 --> 00:17:06.790
+oder vielleicht sich irgendwie anders auszeichnet, dann weiß ich nicht.
+
+00:17:06.790 --> 00:17:09.780
+Ja, also ist zum Glück immer mehr möglich.
+
+00:17:09.780 --> 00:17:13.780
+Ich glaube, das kann man einfach mal so festhalten.
+
+00:17:13.780 --> 00:17:17.260
+Deshalb laufen aber wahrscheinlich auch diese Workshops gerade sehr gut.
+
+00:17:17.260 --> 00:17:20.320
+Also ich selber mache sie nicht, aber einige Kollegen von mir,
+
+00:17:20.320 --> 00:17:22.320
+die sind da echt stark unterwegs drin.
+
+00:17:22.320 --> 00:17:25.320
+Unter anderem der René Mauer hat selber viel dazu geforscht,
+
+00:17:25.320 --> 00:17:29.540
+zu Effectuation und ich habe jetzt gerade auch ein Paper mit ihm
+
+00:17:29.540 --> 00:17:34.500
+zu dem Thema noch geschrieben und die laufen, glaube ich,
+
+00:17:34.500 --> 00:17:37.560
+gerade wie geschnitten Brot, gerade deswegen, weil die Unternehmen merken,
+
+00:17:37.560 --> 00:17:40.560
+wir müssen uns irgendwie ein bisschen anpassungsfähiger machen.
+
+00:17:40.560 --> 00:17:42.490
+Wir müssen ein bisschen flexibler sein.
+
+00:17:42.490 --> 00:17:47.100
+Viele große Unternehmen und auch natürlich der Mittelstand,
+
+00:17:47.100 --> 00:17:50.380
+die schauen ja ab und zu schon mal neidisch auch so die Schnelligkeit
+
+00:17:50.380 --> 00:17:52.380
+und Flexibilität von Startups rüber.
+
+00:17:52.380 --> 00:17:54.760
+Das ist, glaube ich, kein Geheimnis.
+
+00:17:54.760 --> 00:17:57.760
+Auf der anderen Seite haben etablierte Unternehmen
+
+00:17:57.760 --> 00:17:59.710
+aber natürlich auch klassische Vorteile.
+
+00:17:59.710 --> 00:18:04.330
+Da gibt es auch ganz schöne Studien aktuell zu ein, zwei Kollegen.
+
+00:18:04.330 --> 00:18:10.300
+Die haben da auch mal quasi ein bisschen Arbeit investiert,
+
+00:18:10.300 --> 00:18:15.390
+um den Ruf der Corporates zu verbessern dahingehend.
+
+00:18:15.390 --> 00:18:17.310
+Da ist jetzt auch nicht alles schlecht.
+
+00:18:17.310 --> 00:18:19.540
+Also das kann man so keinesfalls sagen.
+
+00:18:19.540 --> 00:18:24.170
+Aber so ein bisschen dazu zu lernen, gerade auch solche Prinzipien,
+
+00:18:24.170 --> 00:18:28.170
+wie man vielleicht ein bisschen besser mit Unsicherheit auch umgehen kann.
+
+00:18:28.170 --> 00:18:30.170
+Und da ist eben Effectuation sehr stark darauf ausgerichtet.
+
+00:18:30.170 --> 00:18:32.150
+Wie gehe ich mit Unsicherheit um?
+
+00:18:32.150 --> 00:18:34.940
+Da können die, glaube ich, noch echt was lernen.
+
+00:18:34.940 --> 00:18:35.940
+Also auch bei sowas.
+
+00:18:35.940 --> 00:18:38.030
+Ich glaube, dieses dieses Bird in Hand Prinzip.
+
+00:18:38.030 --> 00:18:40.030
+Also was habe ich zur Hand?
+
+00:18:40.030 --> 00:18:43.030
+Und was kann ich quasi machen und kontrollieren an Ressourcen
+
+00:18:43.030 --> 00:18:45.030
+oder auch an Wissen oder Ähnlichem?
+
+00:18:45.030 --> 00:18:51.740
+Das ist noch gut machbar, auch in Mittelstand und großen Unternehmen.
+
+00:18:51.740 --> 00:18:54.880
+Wenn man dann aber zu so einem anderen Prinzip von Effectuation geht,
+
+00:18:54.880 --> 00:18:56.880
+das ist so ein affordable loss Prinzip.
+
+00:18:56.880 --> 00:18:59.040
+Also was bin ich bereit zu verlieren?
+
+00:18:59.040 --> 00:19:01.040
+Da hört es dann wahrscheinlich bei den meisten auf.
+
+00:19:01.040 --> 00:19:04.010
+Also wenn man dann seinem Chef, seiner Chefin sagt,
+
+00:19:04.010 --> 00:19:09.060
+hey, was sind wir eigentlich bereit zu verlieren in diesem Projekt?
+
+00:19:09.060 --> 00:19:11.060
+5.000, 10.000, 100.000 Euro, keine Ahnung.
+
+00:19:11.060 --> 00:19:14.390
+Eine Million, wenn es in Hightech-Projekte reingeht.
+
+00:19:14.390 --> 00:19:17.050
+Ich glaube, da hört es bei dem einigen auf.
+
+00:19:17.050 --> 00:19:19.050
+Und da wird man sehr komisch angeschaut,
+
+00:19:19.050 --> 00:19:21.270
+wenn man diese Frage stellt in einem Meeting.
+
+00:19:21.270 --> 00:19:23.360
+Weißt du was?
+
+00:19:23.360 --> 00:19:26.360
+Sonst nicht auch Menschen, die wollen ja auch eher so ein bisschen Sicherheit haben.
+
+00:19:26.360 --> 00:19:28.360
+Ist natürlich jetzt mit dieser VUCA-Welt.
+
+00:19:28.360 --> 00:19:31.330
+Deswegen wird das wahrscheinlich auch immer so als Schrecken gesehen.
+
+00:19:31.330 --> 00:19:33.780
+Wir hatten auch jemanden in meinem Podcast,
+
+00:19:33.780 --> 00:19:37.810
+der das Akronym so ein bisschen umgemodelt hat,
+
+00:19:37.810 --> 00:19:41.810
+dass das man mehr als Chance sieht und eine Vision braucht und ähnliches.
+
+00:19:44.180 --> 00:19:48.180
+Aber wie holen sich Menschen dann diese Sicherheit?
+
+00:19:48.180 --> 00:19:52.980
+Da habe ich noch irgendwie nicht so ein ...
+
+00:19:52.980 --> 00:19:54.980
+Das ist ja auch in meinem größeren Unternehmen.
+
+00:19:54.980 --> 00:19:58.980
+Früher war das ja so, du hast deine Karriere begonnen,
+
+00:19:58.980 --> 00:20:00.980
+warst bis zur Rente wahrscheinlich im gleichen Unternehmen.
+
+00:20:00.980 --> 00:20:03.950
+Das wird es ja wahrscheinlich nicht mehr geben.
+
+00:20:03.950 --> 00:20:08.950
+Aber wie kann man da trotzdem vielleicht diese Sicherheit mit reinbringen?
+
+00:20:08.950 --> 00:20:13.680
+Also, dass Menschen Sicherheit gerne haben,
+
+00:20:13.680 --> 00:20:15.680
+gerade vielleicht auch wir Deutschen, wird uns ja immer nachgesagt.
+
+00:20:15.680 --> 00:20:18.680
+Wir sind sehr sicherheitsliebend und versichern alles, was geht.
+
+00:20:18.680 --> 00:20:22.050
+Das sieht man schon, keine Frage.
+
+00:20:22.050 --> 00:20:26.050
+Es gibt immer noch ganz interessante Umfragen meiner Meinung nach unter jungen Leuten,
+
+00:20:26.050 --> 00:20:30.050
+wo dann als Traumjob immer wieder der Beamte oder die Beamtin ganz vorne sind.
+
+00:20:30.050 --> 00:20:33.050
+Also, da erkennt man es, glaube ich, schon ganz deutlich.
+
+00:20:33.050 --> 00:20:38.660
+Wobei ich da jetzt gar nicht lachen dürfte, weil ich ja selber Beamter bin.
+
+00:20:38.660 --> 00:20:42.940
+Insofern darf ich da jetzt gar nicht drüber lachen,
+
+00:20:42.940 --> 00:20:46.130
+sondern habe mich ja selber da rein selektiert im Prinzip.
+
+00:20:46.130 --> 00:20:54.300
+Nee, aber man kann den Leuten gewisse Fähigkeiten beibringen
+
+00:20:54.300 --> 00:20:59.070
+und gewisse Herangehensweisen, damit das eben gar nicht mehr so schlimm ist,
+
+00:20:59.070 --> 00:21:01.070
+wenn mal etwas unsicher ist.
+
+00:21:01.070 --> 00:21:06.610
+Weil im Gegenteil von Sicherheit ist ja nun mal die Unsicherheit.
+
+00:21:06.610 --> 00:21:10.560
+Die steckt zum einen natürlich auch in eurer VUCA-Überlegung drin.
+
+00:21:10.560 --> 00:21:14.690
+Das Ganze basiert ja darauf, dass viele Sachen volatiler und unsicherer werden.
+
+00:21:14.690 --> 00:21:18.190
+Steckt ja auch mit drin, die Uncertainty in dem Begriff.
+
+00:21:18.190 --> 00:21:22.320
+Und gerade dafür ist es aber gut, wenn man die Leute mal ein bisschen an die Hand nimmt.
+
+00:21:22.320 --> 00:21:24.320
+Und da fand ich eigentlich deinen Hinweis gerade,
+
+00:21:24.320 --> 00:21:27.320
+dass ihr schon mal jemanden hattet, der dann im Prinzip das Ganze umgemodelt hat
+
+00:21:27.320 --> 00:21:31.320
+und mit sowas wie einer Vision oder Ähnlichem darauf geantwortet hat.
+
+00:21:31.320 --> 00:21:35.980
+Ganz interessant und lustig, weil eine ähnliche Antwort habe ich damals
+
+00:21:35.980 --> 00:21:38.980
+in so einem Artikel über Digital Leadership auch gegeben.
+
+00:21:38.980 --> 00:21:44.570
+Da habe ich nämlich gesagt, das Allerwichtigste eigentlich an Digital Leadership
+
+00:21:44.570 --> 00:21:49.950
+ist eine übergreifende Vision von der digitalen Zukunft meines Unternehmens,
+
+00:21:49.950 --> 00:21:54.360
+sowohl aus einer externen Marktsicht als auch aus einer internen Sicht.
+
+00:21:54.360 --> 00:21:58.880
+Also wie läuft es bei uns intern ab? Und das ist aber super schwierig.
+
+00:21:58.880 --> 00:22:05.580
+Und deshalb ist es halt auch nicht so einfach, in vielen Unternehmen das umzusetzen.
+
+00:22:05.580 --> 00:22:10.920
+Weil du hast natürlich die Leute, die haben Angst vor der Unsicherheit.
+
+00:22:10.920 --> 00:22:16.530
+Aber das Problem ist, die sinnvolle Reaktion auf Unsicherheit
+
+00:22:16.530 --> 00:22:17.530
+ist halt manchmal Veränderung.
+
+00:22:17.530 --> 00:22:20.910
+Klar, man kann so weitermachen wie bisher und dann hoffen,
+
+00:22:20.910 --> 00:22:24.900
+dass es passt zu der Unsicherheit, die kommt, zu den Veränderungen, die kommen.
+
+00:22:24.900 --> 00:22:29.170
+Kleiner Spoiler, meistens passt es nicht mehr so gut,
+
+00:22:29.170 --> 00:22:33.660
+was wir zehn Jahre lang gemacht haben, dass das nochmal zehn Jahre lang gut geht.
+
+00:22:33.660 --> 00:22:40.020
+Und da hilft es dann, glaube ich, ganz, ganz oft, wenn wirklich auch
+
+00:22:40.020 --> 00:22:43.300
+das Unternehmen selber die Leute irgendwie mit an die Hand nimmt.
+
+00:22:43.300 --> 00:22:46.300
+Also ich habe zum einen in diesem Modell damals
+
+00:22:46.300 --> 00:22:51.430
+die digitale Vision obendrüber gehabt als übergreifende Geschichte,
+
+00:22:51.430 --> 00:22:53.520
+aber auch mit verschiedenen Nebenbedingungen.
+
+00:22:53.520 --> 00:22:55.520
+Also sowas wie, die muss klar formuliert sein.
+
+00:22:55.520 --> 00:23:00.340
+Die muss in gewisser Weise auch bedeutungsvoll sein.
+
+00:23:00.340 --> 00:23:05.130
+Und andererseits aber auch irgendwie nachhaltig und holistisch
+
+00:23:05.130 --> 00:23:07.130
+über das ganze Unternehmen gedacht.
+
+00:23:07.130 --> 00:23:09.290
+Also es ist nicht nur eine technologische Geschichte,
+
+00:23:09.290 --> 00:23:11.290
+sondern ich muss mir auch überlegen, hey, wenn ich jetzt mein ganzes
+
+00:23:11.290 --> 00:23:14.800
+Unternehmen irgendwie auf die Zukunft vorbereite und digitalisiere,
+
+00:23:14.800 --> 00:23:17.470
+da muss ich die Leute irgendwie mitnehmen.
+
+00:23:17.470 --> 00:23:23.890
+Und in gewisser Weise muss das Ganze dann natürlich auch so ambitioniert sein,
+
+00:23:23.890 --> 00:23:25.890
+dass es vielleicht auch mehr als ein, zwei Jahre hält.
+
+00:23:25.890 --> 00:23:30.100
+Und am Ende dreht sich aber die ganze Geschichte immer irgendwie
+
+00:23:30.100 --> 00:23:33.200
+um unsere Mitarbeiter und um unsere Kunden.
+
+00:23:33.200 --> 00:23:35.200
+Also die Menschen stehen irgendwie im Mittelpunkt,
+
+00:23:35.200 --> 00:23:37.200
+weil ohne die bringt es nichts.
+
+00:23:37.200 --> 00:23:40.480
+Also unsere Produkte, die sind für Menschen gemacht.
+
+00:23:40.480 --> 00:23:43.890
+Und unser Unternehmen ist im Prinzip nur eine leere Hülle,
+
+00:23:43.890 --> 00:23:47.140
+wenn nicht die Menschen darin irgendwie arbeiten,
+
+00:23:47.140 --> 00:23:49.480
+weil sie im besten Falle einen Sinn darin sehen,
+
+00:23:49.480 --> 00:23:52.430
+was sie den ganzen Tag machen.
+
+00:23:52.430 --> 00:23:54.430
+Ich glaube, diese Vision muss auch, ich sehe das immer wieder,
+
+00:23:54.430 --> 00:23:57.430
+dass dann irgendwie Teams sich Visionen geben,
+
+00:23:57.430 --> 00:24:01.430
+hier bei uns dann auch irgendwelche Bereiche und weiß nicht was.
+
+00:24:01.430 --> 00:24:04.160
+Und dann hat man eine Vision entwickelt,
+
+00:24:04.160 --> 00:24:07.160
+auch teilweise mit ganz vielen Leuten und dann ist sie da.
+
+00:24:07.160 --> 00:24:10.180
+Und dann wird aber nichts damit gemacht und man nutzt sie nicht.
+
+00:24:10.180 --> 00:24:14.370
+Und dann hat man sie irgendwie teilweise schön an der Wand stehen.
+
+00:24:14.370 --> 00:24:18.330
+Das ist natürlich auch nicht der Sinn der Vision dann.
+
+00:24:18.330 --> 00:24:20.400
+Ja, das ist ein sehr schöner erster Schritt,
+
+00:24:20.400 --> 00:24:23.400
+aber dann, wie du richtig sagst, manchmal doch nicht ausreichend.
+
+00:24:23.400 --> 00:24:27.360
+Und mit der muss man halt auch was machen.
+
+00:24:27.360 --> 00:24:32.360
+Also die muss man wirklich irgendwie wie so eine Art Werkzeug in die Hand nehmen
+
+00:24:32.360 --> 00:24:35.480
+und benutzen und im Prinzip auch immer wieder versuchen,
+
+00:24:35.480 --> 00:24:38.730
+anzuwenden auf verschiedene Sachen.
+
+00:24:38.730 --> 00:24:41.040
+Sprich, wenn man jetzt irgendwelche Projekte startet,
+
+00:24:41.040 --> 00:24:44.580
+dann legt man sich das daneben und schaut sich an,
+
+00:24:44.580 --> 00:24:48.640
+passt das, was wir da jetzt über die nächsten ein, zwei Jahre planen?
+
+00:24:48.640 --> 00:24:50.670
+Passt das zu dem, was wir uns hier überlegt haben?
+
+00:24:50.670 --> 00:24:51.590
+Oder auch andersrum?
+
+00:24:51.590 --> 00:24:53.760
+Muss ich meine Vision vielleicht anpassen?
+
+00:24:53.760 --> 00:24:55.760
+Das ist ja jetzt auch kein starres Konstrukt.
+
+00:24:55.760 --> 00:24:56.820
+Das denken auch manche.
+
+00:24:56.820 --> 00:24:59.300
+Es gibt ja immer wieder die Forderung.
+
+00:24:59.300 --> 00:25:03.260
+Das gab es ja teilweise auch in der Corona-Krise gegenüber Politikern.
+
+00:25:03.260 --> 00:25:05.870
+Ja, ist mir egal, welche Lösung,
+
+00:25:05.870 --> 00:25:09.050
+aber ich will eine klare Lösung kommuniziert haben.
+
+00:25:09.050 --> 00:25:12.050
+Das hat man ja oftmals in Interviews auf der Straße gehört,
+
+00:25:12.050 --> 00:25:15.290
+weil alles ja drunter drüber ging.
+
+00:25:15.290 --> 00:25:19.580
+Ist richtig, aber sollte da natürlich auch was dahinter stecken.
+
+00:25:19.580 --> 00:25:22.580
+Und bei so einer digitalen Vision oder generell auch bei einer Vision,
+
+00:25:22.580 --> 00:25:24.580
+muss jetzt nicht nur auf digital beschränkt sein,
+
+00:25:24.580 --> 00:25:33.570
+da ist es auch wichtig, dass die irgendwie eine Bedeutung im Arbeitsalltag hat.
+
+00:25:33.570 --> 00:25:35.570
+Und eben nicht nur an der Wand steht,
+
+00:25:35.570 --> 00:25:39.540
+sondern wirklich auch Einfluss findet in verschiedenste Dinge.
+
+00:25:39.540 --> 00:25:44.140
+Genau, du hast ja im Vorgespräch noch gesagt,
+
+00:25:44.140 --> 00:25:47.140
+dass du auch so in Digital Leadership da viel geforscht hast.
+
+00:25:47.140 --> 00:25:50.360
+Was wäre vielleicht nochmal, was so neben Visionen,
+
+00:25:50.360 --> 00:25:52.960
+oder gibt es da tausende Sachen,
+
+00:25:52.960 --> 00:25:54.960
+dass da gar nicht viel noch zu erzählen kann,
+
+00:25:54.960 --> 00:25:57.950
+was so ein Leadership braucht, was sie machen müssen,
+
+00:25:57.950 --> 00:26:03.170
+um vielleicht auch in so unsicheren Zeiten da durchzuführen?
+
+00:26:03.170 --> 00:26:06.900
+Ja, also es gibt im Prinzip drei große Bereiche.
+
+00:26:06.900 --> 00:26:10.850
+Zum einen gibt es das Thema Mindset,
+
+00:26:10.850 --> 00:26:14.240
+sowohl von mir selber als Führungskraft,
+
+00:26:14.240 --> 00:26:17.560
+was ja auch manchmal leider immer noch zu wünschen übrig lässt.
+
+00:26:17.560 --> 00:26:21.460
+Also wenn ich da manchmal einige Zitate höre,
+
+00:26:21.460 --> 00:26:23.460
+sowas wie, ja, wir haben jetzt,
+
+00:26:23.460 --> 00:26:26.490
+das ist tatsächlich ein Zitat, das ich gehört habe.
+
+00:26:26.490 --> 00:26:29.490
+Wir haben jetzt alle unsere Außendienstmitarbeitern
+
+00:26:29.490 --> 00:26:32.480
+mit Tablets und iPhones versorgt.
+
+00:26:32.480 --> 00:26:35.770
+Wir haben jetzt erstmal die digitale Transformation
+
+00:26:35.770 --> 00:26:38.470
+bei uns soweit abgeschlossen.
+
+00:26:38.470 --> 00:26:41.470
+Da kann man entweder laut lachen oder anfangen zu weinen.
+
+00:26:41.470 --> 00:26:43.590
+Beides wäre eine legitime Reaktion.
+
+00:26:43.590 --> 00:26:45.770
+Und da merkt man halt, okay,
+
+00:26:45.770 --> 00:26:49.530
+da ist irgendeine Art von Wille erkennbar,
+
+00:26:49.530 --> 00:26:52.530
+aber das ist nicht wirklich das, was man sich vorstellt
+
+00:26:52.530 --> 00:26:54.530
+unter einem richtigen Mindset bei den Leuten,
+
+00:26:54.530 --> 00:26:57.530
+die da auch in der Verantwortung sind als Führungskraft.
+
+00:26:57.530 --> 00:27:00.530
+Vielleicht hängt es aber auch an dem zweiten Thema,
+
+00:27:00.530 --> 00:27:03.910
+das dazukommt neben dem Mindset, die Skills.
+
+00:27:03.910 --> 00:27:06.610
+Weil die Leute haben scheinbar nicht verstanden,
+
+00:27:06.610 --> 00:27:09.760
+dass es eben nicht nur reine Hardware und Technologie ist,
+
+00:27:09.760 --> 00:27:12.760
+sondern im Prinzip das Ganze viel, viel mehr bedeutet.
+
+00:27:12.760 --> 00:27:16.050
+Und dann das dritte Thema im Bunde,
+
+00:27:16.050 --> 00:27:20.320
+was im Prinzip so ein gutes Digital Leadership ausmacht,
+
+00:27:20.320 --> 00:27:23.450
+wenn man irgendwie selber die Skills hat
+
+00:27:23.450 --> 00:27:25.450
+und auch seinen Mitarbeitern und Mitarbeiterinnen
+
+00:27:25.450 --> 00:27:29.340
+die Skills erlaubt zu erlangen,
+
+00:27:29.340 --> 00:27:31.490
+also sprich Weiterbildung anbietet,
+
+00:27:31.490 --> 00:27:36.150
+individuell oder auch unternehmensweit,
+
+00:27:36.150 --> 00:27:39.790
+vielleicht auch mit eigenen Kursen oder externen Kursen.
+
+00:27:39.790 --> 00:27:42.400
+Da muss ich es natürlich auch umsetzen.
+
+00:27:42.400 --> 00:27:46.610
+Und da hat ganz viel läuft da über dieses Leading by Example,
+
+00:27:46.610 --> 00:27:49.610
+also wirklich als Role Model, als Vorbild,
+
+00:27:49.610 --> 00:27:52.190
+Handeln und Vorgehen.
+
+00:27:52.190 --> 00:27:56.590
+Da fällt dann auch so was ganz Profanes oder Einfaches rein,
+
+00:27:56.590 --> 00:27:59.480
+wie ganz oft beobachtet man das,
+
+00:27:59.480 --> 00:28:03.440
+dass die Vorstandsbüros selbst von Leuten,
+
+00:28:03.440 --> 00:28:05.990
+die solche Sprüche loslassen,
+
+00:28:05.990 --> 00:28:08.070
+super technologisch ausgestattet sind.
+
+00:28:08.070 --> 00:28:11.070
+Also sie haben jetzt diese schönen Curved Displays
+
+00:28:11.070 --> 00:28:14.070
+und alle haben irgendwie das neueste iPhone in der Tasche,
+
+00:28:14.070 --> 00:28:17.070
+dann einen riesen Screen an der Wand hängen.
+
+00:28:17.070 --> 00:28:19.330
+Und wenn du dann in ein Mitarbeiterbüro gehst,
+
+00:28:19.330 --> 00:28:23.320
+die klebsen dann manchmal mit so einem ganz kleinen Bildschirm rum,
+
+00:28:23.320 --> 00:28:25.320
+haben noch nicht mal einen zweiten Bildschirm.
+
+00:28:25.320 --> 00:28:27.310
+Ich stelle meinen Mitarbeitern und Doktoranden,
+
+00:28:27.310 --> 00:28:28.310
+stelle ich immer zwei Bildschirme hin,
+
+00:28:28.310 --> 00:28:30.310
+weil ich weiß, die brauchen das.
+
+00:28:30.310 --> 00:28:34.860
+Und besorg denen auch irgendwie ein super schnelles Notebook,
+
+00:28:34.860 --> 00:28:37.860
+damit die nicht zehn Stunden vor ihren Berechnungen sitzen
+
+00:28:37.860 --> 00:28:40.460
+und sich zwischendurch dann fünf Kaffee holen müssen,
+
+00:28:40.460 --> 00:28:42.460
+bis die Berechnungen durchgelaufen sind.
+
+00:28:42.460 --> 00:28:44.840
+Das sieht man ganz oft,
+
+00:28:44.840 --> 00:28:50.210
+also dass wirklich dieses Leading by Example nicht gut funktioniert.
+
+00:28:50.210 --> 00:28:53.940
+Weil wenn ich super gut ausgestattet bin
+
+00:28:53.940 --> 00:28:56.940
+und dann behaupte, dass das alles super gut läuft,
+
+00:28:56.940 --> 00:28:59.220
+es aber gar nicht der Fall ist,
+
+00:28:59.220 --> 00:29:01.600
+dann ist natürlich eine riesige Lücke
+
+00:29:01.600 --> 00:29:04.010
+zwischen vielleicht auch der Eigenwahrnehmung
+
+00:29:04.010 --> 00:29:07.010
+und der Fremdwahrnehmung meines Führungsstils
+
+00:29:07.010 --> 00:29:10.100
+und das funktioniert dann natürlich nicht.
+
+00:29:10.100 --> 00:29:11.100
+Ich glaube auch immer dieses Walk the Talk,
+
+00:29:11.100 --> 00:29:13.100
+habe ich immer so meine Erfahrungen,
+
+00:29:13.100 --> 00:29:15.100
+dass viele erzählen dann groß,
+
+00:29:15.100 --> 00:29:16.100
+haben tolle Ansätze,
+
+00:29:16.100 --> 00:29:18.100
+man denkt auch so, ach cool,
+
+00:29:18.100 --> 00:29:20.350
+aber verhalten sich halt komplett anders.
+
+00:29:20.350 --> 00:29:22.350
+Also sie wollen New Work,
+
+00:29:22.350 --> 00:29:24.450
+aber, weiß ich nicht,
+
+00:29:24.450 --> 00:29:26.450
+ermöglichen den Mitarbeitern das gar nicht
+
+00:29:26.450 --> 00:29:28.450
+durch andere Strukturen oder was.
+
+00:29:28.450 --> 00:29:30.480
+Das sehe ich dann immer wieder,
+
+00:29:30.480 --> 00:29:31.470
+denke ich mir auch, ja,
+
+00:29:31.470 --> 00:29:32.860
+da fehlt, glaube ich,
+
+00:29:32.860 --> 00:29:35.010
+das Vertrauen wird dann auch immer weniger,
+
+00:29:35.010 --> 00:29:36.010
+wenn man merkt,
+
+00:29:36.010 --> 00:29:39.110
+okay, der oder die sagt sowas
+
+00:29:39.110 --> 00:29:41.680
+und verhält sich gar nicht so.
+
+00:29:41.680 --> 00:29:44.120
+Ja, also das ist tatsächlich auch dieses
+
+00:29:44.120 --> 00:29:46.120
+aktive Beeinflussen der Unternehmenskultur.
+
+00:29:46.120 --> 00:29:48.590
+Also das ist ja ein sehr,
+
+00:29:48.590 --> 00:29:52.160
+ich sag mal, weicher und schwer zu greifender Begriff,
+
+00:29:52.160 --> 00:29:53.160
+Unternehmenskultur,
+
+00:29:53.160 --> 00:29:55.120
+aber genau das sind alles Faktoren,
+
+00:29:55.120 --> 00:29:56.120
+die da rein spielen.
+
+00:29:56.120 --> 00:30:00.920
+Also es gibt ja für jeden im Prinzip im Unternehmen
+
+00:30:00.920 --> 00:30:03.140
+eine eigene wahrgenommene Unternehmenskultur.
+
+00:30:03.140 --> 00:30:05.200
+Wenn man jetzt 10 oder 100 Leute
+
+00:30:05.200 --> 00:30:06.200
+aus einem Unternehmen fragt,
+
+00:30:06.200 --> 00:30:09.120
+dann sagt dir wahrscheinlich jeder was anderes.
+
+00:30:09.120 --> 00:30:14.260
+Wenn der jetzt unter einem Dachbegriff
+
+00:30:14.260 --> 00:30:16.260
+oder einer Phrase oder einem Satz
+
+00:30:16.260 --> 00:30:18.260
+das Ganze zusammenfassen soll,
+
+00:30:18.260 --> 00:30:19.260
+wie ist die Unternehmenskultur
+
+00:30:19.260 --> 00:30:20.260
+in Unternehmen XY,
+
+00:30:20.260 --> 00:30:22.540
+dann wird man wahrscheinlich auch entsprechend
+
+00:30:22.540 --> 00:30:25.530
+viele verschiedene Statements da bekommen.
+
+00:30:25.530 --> 00:30:27.240
+Außer eben,
+
+00:30:27.240 --> 00:30:28.240
+die haben eine super gut
+
+00:30:28.240 --> 00:30:30.910
+und klar kommunizierte Geschichte
+
+00:30:30.910 --> 00:30:31.910
+irgendwie da als Vision
+
+00:30:31.910 --> 00:30:33.910
+Schrägstrich Unternehmenskultur
+
+00:30:33.910 --> 00:30:34.910
+oder Leitsatz festgelegt,
+
+00:30:34.910 --> 00:30:37.410
+dann erwischt man vielleicht
+
+00:30:37.410 --> 00:30:39.410
+einige Prozent,
+
+00:30:39.410 --> 00:30:41.410
+die dann das identische wiedergeben.
+
+00:30:41.410 --> 00:30:43.500
+Entweder weil sie es so oft gehört haben
+
+00:30:43.500 --> 00:30:46.500
+oder halt weil sie es tatsächlich so gut finden
+
+00:30:46.500 --> 00:30:47.500
+und auch es gelebt wird.
+
+00:30:47.500 --> 00:30:49.810
+Das ist ja auch eine Möglichkeit.
+
+00:30:49.810 --> 00:30:52.230
+Und ich glaube beim Mindset war ja auch immer,
+
+00:30:52.230 --> 00:30:54.230
+wir hätten natürlich auch schon mehrere in unserem Podcast,
+
+00:30:54.230 --> 00:30:56.580
+genau oder man fängt eigentlich bei sich an.
+
+00:30:56.580 --> 00:30:57.580
+Also dieser,
+
+00:30:57.580 --> 00:30:58.640
+wenn du jemanden führen möchtest,
+
+00:30:58.640 --> 00:31:00.640
+musst du erstmal lernen dich zu führen.
+
+00:31:00.640 --> 00:31:03.600
+Ich glaube Studien zeigen ja auch immer,
+
+00:31:03.600 --> 00:31:06.140
+dass ganz viele Personen
+
+00:31:06.140 --> 00:31:08.430
+gar nicht führen können,
+
+00:31:08.430 --> 00:31:10.460
+die in der Führungsverantwortung sind,
+
+00:31:10.460 --> 00:31:11.480
+weil sie es vielleicht auch
+
+00:31:11.480 --> 00:31:12.480
+teilweise nie gelernt haben.
+
+00:31:12.480 --> 00:31:13.480
+Sind dann irgendwie durch
+
+00:31:13.480 --> 00:31:15.120
+Anzahl der
+
+00:31:15.120 --> 00:31:17.120
+Unternehmensjahre
+
+00:31:17.120 --> 00:31:18.120
+da reingewachsen
+
+00:31:18.120 --> 00:31:19.120
+oder Expertise,
+
+00:31:19.120 --> 00:31:20.120
+aber haben es eigentlich nie gelernt.
+
+00:31:20.120 --> 00:31:21.120
+Das finde ich eigentlich
+
+00:31:21.120 --> 00:31:22.120
+auch immer sehr, sehr traurig,
+
+00:31:22.120 --> 00:31:23.720
+muss ich sagen.
+
+00:31:23.720 --> 00:31:24.720
+Ja, total.
+
+00:31:24.720 --> 00:31:25.720
+Also da gibt es wirklich
+
+00:31:25.720 --> 00:31:26.720
+mittlerweile ganz,
+
+00:31:26.720 --> 00:31:27.720
+ganz gut belegte
+
+00:31:27.720 --> 00:31:29.720
+Zusammenhänge,
+
+00:31:29.720 --> 00:31:31.750
+dass echt auch ungeeignete Leute
+
+00:31:31.750 --> 00:31:32.750
+in solche Positionen kommen.
+
+00:31:32.750 --> 00:31:33.750
+Leider.
+
+00:31:35.490 --> 00:31:38.580
+Ich finde es immer ganz spannend,
+
+00:31:38.580 --> 00:31:40.580
+dass es trotzdem irgendwie funktioniert.
+
+00:31:40.580 --> 00:31:42.670
+Also jetzt nicht im Sinne von
+
+00:31:42.670 --> 00:31:43.670
+es funktioniert gut,
+
+00:31:43.670 --> 00:31:44.820
+sondern dass das nicht
+
+00:31:44.820 --> 00:31:47.230
+die Vollkatastrophe wird.
+
+00:31:47.230 --> 00:31:48.230
+Und ich glaube,
+
+00:31:48.230 --> 00:31:49.230
+an der Stelle retten es dann aber
+
+00:31:49.230 --> 00:31:52.530
+ganz oft eben die Teams,
+
+00:31:52.530 --> 00:31:53.530
+die dann das Ganze
+
+00:31:53.530 --> 00:31:55.750
+im Prinzip auffangen.
+
+00:31:55.750 --> 00:31:56.750
+Und das muss man sich
+
+00:31:56.750 --> 00:31:59.890
+viel mehr bewusst machen,
+
+00:31:59.890 --> 00:32:01.980
+finde ich zumindest,
+
+00:32:01.980 --> 00:32:02.980
+dass da die Teams
+
+00:32:02.980 --> 00:32:05.240
+eine echt große Rolle spielen.
+
+00:32:05.240 --> 00:32:06.240
+Also wir haben auch mal
+
+00:32:06.240 --> 00:32:08.360
+eine Studie gemacht,
+
+00:32:08.360 --> 00:32:09.360
+beziehungsweise während meiner
+
+00:32:09.360 --> 00:32:11.490
+oder als Teil meiner Dissertation,
+
+00:32:11.490 --> 00:32:14.520
+wie denn so entrepreneuriales
+
+00:32:14.520 --> 00:32:16.520
+Verhalten in Unternehmen
+
+00:32:16.520 --> 00:32:17.900
+zustande kommt.
+
+00:32:17.900 --> 00:32:18.900
+Dazu haben wir uns ein Unternehmen
+
+00:32:18.900 --> 00:32:19.900
+relativ detailliert angeschaut
+
+00:32:19.900 --> 00:32:21.900
+mit verschiedenen Niederlassungen.
+
+00:32:21.900 --> 00:32:24.950
+Und da war es tatsächlich so,
+
+00:32:24.950 --> 00:32:25.950
+dass das zu einem ganz,
+
+00:32:25.950 --> 00:32:27.860
+ganz großen Teil
+
+00:32:27.860 --> 00:32:28.980
+durch die einzelnen
+
+00:32:28.980 --> 00:32:31.710
+Management-Teams stattfindet.
+
+00:32:31.710 --> 00:32:33.740
+Und wie die zusammengesetzt sind
+
+00:32:33.740 --> 00:32:35.740
+und wie die miteinander arbeiten.
+
+00:32:35.740 --> 00:32:36.900
+Und das hatte einen super großen
+
+00:32:36.900 --> 00:32:39.900
+und deutlichen Effekt
+
+00:32:39.900 --> 00:32:41.870
+auf das entrepreneuriale Verhalten
+
+00:32:41.870 --> 00:32:43.870
+und die entrepreneuriale Orientierung
+
+00:32:43.870 --> 00:32:44.870
+der einzelnen Niederlassungen.
+
+00:32:44.870 --> 00:32:46.900
+Also das lag wirklich an den Teams
+
+00:32:46.900 --> 00:32:48.060
+und eben nicht dadurch,
+
+00:32:48.060 --> 00:32:49.060
+dass wir uns ja
+
+00:32:49.060 --> 00:32:50.060
+ein Unternehmen angeguckt haben,
+
+00:32:50.060 --> 00:32:51.060
+das natürlich
+
+00:32:51.060 --> 00:32:55.310
+eine Top-Level-Führungsebene hat,
+
+00:32:55.310 --> 00:32:56.590
+deutschlandweit
+
+00:32:56.590 --> 00:32:57.590
+oder vielleicht auch international,
+
+00:32:57.590 --> 00:32:58.590
+die dann eben
+
+00:32:58.590 --> 00:32:59.810
+Top-Down führen,
+
+00:32:59.810 --> 00:33:01.260
+haben wir gesehen,
+
+00:33:01.260 --> 00:33:02.260
+hey, das ist gar nicht
+
+00:33:02.260 --> 00:33:03.320
+der Rieseneffekt
+
+00:33:03.320 --> 00:33:04.320
+auf das
+
+00:33:04.320 --> 00:33:05.320
+entrepreneuriale
+
+00:33:05.320 --> 00:33:06.320
+und innovative Verhalten
+
+00:33:06.320 --> 00:33:08.090
+von den Niederlassungen,
+
+00:33:08.090 --> 00:33:09.090
+sondern es kommt eigentlich
+
+00:33:09.090 --> 00:33:10.090
+aus einer anderen Richtung.
+
+00:33:10.090 --> 00:33:12.340
+Nämlich so dieser Bottom-up-Effekt,
+
+00:33:12.340 --> 00:33:14.470
+dass die einzelnen Niederlassungen
+
+00:33:14.470 --> 00:33:16.690
+und deren Management-Teams
+
+00:33:16.690 --> 00:33:18.250
+dafür verantwortlich sind.
+
+00:33:18.250 --> 00:33:19.330
+Und das fand ich eigentlich
+
+00:33:19.330 --> 00:33:21.930
+eine ganz interessante Erkenntnis.
+
+00:33:21.930 --> 00:33:22.930
+Woran lag oder wie,
+
+00:33:22.930 --> 00:33:25.660
+weil das sehe ich auch immer wieder alle,
+
+00:33:25.660 --> 00:33:26.660
+gibt es so viele Mitarbeiter,
+
+00:33:26.660 --> 00:33:27.660
+Mitarbeiterinnen,
+
+00:33:27.660 --> 00:33:29.620
+die super viele Ideen haben,
+
+00:33:29.620 --> 00:33:30.620
+aber irgendwie
+
+00:33:30.620 --> 00:33:33.190
+kann man dieses Verhalten,
+
+00:33:33.190 --> 00:33:34.190
+Innovationsverhalten,
+
+00:33:34.190 --> 00:33:35.190
+wie fördert man das?
+
+00:33:35.190 --> 00:33:36.190
+Oder woran lag das
+
+00:33:36.190 --> 00:33:38.340
+vielleicht in diesem Fall?
+
+00:33:38.340 --> 00:33:40.590
+Ja, also das ist
+
+00:33:40.590 --> 00:33:41.590
+ein super wichtiges Thema,
+
+00:33:41.590 --> 00:33:43.590
+wie man quasi daraus auch dann
+
+00:33:43.590 --> 00:33:44.590
+als Unternehmen,
+
+00:33:44.590 --> 00:33:46.620
+und da benutze ich den Begriff
+
+00:33:46.620 --> 00:33:48.620
+auch im Prinzip genauso wie er gemeint ist,
+
+00:33:48.620 --> 00:33:50.900
+Profit schlagen kann,
+
+00:33:50.900 --> 00:33:52.960
+weil Unternehmen haben nun mal
+
+00:33:52.960 --> 00:33:54.960
+eine Profitorientierung,
+
+00:33:54.960 --> 00:33:55.960
+abgesehen davon,
+
+00:33:55.960 --> 00:33:56.960
+dass sie natürlich auch
+
+00:33:56.960 --> 00:33:58.960
+gewisse andere Orientierungen
+
+00:33:58.960 --> 00:34:01.380
+in Richtung soziale,
+
+00:34:01.380 --> 00:34:02.540
+ökologische Verantwortung
+
+00:34:02.540 --> 00:34:04.540
+und so haben sollten heutzutage.
+
+00:34:04.540 --> 00:34:06.600
+Aber wie die das quasi
+
+00:34:06.600 --> 00:34:07.600
+umgemünzt bekommen,
+
+00:34:07.600 --> 00:34:09.590
+was in ihrem Unternehmen schlummert,
+
+00:34:09.590 --> 00:34:12.840
+und da scheitern echt viele Unternehmen dran,
+
+00:34:12.840 --> 00:34:15.130
+weil die Strukturen es nicht zulassen,
+
+00:34:15.130 --> 00:34:17.230
+aber auch teilweise die Leute,
+
+00:34:17.230 --> 00:34:19.220
+diese klassischen Gatekeeper,
+
+00:34:19.220 --> 00:34:20.220
+es nicht zulassen.
+
+00:34:20.220 --> 00:34:22.560
+Auf der anderen Seite,
+
+00:34:22.560 --> 00:34:23.560
+was wir da rausgefunden haben,
+
+00:34:23.560 --> 00:34:25.560
+was super zuträglich ist,
+
+00:34:25.560 --> 00:34:29.230
+es hat also dieses entrepreneuriale Verhalten
+
+00:34:29.230 --> 00:34:32.410
+und da steckt eben auch Innovation drin,
+
+00:34:32.410 --> 00:34:34.410
+aber auch sowas wie Proaktivität
+
+00:34:34.410 --> 00:34:35.410
+und Risikofreudigkeit,
+
+00:34:35.410 --> 00:34:36.410
+also alles,
+
+00:34:36.410 --> 00:34:37.410
+was quasi dazu beiträgt,
+
+00:34:37.410 --> 00:34:40.910
+neue innovative Lösungen
+
+00:34:40.910 --> 00:34:41.910
+an den Markt zu bringen
+
+00:34:41.910 --> 00:34:42.910
+und umzusetzen.
+
+00:34:42.910 --> 00:34:46.090
+Da haben insbesondere bei uns
+
+00:34:46.090 --> 00:34:48.090
+nur die Teams positiv abgeschnitten,
+
+00:34:48.090 --> 00:34:52.810
+die sich selber gegenseitig vertraut haben,
+
+00:34:52.810 --> 00:34:53.810
+im Sinne von,
+
+00:34:53.810 --> 00:34:54.810
+hey, ich kann nicht alles wissen,
+
+00:34:54.810 --> 00:34:56.900
+sondern Person XY
+
+00:34:56.900 --> 00:34:58.900
+hat Expertise in einem anderen Bereich,
+
+00:34:58.900 --> 00:34:59.860
+auf die ich zugreifen kann
+
+00:34:59.860 --> 00:35:00.860
+und von da ausgehend
+
+00:35:00.860 --> 00:35:02.830
+haben wir dann so einen Prozess beobachtet,
+
+00:35:02.830 --> 00:35:06.240
+der bestand aus gemeinsamen Lernen,
+
+00:35:06.240 --> 00:35:07.240
+also Team Learning
+
+00:35:07.240 --> 00:35:10.390
+und gemeinsamen Entscheidungsfindungen,
+
+00:35:10.390 --> 00:35:12.840
+also wenn das beides hoch ausgeprägt war,
+
+00:35:12.840 --> 00:35:17.090
+dann führte das interessanterweise
+
+00:35:17.090 --> 00:35:21.920
+und da fand ich es besonders spannend an der Stelle,
+
+00:35:21.920 --> 00:35:23.920
+weil ich ja eigentlich ein klassischer BWLer bin
+
+00:35:23.920 --> 00:35:27.380
+und gar nicht aus der Psychologie Schiene komme.
+
+00:35:27.380 --> 00:35:28.380
+Da bin ich dann sogar die Zeit
+
+00:35:28.380 --> 00:35:31.380
+so ein kleines bisschen auch reingerutscht durch die Forschung.
+
+00:35:31.380 --> 00:35:33.700
+Was aber der Kernpunkt ist
+
+00:35:33.700 --> 00:35:37.310
+und da war ich eben besonders überrascht darüber zuerst,
+
+00:35:37.310 --> 00:35:39.310
+das Ganze funktioniert nur gut,
+
+00:35:39.310 --> 00:35:41.460
+wenn eine hohe Team Identification,
+
+00:35:41.460 --> 00:35:44.870
+also eine Identifizierung mit dem eigenen Team vorliegt.
+
+00:35:44.870 --> 00:35:49.660
+Dann führt das Ganze zu entrepreneurialem Verhalten,
+
+00:35:49.660 --> 00:35:51.680
+das auch umgesetzt wird in meinem Unternehmen
+
+00:35:51.680 --> 00:35:54.780
+oder in meiner Niederlassung in diesem konkreten Fall.
+
+00:35:54.780 --> 00:35:58.250
+Also das funktioniert eben nicht,
+
+00:35:58.250 --> 00:36:02.980
+wenn ich nur diese ganzen quasi harten Faktoren habe,
+
+00:36:02.980 --> 00:36:05.140
+wie gemeinsames Lernen.
+
+00:36:05.140 --> 00:36:08.710
+Das kann man ja auf den Plan setzen jede Woche.
+
+00:36:08.710 --> 00:36:09.710
+Hier lernt man eine Stunde
+
+00:36:09.710 --> 00:36:13.090
+und dann irgendwie danach am nächsten Tag
+
+00:36:13.090 --> 00:36:17.400
+fällt dann bitte jemand von euch oder ihr zusammen eine Entscheidung
+
+00:36:17.400 --> 00:36:19.580
+auf einem bestimmten Thema,
+
+00:36:19.580 --> 00:36:21.840
+sondern das Ganze funktioniert eben nur so gut,
+
+00:36:21.840 --> 00:36:25.090
+wenn die sich auch mit ihrem Team identifizieren.
+
+00:36:25.090 --> 00:36:27.250
+Also da ist man schon fast mit einem Fuß in diesem Riesenthema,
+
+00:36:27.250 --> 00:36:32.140
+das ja mal eine Forscherin vor etlichen Jahren
+
+00:36:32.140 --> 00:36:35.140
+als echt interessante Geschichte gefunden hat,
+
+00:36:35.140 --> 00:36:38.140
+nämlich das Thema Psychological Safety in Unternehmen.
+
+00:36:38.140 --> 00:36:41.430
+Da steht man dann schon echt mit einem Bein drin bei dem Thema.
+
+00:36:41.430 --> 00:36:43.810
+Das Baswort schlechthin gerade.
+
+00:36:43.810 --> 00:36:47.810
+Aber nicht nur gerade, sondern das ist eigentlich schon relativ alt.
+
+00:36:47.810 --> 00:36:52.100
+Ich glaube, die grundlegende Studie ist von 99 oder so.
+
+00:36:52.100 --> 00:36:54.250
+Also wenn du jetzt mal auf den Kalender gehst,
+
+00:36:54.250 --> 00:36:56.250
+das ist 23 Jahre alt, das ist nichts Neues,
+
+00:36:56.250 --> 00:36:58.630
+was die Menschheit gerade lernt.
+
+00:36:58.630 --> 00:37:00.630
+Aber scheinbar noch immer nicht angekommen,
+
+00:37:00.630 --> 00:37:02.980
+dass das irgendwie wichtig sein könnte.
+
+00:37:02.980 --> 00:37:04.000
+Bei einem zumindest.
+
+00:37:04.000 --> 00:37:07.130
+Ich glaube auch so, diese Team ist ja sonst natürlich,
+
+00:37:07.130 --> 00:37:10.160
+wenn man dann, ich sehe das immer wieder beim Unternehmen,
+
+00:37:10.160 --> 00:37:12.160
+dieses Reorg, dann neue Teams.
+
+00:37:12.160 --> 00:37:16.700
+Wie soll man da dann eine Team-Identifikation irgendwie bekommen,
+
+00:37:16.700 --> 00:37:20.700
+wenn man ständig auch neue Führungskraft und weiß nicht was bekommt,
+
+00:37:20.700 --> 00:37:22.920
+ist natürlich dann relativ schwierig.
+
+00:37:22.920 --> 00:37:28.430
+Ja, also da gibt es eigentlich eine ganz schöne Theorie,
+
+00:37:28.430 --> 00:37:33.990
+die auch zu so einer Team-Identifikation ganz gut passt und führen kann.
+
+00:37:33.990 --> 00:37:37.560
+Das ist die Optimal Distinctiveness Theory.
+
+00:37:37.560 --> 00:37:41.060
+Und wie der Name im Prinzip sagt,
+
+00:37:41.060 --> 00:37:44.060
+gibt es einen Punkt oder einen vermeintlichen Punkt,
+
+00:37:44.060 --> 00:37:48.400
+wo man eine optimale Unterschiedlichkeit im Team hat.
+
+00:37:48.400 --> 00:37:50.460
+Und da hat auch so ein kleines bisschen,
+
+00:37:50.460 --> 00:37:52.460
+die haben wir jetzt nicht in dieser Studie explizit genutzt,
+
+00:37:52.460 --> 00:37:56.620
+wir haben eine etwas übergeordnete Social Identity Theory genutzt,
+
+00:37:56.620 --> 00:38:03.140
+sondern wenn man da weiterdenkt,
+
+00:38:03.140 --> 00:38:06.140
+dann macht es total Sinn, wenn man die Leute so zusammenstellt
+
+00:38:06.140 --> 00:38:11.350
+oder auch befähigt, so zusammenzuarbeiten,
+
+00:38:11.350 --> 00:38:14.350
+dass im Prinzip jeder seine Expertise einfließen lassen kann.
+
+00:38:14.350 --> 00:38:18.670
+Und das mache ich zum Beispiel in kleinen Studententeams,
+
+00:38:18.670 --> 00:38:22.760
+wenn wir die irgendwie an entrepreneuriale Tasks dran setzen,
+
+00:38:22.760 --> 00:38:25.760
+also wenn die zum Beispiel sich eine Geschäftsidee überlegen soll,
+
+00:38:25.760 --> 00:38:27.710
+dann packe ich keine fünf BWLer rein,
+
+00:38:27.710 --> 00:38:29.760
+sondern ich packe vielleicht noch jemanden mit Design rein,
+
+00:38:29.760 --> 00:38:34.920
+ich packe noch jemanden mit Programmierfähigkeiten rein
+
+00:38:34.920 --> 00:38:39.040
+und dann vielleicht noch irgendwie jemanden mit einem Ingenieur-Background oder so
+
+00:38:39.040 --> 00:38:41.360
+und dann wird es richtig spannend,
+
+00:38:41.360 --> 00:38:46.050
+weil die Leute sich dann im Zweifelsfall auch aufeinander verlassen müssen,
+
+00:38:46.050 --> 00:38:49.460
+weil ich kann mir nicht irgendwelche Programmierfähigkeiten
+
+00:38:49.460 --> 00:38:54.560
+oder Ingenieursfähigkeiten oder ich kann zum Beispiel auch total schlecht im Design.
+
+00:38:54.560 --> 00:39:00.000
+Ich kann wirklich nicht großartig was Künstlerisches.
+
+00:39:00.000 --> 00:39:03.310
+aber ich glaube auch dieses, wir hatten nochmal so,
+
+00:39:03.310 --> 00:39:05.310
+es gibt ja auch so verschiedene zu Team-Konstellationen,
+
+00:39:05.310 --> 00:39:08.310
+Fragebögen, weiß nicht was, war für mich so ein bisschen Aha-Moment,
+
+00:39:08.310 --> 00:39:11.790
+dass ich dachte immer, okay, die Leute, ich fände cool,
+
+00:39:11.790 --> 00:39:15.760
+wenn nur Innovatoren da wären und nur Leute, die was machen wollen,
+
+00:39:15.760 --> 00:39:18.730
+aber so das beste Team ist eigentlich auch,
+
+00:39:18.730 --> 00:39:20.730
+dass es auch welche gibt, die Bewahrer sind,
+
+00:39:20.730 --> 00:39:25.370
+die ich vielleicht vom Typ her, weiß ich nicht, nicht so gut mit denen auskomme,
+
+00:39:25.370 --> 00:39:28.370
+aber die dann vielleicht auch nicht allem hinterher rennen
+
+00:39:28.370 --> 00:39:31.370
+und auch mal sagen, okay, habt ihr darauf schon geguckt,
+
+00:39:31.370 --> 00:39:34.470
+dass die eigentlich auch in so einem Team geben muss,
+
+00:39:34.470 --> 00:39:36.470
+wenn man in Anführungszeichen muss,
+
+00:39:36.470 --> 00:39:38.630
+aber dass sie auf jeden Fall da die Berechtigung auch haben.
+
+00:39:38.630 --> 00:39:42.630
+Also nicht immer nur diesen Background-IT, vielleicht BWL,
+
+00:39:42.630 --> 00:39:47.010
+aber vielleicht auch diese so eine Einstellung oder Typ verschiedene gibt, ja.
+
+00:39:47.010 --> 00:39:51.010
+Absolut. Kennst du die Walt Disney-Methode als Kreativitätstechnik?
+
+00:39:51.010 --> 00:39:52.010
+Ja.
+
+00:39:52.010 --> 00:39:54.260
+Die fußt ja so ein bisschen auf der Idee, ne?
+
+00:39:54.260 --> 00:39:56.260
+Also da gibt es ja irgendwie den einen Schritt,
+
+00:39:56.260 --> 00:39:59.260
+wo man echt total frei auf der grünen Wiese denken darf,
+
+00:39:59.260 --> 00:40:04.060
+auch teilweise ohne technologische, rechtliche,
+
+00:40:04.060 --> 00:40:07.060
+wie auch immer Beschränkungen denken soll.
+
+00:40:07.060 --> 00:40:10.410
+Und dann gibt es ja im Prinzip danach gelagert einen Schritt
+
+00:40:10.410 --> 00:40:12.600
+und in der Regel auch eine Rolle,
+
+00:40:12.600 --> 00:40:14.600
+die durch eine andere Person dann übernommen wird,
+
+00:40:14.600 --> 00:40:17.590
+wo das Ganze quasi wieder eingefangen wird und gesagt wird,
+
+00:40:17.590 --> 00:40:19.590
+hey, okay, das eine, das können wir aber zumindest
+
+00:40:19.590 --> 00:40:22.590
+im nächsten Jahrzehnt technologisch noch nicht abbilden.
+
+00:40:22.590 --> 00:40:25.590
+Und in Deutschland ist das vielleicht so extrem auch gar nicht erlaubt
+
+00:40:25.590 --> 00:40:32.320
+oder in Europa. Und insofern, ja, also es ist wichtig,
+
+00:40:32.320 --> 00:40:37.240
+dass man auch im Prinzip dann mal zu einem gewissen Maße
+
+00:40:37.240 --> 00:40:40.240
+die Bewahrer dabei hat oder die Realisten heißt es ja,
+
+00:40:40.240 --> 00:40:44.030
+glaube ich, in der Technik, die das Ganze dann natürlich auch
+
+00:40:44.030 --> 00:40:47.980
+irgendwie mal in gewisse umsetzbare Grenzen zurückbringt.
+
+00:40:47.980 --> 00:40:53.100
+Und insofern auch dahingehend profitieren Teams davon,
+
+00:40:53.100 --> 00:40:57.390
+wenn man jetzt nicht nur einen diversen demografischen Background hat,
+
+00:40:57.390 --> 00:41:03.770
+oder einen fachlichen diversen Background in Teams hat,
+
+00:41:03.770 --> 00:41:06.930
+sondern eben auch verschiedene Faktoren,
+
+00:41:06.930 --> 00:41:10.990
+die so ein bisschen weicher oder schon fast psychologisch eben sind an der Stelle,
+
+00:41:10.990 --> 00:41:16.120
+wo dann Leute sehr innovativ mit Leuten zusammengesetzt werden,
+
+00:41:16.120 --> 00:41:20.590
+die vielleicht ein bisschen konservativer unterwegs sind.
+
+00:41:20.590 --> 00:41:24.310
+Und das ist auch gar nicht schlimm, weil am Ende,
+
+00:41:24.310 --> 00:41:28.550
+und das ist vielleicht für etablierte Unternehmen auch noch ein Stück weit
+
+00:41:28.550 --> 00:41:35.190
+wichtiger als für Startups, muss man am Markt ja dann ein Produkt etablieren,
+
+00:41:35.190 --> 00:41:38.730
+das auch wirklich eine gewisse breite Masse erreicht.
+
+00:41:38.730 --> 00:41:43.930
+Und das eben auch umsetzbar ist im konkreten Kontext,
+
+00:41:43.930 --> 00:41:44.930
+wo ich jetzt unterwegs bin.
+
+00:41:44.930 --> 00:41:47.070
+Also Stichwort Uber.
+
+00:41:47.070 --> 00:41:50.270
+Uber hat eben in Deutschland nicht so richtig gut funktioniert,
+
+00:41:50.270 --> 00:41:53.360
+weil es extrem viele Barrieren gab oder immer noch gibt.
+
+00:41:53.360 --> 00:41:57.090
+Und was würdest du sagen, ist sonst noch so ein,
+
+00:41:57.090 --> 00:42:02.890
+also ich sehe immer für Innovationen in Unternehmen viel dieser Freiheitsaspekt,
+
+00:42:02.890 --> 00:42:06.400
+dass Leute teilweise, die sollen innovativ sein,
+
+00:42:06.400 --> 00:42:07.400
+aber die haben gar keine Freiheit.
+
+00:42:07.400 --> 00:42:11.400
+Wenn du, weiß nicht was, deine ganze Arbeitszeit auf ein Projekt gestafft bist,
+
+00:42:11.400 --> 00:42:13.400
+wo sollst du dann noch innovativ sein?
+
+00:42:13.400 --> 00:42:15.400
+Ich glaube, Kreativität brauchst du ja auch so ein bisschen.
+
+00:42:15.400 --> 00:42:18.780
+Ich weiß nicht, Freiheit, Ruhe, weiß ich nicht was.
+
+00:42:18.780 --> 00:42:22.230
+Was gibt es da vielleicht noch so für Faktoren?
+
+00:42:22.230 --> 00:42:25.230
+Jetzt gerade schon das Team vielleicht, Team-Identifizierung.
+
+00:42:25.230 --> 00:42:27.420
+Ist da vielleicht noch andere?
+
+00:42:27.420 --> 00:42:31.060
+Ganz wichtiger Punkt von dir natürlich zum einen die Autonomie.
+
+00:42:31.060 --> 00:42:34.020
+Da gibt es auch relativ viel Forschung mittlerweile zu.
+
+00:42:34.020 --> 00:42:40.020
+Wie Autonomie dazu beiträgt, dass Teams oder auch einzelne Leute
+
+00:42:40.020 --> 00:42:43.900
+oder auch ganze Unternehmen innovativer werden.
+
+00:42:43.900 --> 00:42:46.750
+Keine Frage, das ist zuträglich.
+
+00:42:46.750 --> 00:42:54.410
+Eine gewisse Befähigung dahingehend, dass ich das in meinen Arbeitsalltag auch einbringen kann,
+
+00:42:54.410 --> 00:42:56.760
+ist sicherlich auch wichtig.
+
+00:42:56.760 --> 00:43:01.760
+Ich meine, wir alle kennen ja die Geschichte, die Google zum Beispiel seinen Mitarbeitenden anbietet,
+
+00:43:01.760 --> 00:43:09.180
+dass die gewisse Freiräume bekommen, um bestimmte Projekte oder auch erste Ideen nachzuverfolgen
+
+00:43:09.180 --> 00:43:11.180
+und sich dem zu widmen.
+
+00:43:11.180 --> 00:43:14.880
+Und insofern sowas ist natürlich total wertvoll.
+
+00:43:14.880 --> 00:43:18.880
+Da machen so große Tech-Unternehmen wie Google schon einiges richtig.
+
+00:43:18.880 --> 00:43:25.830
+Und dadurch sind die sicherlich auch so innovativ in vielen Belangen, wenn man das den Mitarbeitenden,
+
+00:43:25.830 --> 00:43:28.830
+und das sehe ich im ganz Kleinen auch bei mir an der Professur.
+
+00:43:28.830 --> 00:43:33.270
+Wenn ich jetzt meine Leute zumülle, meine Doktoranden mit irgendwelchen
+
+00:43:33.270 --> 00:43:41.460
+hier, bau mir noch mal ein paar Slides für eine Vorlesung oder schreib irgendwie dieses oder jenes runter
+
+00:43:41.460 --> 00:43:46.430
+und so Geschichten, die wirklich nur im Prinzip fleißiges Abarbeiten sind.
+
+00:43:46.430 --> 00:43:52.030
+Wenn ich die damit den ganzen Tag zumülle, dann kommen die nicht mit irgendwelchen innovativen Forschungsideen
+
+00:43:52.030 --> 00:43:56.220
+am Ende des Tages auf mich zu. Das ist natürlich eine relativ einfache Geschichte.
+
+00:43:56.220 --> 00:44:03.880
+Ich brauche Zeit und in gewisser Weise auch einen freien Kopf. Und da dann im Prinzip zweiter Faktor,
+
+00:44:03.880 --> 00:44:10.680
+wenn ich jetzt meine Mitarbeiter extrem unter Druck setze mit irgendwas.
+
+00:44:10.680 --> 00:44:18.650
+Also vielleicht auch damit, mit einer Innovation um die Ecke zu kommen, klappt manchmal auch nicht so gut.
+
+00:44:18.650 --> 00:44:23.470
+Und vielleicht auch als Führungskraft, wenn natürlich jemand kommt und sagt,
+
+00:44:23.470 --> 00:44:28.470
+hat eine tolle Idee und du sagst, passt nicht die Scheiße, kommt die Person wahrscheinlich nie wieder.
+
+00:44:28.470 --> 00:44:34.070
+Also ist wahrscheinlich die dann auch so ein bisschen, glaube ich, teilweise auch schwer, wenn es dann wirklich nicht passt.
+
+00:44:34.070 --> 00:44:40.200
+Wie kann ich das schön rüberbringen, dass die Person nächstes Mal vielleicht trotzdem nochmal kommt, vielleicht passt es dann so.
+
+00:44:40.200 --> 00:44:52.210
+Total. Also ich habe selber auch schon mal erlebt, dass ich mit einer Idee um die Ecke kam und die dann tatsächlich auch so ein bisschen abgewatscht wurde.
+
+00:44:52.210 --> 00:45:00.670
+Das Schlimmste, was da passieren kann, ist im Prinzip, wenn man keinen ordentlichen Grund dafür gibt.
+
+00:45:00.670 --> 00:45:07.830
+Also das Schlimmste ist, und das habe ich tatsächlich auch schon gehört, auch von Leuten, wo zumindest der Jobtitel es eigentlich verbieten würde, so etwas zu sagen.
+
+00:45:07.830 --> 00:45:14.430
+Dieses typische, das haben wir schon immer so gemacht, habe ich tatsächlich noch vor gar nicht allzu langer Zeit mal gehört.
+
+00:45:14.430 --> 00:45:22.730
+Und das ist dann natürlich das Schlimmste, wenn die Leute es nicht nachvollziehen können, warum jetzt oder vielleicht auch jetzt gerade nicht.
+
+00:45:22.730 --> 00:45:28.400
+Manchmal ist es ja so, dass es jetzt gerade nicht passt, aber vielleicht in zwei, drei Jahren passt es.
+
+00:45:28.400 --> 00:45:31.390
+Oder bei deinem nächsten Job, vielleicht passt es da besonders gut.
+
+00:45:31.390 --> 00:45:37.300
+Und dann hast du halt einmal die Watsche bekommen und dann behältst du es halt das nächste Mal für dich.
+
+00:45:37.300 --> 00:45:39.600
+Das ist im Prinzip das Schlimmste, was so passieren kann.
+
+00:45:39.600 --> 00:45:53.510
+Deshalb ist auch gerade die Kommunikation da extrem wichtig, wie Führungskräfte so etwas dann vielleicht auch aufnehmen und bewerten und entsprechend dann auch darauf reagieren.
+
+00:45:53.510 --> 00:46:02.400
+Und ich glaube, das kann man aber auch den Führungskräften zu einem gewissen Maß beibringen.
+
+00:46:02.400 --> 00:46:11.490
+Da sollte man vielleicht auch den Leuten beibringen und vielleicht auch eine gewisse in großen Unternehmen auch eine Policy dafür haben, wie mit Ideen umgegangen wird.
+
+00:46:11.490 --> 00:46:18.170
+Vielleicht werden die dann von zwei Leuten beurteilt, von irgendeiner Person ganz woanders im Unternehmen.
+
+00:46:18.170 --> 00:46:25.700
+Keine Ahnung, die gar nichts mit den Leuten zu tun hat. Also jegliche persönliche Befindlichkeiten sind damit raus.
+
+00:46:25.700 --> 00:46:34.330
+Jegliche vielleicht auch jetzt auf die kleine Organisationseinheit bezogene Dinge oder politische Gedanken sind dann auch raus.
+
+00:46:34.330 --> 00:46:37.360
+Vielleicht so was. Vielleicht wäre das eine Lösung dafür.
+
+00:46:37.360 --> 00:46:46.950
+Ja und ich hatte auch schon mal so Erfahrungen gemacht in einem Unternehmen, da war schon, also auch bis zum Vorstand konnte man da seine Idee pitchen dann teilweise.
+
+00:46:46.950 --> 00:46:55.350
+Da sieht man auch, dass das anerkannt wird. Also das wird gewollt, dass man wirklich auch bis zum Vorstand dann da auch teilweise das Kapital dann bekommt.
+
+00:46:55.350 --> 00:46:58.560
+Macht natürlich auch so einen guten Eindruck.
+
+00:46:58.560 --> 00:47:06.610
+Total. Und wenn dann mal was Gutes ankommt oder wenn mal eine Idee gut ankommt,
+
+00:47:06.610 --> 00:47:15.820
+dann halte ich persönlich auch das für extrem wichtig, dass man den Leuten, die es vorgeschlagen haben, auch die Möglichkeit gibt, da Verantwortung zu übernehmen.
+
+00:47:15.820 --> 00:47:36.130
+Also wenn ich jetzt erkenne, hey, jemand von mir aus auch irgendwo aus der Buchhaltung oder so schlägt irgendwas richtig cooles vor, dann muss ich mich auch irgendwie trauen, hey, ich gebe der Person irgendwie zumindest einen gewissen Steak in diesem Projekt, wenn es jetzt wirklich interessant für uns als Unternehmen ist und die Möglichkeit zur Mitwirkung.
+
+00:47:36.130 --> 00:47:45.590
+Das kann ja bis dahin gehen, dass ich dann solche Leute auch irgendwie bei einer Ausgründung als Geschäftsführer oder Geschäftsführerin einsetze.
+
+00:47:45.590 --> 00:47:52.940
+Dann kommt man, glaube ich, auch dahin, dass man so Gründertum innerhalb etablierter Unternehmen schaffen kann.
+
+00:47:52.940 --> 00:48:06.350
+Wenn die Leute merken, hey, da kann ich sogar auf einmal als, keine Ahnung, Sachbearbeiter oder Sachbearbeiterin mit einer coolen Idee und dem gewissen Gründergeist, der in mir schlummert, kann ich auf einmal dann doch zu einem Entrepreneur werden
+
+00:48:06.350 --> 00:48:13.440
+sogar noch eine Finanzierung als Spin-Off von einem riesen DAX-Konzern oder so. Das ist doch dann eine coole Sache.
+
+00:48:13.440 --> 00:48:24.700
+Ich musste gerade noch mal ein bisschen gucken, daran denken an diesen Zeit-Aspekt, weil ich auch schon öfters gehört hatte, ja, das haben wir schon mal probiert vor drei Jahren,
+
+00:48:24.700 --> 00:48:35.080
+hat nicht funktioniert, aber vielleicht funktioniert. Ich glaube, da komme ich nicht mehr ganz drauf, was so, du bist doch auch bestimmt Forschung, erfolgreiche Start-Ups, was das ausmacht.
+
+00:48:35.080 --> 00:48:39.070
+Ich glaube, das war Zeit, Ressourcen, ich weiß gar nicht mehr genau was alles.
+
+00:48:39.070 --> 00:48:50.580
+Ja, also gerade auch das Timing ist echt ein Faktor. Ich habe persönlich eine Affinität für alles rund um so Mobilfunk zum Beispiel
+
+00:48:50.580 --> 00:48:58.270
+oder aktuell natürlich auch Elektromobilität, finde ich auch sehr spannend, aber über Mobilfunk wissen wir mehr.
+
+00:48:58.270 --> 00:49:06.000
+Wenn man sich das mal anschaut im Zeitverlauf, es gab ganz viele Anläufe, ein Smartphone auf den Markt zu bringen,
+
+00:49:06.000 --> 00:49:11.650
+mit verschiedenen natürlich technischen Ausstattungsformen.
+
+00:49:11.650 --> 00:49:17.800
+Und ganz viele davon sind gescheitert, bis dann eben einmal der Durchbruch irgendwann kam.
+
+00:49:17.800 --> 00:49:22.800
+Und das war in diesem Falle, wie wir alle wissen, relativ eng verbunden mit dem iPhone.
+
+00:49:22.800 --> 00:49:29.160
+Aber davor gab es eben ganz viele Unternehmen. Also Palm, was heute kaum noch einer kennt.
+
+00:49:29.160 --> 00:49:35.160
+Die hatten eigentlich so ein Handheld, was schon relativ nah an einem Smartphone im Prinzip dran war.
+
+00:49:35.160 --> 00:49:39.160
+Motorola war da sehr stark engagiert, auch in dem Spielchen damals.
+
+00:49:39.160 --> 00:49:47.030
+Microsoft war dabei. Nokia hat zu lange eben nicht versucht, das zu adressieren,
+
+00:49:47.030 --> 00:49:53.160
+sondern an seinen sehr qualitativ hochwertigen Barrenhandys oder Ähnlichem festgehalten.
+
+00:49:53.160 --> 00:49:57.380
+Und da kann man das ganz gut beobachten, wie wichtig das Timing ist.
+
+00:49:57.380 --> 00:50:02.760
+Natürlich spielt er auch immer so. Man hat eine kleine Chance, das auch selber zu beeinflussen.
+
+00:50:02.760 --> 00:50:10.460
+Da ist man auch bei Push-und-Pull-Faktoren von Technologie und Marktnachfrage.
+
+00:50:10.460 --> 00:50:14.070
+Aber oftmals ist es eine Kombination aus beidem.
+
+00:50:14.070 --> 00:50:18.410
+Es passt gerade irgendwie ganz gut in das generelle gesellschaftliche,
+
+00:50:18.410 --> 00:50:21.410
+wirtschaftliche, technologische Umfeld.
+
+00:50:21.410 --> 00:50:27.270
+Und man selber hat dann eben auch das Nötige getan, um das so da reinzubringen,
+
+00:50:27.270 --> 00:50:30.430
+dass die Leute es verstehen und auch benutzen wollen.
+
+00:50:30.430 --> 00:50:34.100
+Wahrscheinlich den Mehrwert finden und sehen.
+
+00:50:34.100 --> 00:50:38.390
+Was für die bringt, dass sie weiterhilft.
+
+00:50:38.390 --> 00:50:42.480
+Genau, da ist man dann bei diesem klassischen mehr oder weniger Buzzword.
+
+00:50:42.480 --> 00:50:49.440
+Wir wollen ein Value produzieren, ein Mehrwert produzieren für unsere Kunden.
+
+00:50:49.440 --> 00:50:56.310
+Und genau das muss man aber auf den Punkt kommuniziert bekommen.
+
+00:50:56.310 --> 00:50:59.530
+Warum brauchst du jetzt eben das und nicht mehr das andere,
+
+00:50:59.530 --> 00:51:04.440
+was du jetzt schon zehn Jahre benutzt hast?
+
+00:51:04.440 --> 00:51:07.440
+Ja, ich habe noch vielleicht ein anderes Thema.
+
+00:51:07.440 --> 00:51:14.430
+Ich weiß, so eine Zeit lang wurde immer gesagt,
+
+00:51:14.430 --> 00:51:17.430
+Innovationen, also auch gerade bei großen Unternehmen,
+
+00:51:17.430 --> 00:51:20.590
+die müssen wirklich weit weg sein vom Unternehmen.
+
+00:51:20.590 --> 00:51:22.590
+Die müssen ihre Freiheiten haben.
+
+00:51:22.590 --> 00:51:25.680
+Die müssen, ich weiß nicht, sich ausprobieren können,
+
+00:51:25.680 --> 00:51:28.680
+weit weg von der Kultur, eine neue Kultur aufbauen.
+
+00:51:28.680 --> 00:51:31.760
+Aber irgendwie glaube ich, was ich so gehört habe,
+
+00:51:31.760 --> 00:51:34.760
+zumindest ist das so ein bisschen gescheitert.
+
+00:51:34.760 --> 00:51:37.980
+Und jetzt gehen alle dahin, nee, das muss im Unternehmen sein,
+
+00:51:37.980 --> 00:51:42.980
+damit die die Kultur dann direkt im Unternehmen mitnehmen, verändern oder Ähnliches.
+
+00:51:42.980 --> 00:51:47.040
+Gerade diese kleinen Labs, was auch immer.
+
+00:51:47.040 --> 00:51:51.730
+Was ist da so deine Einstellung, Meinung zu?
+
+00:51:51.730 --> 00:51:58.330
+Also, da könnte man, glaube ich, relativ weit ausholen.
+
+00:51:58.330 --> 00:52:02.740
+Ich versuche es mal so halbwegs auf den Punkt zu kriegen.
+
+00:52:02.740 --> 00:52:09.270
+Man sieht in der Realität ein ganzes Kontinuum von bis.
+
+00:52:09.270 --> 00:52:16.240
+Also von wirklich alles versuchen intern zu halten in den bereits vorhandenen Strukturen
+
+00:52:16.240 --> 00:52:18.230
+und da irgendwie etwas zu machen.
+
+00:52:18.230 --> 00:52:22.540
+Dann gibt es relativ nah am Unternehmen passierende Dinge,
+
+00:52:22.540 --> 00:52:28.570
+sowas wie so ein internes Lab oder keine Ahnung, ein Coworking Space, Fab Lab und so weiter.
+
+00:52:28.570 --> 00:52:37.670
+Wo dann im Prinzip auch meine bisherigen Mitarbeiter dann drin tätig werden können, wenn sie wollen.
+
+00:52:37.670 --> 00:52:40.570
+Und das Ganze geht dann eben bis zum anderen Extrem mit.
+
+00:52:40.570 --> 00:52:45.620
+Ich gründe und da gibt es aber auch erfolgreiche Beispiele für.
+
+00:52:45.620 --> 00:52:52.620
+Ich gründe ein Startup und das ist aber jetzt in Berlin oder das ist sogar in Silicon Valley angesiedelt,
+
+00:52:52.620 --> 00:52:55.800
+obwohl ich eigentlich ein Unternehmen in Dortmund zum Beispiel bin.
+
+00:52:55.800 --> 00:53:01.490
+Ein gutes Beispiel dafür ist Klöckner, der Stahlhändler.
+
+00:53:01.490 --> 00:53:08.010
+Die sitzen ja eigentlich in Duisburg mit dem Hauptsitz und die haben jetzt ein Digital Startup in Berlin gegründet,
+
+00:53:08.010 --> 00:53:12.260
+weil die der Meinung waren, hey, das muss außerhalb unserer Konzernstrukturen sein
+
+00:53:12.260 --> 00:53:17.480
+und da finden wir vielleicht auch die richtigen Leute dafür, die dann auch willens sind,
+
+00:53:17.480 --> 00:53:23.830
+in so einem Unternehmen zu arbeiten, das irgendwie so eine Affiliation an die klassische Industrie hat.
+
+00:53:23.830 --> 00:53:29.360
+Stahlhandel ist ja schon sehr klassische Industrie im Prinzip, aber dann doch irgendwie dadurch,
+
+00:53:29.360 --> 00:53:34.710
+dass es ein Startup in Berlin ist, vielleicht doch in gewisser Weise attraktiv wirkt für die Leute,
+
+00:53:34.710 --> 00:53:39.680
+die sie dann gewinnen wollen und das waren insbesondere natürlich Programmierer und Programmiererinnen,
+
+00:53:39.680 --> 00:53:46.040
+die die brauchten. Das hat auch ganz gut geklappt und insofern kann man jetzt nicht sagen,
+
+00:53:46.040 --> 00:53:50.040
+das eine ist besser als das andere. Kommt, glaube ich, immer darauf an, was ich mache
+
+00:53:50.040 --> 00:53:55.800
+und was ich dann damit auch vorhabe. Möchte ich das langfristig vielleicht doch wieder
+
+00:53:55.800 --> 00:53:59.770
+ins Unternehmen zurück integrieren? Also ist das sehr nah an meinem Kerngeschäft dran.
+
+00:53:59.770 --> 00:54:07.720
+In dem Falle weiß ich, weil wir da nämlich damals auch Weiterbildung in Richtung Digitalisierung
+
+00:54:07.720 --> 00:54:13.990
+und Co. gemacht haben bei dem Unternehmen, da weiß ich, es ist halt sehr nah am Kerngeschäft dran.
+
+00:54:13.990 --> 00:54:19.430
+Es war eine Plattform oder ist eine Plattform für digitalen Stahlhandel, aber Achtung,
+
+00:54:19.430 --> 00:54:25.270
+jetzt kommt der Clou, da wurden mit der Zeit dann auch andere Unternehmen drauf gelassen,
+
+00:54:25.270 --> 00:54:32.480
+was natürlich den Riesenaufschrei der möglichen Kannibalisierung des bisherigen Geschäftes mit sich zieht
+
+00:54:32.480 --> 00:54:37.470
+und insofern auch die ganzen Leute, die im Prinzip die bisherigen Bestellungen so bearbeitet haben
+
+00:54:37.470 --> 00:54:44.650
+und zum Beispiel Key Account Management gemacht haben, alles zum gewissen Teil redundant,
+
+00:54:44.650 --> 00:54:49.030
+wenn ich eine Digitalplattform habe, wo im Prinzip alle Konditionen standardmäßig hinterlegt sind,
+
+00:54:49.030 --> 00:54:52.320
+dann brauche ich vielleicht nicht mehr so viel Key Account Management.
+
+00:54:52.320 --> 00:54:58.230
+Und insofern hat das jetzt in diesem Falle ganz gut geklappt mit diesem einen Extrem im Prinzip.
+
+00:54:58.230 --> 00:55:03.380
+Ich gründe etwas in einer ganz anderen Stadt und mit ganz anderen Leuten auch.
+
+00:55:03.380 --> 00:55:09.370
+Geschäftsführer war aber meines Wissens oder ist, glaube ich, auch immer noch jemand,
+
+00:55:09.370 --> 00:55:16.830
+der damals aus dem bestehenden Unternehmen rauskam. Das muss man an der Stelle auch sagen.
+
+00:55:16.830 --> 00:55:21.080
+Vielleicht war das aber auch eine wichtige Sache, dass es dann doch eine Person gab,
+
+00:55:21.080 --> 00:55:25.140
+die eine enge Beziehung hat, aber beide Welten quasi vereint hat.
+
+00:55:25.140 --> 00:55:31.800
+Vielleicht braucht man so Boundary Spanning Personen auch, glaube ich sogar, dass das sehr wichtig ist,
+
+00:55:31.800 --> 00:55:36.720
+dass man irgendwie jemanden hat, der so ein Bindeglied darstellt.
+
+00:55:36.720 --> 00:55:41.840
+Auf der anderen Seite gibt es aber auch sehr gute und funktionierende Geschichten,
+
+00:55:41.840 --> 00:55:44.840
+wo das Ganze dann entweder mit so einem Mittelweg gut funktioniert.
+
+00:55:44.840 --> 00:55:49.840
+Das heißt, dass das in internen Labs oder eigenen Business Units das Ganze gemacht wird.
+
+00:55:49.840 --> 00:55:54.250
+Da gibt es auch einige Beispiele, die ganz gut funktionieren.
+
+00:55:54.250 --> 00:55:58.530
+Was, glaube ich, am schwierigsten ist, ist tatsächlich die Sache,
+
+00:55:58.530 --> 00:56:03.410
+wenn ich es in meinen bestehenden Strukturen versuchen will.
+
+00:56:03.410 --> 00:56:07.690
+Das geht dann immer einher mit, ich muss die Strukturen irgendwie ein bisschen verändern.
+
+00:56:07.690 --> 00:56:09.810
+Und das ist halt schon schwierig.
+
+00:56:09.810 --> 00:56:16.040
+Ja, da hatte ich auch jemanden von SAP zu selbstorganisierten Teams,
+
+00:56:16.040 --> 00:56:19.040
+da habe ich zumindest auch das Buch gelesen und da war,
+
+00:56:19.040 --> 00:56:23.290
+ja, du kannst natürlich sowas fördern, aber wenn du die gleichen Strukturen hast,
+
+00:56:23.290 --> 00:56:26.290
+dann ist das eigentlich schon zum Scheitern verurteilt,
+
+00:56:26.290 --> 00:56:29.350
+weil wenn du selbstorganisierte Teams haben, die machen eigene Entscheidungen,
+
+00:56:29.350 --> 00:56:32.630
+aber letztendlich dann trotzdem da, weiß ich nicht mehr was,
+
+00:56:32.630 --> 00:56:36.630
+die Führungskraft am Ende doch noch entscheiden kann,
+
+00:56:36.630 --> 00:56:41.790
+dann macht das eigentlich eine Doppelbelastung für die Leute.
+
+00:56:41.790 --> 00:56:48.510
+Ja, genau. Also das ist auch so ein klassisches Problem von der Ambidextrie oder Ambidextrität,
+
+00:56:48.510 --> 00:56:53.020
+wie man es im Prinzip ja bezeichnet, wenn ein Unternehmen beides macht,
+
+00:56:53.020 --> 00:56:56.020
+nämlich einmal die Exploitation des bestehenden Geschäftes
+
+00:56:56.020 --> 00:56:58.020
+und die Exploration von neuen Möglichkeiten.
+
+00:56:58.020 --> 00:57:03.970
+Und ja, wir beide wissen ja, also vielleicht hast du die Fähigkeit,
+
+00:57:03.970 --> 00:57:07.990
+aber ich kann nicht besonders gut mit der linken Hand schreiben.
+
+00:57:07.990 --> 00:57:10.990
+Und so schwer wie einem selber das als Mensch fällt,
+
+00:57:10.990 --> 00:57:15.040
+so schwer fällt es halt auch Unternehmen, beides gleichzeitig zu machen.
+
+00:57:15.040 --> 00:57:20.960
+Was meinst du denn so, man hört ja natürlich immer auch das,
+
+00:57:20.960 --> 00:57:23.170
+das hatte ich gestern noch mal gehört,
+
+00:57:23.170 --> 00:57:26.170
+es sind auch welche aus einem Konzern oder von Mittelständischen
+
+00:57:26.170 --> 00:57:29.480
+in so Job-Rotation mäßig mal in so ein Start-up reingehen,
+
+00:57:29.480 --> 00:57:33.580
+diese Luft einfach mal schnuppert, vielleicht wie arbeiten die?
+
+00:57:33.580 --> 00:57:37.010
+Ob das vielleicht auch so, und diese Kultur,
+
+00:57:37.010 --> 00:57:38.940
+dass die Person das vielleicht wieder zurücknimmt,
+
+00:57:38.940 --> 00:57:42.040
+ob das auch vielleicht erfolgsversprechend ist?
+
+00:57:42.040 --> 00:57:46.290
+Muss ich an der Stelle sagen, ja, bin ich der Meinung.
+
+00:57:46.290 --> 00:57:51.240
+Zum einen, weil ich das meinen Studis auch beibringe
+
+00:57:51.240 --> 00:57:54.240
+in unserem Master-Modul Digital Leadership und Innovation,
+
+00:57:54.240 --> 00:57:57.240
+da schlage ich denen unter anderem sowas vor
+
+00:57:57.240 --> 00:58:00.240
+oder stelle denen vor als eine Möglichkeit,
+
+00:58:00.240 --> 00:58:04.140
+vielleicht ein bisschen innovativer zu werden,
+
+00:58:04.140 --> 00:58:08.450
+so ein Job-Shadowing nenne ich das an der Stelle,
+
+00:58:08.450 --> 00:58:12.920
+wo im Prinzip jemand aus einem großen Corporate-Unternehmen
+
+00:58:12.920 --> 00:58:16.910
+mal einen Gründer, eine Gründerin begleitet und andersrum.
+
+00:58:16.910 --> 00:58:20.170
+Ich glaube auch gerade das andersrum ist auch gar nicht so schlecht,
+
+00:58:20.170 --> 00:58:24.140
+wenn man mal dann auch den Gründern und Gründerinnen
+
+00:58:24.140 --> 00:58:27.330
+die Möglichkeit gibt, auch in die Corporate-Welt reinzugucken.
+
+00:58:27.330 --> 00:58:30.990
+Weil, erstens, es ist immer ein Geben und Nehmen.
+
+00:58:30.990 --> 00:58:33.990
+Das heißt, die sollen ja auch was davon haben und lernen.
+
+00:58:33.990 --> 00:58:37.560
+Zweitens, wenn man das mal von innen beobachtet,
+
+00:58:37.560 --> 00:58:41.960
+dann kann man, glaube ich, noch viel besseres Feedback geben.
+
+00:58:41.960 --> 00:58:45.710
+Und wahrscheinlich aber auch so als Startup sehen,
+
+00:58:45.710 --> 00:58:48.070
+wie kann ich da Partnerschaften aufbauen,
+
+00:58:48.070 --> 00:58:52.070
+wenn die mal sehen, wie die Prozesse dahinter sind und weiß ich nicht was.
+
+00:58:52.070 --> 00:58:58.960
+Total, total. Also Corporate-Startup-Partnerschaften,
+
+00:58:58.960 --> 00:59:03.270
+total wichtiges Thema für beide Seiten aber.
+
+00:59:03.270 --> 00:59:08.390
+Also ganz klar für die Startups ökonomisch fast noch wichtiger,
+
+00:59:08.390 --> 00:59:10.390
+weil die eben ja die Kunden brauchen.
+
+00:59:10.390 --> 00:59:12.640
+Und wenn ich dann einmal einen großen Kunden,
+
+00:59:12.640 --> 00:59:14.700
+so einen großen Corporate zum Beispiel,
+
+00:59:14.700 --> 00:59:17.700
+als Partner an Land gezogen habe oder auch nicht unbedingt nur als Kunde,
+
+00:59:17.700 --> 00:59:20.700
+sondern vielleicht als Vertriebspartnerschaft,
+
+00:59:20.700 --> 00:59:23.820
+als technologische Entwicklungspartnerschaft, wie auch immer,
+
+00:59:23.820 --> 00:59:28.590
+wirkt sich das natürlich total positiv auf mein Unternehmen in der Regel aus.
+
+00:59:28.590 --> 00:59:31.590
+Jetzt mal vorausgesetzt, es funktioniert auch einigermaßen.
+
+00:59:31.590 --> 00:59:33.680
+Es gibt auch Fälle, wo es gescheitert ist,
+
+00:59:33.680 --> 00:59:37.320
+wo die sich auch gegenseitig richtig aufgerieben haben.
+
+00:59:37.320 --> 00:59:39.320
+Klar, das darf man auch nicht unter den Tisch fallen lassen.
+
+00:59:39.320 --> 00:59:44.500
+Da muss man natürlich auch gewisse Ressourcen investieren in diese Partnerschaften.
+
+00:59:44.500 --> 00:59:46.750
+Aber nehmen wir mal an, es funktioniert.
+
+00:59:46.750 --> 00:59:52.190
+Dann ist das schon echt super für Startups natürlich.
+
+00:59:52.190 --> 00:59:55.190
+Und für Corporates auf der anderen Seite natürlich auch.
+
+00:59:55.190 --> 00:59:58.220
+Wenn die sich früh an solchen Sachen beteiligen,
+
+00:59:58.220 --> 01:00:00.220
+dann können die natürlich ultra viel lernen.
+
+01:00:00.220 --> 01:00:04.790
+Ja, dann kommen wir vielleicht auch langsam schon zum Ende.
+
+01:00:04.790 --> 01:00:07.790
+Vielleicht noch so ein, zwei Fragen.
+
+01:00:07.790 --> 01:00:14.110
+Vielleicht einmal, was können den Unternehmen vielleicht von Startups sich abgucken, lernen?
+
+01:00:14.110 --> 01:00:16.110
+Das ist als erste Frage.
+
+01:00:16.110 --> 01:00:21.570
+Ich glaube, eine ganz wichtige Sache, wo wir jetzt noch gar nicht drüber gesprochen haben,
+
+01:00:21.570 --> 01:00:24.560
+ist, obwohl, doch, wir haben drüber gesprochen.
+
+01:00:24.560 --> 01:00:28.970
+Ganz am Anfang hast du ja gesagt, das ist so ein bisschen das Baby manchmal.
+
+01:00:28.970 --> 01:00:32.930
+Also so ein bisschen so diese persönliche Involvement.
+
+01:00:32.930 --> 01:00:36.660
+Oder vielleicht auch zu einem gewissen Maß eine Passion.
+
+01:00:36.660 --> 01:00:41.820
+Ich glaube, wenn man sowas auch in etablierten Unternehmen
+
+01:00:41.820 --> 01:00:45.200
+zumindest bei einigen Leuten mal ein bisschen rauskitzeln kann
+
+01:00:45.200 --> 01:00:48.480
+und wiedererwecken kann, das wäre cool.
+
+01:00:48.480 --> 01:00:53.130
+Das fände ich ganz cool, wenn wirklich Leute mit einer Passion
+
+01:00:53.130 --> 01:00:57.460
+in so ein etabliertes Unternehmen reingehen morgens und sagen,
+
+01:00:57.460 --> 01:00:59.800
+heute mache ich was richtig cooles.
+
+01:00:59.800 --> 01:01:01.620
+Ja.
+
+01:01:01.620 --> 01:01:02.960
+Das wäre doch mal was, oder?
+
+01:01:02.960 --> 01:01:06.500
+Oder vielleicht irgendwie so Produkte entwickelt und die das dann own,
+
+01:01:06.500 --> 01:01:10.080
+also was genau denen, weiß nicht was, gehört.
+
+01:01:10.080 --> 01:01:12.080
+Oder sowas.
+
+01:01:12.080 --> 01:01:16.780
+Da gibt es ja mittlerweile auch durch verschiedenste Möglichkeiten
+
+01:01:16.780 --> 01:01:19.840
+in der digitalen Welt echt einfache Dinge.
+
+01:01:19.840 --> 01:01:24.830
+Also wir haben einen Kurs zum Digital Prototyping, ja eigentlich zwei sogar,
+
+01:01:24.830 --> 01:01:30.850
+im Wirtschaftsinformatik Master und da sehe ich selber auch,
+
+01:01:30.850 --> 01:01:36.520
+wie einfach und schnell man echt so einen Prototypen heutzutage bauen kann.
+
+01:01:36.520 --> 01:01:37.720
+Das ist total cool.
+
+01:01:37.720 --> 01:01:40.720
+Wir geben den Leuten da ein Semester Zeit in dem einen Modul,
+
+01:01:40.720 --> 01:01:43.910
+das auch wirklich mal umzusetzen und die kommen echt mit fertigen Prototypen
+
+01:01:43.910 --> 01:01:45.910
+am Ende des Semesters um die Ecke.
+
+01:01:45.910 --> 01:01:51.710
+Also eine funktionierende App irgendwie oder irgendein Produkt,
+
+01:01:51.710 --> 01:01:56.710
+das es dann als 3D-Version in einer CAD-Software gibt oder ähnliches
+
+01:01:56.710 --> 01:02:01.440
+und das machen die in der Regel mit Pre-Wear.
+
+01:02:01.440 --> 01:02:04.560
+Also die haben da keinen Euro investiert außer halt ein bisschen Arbeitszeit
+
+01:02:04.560 --> 01:02:09.510
+und damit kann man glaube ich nochmal so das nächste Level,
+
+01:02:09.510 --> 01:02:12.510
+die nächste Stufe erreichen, wenn man dann jemanden überzeugen will.
+
+01:02:12.510 --> 01:02:16.990
+im Unternehmen ein neues Produkt einzuführen oder so,
+
+01:02:16.990 --> 01:02:21.550
+kann man da echt low-level coole Sachen schaffen,
+
+01:02:21.550 --> 01:02:24.440
+dass das Ganze greifbarer macht.
+
+01:02:24.440 --> 01:02:27.440
+Ja, da bin ich auch immer beeindruckt, obwohl ich ja selber keine Coding,
+
+01:02:27.440 --> 01:02:30.440
+außer ich arbeite zwar mit Software-Entwicklern,
+
+01:02:30.440 --> 01:02:32.620
+aber lerne jetzt auch immer ein bisschen,
+
+01:02:32.620 --> 01:02:34.840
+aber dass man da schon viel machen kann,
+
+01:02:34.840 --> 01:02:36.840
+so mit Figma, so ein Click-Dummy mit Bubble.
+
+01:02:36.840 --> 01:02:38.840
+Genau, zum Beispiel.
+
+01:02:38.840 --> 01:02:40.800
+Power-Apps, weiß ich nicht.
+
+01:02:40.800 --> 01:02:42.870
+Das ist ja auch eigentlich kein Hexenwerk mehr,
+
+01:02:42.870 --> 01:02:46.190
+außer er natürlich sehr spezielle App haben möchte.
+
+01:02:46.190 --> 01:02:47.320
+Ja.
+
+01:02:47.320 --> 01:02:48.320
+Das finde ich auch schon echt cool.
+
+01:02:48.320 --> 01:02:51.440
+Also das ganze Thema Low-Code und No-Code finde ich total spannend
+
+01:02:51.440 --> 01:02:55.390
+und eröffnet ehrlich nochmal auch innerhalb von Unternehmen
+
+01:02:55.390 --> 01:03:03.680
+die Möglichkeit echt dieses Unternehmertum nochmal sich anders zu denken auch.
+
+01:03:03.680 --> 01:03:06.780
+Auch ganz anders zu ermöglichen den Leuten auch Sachen vielleicht
+
+01:03:06.780 --> 01:03:08.780
+mit einem ersten Prototypen umzusetzen.
+
+01:03:08.780 --> 01:03:12.990
+Okay, dann habe ich noch eine letzte Frage.
+
+01:03:12.990 --> 01:03:13.990
+Ja.
+
+01:03:13.990 --> 01:03:16.110
+Vielleicht eine blöde Frage, weiß ich nicht.
+
+01:03:16.110 --> 01:03:21.070
+Wenn jetzt ein Zuhörer, Zuhörerin sagen wir morgen
+
+01:03:21.070 --> 01:03:25.030
+einfach mit diesem entrepreneurial Verhalten anfangen möchte,
+
+01:03:25.030 --> 01:03:26.630
+wo startet man?
+
+01:03:26.630 --> 01:03:29.630
+Geht man da zum Kurs bei euch oder?
+
+01:03:30.590 --> 01:03:32.590
+Da arbeiten wir tatsächlich noch dran.
+
+01:03:32.590 --> 01:03:37.590
+Ich bin tatsächlich da jetzt, nachdem wir einiges an Forschung zugemacht haben,
+
+01:03:37.590 --> 01:03:42.560
+von überzeugt, dass das den Leuten, wenn man es ihnen beibringen kann
+
+01:03:42.560 --> 01:03:45.890
+und das denke ich, dass man die Grundprinzipien schon vermitteln kann,
+
+01:03:45.890 --> 01:03:49.330
+dass es den Leuten dann auch hilft.
+
+01:03:49.330 --> 01:03:55.990
+Also vielleicht gibt es dazu irgendwann mal in naher Zukunft einen Kurs von uns.
+
+01:03:55.990 --> 01:03:57.990
+Fände ich zumindest ganz cool.
+
+01:03:57.990 --> 01:04:01.160
+Ansonsten schaut euch eine Folge MacGyver an
+
+01:04:01.160 --> 01:04:07.180
+und überlegt dann mal, ob ihr nicht so vielleicht auch während eures Gründungsalltags
+
+01:04:07.180 --> 01:04:09.180
+oder vielleicht auch auf dem Weg zur Gründung hin
+
+01:04:09.180 --> 01:04:12.490
+da nicht ein bisschen von profitieren könnt,
+
+01:04:12.490 --> 01:04:14.490
+wenn ihr echt so eine Herangehensweise habt mit
+
+01:04:14.490 --> 01:04:17.490
+Hey, ich finde schon irgendwas, um dieses Problem zu lösen.
+
+01:04:17.490 --> 01:04:19.680
+Wird mir schon irgendwas einfallen?
+
+01:04:19.680 --> 01:04:23.350
+Entweder meine persönlichen Wissensressourcen,
+
+01:04:23.350 --> 01:04:25.350
+die ich in meinem Köpfchen mit mir rumtrage
+
+01:04:25.350 --> 01:04:28.350
+oder halt andere Ressourcen oder aus meinem Netzwerk irgendjemand
+
+01:04:28.350 --> 01:04:31.350
+wird mir dabei schon helfen, dieses Problem zu lösen
+
+01:04:31.350 --> 01:04:34.630
+oder mein Produkt noch besser zu machen.
+
+01:04:34.630 --> 01:04:37.590
+Das ist, glaube ich, echt sehr hilfreich,
+
+01:04:37.590 --> 01:04:42.210
+wenn man es denn dann mal umsetzen kann oder umsetzen möchte.
+
+01:04:42.210 --> 01:04:45.590
+Ja, das sind doch ein paar schöne letzte Worte.
+
+01:04:45.590 --> 01:04:47.590
+Ja, dann hoffe ich.
+
+01:04:47.590 --> 01:04:49.590
+Vielen Dank auf jeden Fall für das Gespräch
+
+01:04:49.590 --> 01:04:52.690
+und im Ruhrgebiet sagt man immer Glück auf
+
+01:04:52.690 --> 01:04:59.120
+und ja, vielleicht sehen wir dann mal bald einen Kurs von euch für den Thema.
+
+01:04:59.120 --> 01:05:02.210
+Ja, hoffentlich. Ich danke dir auf jeden Fall für die Einladung
+
+01:05:02.210 --> 01:05:08.350
+und mit Blick auf die Uhrzeit und den Tag wünsche ich dir ein wunderschönes Wochenende.
