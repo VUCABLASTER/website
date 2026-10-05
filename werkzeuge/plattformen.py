@@ -1,4 +1,5 @@
-"""Links zu den einzelnen Folgen auf allen Plattformen.
+"""Links zu den einzelnen Folgen auf allen Plattformen. Einmal gefundene Links werden in daten/plattform-links.json
+gespeichert und gehen nicht mehr verloren.
 
 Quellen, in dieser Reihenfolge:
   1. Feld in inhalte/folgen/NNN.json (link_spotify, link_amazon, link_deezer, link_apple) – von Hand, gewinnt immer
@@ -101,16 +102,22 @@ def links_setzen(folgen, infos, offline=False):
     for f in folgen:
         nr, key, info = str(f['nr']), schluessel(f['titel_roh']), infos[f['nr']]
         sp = spotify_api.get(key) or fest.get('spotify', {}).get(nr, '')
-        if spotify_api.get(key) and fest.setdefault('spotify', {}).get(nr) != spotify_api[key]:
-            fest['spotify'][nr] = spotify_api[key]
-            geaendert = True
+        api = {'spotify': spotify_api.get(key, ''), 'apple': f.get('apple', ''), 'deezer': deezer.get(key, '')}
+        # Einmal gefundene Links bleiben gespeichert, auch wenn eine Schnittstelle sie später kurz nicht liefert.
+        for p, wert in api.items():
+            if wert and fest.setdefault(p, {}).get(nr) != wert:
+                fest[p][nr] = wert
+                geaendert = True
         f['links'] = {
             'spotify': info.get('link_spotify') or sp,
-            'apple': info.get('link_apple') or f.get('apple', ''),
-            'deezer': info.get('link_deezer') or deezer.get(key, ''),
+            'apple': info.get('link_apple') or api['apple'] or fest.get('apple', {}).get(nr, ''),
+            'deezer': info.get('link_deezer') or api['deezer'] or fest.get('deezer', {}).get(nr, ''),
             'amazon': info.get('link_amazon') or fest.get('amazon', {}).get(nr, ''),
         }
     if geaendert:
+        for p in ('spotify', 'apple', 'deezer', 'amazon'):
+            if p in fest:
+                fest[p] = dict(sorted(fest[p].items(), key=lambda x: int(x[0])))
         datei.write_text(json.dumps(fest, ensure_ascii=False, indent=1) + '\n', encoding='utf-8')
     fehlend = {p: [f['nr'] for f in folgen if not f['links'][p]] for p in REIHENFOLGE}
     for p, nrs in fehlend.items():
