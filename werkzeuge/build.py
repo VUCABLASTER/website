@@ -300,6 +300,25 @@ def learnings(info):
 
 # ---------------------------------------------------------------- Startseite
 
+def player_leiste(f, titel, gast):
+    """Schmale Leiste ganz oben: aktuelle Folge direkt anhören (2-Klick-Player, Daten erst nach Klick)."""
+    mp3 = esc(mp3_url(f['mp3']))
+    sub = f'<span>mit {esc(gast)}</span>' if gast else ''
+    return f'''<!-- PLAYER-LEISTE:START (wird automatisch aus dem Feed erzeugt) -->
+<section class="now-bar" aria-label="Aktuelle Folge direkt anhören">
+  <div class="now-bar-in" data-player data-src="{mp3}" data-title="#{f["nr"]} – {esc(titel)}">
+    <span class="now-chip">Neu · #{f["nr"]}</span>
+    <p class="now-title">{esc(titel)} {sub}</p>
+    <div class="now-play">
+      <button type="button" class="now-btn" data-player-load hidden><svg width="11" height="13" viewBox="0 0 10 12" aria-hidden="true" focusable="false"><path d="M0 0 L10 6 L0 12 Z"/></svg>Direkt reinhören</button>
+      <a class="now-btn" data-player-fallback href="{mp3}">Direkt reinhören (MP3)</a>
+      <p class="now-note" data-player-note>Beim Start werden Daten an podcaster.de übertragen · <a href="datenschutz/">Datenschutz</a></p>
+    </div>
+  </div>
+</section>
+<!-- PLAYER-LEISTE:ENDE -->'''
+
+
 def startseite(site, folgen, infos, staffeln, hat_bild):
     pfad = site / 'index.html'
     s = pfad.read_text(encoding='utf-8')
@@ -365,7 +384,7 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
 
     jahr0 = min(g['datum'].year for g in folgen)
     archiv = f'''<!-- ARCHIV:START (wird automatisch erzeugt) -->
-<section class="section archive-teaser" aria-labelledby="archiv-h">
+<section id="archiv" class="section archive-teaser" aria-labelledby="archiv-h">
   <p class="kicker">Archiv</p>
   <h2 id="archiv-h" class="section-title">Alle {len(folgen)} Folgen</h2>
   <p class="archive-teaser-text">Seit {jahr0} sprechen wir mit Menschen aus Wissenschaft, Wirtschaft, Psychologie, Sport und Gesellschaft. Such nach Gast, Thema oder Wert.</p>
@@ -373,6 +392,9 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
 </section>
 <!-- ARCHIV:ENDE -->'''
 
+    if '<!-- PLAYER-LEISTE:START' not in s:
+        s = s.replace('</header>', '</header>\n<!-- PLAYER-LEISTE:START -->\n<!-- PLAYER-LEISTE:ENDE -->', 1)
+    s = ersetzen(s, 'PLAYER-LEISTE', player_leiste(f, titel, gast))
     s = ersetzen(s, 'HERO-NOTIZ', notiz)
     s = ersetzen(s, 'AKTUELLE-FOLGE', aktuell)
     if '<!-- ARCHIV:START' in s:
@@ -380,6 +402,10 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
     else:
         s = s.replace('<!-- AKTUELLE-FOLGE:ENDE -->', '<!-- AKTUELLE-FOLGE:ENDE -->\n\n' + archiv, 1)
     s = re.sub(r'href="assets/css/style\.css(\?v=\w+)?"', f'href="assets/css/style.css?v={layout.version("css/style.css")}"', s, count=1)
+    s = s.replace('<section class="section hosts" aria-labelledby="hosts-h">', '<section id="hosts" class="section hosts" aria-labelledby="hosts-h">', 1)
+    for name in ('main', 'nav'):  # Skripte mit Versionsnummer, nav.js ergänzen
+        s = re.sub(rf'<script src="assets/js/{name}\.js[^"]*"[^>]*></script>\n?', '', s)
+    s = s.replace('</head>', f'<script src="assets/js/nav.js?v={layout.version("js/nav.js")}" defer></script>\n<script src="assets/js/main.js?v={layout.version("js/main.js")}" defer></script>\n</head>', 1)
     fuss = footer('').split('</footer>')[0] + '</footer>'
     s = re.sub(r'<footer class="site-foot">.*?</footer>', lambda m: fuss, s, count=1, flags=re.S)
     s = re.sub(r'<p class="hero-meta">.*?</p>', f'<p class="hero-meta">{len(folgen)} Folgen seit {jahr0}</p>', s, count=1)

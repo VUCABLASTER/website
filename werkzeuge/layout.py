@@ -46,12 +46,13 @@ def nav_items(pre):
     home = pre if pre else './'
     ueber = '#ueber-uns' if pre == '' else home + '#ueber-uns'
     kontakt = '#kontakt' if pre == '' else home + '#kontakt'
-    erster = (f'<a href="{pre}folgen/">Alle Folgen</a>' if ARCHIV_VERLINKT
+    spy = (lambda ids: f' data-spy="{ids}"') if pre == '' else (lambda ids: '')  # Hervorhebung beim Scrollen (nur Startseite)
+    erster = (f'<a href="{pre}folgen/"{spy("archiv")}>Alle Folgen</a>' if ARCHIV_VERLINKT
               else f'<a href="{"#aktuell" if pre == "" else home + "#aktuell"}">Aktuelle Folge</a>')
     return f'''      <li>{erster}</li>
-      <li><a href="{ueber}">Über uns</a></li>
-      <li class="guest-li"><a class="guest-note" href="{kontakt}">Für Gäste</a></li>
-      <li><a href="{kontakt}">Kontakt</a></li>'''
+      <li><a href="{ueber}"{spy("ueber-uns hosts")}>Über uns</a></li>
+      <li class="guest-li"><a class="guest-note" href="{kontakt}"{spy("kontakt")}>Für Gäste</a></li>
+      <li><a href="{kontakt}"{spy("kontakt")}>Kontakt</a></li>'''
 
 
 def header(pre, strip=True):
@@ -107,6 +108,7 @@ def head(title, pre, canonical='', extra=''):
 <meta name="theme-color" content="#FAFAF7">
 <link rel="preload" href="{pre}assets/fonts/bricolage-grotesque-latin-opsz-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{pre}assets/css/style.css?v={version('css/style.css')}">
+<script src="{pre}assets/js/nav.js?v={version('js/nav.js')}" defer></script>
 {extra}</head>
 <body>
 '''
