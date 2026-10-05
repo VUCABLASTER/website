@@ -3,24 +3,27 @@ name: Website aktualisieren
 # Holt neue Folgen aus dem Feed von podcaster.de, transkribiert Folgen ohne Transkript (Whisper),
 # aktualisiert Plattform-Links, baut die Website neu und veröffentlicht sie (main /docs → GitHub Pages).
 #
-# Läuft: täglich früh morgens, nach Änderungen an inhalte/ (z. B. über Pages CMS) und per Knopfdruck
-# (Actions → „Website aktualisieren“ → Run workflow).
+# Läuft: stündlich (neue Folge im Feed → Seite aktualisiert sich), nach Änderungen an inhalte/ (z. B. über Pages CMS)
+# und per Knopfdruck (Actions → „Website aktualisieren“ → Run workflow).
+# Transkribieren passiert NUR per Knopfdruck oder wenn die Repository-Variable TRANSKRIBIEREN_AUTO auf „fehlende“ steht
+# (Settings → Secrets and variables → Actions → Variables). Standard: aus.
 
 on:
   schedule:
-    - cron: '17 4 * * *'
+    - cron: '7 * * * *'
   push:
     branches: [main]
     paths: ['inhalte/**', 'daten/plattform-links.json']
   workflow_dispatch:
     inputs:
       transkribieren:
-        description: 'Transkribieren: „fehlende“ (Standard), „keine“ oder Folgennummern, z. B. „61,62“'
-        default: fehlende
+        description: 'Transkribieren: „keine“ (Standard), „fehlende“ oder Folgennummern, z. B. „61,62“'
+        default: keine
 
 permissions:
   contents: write
   pages: write
+  issues: write
 
 concurrency:
   group: website-aktualisieren
@@ -41,8 +44,9 @@ jobs:
           python-version: '3.12'
       - id: plan
         run: |
-          # Pflege-Änderungen (push): nur neu bauen. Täglicher Lauf: fehlende Transkripte. Knopfdruck: Eingabe.
-          AUSWAHL="${{ github.event_name == 'push' && 'keine' || github.event.inputs.transkribieren || 'fehlende' }}"
+          # Zeitplan und Pflege-Änderungen: nur neu bauen (Transkribieren nur, wenn TRANSKRIBIEREN_AUTO=fehlende gesetzt ist).
+          # Knopfdruck: die Eingabe.
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then AUSWAHL="${{ github.event.inputs.transkribieren }}"; else AUSWAHL="${{ vars.TRANSKRIBIEREN_AUTO || 'keine' }}"; fi
           echo "folgen=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")" >> "$GITHUB_OUTPUT"
 
   werkzeug:
@@ -121,6 +125,11 @@ jobs:
           mkdir -p inhalte/transkripte
           if ls ergebnis/*.vtt >/dev/null 2>&1; then cp ergebnis/*.vtt inhalte/transkripte/; fi
       - run: python werkzeuge/build.py
+      - name: Neue Folgen merken
+        id: neu
+        run: |
+          NEU=$(git ls-files --others --exclude-standard inhalte/folgen | sed -E 's#.*/0*([0-9]+)\.json#\1#' | sort -n | tr '\n' ' ' | sed 's/ $//')
+          echo "folgen=$NEU" >> "$GITHUB_OUTPUT"
       - name: Änderungen veröffentlichen
         run: |
           git config user.name "VUCA Blaster Bot"
@@ -135,5 +144,23 @@ jobs:
             git push
             gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - name: Hinweis an Manuel zu neuen Folgen
+        if: steps.neu.outputs.folgen != ''
+        run: |
+          for NR in ${{ steps.neu.outputs.folgen }}; do
+            TITEL=$(python -c "import json;print(json.load(open('inhalte/folgen/%03d.json' % $NR))['titel'])")
+            gh issue create --title "Neue Folge #$NR: Angaben prüfen und ergänzen" --body "Die Website hat **$TITEL** automatisch übernommen (Titel, Datum, Bild, Beschreibung, Apple- und Deezer-Link). Folgende Angaben fehlen noch und lassen sich im Pages CMS oder in \`inhalte/folgen/$(printf '%03d' $NR).json\` eintragen:
+
+          - [ ] Gast und Rolle
+          - [ ] Ein Satz zum Inhalt (erscheint im Archiv)
+          - [ ] Hauptwert und Nebenwerte
+          - [ ] Key Learnings (optional)
+          - [ ] Spotify-Link zur Folge (falls auf der Seite nur der Link zur Podcast-Seite steht)
+          - [ ] Amazon-Music-Link zur Folge
+
+          Anleitung: [PFLEGE.md](https://github.com/${{ github.repository }}/blob/main/PFLEGE.md). Danach läuft die Aktualisierung von selbst (stündlich oder sofort nach dem Speichern)." || true
+          done
         env:
           GH_TOKEN: ${{ github.token }}

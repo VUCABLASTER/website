@@ -8,11 +8,21 @@ import html, json, re, unicodedata
 from layout import REPO
 
 ORDNER = REPO / 'inhalte' / 'transkripte'
+FREIGABE = ORDNER / 'freigegeben.json'
 ZEIT = re.compile(r'(?:(\d+):)?(\d{2}):(\d{2})[.,](\d{3})\s*-->')
 
 
 def pfad(nr):
     return ORDNER / f'{nr:03d}.vtt'
+
+
+def freigegeben():
+    """Folgennummern, deren Transkript auf der Website angezeigt und durchsucht werden darf.
+    Neue Transkripte erscheinen erst, wenn die Nummer in inhalte/transkripte/freigegeben.json steht
+    (Qualitätskontrolle: erst lesen, dann freigeben)."""
+    if not FREIGABE.exists():
+        return set()
+    return {int(n) for n in json.loads(FREIGABE.read_text(encoding='utf-8')).get('folgen', [])}
 
 
 def lesen(nr):
@@ -55,7 +65,7 @@ def absaetze(segmente, dauer=75):
 
 
 def als_html(nr):
-    segmente = lesen(nr)
+    segmente = lesen(nr) if nr in freigegeben() else []
     if not segmente:
         return ''
     teile = ''.join(f'<p><span class="ts">{zeit(b)}</span> {html.escape(t, quote=False)}</p>' for b, t in absaetze(segmente))
@@ -75,8 +85,9 @@ def normal(s):
 def suchindex(site, folgen):
     """folgen/transkripte.json: {nr: normalisierter Text} – lädt das Archiv erst, wenn jemand sucht."""
     index = {}
+    ok = freigegeben()
     for f in folgen:
-        seg = lesen(f['nr'])
+        seg = lesen(f['nr']) if f['nr'] in ok else []
         if seg:
             index[str(f['nr'])] = normal(' '.join(t for _, t in seg))
     ziel = site / 'folgen' / 'transkripte.json'

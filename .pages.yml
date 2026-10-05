@@ -98,3 +98,14 @@ content:
           - name: beschreibung
             label: Beschreibung
             type: text
+  - name: transkripte-freigabe
+    label: Transkripte freigeben
+    type: file
+    path: inhalte/transkripte/freigegeben.json
+    format: json
+    fields:
+      - name: folgen
+        label: Folgen mit sichtbarem Transkript
+        type: number
+        list: true
+        description: Folgennummer erst eintragen, wenn das Transkript (inhalte/transkripte/NNN.vtt) gelesen und geprüft ist.

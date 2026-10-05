@@ -4,17 +4,18 @@ Die Website liegt im Repo `VUCABLASTER/website`. GitHub Pages veröffentlicht de
 
 ## Was automatisch passiert
 
-Der GitHub-Workflow **„Website aktualisieren“** (`.github/workflows/website-aktualisieren.yml`) läuft täglich früh morgens, nach jeder Änderung an `inhalte/` (z. B. über Pages CMS) und per Knopfdruck (**GitHub → Actions → „Website aktualisieren“ → Run workflow**). Er
+Der GitHub-Workflow **„Website aktualisieren“** (`.github/workflows/website-aktualisieren.yml`) läuft **stündlich** (eine neue Folge ist spätestens eine gute Stunde nach dem Erscheinen auf der Website), nach jeder Änderung an `inhalte/` (z. B. über Pages CMS) und per Knopfdruck (**GitHub → Actions → „Website aktualisieren“ → Run workflow**). Er
 
 1. holt neue Folgen aus dem Feed von podcaster.de (Titel, Datum, Bild, Beschreibung, MP3),
-2. **transkribiert jede Folge ohne Transkript** mit Whisper (Spracherkennung, läuft bei GitHub, kostenlos) → `inhalte/transkripte/NNN.vtt`,
+2. **transkribiert Folgen nur auf Knopfdruck** (Whisper, läuft bei GitHub, kostenlos) → `inhalte/transkripte/NNN.vtt`. Automatisch transkribieren lässt sich einschalten mit der Repository-Variable `TRANSKRIBIEREN_AUTO` = `fehlende` (GitHub → Settings → Secrets and variables → Actions → Variables); Standard ist aus.
+   **Transkripte erscheinen auf der Website erst nach Freigabe:** Folgennummer in `inhalte/transkripte/freigegeben.json` eintragen (Pages CMS → „Transkripte freigeben“), nachdem das Transkript gelesen wurde. Bisher freigegeben: #62.
 3. holt die **Links zu jeder einzelnen Folge**:
    - Apple Podcasts und Deezer: automatisch über deren öffentliche Schnittstellen
    - Spotify: automatisch, sobald die GitHub-Secrets `SPOTIFY_CLIENT_ID` und `SPOTIFY_CLIENT_SECRET` hinterlegt sind (kostenloses Konto auf developer.spotify.com); bis dahin für neue Folgen das Feld „Spotify-Link“ im Pages CMS
    - Amazon Music: hat keine Schnittstelle – bei neuen Folgen das Feld „Amazon-Music-Link“ im Pages CMS ausfüllen
    - Fehlt ein Link, zeigt der Button auf die Podcast-Seite der Plattform; der Workflow-Log nennt die betroffenen Folgen.
 4. baut Startseite (aktuelle Folge), Archiv `/folgen/` (Suche auch in den Transkripten), Folgenseiten (mit Transkript zum Aufklappen) und Kurzlinks wie `/62`,
-5. veröffentlicht das Ergebnis.
+5. veröffentlicht das Ergebnis und legt für **jede neue Folge ein GitHub-Issue** „Neue Folge #NN: Angaben prüfen und ergänzen“ mit einer Checkliste an (Gast, Rolle, Satz zum Inhalt, Werte, Spotify- und Amazon-Link). Wer das Repo beobachtet, bekommt dazu eine E-Mail.
 
 Die Transkripte sind maschinell erstellt und nicht nachbearbeitet. Hörfehler kannst du direkt in der `.vtt`-Datei korrigieren (nur den Text, nicht die Zeitmarken). Eine Folge neu transkribieren: Run workflow → bei „Transkribieren“ die Nummer eintragen, z. B. `62`.
 
