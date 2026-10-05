@@ -10,16 +10,25 @@ Der GitHub-Workflow **„Website aktualisieren“** (`.github/workflows/website-
 2. **transkribiert Folgen nur auf Knopfdruck** (Whisper, läuft bei GitHub, kostenlos) → `inhalte/transkripte/NNN.vtt`. Automatisch transkribieren lässt sich einschalten mit der Repository-Variable `TRANSKRIBIEREN_AUTO` = `fehlende` (GitHub → Settings → Secrets and variables → Actions → Variables); Standard ist aus.
    **Transkripte erscheinen auf der Website erst nach Freigabe:** Folgennummer in `inhalte/transkripte/freigegeben.json` eintragen (Pages CMS → „Transkripte freigeben“), nachdem das Transkript gelesen wurde. Bisher freigegeben: #62.
 3. holt die **Links zu jeder einzelnen Folge**:
-   - Apple Podcasts und Deezer: automatisch über deren öffentliche Schnittstellen
-   - Spotify: automatisch, sobald die GitHub-Secrets `SPOTIFY_CLIENT_ID` und `SPOTIFY_CLIENT_SECRET` hinterlegt sind (kostenloses Konto auf developer.spotify.com); bis dahin für neue Folgen das Feld „Spotify-Link“ im Pages CMS
-   - Amazon Music: hat keine Schnittstelle – bei neuen Folgen das Feld „Amazon-Music-Link“ im Pages CMS ausfüllen
-   - Fehlt ein Link, zeigt der Button auf die Podcast-Seite der Plattform; der Workflow-Log nennt die betroffenen Folgen.
+   - Apple Podcasts und Deezer: automatisch über deren öffentliche Schnittstellen. Apple und Deezer listen eine neue Folge oft erst nach einigen Stunden; die stündlichen Läufe tragen den Link dann von selbst nach.
+   - Spotify und Amazon Music: automatisch, ohne Konto. Ein Browser auf GitHub liest die öffentlichen Podcast-Seiten und ordnet jede Folge über die Nummer „#NN“ im Titel zu (`werkzeuge/plattform_links_holen.py`). Gespeichert wird nur bei eindeutiger Zuordnung.
+   - Fehlt ein Link (z. B. weil die Folge dort noch nicht gelistet ist, oder eine Plattform ihr Seitenlayout geändert hat), zeigt der Button auf die Podcast-Seite der Plattform. Der Workflow-Log nennt die betroffenen Folgen, und du kannst den Link im Pages CMS eintragen (Felder „Spotify-Link“ und „Amazon-Music-Link“). Handeinträge haben immer Vorrang.
 4. baut Startseite (aktuelle Folge), Archiv `/folgen/` (Suche auch in den Transkripten), Folgenseiten (mit Transkript zum Aufklappen) und Kurzlinks wie `/62`,
-5. veröffentlicht das Ergebnis und legt für **jede neue Folge ein GitHub-Issue** „Neue Folge #NN: Angaben prüfen und ergänzen“ mit einer Checkliste an (Gast, Rolle, Satz zum Inhalt, Werte, Spotify- und Amazon-Link). Wer das Repo beobachtet, bekommt dazu eine E-Mail.
+5. veröffentlicht das Ergebnis und legt für **jede neue Folge ein GitHub-Issue** „Neue Folge #NN: Angaben prüfen und ergänzen“ an. Es zeigt, was automatisch vorausgefüllt wurde (Gast aus dem Titel, Rolle und Satz zum Inhalt aus den Shownotes, Hauptwert nur bei eindeutigem Befund), was noch offen ist und welche Plattform-Links gefunden wurden. Alles Vorausgefüllte ist ungeprüft markiert; erfunden wird nichts, bei Unsicherheit bleibt ein Feld leer. Wer das Repo beobachtet, bekommt dazu eine E-Mail.
 
 Die Transkripte sind maschinell erstellt und nicht nachbearbeitet. Hörfehler kannst du direkt in der `.vtt`-Datei korrigieren (nur den Text, nicht die Zeitmarken). Eine Folge neu transkribieren: Run workflow → bei „Transkribieren“ die Nummer eintragen, z. B. `62`.
 
 Lokal geht der Build auch: `python3 werkzeuge/build.py` (braucht `pip install pillow`).
+
+## Pages CMS einrichten (einmalig, durch Manuel als Owner der Organisation)
+
+Pages CMS ist ein kostenloses Open-Source-Werkzeug, das Dateien aus dem GitHub-Repo als Formulare im Browser zeigt. Es speichert direkt als Commit ins Repo; danach aktualisiert sich die Website von selbst.
+
+1. https://app.pagescms.org öffnen → **Sign in with GitHub** → Zugriff erlauben.
+2. Die **GitHub-App** von Pages CMS installieren: Organisation **VUCABLASTER** wählen, **Only select repositories** → **website** → Install.
+3. In Pages CMS das Repo `VUCABLASTER/website`, Branch `main` öffnen.
+4. Es erscheinen die Formulare **Folgen**, **Staffeln** und **Transkripte freigeben** (definiert in `.pages.yml`).
+5. Test: Folge #63 öffnen, Angaben prüfen und ergänzen, **Save**. Nach 1–2 Minuten ist die Website aktualisiert.
 
 ## Was du von Hand pflegst: die Folgen-Infos
 

@@ -113,7 +113,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install pillow
+      - run: pip install pillow playwright
       - uses: actions/download-artifact@v4
         with:
           pattern: transkript-*
@@ -124,6 +124,9 @@ jobs:
         run: |
           mkdir -p inhalte/transkripte
           if ls ergebnis/*.vtt >/dev/null 2>&1; then cp ergebnis/*.vtt inhalte/transkripte/; fi
+      - name: Spotify- und Amazon-Links neuer Folgen holen
+        run: python werkzeuge/plattform_links_holen.py
+        continue-on-error: true
       - run: python werkzeuge/build.py
       - name: Neue Folgen merken
         id: neu
@@ -150,17 +153,8 @@ jobs:
         if: steps.neu.outputs.folgen != ''
         run: |
           for NR in ${{ steps.neu.outputs.folgen }}; do
-            TITEL=$(python -c "import json;print(json.load(open('inhalte/folgen/%03d.json' % $NR))['titel'])")
-            gh issue create --title "Neue Folge #$NR: Angaben prüfen und ergänzen" --body "Die Website hat **$TITEL** automatisch übernommen (Titel, Datum, Bild, Beschreibung, Apple- und Deezer-Link). Folgende Angaben fehlen noch und lassen sich im Pages CMS oder in \`inhalte/folgen/$(printf '%03d' $NR).json\` eintragen:
-
-          - [ ] Gast und Rolle
-          - [ ] Ein Satz zum Inhalt (erscheint im Archiv)
-          - [ ] Hauptwert und Nebenwerte
-          - [ ] Key Learnings (optional)
-          - [ ] Spotify-Link zur Folge (falls auf der Seite nur der Link zur Podcast-Seite steht)
-          - [ ] Amazon-Music-Link zur Folge
-
-          Anleitung: [PFLEGE.md](https://github.com/${{ github.repository }}/blob/main/PFLEGE.md). Danach läuft die Aktualisierung von selbst (stündlich oder sofort nach dem Speichern)." || true
+            python werkzeuge/neue_folge_hinweis.py "$NR" > hinweis.md 2>/dev/null
+            gh issue create --title "Neue Folge #$NR: Angaben prüfen und ergänzen" --body-file hinweis.md || true
           done
         env:
           GH_TOKEN: ${{ github.token }}

@@ -24,7 +24,7 @@ import xml.etree.ElementTree as ET
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import layout
 from layout import REPO, SPOTIFY, APPLE, BASE_URL, head, header, footer, nav_items, leiste
-import unterseiten, gewinnspiel, plattformen, transkripte
+import unterseiten, gewinnspiel, plattformen, transkripte, entwurf
 
 FEED_URL = 'https://evjjod.podcaster.de/vucablaster.rss'
 APPLE_ID = '1541461336'
@@ -181,8 +181,12 @@ def infos_laden(folgen):
         daten = dict(LEER)
         if pfad.exists():
             daten.update(json.loads(pfad.read_text(encoding='utf-8')))
+        geladen = dict(daten)
+        angefasst = any(daten.get(k) for k in ('gast', 'rolle', 'teaser', 'hauptwert', 'key_learnings', 'hinweis')) or daten.get('geprueft')
+        if not angefasst:  # neue Folge: aus Titel und Shownotes vorausfüllen (nichts erfunden, ungeprüft markiert)
+            daten.update(entwurf.entwurf(f))
         neu = dict(daten, nummer=f['nr'], titel=f['titel_roh'])
-        if neu != daten or not pfad.exists():
+        if neu != geladen or not pfad.exists():
             pfad.write_text(json.dumps(neu, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
         neu['key_learnings'] = [k.strip() for k in neu.get('key_learnings') or [] if k and k.strip()]
         neu['nebenwerte'] = [w for w in neu.get('nebenwerte') or [] if w in WERTE and w != neu.get('hauptwert')]

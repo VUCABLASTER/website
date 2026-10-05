@@ -58,11 +58,11 @@ content:
       - name: link_spotify
         label: Spotify-Link zur Folge
         type: string
-        description: Nur nötig, wenn er nicht automatisch gefunden wird (Build-Hinweis). Link aus Spotify → Teilen → Link kopieren.
+        description: Nur nötig, wenn die Website ihn nicht selbst gefunden hat (steht im Hinweis zur Folge). Link aus Spotify → Teilen → Link kopieren. Ein Handeintrag hat Vorrang.
       - name: link_amazon
         label: Amazon-Music-Link zur Folge
         type: string
-        description: Amazon hat keine Schnittstelle – bei neuen Folgen hier den Link aus Amazon Music → Teilen einfügen.
+        description: Nur nötig, wenn die Website ihn nicht selbst gefunden hat (steht im Hinweis zur Folge). Link aus Amazon Music → Teilen. Ein Handeintrag hat Vorrang.
       - name: hinweis
         label: Hinweis zum Prüfen
         type: string
