@@ -24,6 +24,7 @@ permissions:
   contents: write
   pages: write
   issues: write
+  models: read
 
 concurrency:
   group: website-aktualisieren
@@ -124,6 +125,11 @@ jobs:
         run: |
           mkdir -p inhalte/transkripte
           if ls ergebnis/*.vtt >/dev/null 2>&1; then cp ergebnis/*.vtt inhalte/transkripte/; fi
+      - name: Key Learnings für Folgen mit Transkript erzeugen (GitHub Models)
+        run: python werkzeuge/key_learnings.py
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
       - name: Spotify- und Amazon-Links neuer Folgen holen
         run: python werkzeuge/plattform_links_holen.py
         continue-on-error: true
