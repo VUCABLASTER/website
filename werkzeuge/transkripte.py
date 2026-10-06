@@ -19,10 +19,13 @@ def pfad(nr):
 def freigegeben():
     """Folgennummern, deren Transkript auf der Website angezeigt und durchsucht werden darf.
     Neue Transkripte erscheinen erst, wenn die Nummer in inhalte/transkripte/freigegeben.json steht
-    (Qualitätskontrolle: erst lesen, dann freigeben)."""
+    (Qualitätskontrolle: erst lesen, dann freigeben). Mit "alle": true gilt jedes vorhandene Transkript als freigegeben."""
     if not FREIGABE.exists():
         return set()
-    return {int(n) for n in json.loads(FREIGABE.read_text(encoding='utf-8')).get('folgen', [])}
+    daten = json.loads(FREIGABE.read_text(encoding='utf-8'))
+    if daten.get('alle'):  # automatisch: jedes vorhandene Transkript ist freigegeben
+        return {int(p.stem) for p in ORDNER.glob('[0-9][0-9][0-9].vtt')}
+    return {int(n) for n in daten.get('folgen', [])}
 
 
 def lesen(nr):

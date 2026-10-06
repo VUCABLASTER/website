@@ -185,6 +185,14 @@ def infos_laden(folgen):
         angefasst = any(daten.get(k) for k in ('gast', 'rolle', 'teaser', 'hauptwert', 'key_learnings', 'hinweis')) or daten.get('geprueft')
         if not angefasst:  # neue Folge: aus Titel und Shownotes vorausfüllen (nichts erfunden, ungeprüft markiert)
             daten.update(entwurf.entwurf(f))
+            if daten.get('hauptwert'):
+                daten['hauptwert_auto'] = daten['hauptwert']
+        elif not daten.get('geprueft') and daten.get('hauptwert') in ('', daten.get('hauptwert_auto', '')) \
+                and daten.get('hinweis', '').startswith('Automatischer Entwurf'):
+            # noch ungeprüfter Entwurf: Hauptwert neu bestimmen, sobald das Transkript da ist (mehr Text, bessere Treffer)
+            w = entwurf.werte(f['titel_roh'], f['text'], ' '.join(t for _, t in transkripte.lesen(f['nr'])))
+            if w and w != daten.get('hauptwert'):
+                daten['hauptwert'] = daten['hauptwert_auto'] = w
         neu = dict(daten, nummer=f['nr'], titel=f['titel_roh'])
         if neu != geladen or not pfad.exists():
             pfad.write_text(json.dumps(neu, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')

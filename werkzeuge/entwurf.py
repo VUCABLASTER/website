@@ -91,7 +91,7 @@ def teaser(text):
 
 
 STAEMME = {
-    'mutig': r'\bmut(?:ig|ige|igen|iger)?\b|\bmutlos',
+    'mutig': r'(?<![a-zäöüß])mut(?!ter|maß)\w*|\w*[a-zäöüß]mut\b',
     'optimistisch': r'optimis|zuversicht',
     'neugierig': r'neugier',
     'authentisch': r'authentisch|authentizität|echtheit',
@@ -99,18 +99,21 @@ STAEMME = {
 }
 
 
-def werte(titel_roh, text):
-    """Hauptwert nur bei klarer Mehrheit der Schlüsselwörter, sonst leer."""
-    gesamt = (titel_roh + ' ' + titel_roh + ' ' + text).lower()  # Titel zählt doppelt
-    zaehler = {w: len(re.findall(p, gesamt)) for w, p in STAEMME.items()}
-    rang = sorted(zaehler.items(), key=lambda x: -x[1])
-    (w1, n1), (w2, n2) = rang[0], rang[1]
-    if n1 >= 3 and n1 >= 2 * max(n2, 1):
-        return w1
-    return ''
+def werte(titel_roh, text, transkript=''):
+    """Hauptwert = Wert mit den meisten Schlüsselwort-Treffern. Titel zählt vierfach, Shownotes einfach, das Transkript
+    (falls vorhanden) nach Dichte (Treffer je 2.000 Wörter). Leer nur, wenn kein Schlüsselwort vorkommt."""
+    t, n = titel_roh.lower(), text.lower()
+    woerter = max(len(transkript.split()), 1)
+    punkte = {}
+    for w, p in STAEMME.items():
+        punkte[w] = 4 * len(re.findall(p, t)) + len(re.findall(p, n))
+        if transkript:
+            punkte[w] += len(re.findall(p, transkript.lower())) * 2000 / woerter
+    w1, n1 = max(punkte.items(), key=lambda x: x[1])
+    return w1 if n1 > 0 else ''
 
 
-def entwurf(f):
+def entwurf(f, transkript=''):
     """f: Folge mit titel_roh und text (Shownotes als Klartext). Liefert nur gefüllte Felder."""
     out = {}
     g = gast(f['titel_roh'])
@@ -122,7 +125,7 @@ def entwurf(f):
     t = teaser(f['text'])
     if t:
         out['teaser'] = t
-    w = werte(f['titel_roh'], f['text'])
+    w = werte(f['titel_roh'], f['text'], transkript)
     if w:
         out['hauptwert'] = w
     if out:

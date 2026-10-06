@@ -1,5 +1,5 @@
 {
-  "_hinweis": "Nur diese Folgen zeigen ihr Transkript auf der Website und in der Archivsuche. Nummer erst eintragen, wenn das Transkript gelesen und geprüft ist.",
+  "_hinweis": "Mit \"alle\": true gilt jedes vorhandene Transkript automatisch als freigegeben. Zum Einzelfreigeben \"alle\" auf false setzen und Nummern unter \"folgen\" eintragen.",
   "folgen": [
     1,
     2,
@@ -63,5 +63,6 @@
     60,
     61,
     62
-  ]
+  ],
+  "alle": true
 }
