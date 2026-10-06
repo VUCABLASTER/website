@@ -71,7 +71,7 @@ def als_html(nr):
     teile = ''.join(f'<p><span class="ts">{zeit(b)}</span> {html.escape(t, quote=False)}</p>' for b, t in absaetze(segmente))
     return f'''<details id="transkript" class="transcript">
     <summary>Transkript lesen</summary>
-    <p class="transcript-note">Automatisch erstellt mit Spracherkennung (Whisper) aus der Audiodatei. Kann Hörfehler enthalten, besonders bei Namen und Fachbegriffen.</p>
+    <p class="transcript-note">Automatisch erstellt mit Spracherkennung (Whisper) aus der Audiodatei. Fremdwörter, Fachbegriffe, Namen und Zahlen werden dabei unter Umständen nicht korrekt erkannt.</p>
     <div class="transcript-text">{teile}</div>
   </details>
   <script>if (location.hash === '#transkript') document.getElementById('transkript').open = true;</script>'''

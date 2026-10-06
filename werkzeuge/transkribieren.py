@@ -4,15 +4,15 @@
   python3 werkzeuge/transkribieren.py --planen 61,62          # bestimmte Folgen (auch wenn schon vorhanden)
   python3 werkzeuge/transkribieren.py --nr 62 --whisper PFAD --modell PFAD [--ziel ergebnis/]
 
-Ergebnis: inhalte/transkripte/NNN.vtt (WebVTT mit Zeitmarken). Nichts wird nachbearbeitet oder ergänzt –
-die Datei enthält genau das, was die Spracherkennung gehört hat.
+Ergebnis: inhalte/transkripte/NNN.vtt (WebVTT mit Zeitmarken). Whisper bekommt Namen und Fachbegriffe aus
+inhalte/glossar.json mit; danach werden nur bekannte Falschschreibungen (glossar.py) ersetzt, nichts ergänzt.
 """
 import argparse, datetime, json, re, shutil, subprocess, sys, tempfile, urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from layout import REPO
-import build, transkripte
+import build, transkripte, glossar
 
 # Sprache pro Folge, falls nicht Deutsch (laut Shownotes)
 SPRACHE = {25: 'en'}
@@ -46,7 +46,9 @@ def start_hinweis(f):
         pos = titel.lower().rfind(' mit ')
         titel = titel[:pos].rstrip(' –-:') if pos > 0 else titel
     satz = f'Willkommen beim VUCA Blaster, dem Podcast mit Manuel Wyszynski und Sebastian Oremek. Folge {f["nr"]}: {titel}.'
-    return satz + (f' Zu Gast ist {gast}.' if gast else '')
+    satz += f' Zu Gast ist {gast}.' if gast else ''
+    fachwoerter = glossar.begriffe(f['nr'])
+    return satz + (f' Begriffe: {fachwoerter}.' if fachwoerter else '')
 
 
 def schleifen_entfernen(vtt):
@@ -100,12 +102,13 @@ def transkribieren(nr, whisper, modell, ziel, vad_modell=None):
         if r.returncode != 0:
             raise SystemExit(f'#{nr}: whisper-cli beendet mit Code {r.returncode} (negativ = Signal, z. B. -4 = unbekannter Prozessorbefehl)')
         vtt, gekuerzt = schleifen_entfernen(Path(str(aus) + '.vtt').read_text(encoding='utf-8'))
+        vtt = glossar.korrigieren(vtt)
         if gekuerzt:
             print(f'#{nr}: {gekuerzt} Wiederholungsschleife(n) entfernt.', flush=True)
     heute = datetime.date.today().isoformat()
     kopf = (f'WEBVTT\n\nNOTE\nVUCA Blaster #{nr}: {f["titel_roh"]}\n'
             f'Automatisch transkribiert mit whisper.cpp (Modell {MODELL_NAME}, Sprache {sprache}, VAD {"an" if vad_modell else "aus"}) am {heute}.\n'
-            'Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.\n')
+            'Nur Schreibweisen aus inhalte/glossar.json korrigiert. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.\n')
     inhalt = kopf + vtt.split('WEBVTT', 1)[-1]
     ziel.mkdir(parents=True, exist_ok=True)
     datei = ziel / f'{nr:03d}.vtt'
