@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Optimismus ist Sicherheit, dass sich etwas verbessern lässt, und nicht dasselbe wie gute Laune.",
+    "Mut zeigt sich im Alltag: Neues ausprobieren und auf Menschen zugehen.",
+    "Spannungsbasiertes Arbeiten füllt Retros mit Themen und fragt, was zur Lösung einer Spannung nötig ist."
+  ],
   "teaser": "Manuel und Sebastian blicken auf 50 Folgen zurück: was sie gelernt haben, was sie bewegt und welche Themen noch kommen könnten.",
   "hinweis": "",
   "geprueft": false

@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "optimistisch",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "VUCA lässt sich positiv umdeuten: Vision, Upskilling, Collaboration, Agility.",
+    "Workshops allein reichen nicht; Routinen und Begleitung verankern Wandel.",
+    "Stabile Systeme sind fragil; Störung bringt Lernen."
+  ],
   "teaser": "VUCA positiv umdeuten – mit praktischen Strategien für Unternehmen und für dich persönlich.",
   "hinweis": "",
   "geprueft": false

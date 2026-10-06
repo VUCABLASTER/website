@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Agiles Arbeiten heißt iterativ: früh Zeigbares liefern, schnell korrigieren statt Perfektion.",
+    "Überzeugen gelingt durch Erleben niedrigschwelliger Methoden, nicht durch Anordnung von oben.",
+    "Methoden sind Mittel; Kontext und Werte entscheiden, nicht jede Methode passt."
+  ],
   "teaser": "New Work im Auswärtigen Amt: neue Formen der Zusammenarbeit in der Bundesverwaltung.",
   "hinweis": "",
   "geprueft": false

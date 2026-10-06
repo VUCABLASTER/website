@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Theorie U führt über Beobachten, Loslassen und Prototyping zum konkreten nächsten Schritt.",
+    "Drei Öffnungen: Open Mind, Open Heart, Open Will.",
+    "Alle relevanten Beteiligten an den Tisch holen und Körper und Bilder einbeziehen."
+  ],
   "teaser": "Ein Conversation Café über Theory U: Was ist daran wichtig, nützlich oder herausfordernd?",
   "hinweis": "",
   "geprueft": false

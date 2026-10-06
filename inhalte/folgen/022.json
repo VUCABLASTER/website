@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Spiral Dynamics beschreibt Wertesysteme als Frage der Passung, nicht von besser oder schlechter.",
+    "Teams brauchen gemeinsame Werte; Vielfalt gehört in Erfahrung und Fähigkeiten.",
+    "Entwicklung entsteht durch Erfahrung, nicht durch Belehren."
+  ],
   "teaser": "Das Modell Spiral Dynamics und wie du es in der Praxis anwenden kannst.",
   "hinweis": "Schreibweise prüfen: Titel „Patric“, Shownotes „Patrick“.",
   "geprueft": false

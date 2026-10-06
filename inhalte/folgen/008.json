@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Lehrende werden zu Coaches, die Lernende projektbasiert unterstützen.",
+    "Soft Skills werden in Schule und Uni eher abtrainiert als gefördert.",
+    "Anpassungsfähigkeit und Selbstkenntnis zählen künftig mehr als Zertifikate."
+  ],
   "teaser": "Welche Art von Bildung die neue Arbeitswelt braucht.",
   "hinweis": "",
   "geprueft": false

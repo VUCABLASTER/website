@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "New Work heißt selbstbestimmt arbeiten: ausprobieren, Wissen teilen, vernetzen.",
+    "Auf den persönlichen Energiehaushalt achten: Aufgaben wählen, die Kraft geben.",
+    "Freiheit bringt Verantwortung mit; wer unzufrieden ist, ändert etwas oder geht."
+  ],
   "teaser": "Was ein Podcaster in 100 Folgen über New Work gelernt hat.",
   "hinweis": "",
   "geprueft": false

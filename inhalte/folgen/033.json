@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Kundenzentrierung braucht Vision, laufendes Kundenfeedback und passende Arbeitsweisen.",
+    "Personas und Journey Mapping machen das Kundenerlebnis konkret.",
+    "Kundenerwartungen steigen schnell; Design Thinking baut Empathie auf."
+  ],
   "teaser": "Customer Centricity: worum es geht, wie du es anwendest und warum es immer wichtiger wird.",
   "hinweis": "",
   "geprueft": false

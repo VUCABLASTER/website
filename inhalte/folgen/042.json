@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Team Topologies kennt vier Teamtypen: Stream-aligned, Complicated-Subsystem, Plattform und Enabling.",
+    "Dazu gehören drei Zusammenarbeitsmodi: Collaboration, X-as-a-Service und Facilitation.",
+    "Der Nutzen liegt im gemeinsamen Vokabular; Enabling-Teams sollen sich überflüssig machen."
+  ],
   "teaser": "Team Topologies: verschiedene Team- und Zusammenarbeitstypen, ihr Mehrwert und wie du am besten beginnst.",
   "hinweis": "",
   "geprueft": false

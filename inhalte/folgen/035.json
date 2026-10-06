@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Holokratie ordnet Arbeit in Rollen und Kreisen, ausgerichtet am Zweck statt an Personen.",
+    "Sie verlangt unternehmerisches Denken; Organisationsarbeit im Governance-Meeting macht niemand für einen.",
+    "Reinwachsen dauert über ein Jahr; erst Regeln befolgen, dann anpassen, Führung schirmt ab."
+  ],
   "teaser": "Holokratie: dezentrale Entscheidungen und Selbstorganisation mit Rollen und Kreisen statt Hierarchien.",
   "hinweis": "",
   "geprueft": false

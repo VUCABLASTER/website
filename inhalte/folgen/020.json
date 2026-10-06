@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "optimistisch",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "PERMA beschreibt Wohlbefinden: Positivity, Engagement, Relationships, Meaning, Accomplishment.",
+    "Das Gehirn bevorzugt Negatives; als Faustregel gilt vier bis fünf Anerkennungen auf einen Mangel.",
+    "Stärken kennen und einsetzen fördert Flow."
+  ],
   "teaser": "Positive Psychologie in der Führung – mit praktischen Tipps und dem PERMA-Modell.",
   "hinweis": "",
   "geprueft": false

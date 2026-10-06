@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Agilität heißt: Die Menschen, die die Arbeit tun, organisieren sich selbst.",
+    "Agil bedeutet nicht planlos; einen Plan haben und auf Veränderung reagieren.",
+    "Die Retrospektive ist das wirksamste agile Werkzeug und passt fast überall."
+  ],
   "teaser": "Was hinter „agil“ steckt, was oft falsch verstanden wird und welchen Mehrwert es bringt.",
   "hinweis": "",
   "geprueft": false

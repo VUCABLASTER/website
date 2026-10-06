@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Fehlerkultur braucht psychologische Sicherheit: Fehler zugeben ohne negative Konsequenzen.",
+    "Führungskräfte müssen vorangehen und eigene Fehler offen teilen.",
+    "Einstieg gelingt mit zehn Minuten Fehlerrunde in bestehenden Meetings oder Retros."
+  ],
   "teaser": "Wie schwierig es ist, eine Fehlerkultur zu etablieren – und wie du einfach mal startest.",
   "hinweis": "",
   "geprueft": false

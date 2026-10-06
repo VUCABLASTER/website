@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Spannungsbasiertes Arbeiten nutzt jede Lücke zwischen Ist und Wunsch als Impuls für kleine Veränderungen.",
+    "Wer eine Spannung einbringt, bringt einen Lösungsvorschlag mit und übernimmt Eigenverantwortung.",
+    "Spannungen gehören in den passenden Raum: operativ, Governance, Beziehung oder individuell."
+  ],
   "teaser": "Spannungsbasiertes Arbeiten: was eine Spannung ist, was die 4 Spaces sind und wie du damit im Unternehmen arbeitest.",
   "hinweis": "",
   "geprueft": false

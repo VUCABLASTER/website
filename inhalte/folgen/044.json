@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Innovation entsteht bei Produkt, Prozess und Geschäftsmodell; Deutschland ist beim Produkt stark.",
+    "Innovator's Dilemma: Erfolgreiche Unternehmen kannibalisieren ihr Kerngeschäft ungern, siehe Nokia und Kodak.",
+    "Ein Flywheel macht ein Geschäftsmodell selbstverstärkend; Offenheit und aufgebrochene Silos gehören dazu."
+  ],
   "teaser": "Innovationen in Deutschland, die Plattform DigitalValley und das Innovation Flywheel.",
   "hinweis": "",
   "geprueft": false

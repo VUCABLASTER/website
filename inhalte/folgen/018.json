@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Das Metaverse ist ein Schnittstellensystem für Identität und Bezahlung über Plattformen hinweg.",
+    "Metaverse ist nicht gleich Meta; mehrere Plattformen konkurrieren, Marktmacht entscheidet.",
+    "Unternehmen sollten jetzt plattformneutrale 3D-Inhalte aufbauen."
+  ],
   "teaser": "Was das Metaverse ist, welche Chancen und Risiken es birgt – plus Web3, Blockchain und NFT.",
   "hinweis": "",
   "geprueft": false

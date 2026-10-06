@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Das Cynefin-Modell zeigt: In komplexen Lagen hilft Ausprobieren im vielfältigen Team.",
+    "Diverse Teams sind in der VUCA-Welt ein Muss, kein Nice-to-have.",
+    "Mut wächst durch Zutrauen und ein wertschätzendes Umfeld."
+  ],
   "teaser": "Ein Podcast-Austausch darüber, was in der VUCA-Welt konkret weiterhilft und Orientierung gibt.",
   "hinweis": "",
   "geprueft": false

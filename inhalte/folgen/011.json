@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Bei New Pay zählt der Weg: Das Vergütungssystem partizipativ entwickeln, passend zur Organisation.",
+    "Selbstorganisation heißt nicht regellos, sondern Regeln, die Autonomie stützen.",
+    "Vergütung ist mehr als Geld: Zeit, Freiheit und Weiterbildung zählen mit."
+  ],
   "teaser": "New Pay: Transparenz, Fairness und der Spagat zwischen Recht und Agilität.",
   "hinweis": "",
   "geprueft": false

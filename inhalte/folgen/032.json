@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Bricolage, Improvisieren mit vorhandenen Mitteln, macht Gründende zufriedener und resilienter.",
+    "Effectuation hilft bei Unsicherheit: mit den vorhandenen Mitteln starten, nur tragbare Verluste riskieren.",
+    "Teams werden unternehmerisch durch Vertrauen, gemeinsames Lernen und starke Teamidentifikation."
+  ],
   "teaser": "Innovationsmindset, Unternehmenskultur und Ideenmanagement – mit Effectuation, Bricolage und einem Hauch MacGyver.",
   "hinweis": "",
   "geprueft": false

@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Working Out Loud heißt: eigene Arbeit sichtbar machen, damit andere darauf aufbauen.",
+    "Ein WOL-Circle: fünf bis sechs Leute, zwölf Wochen, wöchentlich eine Stunde, je ein eigenes Ziel.",
+    "Schwache Verbindungen im Netzwerk sind wertvoller als starke; Broker überbrücken Lücken."
+  ],
   "teaser": "Unsere erste Folge: worum es im Podcast geht, was VUCA bedeutet – und die Methode Working Out Loud.",
   "hinweis": "",
   "geprueft": false

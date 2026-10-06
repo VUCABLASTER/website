@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Empathie ist der Schlüssel für Agile Coaches, nicht die Standardmethode.",
+    "Selbstorganisierte Communities brauchen klaren Sinn und Spielregeln, sonst zerfasern sie.",
+    "Energie auf die Bereiten richten; deren Schwung zieht andere nach."
+  ],
   "teaser": "Wie ein agiler Coach Selbstorganisation, Teamentwicklung und ein Wir-Gefühl fördern kann.",
   "hinweis": "",
   "geprueft": false

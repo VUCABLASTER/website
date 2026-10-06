@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Berufliche Neugier hat vier Dimensionen: Entdeckerfreude, Antrieb durch Wissenslücken, Offenheit für andere Ideen, Anspannungstoleranz.",
+    "Wer Fragen sammelt statt Antworten, bleibt neugierig, etwa mit der Question Formulation Technique.",
+    "Eine neue Technik verändert das Denken; das Mindset folgt der Praxis."
+  ],
   "teaser": "Wie wir Neugier in Unternehmen fördern können und welche Dimensionen sie hat.",
   "hinweis": "",
   "geprueft": false

@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Gute Projekte beruhen auf guten Beziehungen; Menschlichkeit geht vor reiner Effizienz.",
+    "Lifecycle-Denken: die Wertschöpfung Ende zu Ende verstehen, nicht nur den eigenen Ausschnitt.",
+    "Pragmatismus vor Dogma: Die meisten Projekte laufen längst hybrid."
+  ],
   "teaser": "Ein Plädoyer für agiles, hybrides Projektmanagement mit dem Menschen im Mittelpunkt.",
   "hinweis": "",
   "geprueft": false

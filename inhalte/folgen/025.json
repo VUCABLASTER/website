@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Agile braucht Antworten für große Organisationen: Wie arbeiten 500 Teams zusammen?",
+    "Unfix ist eine Muster-Bibliothek wie Lego, kein Framework: Alles ist optional.",
+    "Organisationswandel in kleinen Experimenten starten, etwa mit einer Gilde oder einem Forum."
+  ],
   "teaser": "Unsere erste englische Folge: agiles Arbeiten skalieren mit dem Modell unFIX.",
   "hinweis": "",
   "geprueft": false

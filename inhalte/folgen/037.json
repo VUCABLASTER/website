@@ -6,7 +6,11 @@
   "staffel": "",
   "hauptwert": "neugierig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Lernen heißt beobachtbare Verhaltensänderung, nicht Informationen konsumieren.",
+    "Visuelle oder auditive Lerntypen sind nicht belegt; mehrere Sinne anzusprechen hilft.",
+    "Lernen entsteht in Beziehungen; sichtbare Entwicklung von Kolleginnen und Kollegen inspiriert."
+  ],
   "teaser": "Lernen in Unternehmen: Theorien, Modelle und die Frage, was nach einem Lernangebot eigentlich anders sein soll.",
   "hinweis": "",
   "geprueft": false
