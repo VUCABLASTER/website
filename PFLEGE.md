@@ -8,7 +8,7 @@ Der GitHub-Workflow **„Website aktualisieren“** (`.github/workflows/website-
 
 1. holt neue Folgen aus dem Feed von podcaster.de (Titel, Datum, Bild, Beschreibung, MP3),
 2. **transkribiert Folgen nur auf Knopfdruck** (Whisper, läuft bei GitHub, kostenlos) → `inhalte/transkripte/NNN.vtt`. Automatisch transkribieren lässt sich einschalten mit der Repository-Variable `TRANSKRIBIEREN_AUTO` = `fehlende` (GitHub → Settings → Secrets and variables → Actions → Variables); Standard ist aus.
-   **Transkripte erscheinen auf der Website erst nach Freigabe:** Folgennummer in `inhalte/transkripte/freigegeben.json` eintragen (Pages CMS → „Transkripte freigeben“), nachdem das Transkript gelesen wurde. Bisher freigegeben: #62.
+   **Transkripte erscheinen auf der Website erst nach Freigabe:** Folgennummer in `inhalte/transkripte/freigegeben.json` eintragen (Pages CMS → „Transkripte freigeben“), nachdem das Transkript gelesen wurde. Freigegeben: alle 62 (Stand 06.10.2026).
 3. holt die **Links zu jeder einzelnen Folge**:
    - Apple Podcasts und Deezer: automatisch über deren öffentliche Schnittstellen. Apple und Deezer listen eine neue Folge oft erst nach einigen Stunden; die stündlichen Läufe tragen den Link dann von selbst nach.
    - Spotify und Amazon Music: automatisch, ohne Konto. Ein Browser auf GitHub liest die öffentlichen Podcast-Seiten und ordnet jede Folge über die Nummer „#NN“ im Titel zu (`werkzeuge/plattform_links_holen.py`). Gespeichert wird nur bei eindeutiger Zuordnung.
