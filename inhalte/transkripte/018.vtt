@@ -2,1407 +2,1416 @@ WEBVTT
 
 NOTE
 VUCA Blaster #18: #18 The next big Thing Metaverse. Was ist das Metaverse und welches Potenzial birgt es für die Zukunft?
-Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-03.
-Nicht nachbearbeitet. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-06.
+Nur Schreibweisen aus inhalte/glossar.json korrigiert. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
 
 
-00:00:00.830 --> 00:00:13.490
-Ja hallo und schön, dass du heute wieder dabei bist. Heute reden Dörte und ich Manuel mit Gerd über ein sehr spannendes und zukunftsträchtiges Thema und zwar dem Metaversum.
+00:00:00.830 --> 00:00:32.040
+Ja, hallo und schön, dass du heute wieder dabei bist. Heute reden Dörte und ich, Manuel, mit Gerd über ein sehr spannendes und zukunftsträchtiges Thema und zwar dem Metaversum. Wir reden darüber, was ist überhaupt dieses Metaversum, aber auch wir grenzen es zu dem Metaversum von Mark Zuckerberg ab. Wir reden über die verschiedenen Standards, die es bereits am Markt gibt und wo auch bereits große Unternehmen hinter stehen.
 
-00:00:13.490 --> 00:00:23.710
-Wir reden darüber, was ist überhaupt dieses Metaversum, aber auch wir grenzen es zu dem Metaversum von Mark Zuckerberg ab.
+00:00:32.060 --> 00:00:52.290
+Zu dem, was Unternehmen heute schon machen können, um sich auf diese Zukunft vorzubereiten, aber auch was du persönlich vielleicht schon machen kannst. Also dann viel Spaß mit dieser Folge und hoffentlich lernst du einiges über das Metaversum.
 
-00:00:23.710 --> 00:00:46.090
-Wir reden über die verschiedenen Standards, die es bereits am Markt gibt und wo auch bereits große Unternehmen hinter stehen, zu dem, was Unternehmen heute schon machen können, um sich auf diese Zukunft vorzubereiten, aber auch, was du persönlich vielleicht schon machen kannst.
-
-00:00:46.090 --> 00:00:52.650
-Also dann viel Spaß mit dieser Folge und hoffentlich lernst du einiges über das Metaversum.
-
-00:00:52.650 --> 00:01:01.230
+00:00:52.290 --> 00:00:58.430
 VUCA Blaster
 
-00:01:01.230 --> 00:01:18.260
-Herzlich Willkommen, Glück auf aus dem Pod zu einer neuen Podcast-Folge VUCA Blaster. Manuel und ich freuen uns heute riesig, einen ganz, ganz, ganz spannenden Gast begrüßen zu dürfen, Gerhard Schröder.
+00:00:58.430 --> 00:01:09.060
+Herzlich Willkommen, Glück auf aus dem Pod zu einer neuen Podcast Folge VUCA Blaster.
 
-00:01:18.260 --> 00:01:28.250
+00:01:09.060 --> 00:01:18.060
+Manuel und ich freuen uns heute riesig, einen ganz, ganz, ganz spannenden Gast begrüßen zu dürfen, Gerhard Schröder.
+
+00:01:18.060 --> 00:01:28.050
 Und wenn jetzt alle denken, Gerhard Schröder kenne ich irgendwoher, der alte Bundeskanzler, dann darf ich euch enttäuschen.
 
-00:01:28.250 --> 00:01:47.250
-Das ist nicht der alte Bundeskanzler, sondern Gerhard Schröder ist Geschäftsführer von den kreativen Kommunikationskonzepten, hat wirklich jahrelang Erfahrung im Bereich Video, Social Media, Augmented Reality, Virtual Reality, Webprojekten und Co.
+00:01:28.050 --> 00:01:37.050
+Nein, das ist nicht der alte Bundeskanzler, sondern Gerhard Schröder ist Geschäftsführer von den kreativen Kommunikationskonzepten,
 
-00:01:47.250 --> 00:01:57.250
+00:01:37.050 --> 00:01:47.050
+hat wirklich jahrelang Erfahrung im Bereich Video, Social Media, Augmented Reality, Virtual Reality, Webprojekten und Co.
+
+00:01:47.050 --> 00:01:57.050
 Und wir wollen heute euch auf eine virtuelle Reise einladen und zwar in dieses noch etwas mystische Metaverse.
 
-00:01:57.250 --> 00:02:08.270
-Denn der Gerhard ist da ein absoluter Experte und ich bin sicher, wir werden heute alle ganz, ganz viel von Gerhard lernen dürfen, was sich dahinter verbirgt.
+00:01:57.050 --> 00:02:05.050
+Denn der Gerhard ist da ein absoluter Experte und ich bin sicher, wir werden heute alle ganz, ganz viel von Gerhard lernen dürfen,
 
-00:02:08.270 --> 00:02:19.270
-Was ist das Metaverse? Was kann das Metaverse? Welche Potenziale und Chancen bietet es in Zukunft und vielleicht auch welche Herausforderungen und Risiken?
+00:02:05.050 --> 00:02:15.070
+was sich dahinter verbirgt. Was ist das Metaverse? Was kann das Metaverse? Welche Potenziale und Chancen bietet es in Zukunft?
 
-00:02:19.270 --> 00:02:26.590
-Ich bin total gespannt. Wir werden dir Fragen und Löcher in den Bauch fragen. Ich hoffe, das ist in Ordnung.
+00:02:15.070 --> 00:02:23.390
+Und vielleicht auch welche Herausforderungen und Risiken? Ich bin total gespannt. Wir werden dir Fragen und Löcher
 
-00:02:26.590 --> 00:02:44.810
-Lieber Gerhard, schön, dass du dir Zeit nimmst und herzlich willkommen. Vielleicht bevor wir in die Frage einsteigen, vielleicht magst du noch mal kurz was zu dir sagen für alle die, die Gerhard Schröder noch nicht kennen. Magst du dich einmal vorstellen und uns vielleicht sagen, wo du uns gerade zugeschaltet bist?
+00:02:23.390 --> 00:02:30.390
+in den Bauch fragen. Ich hoffe, das ist in Ordnung. Lieber Gerhard, schön, dass du dir Zeit nimmst und herzlich willkommen.
 
-00:02:44.810 --> 00:02:55.960
-Also, hallo erstmal und vielen Dank für die Einladung. Ja, ich bin hinzugeschaltet aus Fellbert. Das kennt der eine oder andere vielleicht zwischen dem Ruhrgebiet und Wuppertal.
+00:02:30.390 --> 00:02:38.610
+Vielleicht bevor wir in die Frage einsteigen, vielleicht magst du noch mal kurz was zu dir sagen für alle die, die Gerhard
 
-00:02:55.960 --> 00:03:06.470
-so auf halber Strecke, da liegt Fellbert. Da bin ich gerade im Homeoffice mit meinen 15 Mitarbeitern. Wir sind nicht alle seit anderthalb Jahre zu Hause.
+00:02:38.610 --> 00:02:44.610
+Schröder noch nicht kennen. Magst du dich einmal vorstellen und uns vielleicht sagen, wo du uns gerade zugeschaltet bist?
 
-00:03:06.470 --> 00:03:15.470
-Wir haben zwar im Büro, da waren auch schon mal Mitarbeiter, habe ich mir berichten lassen, sind auch schon dort gesichtet worden, aber wir sind derzeit auch so gewachsen, dass gar nicht alle dort mehr reinpassen würden.
+00:02:44.610 --> 00:02:52.760
+Also, hallo erstmal und vielen Dank für die Einladung. Ja, ich bin hinzugeschaltet aus Fellbert. Das kennt der eine
 
-00:03:15.470 --> 00:03:25.770
-Cool. Und wie bist du auf das Thema Metaverse gestoßen oder was machst du da genau mit dem Metaverse?
+00:02:52.760 --> 00:02:59.760
+andere vielleicht zwischen dem Ruhrgebiet und Wuppertal. So auf halber Strecke, da liegt Fellbert. Da bin ich gerade im
 
-00:03:27.770 --> 00:03:32.770
-Bevor wir das Wort diskutieren, vielleicht mal ganz kurz eine Erklärung. Was ist das Metaverse?
+00:02:59.760 --> 00:03:07.270
+Homeoffice mit meinen 15 Mitarbeitern. Wir sind nicht alle seit anderthalb Jahre zu Hause. Wir haben zwar im
 
-00:03:32.770 --> 00:03:37.770
-Das ist vielleicht so gesehen, das hat jetzt nichts mit Facebook und Mark Zuckerberg erst mal zu tun.
+00:03:07.270 --> 00:03:11.270
+Büro, da waren auch schon mal Mitarbeiter, habe ich mir berichten lassen, sind auch schon dort gesichtet
 
-00:03:37.770 --> 00:03:44.930
-Also momentan macht noch niemand was im Metaverse, weil das Metaverse gibt es noch gar nicht.
+00:03:11.270 --> 00:03:15.270
+worden. Aber wir sind derzeit auch so gewachsen, dass gar nicht alle dort mehr reinpassen würden.
 
-00:03:44.930 --> 00:03:55.890
-Ja, es gibt zwar jetzt von der Firma Meta da eine große Beschreibung, eine große PR-Kampagne, aber sie sagen selber, das braucht noch zehn Jahre.
+00:03:15.270 --> 00:03:24.570
+Cool. Und wie bist du auf das Thema Metaverse gestoßen oder was machst du da genau mit dem
 
-00:03:55.890 --> 00:04:01.440
-Also so gesehen, was macht jeder im Metaverse, noch macht keiner da was.
+00:03:24.570 --> 00:03:31.570
+Metaverse? Bevor wir das Wort diskutieren, vielleicht mal ganz kurz eine Erklärung. Was ist
 
-00:04:01.440 --> 00:04:06.680
-Aber mehrere Marktbegleiter streben irgendwie alle in eine Richtung.
+00:03:31.570 --> 00:03:37.570
+das Metaverse? Das ist vielleicht so gesehen, das hat jetzt nichts mit Facebook und Mark Zuckerberg
 
-00:04:06.680 --> 00:04:09.680
-So, jetzt müssen wir uns mal erklären, was ist denn das Metaverse?
+00:03:37.570 --> 00:03:43.550
+erstmal zu tun. Also momentan macht noch niemand was im Metaverse, weil das Metaverse gibt es
 
-00:04:09.680 --> 00:04:11.610
-Machen wir ein bisschen wie mit der Dampfmaschine.
+00:03:43.550 --> 00:03:51.690
+noch gar nicht. Ja, es gibt zwar jetzt von der Firma Meta da eine große Beschreibung, eine
 
-00:04:11.610 --> 00:04:15.120
-Feuer, Zangenbowle für Anfänger, hat zwei Löcher.
+00:03:51.690 --> 00:03:58.260
+große PR-Kampagne, aber sie sagen selber, das braucht noch zehn Jahre. Also so gesehen, was
 
-00:04:15.120 --> 00:04:22.460
-In dem Fall ist es so, das Metaverse ist ein Schnittstellensystem eigentlich.
+00:03:58.260 --> 00:04:05.480
+macht jeder im Metaverse? Noch macht keiner da was. Aber mehrere Marktbegleiter streben
 
-00:04:22.460 --> 00:04:27.390
-Ich will sagen, stellt euch vor, ihr seid heutzutage in der Lage, auf einer Webseite,
+00:04:05.480 --> 00:04:09.480
+irgendwie alle in eine Richtung. So, jetzt müssen wir uns mal erklären, was ist denn das Metaverse?
 
-00:04:27.390 --> 00:04:33.410
-etwas durchzuführen und dann ein Link führt euch auf die nächste Webseite.
+00:04:09.480 --> 00:04:13.670
+Das machen wir ein bisschen wie mit der Dampfmaschine. Ja, Feuerzangenbowle für Anfänger,
 
-00:04:33.410 --> 00:04:35.410
-Und dann geht ihr auf die nächste Webseite.
+00:04:13.670 --> 00:04:24.090
+hat zwei Löcher. In dem Fall ist es so, das Metaverse ist ein Schnittstellensystem eigentlich.
 
-00:04:35.410 --> 00:04:38.410
-So, das Verfahren ist jedem von uns erstmal soweit bekannt.
+00:04:24.090 --> 00:04:29.190
+Ich will sagen, stellt euch vor, ihr seid heutzutage in der Lage, auf einer Webseite etwas
 
-00:04:38.410 --> 00:04:40.410
-Von A nach B nach C.
+00:04:29.190 --> 00:04:34.210
+durchzuführen und dann ein Link führt euch auf die nächste Webseite. Und dann geht ihr
 
-00:04:40.410 --> 00:04:45.470
-Stellt euch jetzt vor, ihr würdet aber jedes Mal, wenn ihr von A nach B nach C geht,
+00:04:34.210 --> 00:04:39.210
+auf die nächste Webseite. So, das Verfahren ist jeden von uns erstmal soweit bekannt. Von A nach B
 
-00:04:45.470 --> 00:04:49.970
-sagen wir via Cookie-Technologie, böses Wort, wisst ihr schon warum?
+00:04:39.210 --> 00:04:45.370
+nach C. Stellt euch jetzt vor, ihr würdet aber jedes Mal, wenn ihr von A nach B nach C geht,
 
-00:04:49.970 --> 00:04:51.970
-Datenschutz und so, aber lassen wir das jetzt mal außen vor.
+00:04:45.370 --> 00:04:50.770
+sagen wir via Cookie-Technologie, böses Wort, wisst ihr schon warum, ne? Datenschutz und so.
 
-00:04:51.970 --> 00:04:57.090
-Stellen wir uns vor, es gäbe eine Möglichkeit, personenbezogene Informationen von dir,
+00:04:50.770 --> 00:04:53.770
+Aber lassen wir das jetzt mal außen vor. Stellen wir uns vor, es gäbe eine Möglichkeit,
 
-00:04:57.090 --> 00:05:00.090
-Liebe Dörte oder von Manuel Lido oder von wem auch immer,
+00:04:53.770 --> 00:04:58.890
+personenbezogene Informationen von dir, liebe Dörte oder von Manuel Lido
 
-00:05:00.090 --> 00:05:03.090
-in der Stelle gleich mitzunehmen, digital.
+00:04:58.890 --> 00:05:04.920
+oder von wem auch immer, in der Stelle gleich mitzunehmen, digital. Das heißt, auf der einen Webseite,
 
-00:05:03.090 --> 00:05:06.120
-Das heißt, auf der einen Webseite, auf der einen Plattform,
+00:05:04.920 --> 00:05:10.950
+auf der einen Plattform hast du gleich ein kleines personenbezogenes Bild, ein Profilbild.
 
-00:05:06.120 --> 00:05:11.150
-hast du gleich ein kleines personenbezogenes Bild, ein Profilbild.
-
-00:05:11.150 --> 00:05:14.150
+00:05:10.950 --> 00:05:13.950
 Das kennen wir jetzt alle meinetwegen von LinkedIn, von Facebook oder wie auch immer.
 
-00:05:14.150 --> 00:05:17.880
-Wenn du von Plattform A zu Plattform B wechseln würdest,
+00:05:13.950 --> 00:05:21.800
+Wenn du von Plattform A zu Plattform B wechseln würdest, würde dieses Profilbild automatisch mitkopiert.
 
-00:05:17.880 --> 00:05:22.000
-würde dieses Profilbild automatisch mitkopiert.
+00:05:21.800 --> 00:05:28.800
+Oder das System, diese Schnitzstellengeschichte, wüsste, ah, wenn du jetzt von Plattform A, deiner Büro,
 
-00:05:22.000 --> 00:05:25.000
-Oder das System, diese Schnitzstellen-Geschichte, wüsste,
+00:05:28.800 --> 00:05:36.290
+beruflichen Plattform, LinkedIn wechselst, wechselst auf eine andere Plattform, auf deine Gaming-Plattform
 
-00:05:25.000 --> 00:05:32.220
-Ah, wenn du jetzt von Plattform A, deiner büroberuflichen Plattform, LinkedIn wechselst,
+00:05:36.290 --> 00:05:42.670
+deines Vertrauens, ja, und automatisch würden dort entsprechend neue Informationen zu dir angezeigt.
 
-00:05:32.220 --> 00:05:37.550
-wechselst auf eine andere Plattform, auf deine Gaming-Plattform deines Vertrauens,
+00:05:42.670 --> 00:05:47.670
+Also, du würdest automatisch digital umgekleidet, würdest ein anderes Profilbild bekommen und ähnliche Informationen.
 
-00:05:37.550 --> 00:05:42.870
-und automatisch würden dort entsprechend neue Informationen zu dir angezeigt.
+00:05:47.670 --> 00:05:53.670
+Und auch deine gesamte, dein Bezahlsystem würde so gesehen über alle Plattformen hinweg funktionieren.
 
-00:05:42.870 --> 00:05:44.870
-Also, du würdest automatisch digital umgekleidet,
+00:05:53.670 --> 00:05:58.980
+So berühmtes Single Sign-On. Das Single Sign-On für AR und VR.
 
-00:05:44.870 --> 00:05:47.870
-würdest ein anderes Profilbild bekommen und ähnliche Informationen.
-
-00:05:47.870 --> 00:05:53.870
-Und auch dein gesamtes Bezahlsystem würde so gesehen über alle Plattformen hinweg funktionieren.
-
-00:05:53.870 --> 00:05:59.180
-so berühmtes Single Sign-On. Das Single Sign-On für AR und VR.
-
-00:05:59.180 --> 00:06:03.560
+00:05:58.980 --> 00:06:03.360
 So könnte man eigentlich das Metaverse grob umschreiben. Hat euch das geholfen?
 
-00:06:03.560 --> 00:06:10.800
+00:06:03.360 --> 00:06:10.600
 Großartig. Ja, mir auf jeden Fall. Und ich habe schon direkt was dazugelernt.
 
-00:06:10.800 --> 00:06:14.800
+00:06:10.600 --> 00:06:14.600
 Also, es existiert noch nicht. Es ist im Begriff zu entstehen.
 
-00:06:14.800 --> 00:06:19.800
+00:06:14.600 --> 00:06:20.600
 Ich hatte mir auch die Keynote von Mark Zuckerberg angehört und angesehen.
 
-00:06:19.800 --> 00:06:25.800
-Da malt er ja ganz große Visionen auf. Wie stehst du dazu?
+00:06:20.600 --> 00:06:27.600
+Da malt er ja ganz große Visionen auf. Wie stehst du dazu? Siehst du das als realistisch?
 
-00:06:25.800 --> 00:06:29.800
-Siehst du das als realistisch? Hast du da schon eine eigene Meinung?
+00:06:27.600 --> 00:06:31.550
+Hast du da schon eine eigene Meinung?
 
-00:06:29.800 --> 00:06:41.100
+00:06:31.550 --> 00:06:40.510
 Man muss jetzt mal unterscheiden zwischen dem Metaverse, dem Begriff, wie ihn Mark Zuckerberg mit seinem Unternehmen besetzt und platziert.
 
-00:06:41.100 --> 00:06:47.360
-So Branding. Und die Idee des Metaverse ist eigentlich schon wesentlich älter.
+00:06:40.510 --> 00:06:46.900
+Ja, so Branding. Und die Idee des Metaverse ist eigentlich schon wesentlich älter.
 
-00:06:47.360 --> 00:06:51.610
-Da besetzt jetzt jemand mit einem Markennamen die Idee, die es vorher schon gehabt hat.
+00:06:46.900 --> 00:06:51.410
+Ja, da besetzt jetzt jemand mit einem Markennamen die Idee, die es vorher schon gehabt hat.
 
-00:06:51.610 --> 00:06:56.610
+00:06:51.410 --> 00:06:57.410
 So ungefähr, als wenn einer sagen würde, ich gebe dem Internet jetzt, da steht jetzt ein TM dran, weil es von mir ist.
 
-00:06:56.610 --> 00:07:01.310
-Wisst ihr, was ich meine? Prinzip verstanden. Okay, also lassen wir das mal außen vor.
+00:06:57.410 --> 00:07:00.110
+Wisst ihr, was ich meine? Prinzip verstanden.
 
-00:07:01.310 --> 00:07:05.600
-Das Metaverse an und für sich als Idee wird irgendwie kommen.
+00:07:00.110 --> 00:07:06.460
+Okay, also lassen wir das mal außen vor. Das Metaverse an und für sich als Idee wird irgendwie kommen.
 
-00:07:05.600 --> 00:07:15.660
-Ob es so kommt, wie Marki Mark es sich wünscht, so gesehen mit einer zentralen Datenbasis, nur in den Datenclown von Mark.
+00:07:06.460 --> 00:07:17.970
+Ob es so kommt, wie Marki Mark es sich wünscht, so gesehen mit einer zentralen Datenbasis, nur in den Datenklauen von Mark, das ist nochmal eine ganz andere Nummer.
 
-00:07:15.660 --> 00:07:21.290
-Das ist noch mal eine ganz andere Nummer. Es gibt ja schließlich noch mehrere technologische Alternativen,
+00:07:17.970 --> 00:07:28.290
+Es gibt ja schließlich noch mehrere technologische Alternativen, mehrere Plattformen, die auch noch versuchen momentan so gesehen einen Vorstoß in die Richtung zu machen.
 
-00:07:21.290 --> 00:07:27.530
-mehrere Plattformen, die auch noch versuchen momentan so gesehen einen Vorstoß in die Richtung zu machen.
+00:07:28.290 --> 00:07:36.890
+Und das ist ein bisschen wie damals mit Video von 2000, VHS und Betamax. Könnt ihr euch noch daran erinnern? Seid ihr alt genug, dass ihr wisst, wovon ich rede?
 
-00:07:27.530 --> 00:07:35.090
-Und das ist ein bisschen wie damals mit Video von 2000, VHS und Betamax. Könnt ihr euch noch daran erinnern?
+00:07:36.890 --> 00:07:45.930
+Genau, da gab es damals auch einen Marktkampf zwischen drei technologischen Plattformen. Wer wird am Ende bei der Videokassette der Sieger sein? Einer von dreien.
 
-00:07:35.090 --> 00:07:40.500
-Seid ihr alt genug, dass ihr wisst, wovon ich rede? Genau, da gab es damals auch einen Marktkampf zwischen drei technologischen Plattformen.
-
-00:07:40.500 --> 00:07:45.170
-Wer wird am Ende bei der Videokassette der Sieger sein? Einer von dreien.
-
-00:07:45.170 --> 00:07:53.860
+00:07:45.930 --> 00:07:54.620
 Und das ist nicht derjenige gewesen, der technologisch die beste Lösung hatte, sondern derjenige, der am Ende die größte Marktmacht beisammen bekommen konnte.
 
-00:07:53.860 --> 00:08:01.710
-Und dieses Wettrennen zur größten Marktmacht, die stehen alle noch in Startlöcher.
+00:07:54.620 --> 00:08:04.510
+Und dieses Wettrennen zur größten Marktmacht, die stehen alle noch in Startlöchern, die sind noch nicht mal losgelaufen.
 
-00:08:01.710 --> 00:08:09.500
-Die sind noch nicht mal losgelaufen. Das ist wie jetzt bei der Pferdewette zu sagen, der da wird es auf jeden Fall machen.
+00:08:04.510 --> 00:08:10.300
+Das ist wie jetzt bei der Pferdewette zu sagen, der da wird es auf jeden Fall machen.
 
-00:08:09.500 --> 00:08:14.500
+00:08:10.300 --> 00:08:18.560
 Und ich sage jetzt mal aus meiner Sicht, es muss nicht unbedingt das Metaverse von Meta sein.
 
-00:08:14.500 --> 00:08:26.080
-Vor einigen Jahren war es ja immer dieses Second Life. Das war ja auch mal so ein Hype-Trend, ist aber irgendwie dann auch nicht zum Durchbruch gekommen.
+00:08:18.560 --> 00:08:21.560
+Vor einigen Jahren war das ja immer dieses Second Life.
 
-00:08:26.080 --> 00:08:34.040
-Irgendwie habe ich immer so im Kopf so ein bisschen wie Second Life ist das Metaverse. Oder kann man das doch anders sehen?
+00:08:21.560 --> 00:08:26.880
+Das war ja auch mal so ein Hype-Trend, ist aber irgendwie dann auch nicht zum Durchbruch gekommen.
 
-00:08:34.040 --> 00:08:42.680
+00:08:26.880 --> 00:08:31.880
+Habe ich immer so im Kopf so ein bisschen wie Second Life, ist das Metaverse?
+
+00:08:31.880 --> 00:08:35.000
+Oder kann man das doch anders sehen?
+
+00:08:35.000 --> 00:08:42.480
 Oder wieso hat vielleicht Second Life nicht den Durchbruch bekommen, wie es vielleicht vorhergesehen gesagt wurde?
 
-00:08:42.680 --> 00:08:48.970
-Es sind zwei Fragen wie in einer. Ich versuche die mal kurz auseinander zu dröseln. Geben wir auf Second Life ein.
+00:08:42.480 --> 00:08:44.770
+Es sind zwei Fragen wie in einer.
 
-00:08:48.970 --> 00:08:58.130
-Second Life ist zu einer Zeit am Start gewesen, da gab es auch World of Warcraft. Kann sich noch einer daran erinnern, was das noch richtig mit über zehn Millionen Spielern
+00:08:44.770 --> 00:08:45.770
+Okay, sorry.
 
-00:08:58.130 --> 00:09:07.830
-wieder richtig groß war. Ich habe in WoW recht viel Zeit verbracht. Ich habe schon vor WoW meine erste virtuelle Hochzeit durchgeführt.
+00:08:45.770 --> 00:08:47.770
+Ich versuche die mal kurz auseinander zu dröseln.
 
-00:09:07.830 --> 00:09:16.860
-Das war 2003. In einem anderen solchen Spiel. Also das ist nicht das Neue. Also auch nicht das Neue, was so gesehen Second Life war.
+00:08:47.770 --> 00:08:48.770
+Gehen wir auf Second Life ein.
 
-00:09:16.860 --> 00:09:23.880
-Sondern das Spannende ist am Ende diese Schnittstelle. Stell dir vor, du würdest in Second Life mit deinem Avatar starten.
+00:08:48.770 --> 00:08:52.770
+Second Life ist zu einer Zeit am Start gewesen, da gab es auch World of Warcraft.
 
-00:09:23.880 --> 00:09:30.330
-Du würdest sagen, ich locke jetzt um auf World of Warcraft. Bist mit einmal ein Trollschamane.
+00:08:52.770 --> 00:08:54.770
+Kann sich noch einer daran erinnern?
 
-00:09:30.330 --> 00:09:41.330
-Wechselst dann zurück in deine Arbeitsumgebung von Autodesk, deine CAD Software und bist automatisch im Anzug dort zu sehen in deiner Firmenuniform.
+00:08:54.770 --> 00:09:00.930
+Als es noch richtig mit über zehn Millionen Spielern richtig groß war.
 
-00:09:41.330 --> 00:09:48.580
-Und wechselst danach wieder weiter woanders hin. Und jedes Mal sind diese Systeme miteinander durch diese Schnittstellenlandschaft verbunden.
+00:09:00.930 --> 00:09:04.630
+Ich habe in WoW recht viel Zeit verbracht.
 
-00:09:48.580 --> 00:09:55.640
-Du kannst frei von A nach B hüpfen. Das ist das, was so gesehen eigentlich das Metaversum ausmacht.
+00:09:04.630 --> 00:09:07.630
+Ich habe schon vor WoW meine erste virtuelle Hochzeit durchgeführt.
 
-00:09:55.640 --> 00:10:00.570
-Nicht der Gedanke von Mark Zuckerberg zu sagen, alle Daten sind bei mir, alles ist nur in meiner Welt,
+00:09:07.630 --> 00:09:08.630
+Das war 2003.
 
-00:10:00.570 --> 00:10:04.770
-sondern die Idee ist eigentlich wieder so gesehen des hüpfenden Internets.
+00:09:08.630 --> 00:09:11.660
+In einem anderen solchen Spiel.
 
-00:10:04.770 --> 00:10:09.280
+00:09:11.660 --> 00:09:13.660
+Also das ist nicht das Neue.
+
+00:09:13.660 --> 00:09:16.660
+Also auch nicht das Neue, was so gesehen Second Life war.
+
+00:09:16.660 --> 00:09:19.660
+Sondern das Spannende ist am Ende diese Schnittstelle.
+
+00:09:19.660 --> 00:09:23.680
+Stell dir vor, du würdest in Second Life mit deinem Avatar starten.
+
+00:09:23.680 --> 00:09:26.680
+Würdest du sagen, ich locke jetzt um auf World of Warcraft.
+
+00:09:26.680 --> 00:09:30.130
+Ja, bist mit einmal ein Trollschamane.
+
+00:09:30.130 --> 00:09:35.130
+Wechselst dann zurück in deine Arbeitsumgebung von Autodesk.
+
+00:09:35.130 --> 00:09:37.130
+Ja, deine CAD Software.
+
+00:09:37.130 --> 00:09:39.130
+Und bist automatisch im Anzug dort zu sehen.
+
+00:09:39.130 --> 00:09:41.130
+In deiner Firmenuniform.
+
+00:09:41.130 --> 00:09:43.130
+Ja, und wechselst danach wieder weiter woanders hin.
+
+00:09:43.130 --> 00:09:48.380
+Und jedes Mal sind diese Systeme miteinander durch diese Schnittstellenlandschaft verbunden.
+
+00:09:48.380 --> 00:09:50.380
+Du kannst frei von A nach B hüpfen.
+
+00:09:50.380 --> 00:09:55.440
+Das ist das, was so gesehen eigentlich das Metaversum ausmacht.
+
+00:09:55.440 --> 00:10:00.440
+Nicht der Gedanke von Mark Zuckerberg zu sagen, alle Daten sind bei mir, alles ist nur in meiner Welt.
+
+00:10:00.440 --> 00:10:04.570
+Sondern die Idee ist eigentlich wieder so gesehen des hüpfenden Internets.
+
+00:10:04.570 --> 00:10:09.080
 Eigentlich ein Internet, wie es mal früher war, mit etwas mehr Dezentralität.
 
-00:10:09.280 --> 00:10:15.710
+00:10:09.080 --> 00:10:15.510
 Ob das so kommt bei unseren aktuellen Marktbegleitern, Marktteilnehmern, ist nochmal ein anderer Punkt.
 
-00:10:15.710 --> 00:10:25.330
+00:10:15.510 --> 00:10:25.130
 Vielleicht können wir auch nochmal in diesen wirklich Pottpüree an Buzzwords, die wir alle gerade so hören.
 
-00:10:25.330 --> 00:10:29.330
+00:10:25.130 --> 00:10:29.130
 Also ich bin total dankbar, dass du da auch nochmal ein bisschen Licht ins Dunkle reinwirfst.
 
-00:10:29.330 --> 00:10:36.330
+00:10:29.130 --> 00:10:36.130
 Auch das vielleicht nochmal abgrenzen. Okay, Metaverse haben wir jetzt verstanden, ist nicht gleich Meta von Mark Zuckerberg.
 
-00:10:36.330 --> 00:10:43.930
+00:10:36.130 --> 00:10:43.070
 Aber viele sprechen ja auch von Web3. Ist Web3 Metaverse das Gleiche oder wo unterscheidet sich das?
 
-00:10:43.930 --> 00:10:50.930
+00:10:43.070 --> 00:10:50.730
 Puh, also Web3 ist die Idee, wieder so ein bisschen das Internet zu dezentralisieren.
 
-00:10:50.930 --> 00:10:56.930
+00:10:50.730 --> 00:10:56.730
 Wir haben ja, wenn man jetzt mal so 20 Jahre zurückgeht, ja, da hat man viele einzelne Internetseiten besuchen müssen.
 
-00:10:56.930 --> 00:11:01.930
-Überall hat man sich mal eingeloggt. Danach ist man auf dem Forum X, hat man sich angemeldet.
+00:10:56.730 --> 00:10:58.730
+Überall hat man sich mal eingeloggt.
 
-00:11:01.930 --> 00:11:07.930
-Danach ist man auf Webseite Y und hat sich dort eingeloggt. Und in den letzten 15 Jahren ist es ja so passiert.
+00:10:58.730 --> 00:11:01.730
+Danach ist man auf dem Forum X, hat man sich angemeldet.
 
-00:11:07.930 --> 00:11:13.240
+00:11:01.730 --> 00:11:04.730
+Danach ist man auf Webseite Y und hat sich dort eingeloggt.
+
+00:11:04.730 --> 00:11:07.730
+Und in den letzten 15 Jahren ist es ja so passiert.
+
+00:11:07.730 --> 00:11:13.040
 Manche Menschen verbringen ihr Leben oder ihr Alltag dann nur noch in Facebook und WhatsApp und Instagram.
 
-00:11:13.240 --> 00:11:20.230
+00:11:13.040 --> 00:11:20.030
 Ihr merkt schon, das ist in einem gewissen wirtschaftlichen Ökoversum, wo ich nämlich mit verhaftet bleibe.
 
-00:11:20.230 --> 00:11:24.290
+00:11:20.030 --> 00:11:24.090
 Ich habe nie die Welt von Mark Zuckerberg verlassen.
 
-00:11:24.290 --> 00:11:30.890
-Dann gibt es daneben noch so zwei, drei Alternativen. Das ist ein bisschen wie bei Game of Thrones.
+00:11:24.090 --> 00:11:27.970
+Dann gibt es daneben noch so zwei, drei Alternativen.
 
-00:11:30.890 --> 00:11:34.890
-In der ersten Staffel gab es noch viele Häuser, die wichtig waren und groß waren.
+00:11:27.970 --> 00:11:30.570
+Das ist ein bisschen wie bei Game of Thrones.
 
-00:11:34.890 --> 00:11:40.920
+00:11:30.570 --> 00:11:34.690
+So in der ersten Staffel gab es noch viele Häuser, die wichtig waren und groß waren.
+
+00:11:34.690 --> 00:11:40.720
 Und über die Staffeln hinweg immer mehr Leute, Marktbegleiter, ihr wisst schon, haben das so gesehen das Spielfeld verlassen.
 
-00:11:40.920 --> 00:11:45.410
+00:11:40.720 --> 00:11:45.230
 Wir sind jetzt an einem Punkt angekommen, dass eigentlich nur drei, vier große ja am Ende da sind.
 
-00:11:45.410 --> 00:11:50.000
-Und wenn einer von den Großen sagt, da ist eine neue tolle Idee und die will ich kopieren.
+00:11:45.230 --> 00:11:54.010
+Und wenn einer von den Großen sagt, da ist eine neue tolle Idee, die will ich kopieren, Stichwort Snapchat, Stichwort TikTok.
 
-00:11:50.000 --> 00:11:58.210
-Stichwort Snapchat, Stichwort TikTok und Mark entscheidet sich, das alles in Instagram einzubauen.
+00:11:54.010 --> 00:11:58.010
+Und Marc entscheidet sich, das alles in Instagram einzubauen.
 
-00:11:58.210 --> 00:12:02.210
+00:11:58.010 --> 00:12:02.010
 Ja, dann kann es auch passieren, dass neue Marktbegleiter, obwohl sie eine tolle Idee haben,
 
-00:12:02.210 --> 00:12:06.390
-gar nicht in der Lage sind aufgrund der Plattform Ökonomie.
+00:12:02.010 --> 00:12:08.190
+gar nicht in der Lage sind aufgrund der Plattformökonomie, an diesem da schon verhaftet sein,
 
-00:12:06.390 --> 00:12:09.390
-Die sind da schon verhaftet sein, weil die haben schon die vielen User.
+00:12:08.190 --> 00:12:11.340
+weil die haben schon die vielen User, das neue gar nicht mehr irgendwie durchkommen.
 
-00:12:09.390 --> 00:12:13.140
-Das neue gar nicht mehr irgendwie durchkommen. So, das ist der eine Punkt.
+00:12:11.340 --> 00:12:21.880
+So, das ist der eine Punkt. Und jetzt ist das Thema vom Web 3.0 die Idee, eigentlich dezentral wieder Lösungen zu schaffen.
 
-00:12:13.140 --> 00:12:22.080
-Und jetzt ist das Thema vom Web 3.0 die Idee eigentlich dezentral wieder Lösungen zu schaffen.
+00:12:21.880 --> 00:12:28.850
+Habt ihr schon mal von Mastodon gehört? Twitter kennt ihr. Twitter kennt ihr aber. Gut.
 
-00:12:22.080 --> 00:12:29.050
-Habt ihr schon mal von Mastodon gehört? Twitter kennt ihr. Twitter kennt ihr aber.
+00:12:28.850 --> 00:12:33.850
+Stellt ihr vor, es gäbe eine Alternative zu Twitter, die nicht auf einen zentralen Server aufsetzt,
 
-00:12:29.050 --> 00:12:34.050
-Gut. Stellt ihr vor, es gäbe eine Alternative zu Twitter, die nicht auf einen zentralen Server aufsetzt,
-
-00:12:34.050 --> 00:12:38.500
+00:12:33.850 --> 00:12:38.300
 sondern wo jeder einen kleinen eigenen Server aufsetzen kann.
 
-00:12:38.500 --> 00:12:43.720
+00:12:38.300 --> 00:12:43.520
 Du kannst aber dann so gesehen Nachrichten von Server A zu Server B und Ähnliches hin und her schicken.
 
-00:12:43.720 --> 00:12:52.550
+00:12:43.520 --> 00:12:51.010
 Falls irgendjemand die Idee so bekannt vorkommt aus der Zeit, als es noch Mailboxen gab.
 
-00:12:52.550 --> 00:12:56.550
+00:12:51.010 --> 00:12:56.350
 Wisst ihr, was Mailboxen war mit einem Akustikkoppler sich einwählen, Quietschegeräusche und so?
 
-00:12:56.550 --> 00:13:01.290
-Genau. Ja, das ist so gesehen wieder in neuer Verpackung.
+00:12:56.350 --> 00:13:03.090
+Genau. Ja, das ist so gesehen wieder in neuer Verpackung und das für einen Kurznachrichtendienst.
 
-00:13:01.290 --> 00:13:05.290
-Und das für einen Kurznachrichtendienst. Twitter dezentral ist Mastodon.
+00:13:03.090 --> 00:13:05.090
+Twitter dezentral ist Mastodon.
 
-00:13:05.290 --> 00:13:12.280
+00:13:05.090 --> 00:13:12.080
 Stellt euch vor, es gäbe auch andere Plattformen und andere Ideen, die nicht mehr über eine zentrale einzelne Datenbank,
 
-00:13:12.280 --> 00:13:16.280
+00:13:12.080 --> 00:13:16.080
 wo einer auch alle Daten kontrollieren kann, funktioniert, sondern wo es mehr dezentral ist.
 
-00:13:16.280 --> 00:13:20.280
-Das ist ein Teil der Idee von Web 3.0. So, jetzt kommen wir zum Basswort Bingo.
+00:13:16.080 --> 00:13:18.080
+Das ist ein Teil der Idee von Web 3.0.
 
-00:13:20.280 --> 00:13:24.490
-Da gibt es solche Dinge wie NFT oder Blockchain.
+00:13:18.080 --> 00:13:20.080
+So, jetzt kommen wir zum Basswort Bingo.
 
-00:13:24.490 --> 00:13:28.490
-Und wenn es noch nicht geht, nochmal eine Blockchain oben drauf und dann können wir noch eine Blockchain reinhauen.
+00:13:20.080 --> 00:13:28.290
+Da gibt es solche Dinge wie NFT oder Blockchain und wenn es noch nicht geht, nochmal eine Blockchain oben drauf und dann können wir noch eine Blockchain reinhauen.
 
-00:13:28.490 --> 00:13:36.860
-Und manche Menschen vermischen das eine automatisch mit dem anderen, weil ja, man kann gewisse Dinge dann damit lösen.
+00:13:28.290 --> 00:13:38.660
+Manche Menschen vermischen das eine automatisch mit dem anderen, weil ja, man kann gewisse Dinge dann damit lösen, man muss es aber darüber gar nicht lösen.
 
-00:13:36.860 --> 00:13:45.020
-Man muss es aber darüber gar nicht lösen. Hat euch das geholfen, das ein bisschen aufeinander zu brudeln, was das eine mit dem anderen nicht zu tun hat?
+00:13:38.660 --> 00:13:44.820
+Hat euch das geholfen, das ein bisschen auf deiner zu brudeln, was das eine mit dem anderen nicht zu tun hat?
 
-00:13:45.020 --> 00:13:49.780
-Auf jeden Fall. Es bringt ein bisschen Licht in den Nebel.
+00:13:44.820 --> 00:13:53.600
+Auf jeden Fall. Es bringt ein bisschen Licht in den Nebel. Vielen Dank erstmal dafür, Gerhard.
 
-00:13:49.780 --> 00:14:00.800
-Vielen Dank erstmal dafür, Gerhard. Was ist denn die Faszination an dem Thema jetzt Metaverse für dich persönlich oder in Zukunft?
+00:13:53.600 --> 00:14:00.600
+Was ist denn die Faszination an dem Thema jetzt Metaverse für dich persönlich oder in Zukunft?
 
-00:14:00.800 --> 00:14:06.470
-Also du hast es schon richtig formuliert in Zukunft, weil ja, es bewegt sich in die Richtung.
+00:14:00.600 --> 00:14:06.270
+Also, du hast es schon richtig formuliert in Zukunft, weil ja, es bewegt sich in die Richtung.
 
-00:14:06.470 --> 00:14:19.470
-Das ist, ich könnte aus spielerischer Gesichtsweise sagen, die Möglichkeit mit einem Plus 100 Flammenschwert aus dem einen Computerspiel wird automatisch im nächsten Spiel das mal Schienengewehr plus 100.
+00:14:06.270 --> 00:14:15.270
+Das ist, ich könnte aus spielerischer Gesichtsweise sagen, die Möglichkeit mit einem Plus 100 Flammenschwert aus dem einen Computerspiel
 
-00:14:19.470 --> 00:14:30.460
-Und wenn ich mit dem entsprechenden virtuellen Gegenstand in die dritte Umgebung lande, dann ist es mein Kugelschreiber plus 100, mit dem ich besonders schnell schreiben kann.
+00:14:15.270 --> 00:14:22.270
+wird automatisch im nächsten Spiel das mein Schienengewehr plus 100 und wenn ich mit dem entsprechenden virtuellen Gegenstand
 
-00:14:30.460 --> 00:14:37.350
-Das ist aber eine so ferne philosophische Idee, dann sind wir kurz vor dem Holodeck und vor der Matrix.
+00:14:22.270 --> 00:14:28.300
+in die dritte Umgebung lande, ja, dann ist es mein Kugelschreiber plus 100, mit dem ich besonders schnell schreiben kann.
 
-00:14:37.350 --> 00:14:43.290
+00:14:28.300 --> 00:14:37.150
+Das ist aber eine so ferne philosophische Idee, ah jo, dann sind wir kurz vor dem Holodeck und vor der Matrix.
+
+00:14:37.150 --> 00:14:43.170
 Aber das gibt euch vielleicht ein Gefühl davon, was für eine Richtung sich solche Geschichten bewegen könnten.
 
-00:14:43.290 --> 00:14:46.220
+00:14:43.170 --> 00:14:45.140
 Wie weit sie sich da hinkommen? Mal schauen.
 
-00:14:46.220 --> 00:14:51.420
-Macht das denn Sinn, dass Unternehmen sich jetzt da schon irgendwie drauf vorbereiten?
+00:14:45.140 --> 00:14:54.380
+Macht das denn Sinn, dass Unternehmen sich jetzt da schon irgendwie drauf vorbereiten oder ist das noch so zukunftsträchtig,
 
-00:14:51.420 --> 00:14:56.580
-Oder ist das noch so zukunftsträchtig, dass man erst noch mal ein bisschen abwartet?
+00:14:54.380 --> 00:14:59.380
+dass man erst noch mal ein bisschen abwartet oder kann man sich da überhaupt schon drauf vorbereiten?
 
-00:14:56.580 --> 00:14:59.550
-Oder kann man sich da überhaupt schon drauf vorbereiten?
-
-00:14:59.550 --> 00:15:08.610
+00:14:59.380 --> 00:15:08.410
 Ja, also stell dir vor, du würdest, also jetzt mal so kaufmännisch, du würdest wissen, ja, wir sind jetzt vor 40 Jahren,
 
-00:15:08.610 --> 00:15:17.960
+00:15:08.410 --> 00:15:17.370
 Internet ist mal so gerade angefangen so ein bisschen zu laufen und würdest wissen, dir hat einer gesagt, das kommt auf jeden Fall.
 
-00:15:17.960 --> 00:15:23.140
-Dann würdest du dich vermutlich damit beschäftigen, jetzt eine Internetagentur zu gründen.
+00:15:17.370 --> 00:15:29.600
+Dann würdest du dich vermutlich damit beschäftigen, jetzt eine Internetagentur zu gründen oder im entsprechenden Unternehmen den ersten Chief Digital Officer zu sein vor 40 Jahren.
 
-00:15:23.140 --> 00:15:29.800
-Oder im entsprechenden Unternehmen den ersten Chief Digital Officer zu sein vor 40 Jahren.
-
-00:15:29.800 --> 00:15:34.800
+00:15:29.600 --> 00:15:34.600
 Ja, du würdest wissen, mit der Strategie werden wir auf jeden Fall einen guten Schritt schon mal in die richtige Richtung tun.
 
-00:15:34.800 --> 00:15:37.150
-So, das ist schon mal klar.
+00:15:34.600 --> 00:15:39.950
+So, das ist schon mal klar. Jetzt ist die Frage, was kann ich denn tatsächlich als Unternehmen tun?
 
-00:15:37.150 --> 00:15:40.150
-Jetzt ist die Frage, was kann ich denn tatsächlich als Unternehmen tun?
-
-00:15:40.150 --> 00:15:48.310
+00:15:39.950 --> 00:15:48.110
 Schritt eins ist, nicht als erstes in Bitcoins investieren, sondern als erstes mach deine Hausaufgaben.
 
-00:15:48.310 --> 00:15:57.990
+00:15:48.110 --> 00:15:57.780
 Und die Hausaufgaben an der Stelle sind im ersten Schritt, sorge dafür, dass ich Inhalte habe, die so gesehen kompatibel sind mit dem Metaversum.
 
-00:15:57.990 --> 00:16:00.290
-Stichwort jetzt Content, ja.
+00:15:57.780 --> 00:16:04.090
+Stichwort jetzt Content. Ja, wir alle wissen, dass man damals Texte geschrieben hat.
 
-00:16:00.290 --> 00:16:04.290
-Wir alle wissen, dass man damals Texte geschrieben hat.
+00:16:04.090 --> 00:16:11.150
+Dann hat man angefangen Fotos auch mit dem Internet zu verwenden und irgendwann, so 2008, YouTube ging richtig an den Start und ging durch die Decke.
 
-00:16:04.290 --> 00:16:07.350
-Dann hat man angefangen Fotos auch mit dem Internet zu verwenden.
+00:16:11.150 --> 00:16:18.430
+Da hat jeder gesagt, oh ja, Video ist das nächste Thema. Jetzt ist das nächste Thema, was du gesehen auf der Schiene als nächstes kommt,
 
-00:16:07.350 --> 00:16:11.350
-Und irgendwann, so 2008, YouTube ging richtig an den Start und ging durch die Decke.
+00:16:18.430 --> 00:16:25.430
+sind 3D-Inhalte. Denn egal welcher von diesen Marktbegleitern, egal ob das das Metaversum von Mark Zuckerberg
 
-00:16:11.350 --> 00:16:14.350
-Da hat jeder gesagt, oh ja, Video ist das nächste Thema.
+00:16:25.430 --> 00:16:29.430
+oder irgendeine der anderen Geschmacksrichtungen, da können wir gleich auch noch drüber sprechen, ist,
 
-00:16:14.350 --> 00:16:19.630
-Jetzt ist das nächste Thema, was du gesehen auf der Schiene als nächstes kommt, sind 3D-Inhalte.
+00:16:29.430 --> 00:16:36.430
+du brauchst auf jeden Fall deine 3D-Inhalte, die du in all diese möglichen Metaversum-Kopien hinein kopieren kannst,
 
-00:16:19.630 --> 00:16:25.630
-Denn egal welcher von diesen Marktbegleitern, egal ob das das Metaversum von Mark Zuckerberg
+00:16:36.430 --> 00:16:42.680
+die du überall verwenden kannst. Wenn du sagst, ich habe ein Produkt XY, sorg dafür, dass du das so hast,
 
-00:16:25.630 --> 00:16:28.630
-oder irgendeine der anderen Geschmacksrichtungen, da können wir gleich auch noch drüber sprechen, ist.
+00:16:42.680 --> 00:16:45.680
+dass du es da, da und da irgendwo verwenden kannst.
 
-00:16:28.630 --> 00:16:36.630
-Du brauchst auf jeden Fall deine 3D-Inhalte, die du in all diese möglichen Metaversum-Kopien hinein kopieren kannst,
-
-00:16:36.630 --> 00:16:37.630
-die du überall verwenden kannst.
-
-00:16:37.630 --> 00:16:44.880
-Wenn du sagst, ich habe ein Produkt XY, sorg dafür, dass du das so hast, dass du es da, da und da irgendwo verwenden kannst.
-
-00:16:44.880 --> 00:16:58.730
+00:16:45.680 --> 00:16:58.530
 Cool, das heißt konkret, wenn ich zukunftsfähig sein möchte oder zukunftsgewandt schon agieren möchte,
 
-00:16:58.730 --> 00:17:05.730
+00:16:58.530 --> 00:17:06.530
 dass ich auf jeden Fall in diese 3D-Content sozusagen mehr investiere, Zeit und Ressourcen,
 
-00:17:05.730 --> 00:17:10.730
+00:17:06.530 --> 00:17:10.530
 damit ich sozusagen auch metaversumfähig wäre. Habe ich das richtig verstanden?
 
-00:17:10.730 --> 00:17:16.920
+00:17:10.530 --> 00:17:16.720
 Ja, in kurz und dörte ja. Schritt eins ist, habe entsprechende Inhalte, die du für diese Plattformen,
 
-00:17:16.920 --> 00:17:23.040
+00:17:16.720 --> 00:17:22.840
 egal welche, verwenden kannst. Und was macht ihr schon konkret? Ich denke mal,
 
-00:17:23.040 --> 00:17:28.010
+00:17:22.840 --> 00:17:27.810
 ihr habt da sicherlich mit 15 Mann schon ein paar Hausaufgaben gemacht. Was macht ihr da gerade?
 
-00:17:28.010 --> 00:17:33.010
+00:17:27.810 --> 00:17:32.810
 Wir machen die Hausaufgaben für unsere Kunden. Die kommen zu uns und sagen, wir haben verstanden,
 
-00:17:33.010 --> 00:17:38.930
+00:17:32.810 --> 00:17:38.810
 dass diese Geschichte um die Ecke kommt und wir sorgen dafür, dass unsere Kunden genau so zukunftsfähig sind.
 
-00:17:38.930 --> 00:17:45.660
+00:17:38.810 --> 00:17:45.460
 Ein Beispiel. Kunde von uns, Firma SOMFI. Was machen die? Die stellen sowas her wie Rohrmotoren.
 
-00:17:45.660 --> 00:17:52.930
-Ihr kennt doch alle Rollläden. Rolllädenkästen. Ja, da kann man entweder von Hand rauf, runter kurbeln
+00:17:45.460 --> 00:17:52.730
+Ihr kennt doch alle Rollläden, Rolllädenkästen. Da kann man entweder von Hand rauf, runter kurbeln
 
-00:17:52.930 --> 00:18:00.530
-oder mit dem Gurtband oder man drückt ganz bequem eine Taste oder man sagt Siri oder OK Google
+00:17:52.730 --> 00:18:00.330
+oder mit einem Gurtband oder man drückt ganz bequem eine Taste oder man sagt Siri oder okay Google
 
-00:18:00.530 --> 00:18:05.880
+00:18:00.330 --> 00:18:04.680
 und dann wird das Ganze so rumgesteuert. So, damit haben wir schon wichtige Veränderungen beschrieben,
 
-00:18:05.880 --> 00:18:11.760
-nämlich Smart Home. Ja, so und jetzt ist die spannende Frage, das Produkt an und für sich ist ein C-Produkt.
+00:18:04.680 --> 00:18:11.560
+nämlich Smart Home. So, und jetzt ist die spannende Frage, das Produkt an und für sich ist ein C-Produkt.
 
-00:18:11.760 --> 00:18:16.820
-Das heißt, es ist hinter der Wand. Du siehst das Produkt am Ende nicht mal. Ja, du hast es einfach,
+00:18:11.560 --> 00:18:16.620
+Das heißt, es ist hinter der Wand. Du siehst das Produkt am Ende nicht mal. Du hast es einfach,
 
-00:18:16.820 --> 00:18:24.750
+00:18:16.620 --> 00:18:25.540
 wenn du ein Produkt hast, wie bei dir dort hintergrund sich so schönes Bild, dass ich Ikea-Regale.
 
-00:18:24.750 --> 00:18:33.160
+00:18:25.540 --> 00:18:32.660
 Kann jeder erkennen, dass da weiß jeder, dass da ist ein Kallax-Regal. So, das ist ein Produkt, das sieht jeder.
 
-00:18:33.160 --> 00:18:39.420
-Aber wenn du Produkte hast, die hinter der Wand sind, wie kannst du die so gesehen erlebbar machen, was sie bewirken?
+00:18:32.660 --> 00:18:38.030
+Aber wenn du Produkte hast, die hinter der Wand sind, wie kannst du die so gesehen erlebbar machen,
 
-00:18:39.420 --> 00:18:47.780
-Also haben wir ein komplettes digitales Musterhaus gebaut. Das heißt, das, was man sonst eben kennt vom Häuselbauer.
+00:18:38.030 --> 00:18:45.390
+was sie bewirken? Also haben wir ein komplettes digitales Musterhaus gebaut. Das heißt, das, was man sonst
 
-00:18:47.780 --> 00:18:51.780
-Wir haben alle Produkte digital in dieses digitale Musterhaus eingebaut.
+00:18:45.390 --> 00:18:50.580
+eben kennt vom Häuselbauer. Wir haben alle Produkte digital in dieses digitale Musterhaus eingebaut,
 
-00:18:51.780 --> 00:18:57.870
-Das gesamte 3D-Modell, da ist selbst ein einzelner Legostein, liegt da vor der Dusche, vor dem Vorhang.
+00:18:50.580 --> 00:18:57.670
+das gesamte 3D-Modell. Da ist selbst ein einzelner Legostein, liegt da vor der Dusche, vorm Vorhang.
 
-00:18:57.870 --> 00:19:01.870
+00:18:57.670 --> 00:19:01.670
 Ihr wisst ja, was passiert, wenn man aus der Dusche rauskommt und aus dem Kinderzimmer ist ein einzelner Legostein.
 
-00:19:01.870 --> 00:19:06.630
-Genau, ihr merkt die Schmerzen schon unter dem Fuß.
+00:19:01.670 --> 00:19:08.900
+Genau. Ihr merkt die Schmerzen schon unter dem Fuß. Selbst an solche Kleinigkeiten haben wir gleich mitgedacht.
 
-00:19:06.630 --> 00:19:10.080
-Selbst an solche Kleinigkeiten haben wir gleich mitgedacht.
+00:19:08.900 --> 00:19:15.180
+Dieses 3D-Modell verwenden wir jetzt für den Kunden in der simpelsten Fassung für Powerpoint.
 
-00:19:10.080 --> 00:19:15.380
-Dieses 3D-Modell verwenden wir jetzt für den Kunden in der simpelsten Fassung für PowerPoint.
+00:19:15.180 --> 00:19:19.810
+Jetzt denkt der eine andere, wieso? Was hat das jetzt Metaverse mit Powerpoint zu tun?
 
-00:19:15.380 --> 00:19:20.010
-Jetzt denkt der eine andere, wieso, was hat das jetzt Metaverse mit PowerPoint zu tun?
+00:19:19.810 --> 00:19:25.840
+Okay, zurück. Ich habe einen 3D-Inhalt. Daraus kann ich Bilder machen. Die kann ich in der Powerpoint verwenden.
 
-00:19:20.010 --> 00:19:26.040
-Okay, zurück, ich habe einen 3D-Inhalt, daraus kann ich Bilder machen, die kann ich in der PowerPoint verwenden.
+00:19:25.840 --> 00:19:29.840
+Die Powerpoint kann ich in Zoom-Teams und was auch immer so alles nutzen.
 
-00:19:26.040 --> 00:19:30.040
-Die PowerPoint kann ich in Zoom-Teams und was auch immer so alles nutzen.
+00:19:29.840 --> 00:19:33.970
+Ich kann diese 3D-Modelle auch direkt in Powerpoint implementieren.
 
-00:19:30.040 --> 00:19:34.170
-Ich kann diese 3D-Modelle auch direkt in PowerPoint infizieren.
-
-00:19:34.170 --> 00:19:40.360
+00:19:33.970 --> 00:19:40.160
 Ich kann die 3D-Modelle nutzen, um damit Computer-Animationsvideos zu machen, die ich dann für Social Media wiederum nutzen kann.
 
-00:19:40.360 --> 00:19:46.780
+00:19:40.160 --> 00:19:46.580
 Ich kann die 3D-Geschichten auch nehmen, um sie mit einer VR-Brille erlebbar, durchwanderbar zu machen.
 
-00:19:46.780 --> 00:19:53.960
+00:19:46.580 --> 00:19:53.760
 Ich kann das Ganze nutzen, um damit Augmented Reality-Inhalte aufzubereiten für Kundenverkaufsgespräche.
 
-00:19:53.960 --> 00:20:05.750
+00:19:53.760 --> 00:20:05.550
 So, wenn jetzt Somphi sagen würde, wir wollen in das Meta-Versum von Mark Zuckerberg entsprechend unseren Kram hinein kopieren,
 
-00:20:05.750 --> 00:20:11.840
+00:20:05.550 --> 00:20:11.640
 dann wäre das für uns ein überschaubarer Aufwand zu sagen, okay, wir nehmen die ganzen Inhalte, übertragen die
 
-00:20:11.840 --> 00:20:18.340
+00:20:11.640 --> 00:20:19.140
 und du hast das gesamte Musterhaus meinetwegen in dem Meta-Versum von Mark Zuckerberg oder einem der anderen Plattformen.
 
-00:20:18.340 --> 00:20:26.710
-Ich finde eigentlich für einen B2B-Ansatz das Omniverse viel spannender. Davon schon mal gehört?
+00:20:19.140 --> 00:20:26.510
+Ich finde eigentlich für einen B2B-Ansatz das Omni-Verse viel spannender. Davon schon mal gehört?
 
-00:20:26.710 --> 00:20:27.710
+00:20:26.510 --> 00:20:27.510
 Noch nicht, nee.
 
-00:20:27.710 --> 00:20:32.710
-Gut, wie gesagt, jeder redet vom Meta-Versum und meint damit Mark Zuckerberg und das Meta-Versum.
+00:20:27.510 --> 00:20:32.510
+Gut, wie gesagt, jeder redet vom Meta-Verse und meint damit Mark Zuckerberg und das Meta-Verse.
 
-00:20:32.710 --> 00:20:41.250
+00:20:32.510 --> 00:20:41.050
 Es gibt da, wie gesagt, so ähnlich wie damals mit VHS mehrere Marktbegleiter, über die man auf jeden Fall sich auch Gedanken machen sollte.
 
-00:20:41.250 --> 00:20:49.750
+00:20:41.050 --> 00:20:49.550
 So, fangen wir mal an. Ja klar, es gibt Fortnite und es gibt alles, was sonst auf Unity und Unreal Computerspiele-Engine ist.
 
-00:20:49.750 --> 00:21:03.230
-Ja, das ist die eine Geschichte, die am Markt existiert. Habt ihr schon mal von USD gehört? Nicht US-Dollar, sondern Universal Scene Description?
+00:20:49.550 --> 00:20:55.830
+Ja, das ist die eine Geschichte, die am Markt existiert.
 
-00:21:03.230 --> 00:21:05.020
+00:20:55.830 --> 00:21:03.030
+Habt ihr schon mal von USD gehört? Nicht US-Dollar, sondern Universal Scene Description?
+
+00:21:03.030 --> 00:21:04.820
 Noch nicht.
 
-00:21:05.020 --> 00:21:10.620
+00:21:04.820 --> 00:21:10.170
 Okay, gut. Letzte Frage, Dörte. Kennst du Pixar, Toy Story?
 
-00:21:10.620 --> 00:21:15.620
+00:21:10.170 --> 00:21:15.420
 Ja, das kenne ich. Bei Kindern ist ja ein absolutes Must-Have. Ja, das kenne ich.
 
-00:21:15.620 --> 00:21:17.720
+00:21:15.420 --> 00:21:17.370
 Ich hatte es mir fast gedacht.
 
-00:21:17.720 --> 00:21:24.630
+00:21:17.370 --> 00:21:24.520
 Genau. So, wer Toy Story und die kleine Bürolampe noch kennt, das Markenzeichen von Pixar, gut.
 
-00:21:24.630 --> 00:21:33.030
+00:21:24.520 --> 00:21:32.830
 Diese Firma hat 2016, ich glaube 2016 war das, ja, 2016, auf der SIGGRAF eine Demo gemacht.
 
-00:21:33.030 --> 00:21:39.250
-Da ging einer auf die Bühne, hat den Laptop aufgeklappt, hat Enter gedruckt und vier Sekunden später war eine komplette
+00:21:32.830 --> 00:21:46.380
+Da ging einer auf die Bühne, hat ein Laptop aufgeklappt, hat Enter gedruckt und vier Sekunden später war eine komplette Real-Time-Render-Sequenz aus dem Film Nemo zu sehen, auf dem Laptop.
 
-00:21:39.250 --> 00:21:44.620
-Real-Time-Render-Sequenz aus dem Film Nemo zu sehen auf dem Laptop.
+00:21:46.380 --> 00:21:51.380
+Manche Demos brauchen nur vier Sekunden, dass die Zuschauer mit offenem Mäulern da sitzen.
 
-00:21:44.620 --> 00:21:51.680
-Manche Demos brauchen nur vier Sekunden, dass die Zuschauer mit offenen Mäulern da sitzen.
+00:21:51.380 --> 00:22:00.080
+Normalerweise bis zu dem Zeitpunkt war es so, dass solche Aufbau von solchen 3D-Landschaften, Szenen und so weiter, wesentlich, wesentlich länger gebraucht haben.
 
-00:21:51.680 --> 00:21:58.280
-Normalerweise bis zu dem Zeitpunkt war es so, dass solche Aufbau von solchen 3D-Landschaften, Szenen und so weiter
+00:22:00.080 --> 00:22:07.000
+Was hat Pixar gemacht? Die haben einen neuen Standard definiert, den sofort als erstes Apple gesagt hat, da machen wir mit.
 
-00:21:58.280 --> 00:22:03.280
-wesentlich, wesentlich länger gebraucht haben. Was hat Pixar gemacht? Die haben einen neuen Standard definiert,
+00:22:07.000 --> 00:22:17.110
+Und der heißt eben USD, universelle Szenenbeschreibung. Das ist jetzt anders als sonstige 3D-Objekt-Datei-Beschreibungs-Dateien.
 
-00:22:03.280 --> 00:22:12.250
-den sofort als erstes Apple gesagt hat, da machen wir mit, und der heißt eben USD, universelle Szenenbeschreibung.
+00:22:17.110 --> 00:22:25.520
+Nicht nur die Beschreibung von einer 3D-Objekt, also so lang, so hoch, so breit, sondern da ist auch gleich die Logik mit eingebaut.
 
-00:22:12.250 --> 00:22:19.500
-Das ist jetzt anders als sonstige 3D-Objekt-Datei-Beschreibungsdateien, nicht nur die Beschreibung
+00:22:25.520 --> 00:22:31.520
+Das, was man sonst in Computerspielen in Form von Programmierung hat, dann hast du da ja 3D-Modell und eine Programmierung.
 
-00:22:19.500 --> 00:22:25.720
-von einer 3D-Objekt, also so lang, so hoch, so breit, sondern da ist auch gleich die Logik mit eingebaut.
+00:22:31.520 --> 00:22:41.320
+die berühmte Wenn-Dann-Maschine. In diesem Dateiformat, in dieser Spezifikation, die muss Open Source ist, ist alles zusammen hineingepackt.
 
-00:22:25.720 --> 00:22:30.720
-Das, was man sonst in Computerspielen in Form von Programmierung hat, dann hast du da ja ein 3D-Modell
+00:22:41.320 --> 00:22:47.860
+Da ist so gesehen einerseits die 3D-Modelle und die Beschreibung der Interaktion, die Wenn-Dann-Maschine drin.
 
-00:22:30.720 --> 00:22:37.360
-und eine Programmierung, die berühmte Wenn-Dann-Maschine. In diesem Dateiformat, in dieser Spezifikation,
+00:22:47.860 --> 00:22:58.140
+Das kannst du gesehen in einem einzigen Dateiformat und zwar USDZ wie ZIP einfach an jemand raus schicken.
 
-00:22:37.360 --> 00:22:42.930
-die muss Open Source ist, ist alles zusammen hineingepackt. Da ist so gesehen einerseits
+00:22:58.140 --> 00:23:04.140
+Und der andere auf der anderen Seite hat dann nicht nur einfach ein 3D-Objekt, was er meinetwegen als Augmented Reality bei sich auf den Schreibtisch
 
-00:22:42.930 --> 00:22:48.060
-die 3D-Modelle und die Beschreibung der Interaktion, die Wenn-Dann-Maschine drin.
+00:23:04.140 --> 00:23:09.760
+stellen kann, sondern auch eine komplette Beschreibungssprache.
 
-00:22:48.060 --> 00:22:57.340
-Das kannst du gesehen in einem einzigen Dateiformat, und zwar USDZ wie ZIP, einfach an jemand rausschicken.
+00:23:09.760 --> 00:23:13.760
+Das heißt, interaktive Menüs kannst du alles da gleich mit einbauen.
 
-00:22:57.340 --> 00:23:02.340
-Und der andere auf der anderen Seite hat dann nicht nur einfach ein 3D-Objekt, was er meinetwegen
+00:23:13.760 --> 00:23:16.490
+Jetzt gibt es da noch eine Alternative zu.
 
-00:23:02.340 --> 00:23:08.960
-als Augmented Reality bei sich auf den Schreibtisch stellen kann, ja, sondern auch eine komplette
+00:23:16.490 --> 00:23:19.490
+Jetzt wechseln wir ganz kurz mal in den Themenreiche WebXR.
 
-00:23:08.960 --> 00:23:14.690
-Beschreibungssprache. Das heißt, interaktive Menüs kannst du alles da gleich mit einbauen.
+00:23:19.490 --> 00:23:22.990
+Davon habt ihr vielleicht mal gehört.
 
-00:23:14.690 --> 00:23:19.610
-Jetzt gibt es da noch eine Alternative zu. Jetzt wechseln wir ganz kurz mal in den Themenreiche WebXR.
+00:23:22.990 --> 00:23:24.990
+WebAR, WebXR, WebVR.
 
-00:23:19.610 --> 00:23:26.570
-Davon habt ihr vielleicht mal gehört. WebAR, WebXR, WebVR. Alles okay.
+00:23:24.990 --> 00:23:26.370
+Alles okay.
 
-00:23:26.570 --> 00:23:30.570
+00:23:26.370 --> 00:23:30.370
 Es sind Ansätze, die darauf aufsetzen, dass das Ganze beim Browser läuft.
 
-00:23:30.570 --> 00:23:36.700
-Wer ist ein großer Fan vom Browser? Wessen ganzes Ökosystem setzt auf Browser auf?
+00:23:30.370 --> 00:23:33.160
+Wer ist ein großer Fan vom Browser?
 
-00:23:36.700 --> 00:23:43.160
-Google, Chrome, alles was in die Richtung geht. Da sitzen die dann am Start.
+00:23:33.160 --> 00:23:36.500
+Wessen ganzes Ökosystem setzt auf Browser auf?
 
-00:23:43.160 --> 00:23:51.130
-Deswegen hat Google von Anfang an gesagt, nee, USD unterstützen wir nicht, weil USD ist von der Idee her,
+00:23:36.500 --> 00:23:41.960
+Google, Chrome, alles was in die Richtung geht.
 
-00:23:51.130 --> 00:23:59.690
-nicht darauf ausgelegt, browserbasiert zu sein, sondern ist eher schon eine Betriebssystem-Funktionalität.
+00:23:41.960 --> 00:23:44.720
+Da sitzen die dann am Start.
 
-00:23:59.690 --> 00:24:05.690
+00:23:44.720 --> 00:23:49.710
+Deswegen hat Google von Anfang an gesagt, nee, USD unterstützen wir nicht.
+
+00:23:49.710 --> 00:23:59.490
+Weil USD ist von der Idee her nicht darauf ausgelegt, browserbasiert zu sein, sondern ist eher schon eine Betriebssystemfunktionalität.
+
+00:23:59.490 --> 00:24:06.620
 Und Betriebssystem bedeutet, das ist so gesehen jedes Satz dessen, was Google für sich als Grundsystem sieht.
 
-00:24:05.690 --> 00:24:11.820
-Die möchten ja plattformneutral überall Chrome laufen lassen und dann ist Nachteil von dieser ganzen
+00:24:06.620 --> 00:24:12.620
+Die möchten ja plattformneutral überall Chrome laufen lassen und dann ist Nachteil von dieser ganzen browserbasierten
 
-00:24:11.820 --> 00:24:22.350
-browserbasierten Technologie, das braucht mehr Strom, Performance, Akkulaufzeit und, naja, bei browserbasierten Lösungen mit
+00:24:12.620 --> 00:24:22.150
+Technologie. Das braucht mehr Strom, Performance, Akkulaufzeit und, naja, bei browserbasierten Lösungen
 
-00:24:22.350 --> 00:24:31.550
-JavaScript und so, da gibt es so dieses Thema sicherheitsrelevant. So, leider technologisch nicht ganz so gut und nicht ganz so weit
+00:24:22.150 --> 00:24:26.340
+mit JavaScript und so, da gibt es so dieses Thema sicherheitsrelevant.
 
-00:24:31.550 --> 00:24:36.900
-fortgeschritten wie das Format USD. Und jetzt kommen wir zu dem Thema, diese Idee war so gut, dass sich so recht schnell
+00:24:26.340 --> 00:24:33.350
+So, leider technologisch nicht ganz so gut und nicht ganz so weit fortgeschritten wie das Format USD.
 
-00:24:36.900 --> 00:24:43.690
-ein paar Leute angeschlossen haben. Kennt ihr Nvidia, den Hersteller von Grafikkarten? Nvidia hat gesagt, okay,
+00:24:33.350 --> 00:24:37.700
+Und jetzt kommen wir zu dem Thema, diese Idee war so gut, dass sich so recht schnell ein paar Leute
 
-00:24:43.690 --> 00:24:53.460
-wir entwickeln gerade unsere eigene Metaverse-Lösung mit dem Namen Omniverse, die basiert auch auf USD. Und dann gibt es
+00:24:37.700 --> 00:24:42.240
+angeschlossen haben. Kennt ihr Nvidia, den Hersteller von Grafikkarten?
 
-00:24:53.460 --> 00:25:00.650
-inzwischen die Unternehmen oder die Foundation von Blender, eine ganze Reihe 3D-Animationssoftware-Systeme
+00:24:42.240 --> 00:24:48.250
+Nvidia hat gesagt, okay, wir entwickeln gerade unsere eigene Metaverse-Lösung
 
-00:25:00.650 --> 00:25:07.650
-wie Houdini und so weiter unterstützen das. Und ganz neu jetzt Autodesk. Autodesk kennt ihr vielleicht,
+00:24:48.250 --> 00:24:53.260
+mit dem Namen Omniverse, die basiert auch auf USD.
 
-00:25:07.650 --> 00:25:14.750
-die stellen eine CAD-Software her. Die haben letzte Woche eine neue Funktion herausgebracht und zwar haben
+00:24:53.260 --> 00:24:57.260
+Und dann gibt es inzwischen die Unternehmen oder die Foundation von Blender,
 
-00:25:14.750 --> 00:25:21.750
-die, das deutsche Entwicklerteam von Autodesk, hat einen USD-Webplayer, also Browser-basiertes
+00:24:57.260 --> 00:25:03.450
+eine ganze Reihe 3D-Animationssoftware-Systeme wie Houdini und so weiter unterstützen das.
 
-00:25:21.750 --> 00:25:31.120
-entwickelt und gezeigt. Da bewegt sich gerade ganz viel am Markt und von daher jetzt schon zu sagen,
+00:25:03.450 --> 00:25:09.580
+Und ganz neu jetzt Autodesk. Autodesk, kennt ihr vielleicht, die stellen eine CAD-Software her.
 
-00:25:31.120 --> 00:25:38.160
-wer genau am Ende der Sieger ist, ist viel zu früh. Also von daher habe deine 3D-Inhalte so möglichst
+00:25:09.580 --> 00:25:14.550
+Die haben letzte Woche eine neue Funktion herausgebracht.
 
-00:25:38.160 --> 00:25:43.390
-neutral, dass du sie in verschiedene Richtungen schieben kannst.
+00:25:14.550 --> 00:25:17.550
+Und zwar haben die, das deutsche Entwicklerteam von Autodesk,
 
-00:25:43.390 --> 00:25:50.230
-Gibt es noch andere Empfehlungen, die du sozusagen deinen Kunden und so mit auf den Weg gibst,
+00:25:17.550 --> 00:25:23.550
+hat einen USD-Webplayer, also browserbasiertes USD entwickelt und gezeigt.
 
-00:25:50.230 --> 00:25:56.230
+00:25:23.550 --> 00:25:27.920
+Der bewegt sich gerade ganz viel am Markt.
+
+00:25:27.920 --> 00:25:34.140
+Und von daher jetzt schon zu sagen, wer genau am Ende der Sieger ist, ist viel zu früh.
+
+00:25:34.140 --> 00:25:38.960
+Also von daher habe deine 3D-Inhalte so möglichst neutral,
+
+00:25:38.960 --> 00:25:43.270
+dass du sie in verschiedene Richtungen schieben kannst.
+
+00:25:43.270 --> 00:25:50.030
+Und gibt es noch andere Empfehlungen, die du sozusagen deinen Kunden und so mit auf den Weg gibst,
+
+00:25:50.030 --> 00:25:57.030
 außer die Hausaufgaben machen jetzt 3D-Content-Inhalte sozusagen schon zur Verfügung zu stellen,
 
-00:25:56.230 --> 00:26:03.170
-zu entwickeln, zu designen. Gibt es noch etwas, was du empfiehlst?
+00:25:57.030 --> 00:26:03.010
+zu entwickeln, zu designen? Gibt es noch etwas, was du empfiehlst?
 
-00:26:03.170 --> 00:26:12.280
+00:26:03.010 --> 00:26:12.080
 Ja, der nächste Punkt ist, werde dir darüber klar, dass Interface-Design nicht mehr nur am Screen passiert.
 
-00:26:12.280 --> 00:26:19.720
-Ich hatte eben gesagt, dass USD nicht nur 3D-Objekte, sondern auch wenn dann Maschine mit beinhaltet.
+00:26:12.080 --> 00:26:19.520
+Ich hatte eben gesagt, dass USD nicht nur 3D-Objekte, sondern auch, wenn dann Maschine, mit beinhaltet.
 
-00:26:19.720 --> 00:26:26.130
-Bisher sind wir es gewohnt, ihr kennt das alle. Also vielleicht seid ihr ein oder andere von den Zuhörern im Konzern,
+00:26:19.520 --> 00:26:25.930
+Bisher sind wir es gewohnt, ihr kennt das alle, also vielleicht seid ihr ein oder andere von den Zuhörern im Konzern,
 
-00:26:26.130 --> 00:26:31.860
-da gibt es ja ein Corporate Design Manual. So, bitteschön, müssen unsere PowerPoint Folien aussehen,
+00:26:25.930 --> 00:26:31.660
+da gibt es ja ein Corporate Design Manual. So, bitteschön, müssen unsere PowerPoint-Folien aussehen,
 
-00:26:31.860 --> 00:26:39.080
+00:26:31.660 --> 00:26:37.660
 das ist unsere Schrift, das ist unsere Hausfarbe, das ist RAL Nummer so und so und das, ihr wisst schon, was ich meine.
 
-00:26:39.080 --> 00:26:45.600
-Wenn es gut läuft, gibt es eine Ergänzung zum Themenbereich, das ist unsere Bildsprache.
+00:26:37.660 --> 00:26:42.930
+Ja, wenn es gut läuft, gibt es eine Ergänzung zum Themenbereich, das ist unsere Bildsprache.
 
-00:26:45.600 --> 00:26:56.090
-Aber wie sehr jetzt unseren Interface, wie wäre jetzt gesehen, wie würde unser Menü von der Webseite in 3D aussehen?
+00:26:42.930 --> 00:26:56.890
+Aber wie sehr jetzt unseren Interface, wie wäre jetzt so gesehen, wie würde unser Menü von der Website in 3D aussehen?
 
-00:26:56.090 --> 00:26:59.790
-Diesen Schritt würde ich auf jeden Fall auch schon mal vorbereiten.
+00:26:56.890 --> 00:27:03.830
+Diesen Schritt würde ich auf jeden Fall auch schon mal vorbereiten. Da bewegt sich mich ganz viel am Markt,
 
-00:26:59.790 --> 00:27:09.120
-Da bewegt sich mich ganz viel am Markt, wenn ich nicht mehr sage, ich habe das Interface so gesehen on screen, sondern in 3D.
+00:27:03.830 --> 00:27:10.060
+wenn ich nicht mehr sage, ich habe das Interface so gesehen on-screen, sondern in 3D.
 
-00:27:09.120 --> 00:27:16.880
-Ich habe jetzt noch eine andere Frage, aber so ein bisschen springt das jetzt vielleicht weg von dem, was du noch gerade gesagt hast.
+00:27:10.060 --> 00:27:15.680
+Ich habe jetzt noch eine andere Frage, aber so ein bisschen springt das jetzt vielleicht weg von dem,
 
-00:27:16.880 --> 00:27:23.860
-Irgendwie, wie stellst du dir das denn so in Zukunft, wenn man das schon sagen kann,
+00:27:15.680 --> 00:27:22.660
+was du noch gerade gesagt hast, irgendwie, wie stellst du dir das denn so in Zukunft,
 
-00:27:23.860 --> 00:27:31.480
-Gibt es dann die Arbeit wie heute noch, also dass ich mich jetzt vor meinem Laptop sitze?
+00:27:22.660 --> 00:27:28.060
+wenn man das schon sagen kann, also würde dann jeder, sagen wir, gibt es dann die Arbeit wie heute noch,
 
-00:27:31.480 --> 00:27:38.480
-Oder setzt man seine VR-Brille zukünftig auf und ist dann 8 Stunden in irgendwelchen virtuellen Welten-Meetings?
+00:27:28.060 --> 00:27:33.280
+also dass ich mich jetzt vor meinem Laptop sitze oder setzt man seine VR-Brille zukünftig auf
 
-00:27:38.480 --> 00:27:41.470
-Gibt es da schon irgendwelche Vorstellungen, irgendwas?
+00:27:33.280 --> 00:27:40.280
+und ist dann acht Stunden in irgendwelchen virtuellen Welten-Meetings? Gibt es da schon irgendwelche Vorstellungen,
 
-00:27:41.470 --> 00:27:47.290
-Oder ist das so ein Teil, also dass man sagt, okay, Teil ist dann so normal wie jetzt vielleicht
+00:27:40.280 --> 00:27:47.090
+irgendwas? Oder ist das so ein Teil, also dass man sagt, okay, Teil ist dann so normal wie jetzt vielleicht
 
-00:27:47.290 --> 00:27:54.640
-und Teil würde man Meetings vielleicht dann über VR abbilden oder kann mir das noch nicht so ganz vorstellen?
+00:27:47.090 --> 00:27:54.300
+und Teil würde man Meetings vielleicht dann über VR abbilden oder kann man das noch nicht so ganz vorstellen?
 
-00:27:54.640 --> 00:27:59.640
+00:27:54.300 --> 00:27:59.440
 Also erstens, ich kann es mir auch nicht so ganz vorstellen, aber ich gebe dir mal ein Beispiel dafür,
 
-00:27:59.640 --> 00:28:05.470
-was ich dafür gerade tue, um mich auf diese Zukunft vorzubereiten.
+00:27:59.440 --> 00:28:06.270
+was ich dafür gerade tue, um mich auf diese Zukunft vorzubereiten. Ich habe alle Computerspiele,
 
-00:28:05.470 --> 00:28:10.560
-Ich habe alle Computerspiele, die ich gespielt habe, so gesehen, spiele ich nicht mehr.
+00:28:06.270 --> 00:28:12.360
+die ich gespielt habe, so gesehen, spiele ich nicht mehr. Die Podcast-Zuhörer werden es jetzt nicht sehen können,
 
-00:28:10.560 --> 00:28:16.970
-Die Podcast-Zuhörer werden es jetzt nicht sehen können, aber ich kann für euch mal ganz kurz meinen Laptop drehen.
+00:28:12.360 --> 00:28:17.770
+aber ich kann für euch mal ganz kurz meinen Laptop drehen. Was seht ihr da? Da seht ihr Brettspiele.
 
-00:28:16.970 --> 00:28:22.410
-Was seht ihr da? Da seht ihr Brettspiele. Warum seht ihr mit einmal da wieder Brettspiele stehen?
+00:28:17.770 --> 00:28:25.170
+Warum seht ihr mit einmal da wieder Brettspiele stehen? Nun, um mich auf so eine Remote-Zukunft,
 
-00:28:22.410 --> 00:28:28.380
-Um mich auf so eine Remote-Zukunft, eine solche interaktive Remote-Zukunft vorzubereiten,
+00:28:25.170 --> 00:28:30.180
+eine solche interaktive Remote-Zukunft vorzubereiten, ohne dass es die entsprechenden Devices gibt,
 
-00:28:28.380 --> 00:28:32.400
-ohne dass es die entsprechenden Devices gibt, mache ich folgendes.
+00:28:30.180 --> 00:28:38.350
+mache ich folgendes. Ich spiele Brettspiele mit Freunden Remote. Hört sich verrückt an. Glaubt mir,
 
-00:28:32.400 --> 00:28:37.100
-Ich spiele Brettspiele mit Freunden Remote. Hört sich verrückt an.
+00:28:38.350 --> 00:28:43.340
+es ist gar nicht so weit weg von der Zukunft. Denn wenn wir in der Zukunft lernen wollen, wie wir in der Zukunft
 
-00:28:37.100 --> 00:28:40.550
-Glaubt mir, es ist gar nicht so weit weg von der Zukunft.
+00:28:43.340 --> 00:28:52.870
+miteinander interagieren Remote in diesem 3D, dann ist das für uns noch so gesehen ungewohntes Terrain.
 
-00:28:40.550 --> 00:28:45.540
-Denn wenn wir in der Zukunft lernen wollen, wie wir in der Zukunft miteinander interagieren,
+00:28:52.870 --> 00:28:58.870
+Das ist echtes Neuland, ja, auch für alle Menschen, die sich mit Psychologie und so weiter und solchen
 
-00:28:45.540 --> 00:28:53.070
-Remote, in diesem 3D, dann ist das für uns noch so gesehen ungewohntes Terrain.
+00:28:58.870 --> 00:29:06.730
+Themen beschäftigen. Also übe ich jetzt momentan mit Remote-Brettspielen in Zukunft Remote interaktiv mit
 
-00:28:53.070 --> 00:28:55.070
-Das ist echtes Neuland.
+00:29:06.730 --> 00:29:12.980
+anderen Menschen mit 3D-Objekten zu sprechen und zu arbeiten. Nein, ich gehe nicht davon aus, dass in Zukunft
 
-00:28:55.070 --> 00:29:00.870
-Auch für alle Menschen, die sich mit Psychologie und so weiter und solchen Themen beschäftigen.
+00:29:12.980 --> 00:29:18.170
+alle Menschen den ganzen Tag mit einer VR-Brille auf der Nase herumlaufen werden. Ja, es wird in Zukunft
 
-00:29:00.870 --> 00:29:04.870
-Also übe ich jetzt momentan mit Remote-Brettspielen in Zukunft,
+00:29:18.170 --> 00:29:24.870
+vielleicht auch nicht mehr so sein, dass alle Menschen Handwerker sind. Das ist auch jetzt schon nicht mehr so.
 
-00:29:04.870 --> 00:29:11.180
-Remote interaktiv mit anderen Menschen mit 3D-Objekten zu sprechen und zu arbeiten.
+00:29:24.870 --> 00:29:30.090
+Und es werden auch in Zukunft nicht alle Menschen nur im Büro sitzen. Also ein großer Teil, glaube ich,
 
-00:29:11.180 --> 00:29:14.180
-Nein, ich gehe nicht davon aus, dass in Zukunft alle Menschen den ganzen Tag
+00:29:30.090 --> 00:29:35.090
+der Veränderung erleben wir gerade. Ich sitze zu Hause, ihr seid vermutlich auch bei euch jeweils zu Hause.
 
-00:29:14.180 --> 00:29:17.370
-mit einer VR-Brille auf der Nase herumlaufen werden.
+00:29:35.090 --> 00:29:41.090
+Ja, das hat natürlich auch Veränderungen, was das Thema unsere eigene Wohnung und Umfeld Sonstiges betrifft.
 
-00:29:17.370 --> 00:29:24.070
-Es wird in Zukunft vielleicht auch nicht mehr so sein, dass alle Menschen Handwerker sind.
-
-00:29:24.070 --> 00:29:29.290
-Das ist auch jetzt schon nicht mehr so und es werden auch in Zukunft nicht alle Menschen nur im Büro sitzen.
-
-00:29:29.290 --> 00:29:32.290
-Also ein großer Teil, glaube ich, der Veränderung erleben wir gerade.
-
-00:29:32.290 --> 00:29:36.290
-Ich sitze zu Hause, ihr seid vermutlich auch bei euch jeweils zu Hause.
-
-00:29:36.290 --> 00:29:41.280
-Das hat natürlich auch Veränderungen, was das Thema unsere eigene Wohnung und Umfeld Sonstiges betrifft.
-
-00:29:41.280 --> 00:29:47.880
+00:29:41.090 --> 00:29:47.680
 Es gibt da so ein paar Projekte, die sich darum momentan als Forschungsprojekte kümmern.
 
-00:29:47.880 --> 00:29:54.380
+00:29:47.680 --> 00:29:54.180
 Wie können in Zukunft Videokonferenzen besser erlebbar sein?
 
-00:29:54.380 --> 00:30:00.650
-Also damit wir diese Zoom-Fatigue, die wir jetzt haben, das ist gerade auch wieder ein Zoom-Meeting, also ein paar kleine Fenster.
+00:29:54.180 --> 00:29:58.450
+Also damit wir diese Zoom-Fatigue, die wir jetzt haben, ja, das ist ja gerade auch wieder ein Zoom-Meeting,
 
-00:30:00.650 --> 00:30:06.640
-Und man versucht die ganze Zeit doch nicht auf die Gesprächspartner zu schauen, sondern nur in die Kamera.
+00:29:58.450 --> 00:30:03.450
+also ein paar kleine Fenster und man versucht die ganze Zeit doch nicht auf die Gesprächspartner zu schauen,
 
-00:30:06.640 --> 00:30:08.640
-Ihr merkt die Probleme, die bei auftauchen.
+00:30:03.450 --> 00:30:07.440
+sondern nur in die Kamera. Ja, ihr merkt die Probleme, die bei auftauchen.
 
-00:30:08.640 --> 00:30:17.860
-Wenn wir das hinbekommen, allein schon durch den Teleprompter, dann wird das eine oder andere für uns einfacher in der Kommunikation miteinander.
+00:30:07.440 --> 00:30:13.660
+Wenn wir das hinbekommen, allein schon durch den Teleprompter, dann wird das ein oder andere
 
-00:30:17.860 --> 00:30:23.180
-Und das Metaversum heißt nicht automatisch VR oder VR-Brille.
+00:30:13.660 --> 00:30:22.980
+für uns einfacher in der Kommunikation miteinander. Und das Metaversum heißt nicht automatisch VR oder VR-Brille.
 
-00:30:23.180 --> 00:30:31.120
-Das Metaversum heißt erst einmal an der Stelle irgendeine Art von virtuellen Geschichte, die miteinander vernetzt ist.
+00:30:22.980 --> 00:30:28.580
+Das Metaversum heißt erst einmal an der Stelle irgendeine Art von virtuellen Geschichte,
 
-00:30:31.120 --> 00:30:40.580
-Das kann auch bedeuten, dass du vielleicht eine VR-Brille auf hast, ich eine AR-Brille und die Dörte sitzt einfach nur vom Monitor.
+00:30:28.580 --> 00:30:35.330
+die miteinander vernetzt ist. Das kann auch bedeuten, dass du vielleicht eine VR-Brille aufhast,
 
-00:30:40.580 --> 00:30:45.310
-Das Spannende ist die entsprechende Vernetzung, die Schnittstelle und die Technologie rundherum.
+00:30:35.330 --> 00:30:42.380
+ich eine AR-Brille und die Dörte sitzt einfach nur vom Monitor. Das Spannende ist die entsprechende Vernetzung,
 
-00:30:45.310 --> 00:30:48.310
-Und daraus ergeben sich auch dann ganz neue Geschäftsmodelle.
+00:30:42.380 --> 00:30:46.110
+die Schnittstelle und die Technologie rundherum. Und daraus ergeben sich auch dann ganz neue.
 
-00:30:48.310 --> 00:30:56.330
-Richtig spannend, Gerhard. Ich würde noch mal gerne verstehen, wie du diese Brettspiele sozusagen, damit du das schon mal lernst,
+00:30:46.110 --> 00:30:48.110
+Geschäftsmodelle.
 
-00:30:56.330 --> 00:31:01.330
-was da auf uns zukommt, sozusagen interaktiv diese Spiele zu machen.
+00:30:48.110 --> 00:30:54.130
+Richtig spannend, Gerhard. Ich würde noch mal gerne verstehen, wie du diese Brettspiele sozusagen,
 
-00:31:01.330 --> 00:31:04.330
+00:30:54.130 --> 00:31:01.130
+damit du das schon mal lernst, was da auf uns zukommt, sozusagen interaktiv diese Spiele zu machen.
+
+00:31:01.130 --> 00:31:04.130
 Also wie muss ich mir das vorstellen? Du sitzt zu Hause, spielst jetzt zum Beispiel Schach.
 
-00:31:04.330 --> 00:31:08.420
+00:31:04.130 --> 00:31:08.220
 Ich sitze zu Hause, spiele Schach mit dir und dann haben wir eine Kamera da drauf
 
-00:31:08.420 --> 00:31:12.420
-oder haben wir ein anderes Gaming-Tool, worüber wir uns einloggen?
+00:31:08.220 --> 00:31:13.220
+oder haben wir ein anderes Gaming-Tool, worüber wir uns einloggen? Wie muss ich mir das vorstellen?
 
-00:31:12.420 --> 00:31:13.420
-Wie muss ich mir das vorstellen?
+00:31:13.220 --> 00:31:16.220
+Mit Absicht kein anderes Gaming-Tool. Das habe ich eben.
 
-00:31:13.420 --> 00:31:17.420
-Mit Absicht kein anderes Gaming-Tool. Das habe ich eben. Ich wollte genau das wieder nicht.
+00:31:16.220 --> 00:31:21.220
+Ich wollte genau das wieder nicht, sondern ja, tatsächlich stellen wir uns vor, wir beide würden miteinander Schach spielen.
 
-00:31:17.420 --> 00:31:21.420
-Sondern ja, tatsächlich stellen wir uns vor, wir beide würden miteinander Schach spielen.
-
-00:31:21.420 --> 00:31:24.580
+00:31:21.220 --> 00:31:25.380
 Dann habe ich hier ein Schachbrett. Ich habe drei Kameras aufgebaut.
 
-00:31:24.580 --> 00:31:27.710
-eine Videoproduktionsfirma soll man sowas haben.
+00:31:25.380 --> 00:31:30.510
+Videoproduktionsfirma soll man sowas haben. Und ich habe in dem Fall, wenn ich lache, einfach auch nur drei Webcams.
 
-00:31:27.710 --> 00:31:30.710
-Und ich habe in dem Fall, wenn ich lache, einfach auch nur drei Webcams.
+00:31:30.510 --> 00:31:37.760
+Und eine Webcam von oben ist eine 4K-Webcam. Da kann ich per Fernsteuerung in verschiedene Positionen reinzoomen.
 
-00:31:30.710 --> 00:31:33.710
-Und eine Webcam von oben ist eine 4K-Webcam.
-
-00:31:33.710 --> 00:31:37.960
-Da kann ich per Fernsteuerung in verschiedene Positionen reinzoomen.
-
-00:31:37.960 --> 00:31:42.150
+00:31:37.760 --> 00:31:41.950
 Linke Hälfte vor Spielbrett, rechte Hälfte, damit man das einfach mal besser visualisieren kann.
 
-00:31:42.150 --> 00:31:45.150
+00:31:41.950 --> 00:31:44.950
 Und eine Kamera mehr von der Seite. Du weißt schon, was ich meine.
 
-00:31:45.150 --> 00:31:47.150
-So kann man meinetwegen auch menschärgerlich nicht spielen.
+00:31:44.950 --> 00:31:46.950
+Ja, so kann man meinetwegen auch Mensch ärgerlich nicht spielen.
 
-00:31:47.150 --> 00:31:51.210
-Und was man dabei eben lernt, ist so gesehen, wie muss ich mit einer anderen Person
+00:31:46.950 --> 00:31:55.210
+Und was man dabei eben lernt, ist so gesehen, wie muss ich mit einer anderen Person remote kommunizieren?
 
-00:31:51.210 --> 00:31:57.410
-remote kommunizieren? Welche neuen Sozialisationsregeln lernen wir?
+00:31:55.210 --> 00:31:59.200
+Welche neuen Sozialisationsregeln lernen wir, so im Sinne von Handheben?
 
-00:31:57.410 --> 00:32:02.400
-Im Sinne von Handheben. Bei Zoom gibt es ja die Funktion Handheben.
+00:31:59.200 --> 00:32:03.610
+Ja, wie was wird, bei Zoom gibt es ja die Funktion Handheben.
 
-00:32:02.400 --> 00:32:05.810
+00:32:03.610 --> 00:32:06.610
 Das geht ja auch ohne, dass ich da einen Button drücke, indem ich einfach real die Hand hebe.
 
-00:32:05.810 --> 00:32:11.570
-Ihr wisst, was ich meine. Solche Dinge sich so schon vorab anzugewöhnen.
+00:32:06.610 --> 00:32:07.580
+Weißt du, was ich meine?
 
-00:32:11.570 --> 00:32:16.630
-Oder sich darüber Gedanken zu machen, was bedeutet das in der Zukunft für Kundengespräche,
+00:32:07.580 --> 00:32:13.430
+Solche Dinge sich so schon vorab anzugewöhnen oder sich darüber Gedanken zu machen,
 
-00:32:16.630 --> 00:32:19.630
-für Verkaufsgespräche, wenn ich sie remote noch anders führe.
+00:32:13.430 --> 00:32:19.430
+was bedeutet das in der Zukunft für Kundengespräche, für Verkaufsgespräche, wenn ich sie remote noch anders führe?
 
-00:32:19.630 --> 00:32:23.100
-Mit solchen Dingen beschäftige ich mich jetzt schon.
+00:32:19.430 --> 00:32:22.900
+Mit solchen Dingen beschäftige ich mich jetzt.
 
-00:32:23.100 --> 00:32:27.100
-Es gibt übrigens dafür ein entsprechendes Kickstarter-Projekt
+00:32:22.900 --> 00:32:28.900
+Und es gibt übrigens dafür ein entsprechendes Kickstarter-Projekt für eine solche entsprechende AR-Brille
 
-00:32:27.100 --> 00:32:33.920
-für eine solche entsprechende AR-Brille mit einer silbernen Matte,
+00:32:31.240 --> 00:32:37.230
+mit einer silbernen Matte, ja, mit so Markern am Rand, die legt man bei sich zu Hause hin.
 
-00:32:33.920 --> 00:32:37.430
-mit so Markern am Rand, die liegt man bei sich zu Hause hin.
+00:32:37.230 --> 00:32:43.280
+Dann setze ich diese AR-Brille auf, die ist relativ groß und klobig, kostet es um die 500 Dollar, ja.
 
-00:32:37.430 --> 00:32:43.590
-Dann setze ich diese AR-Brille auf, die ist relativ groß und klobig, kostet es um die 500 Dollar.
-
-00:32:43.590 --> 00:32:48.590
+00:32:43.280 --> 00:32:48.390
 Und mein Mitspieler hat auch so eine entsprechende Brille und so eine Matte.
 
-00:32:48.590 --> 00:32:51.910
+00:32:48.390 --> 00:32:51.710
 Und dann können wir gemeinsam miteinander Brettspiele spielen.
 
-00:32:51.910 --> 00:32:54.910
+00:32:51.710 --> 00:32:54.710
 Die ist gar nicht in Realität irgendwo stehen, sondern es liegt nur die Matte.
 
-00:32:54.910 --> 00:33:02.220
+00:32:54.710 --> 00:33:00.800
 Wir sehen beide dieses, kennt ihr noch Star Wars, wo die dieses Holoschach mit diesen Monstern gespielt haben.
 
-00:33:02.220 --> 00:33:07.350
+00:33:02.020 --> 00:33:06.150
 Stell dir vor, ich sitze hier, Dörte sitzt woanders und der Manuel sitzt auch noch mal woanders.
 
-00:33:07.350 --> 00:33:11.800
-Wir würden miteinander dieses Holoschach aus Star Wars miteinander spielen können.
+00:33:06.150 --> 00:33:11.130
+Und wir würden miteinander dieses Holoschach aus Star Wars miteinander spielen können.
 
-00:33:11.800 --> 00:33:13.800
+00:33:11.130 --> 00:33:12.600
 Das ist jetzt der spielerische Ansatz.
 
-00:33:13.800 --> 00:33:22.900
+00:33:12.600 --> 00:33:22.700
 Genauso kann ich natürlich auch eine Produktpräsentation von einer komplexen Maschine so remote mit anderen Menschen machen.
 
-00:33:22.900 --> 00:33:27.900
+00:33:22.700 --> 00:33:28.700
 Wow, also ich bin echt irgendwie erschlagen und ich glaube, da kommt so viel Neues auf uns zu.
 
-00:33:27.900 --> 00:33:43.190
-Bei allen Potenzialen, die das Metaverse sozusagen für uns bietet und birgt, gibt es denn auch in deiner Perspektive Risiken, Herausforderungen, vor denen wir stehen?
+00:33:28.700 --> 00:33:35.990
+Bei allen Potenzialen, die das Metaverse sozusagen für uns bietet und birgt,
 
-00:33:43.190 --> 00:33:51.760
-Ja, also eine habe ich eben genannt, Mark, Marki Mark, die Marktmacht so gesehen der großen Unternehmen.
+00:33:35.990 --> 00:33:43.930
+gibt es denn auch in deiner Perspektive Risiken, Herausforderungen, vor denen wir stehen?
 
-00:33:51.760 --> 00:34:06.400
-Das ist der Grund, warum wir als Unternehmen auf diesen Standard-USD setzen, weil der ist nicht mehr nur an einen einzelnen Konzern gebunden, sondern da haben sich jetzt schon mehrere Konzerne gesagt, auch Adobe oder so, wir unterstützen die Geschichte.
+00:33:43.930 --> 00:33:52.990
+Ja, also eine habe ich eben genannt, Mark. Marki Mark. Die Marktmacht so gesehen der großen Unternehmen.
 
-00:34:06.400 --> 00:34:16.530
-Das ist für mich dann damals, VHS hat ja deswegen gewonnen, weil sich eigentlich alle japanischen Hersteller von Videorekorder darauf geeinigt haben, wir unterstützen VHS.
+00:33:52.990 --> 00:34:01.190
+Das ist der Grund, warum wir als Unternehmen auf diesen Standard-USD setzen, weil der ist nicht mehr nur an einen einzelnen Konzern gebunden,
 
-00:34:16.530 --> 00:34:25.280
-Das ist der Grund, warum wir am Ende VHS-Kassetten hatten. Video 2000 war technisch besser, aber das war dann jetzt nicht mehr relevant.
+00:34:01.190 --> 00:34:06.190
+sondern da haben sich jetzt schon mehrere Konzerne gesagt, auch Adobe oder so, wir unterstützen die Geschichte.
 
-00:34:25.280 --> 00:34:35.500
-Und dann ist es wichtiger lieber zu wissen, okay, da entsteht ein Marktstandard auf einer Open-Source-Basis, wo der Quellcode auch eingeschaut werden kann,
+00:34:06.190 --> 00:34:14.330
+Ja, das ist für mich dann damals, VHS hat ja deswegen gewonnen, weil sich eigentlich alle japanischen Hersteller von Videorekorder
 
-00:34:35.500 --> 00:34:42.970
-der technologisch für alle offen ist, wo auch schnell andere Leute mit ihren eigenen Ideen andocken können.
+00:34:14.330 --> 00:34:20.000
+darauf geeinigt haben, wir unterstützen VHS. Das ist der Grund, warum wir am Ende VHS-Kassetten hatten.
 
-00:34:42.970 --> 00:34:49.060
-Wie jetzt eben Autodesk, die sagen, okay, es gibt noch gar keine browserbasierte Ansichtsmöglichkeit.
+00:34:20.000 --> 00:34:25.080
+Video 2000 war technisch besser, aber das war dann jetzt nicht mehr relevant.
 
-00:34:49.060 --> 00:34:51.500
+00:34:25.080 --> 00:34:32.300
+Und dann ist es wichtiger lieber zu wissen, okay, da entsteht ein Marktstandard auf einer Open-Source-Basis,
+
+00:34:32.300 --> 00:34:38.390
+wo der Quellcode auch eingeschaut werden kann, der technologisch für alle offen ist,
+
+00:34:38.390 --> 00:34:43.770
+wo auch schnell andere Leute mit ihren eigenen Ideen andocken können, wie jetzt eben Autodesk,
+
+00:34:43.770 --> 00:34:48.860
+Autodesk, die sagen, okay, es gibt noch gar keine browserbasierte Ansichtsmöglichkeit.
+
+00:34:48.860 --> 00:34:50.970
 Die haben dann jetzt mal eben eine entwickelt.
 
-00:34:51.500 --> 00:34:56.500
-Ja, in der jetzigen Variante können die zwar solche Objekte-USD-Sachen anzeigen,
+00:34:50.970 --> 00:34:56.300
+Ja, in der jetzigen Variante können die zwar solche Objekt-USD-Sachen anzeigen,
 
-00:34:56.500 --> 00:35:01.560
-aber dieses ganze Interaktive sprach eben ja von diesem Interface in 3D.
+00:34:56.300 --> 00:35:01.360
+aber dieses ganze Interaktive, sprach eben ja von diesem Interface in 3D,
 
-00:35:01.560 --> 00:35:05.260
-Das können die momentan mit dem jetzigen Player noch nicht.
+00:35:01.360 --> 00:35:04.350
+das können die momentan mit dem jetzigen Player noch nicht.
 
-00:35:05.260 --> 00:35:08.210
+00:35:04.350 --> 00:35:07.040
 Wird sicherlich in der nächsten Zeit irgendwann auch noch kommen.
 
-00:35:08.210 --> 00:35:14.210
-Da werden wir uns vielleicht auch noch neue Gesten angewöhnen, um so gesehen im 3D-Raum zu navigieren.
+00:35:07.040 --> 00:35:11.010
+Da werden wir uns vielleicht auch noch neue Gesten angewöhnen,
 
-00:35:14.210 --> 00:35:16.160
+00:35:11.010 --> 00:35:14.010
+um so gesehen im 3D-Raum zu navigieren.
+
+00:35:14.010 --> 00:35:16.010
 Wir kennen das ja alle.
 
-00:35:16.160 --> 00:35:23.470
-Kennt ihr noch den alten Joke damals aus Star Trek, als die im Jahre 1984 eine Maus in der Hand hatten
+00:35:16.010 --> 00:35:19.010
+Kennt ihr noch den alten Joke damals aus Star Trek,
 
-00:35:23.470 --> 00:35:26.470
-und die Maus in die Hand genommen haben und erst mal reingesprochen haben mit dem Mikrofon.
+00:35:19.010 --> 00:35:23.270
+als die im Jahre 1984 eine Maus in der Hand hatten
 
-00:35:26.470 --> 00:35:31.870
+00:35:23.270 --> 00:35:26.270
+und die Maus in die Hand genommen haben und erst mal reingesprochen haben mit Mikrofon.
+
+00:35:26.270 --> 00:35:31.770
 Ja, so gesehen neue Gegenstände, neue Arten von Interfaces kennenlernen.
 
-00:35:31.870 --> 00:35:36.690
+00:35:31.770 --> 00:35:36.490
 Jetzt mal für die Zuschauer, Zuhörer beschrieben.
 
-00:35:36.690 --> 00:35:40.690
+00:35:36.490 --> 00:35:40.490
 Ich mache hier gerade so eine Zwei-Finger-Geste, indem ich zweimal mit zwei Fingern aufeinander tippe.
 
-00:35:40.690 --> 00:35:48.860
+00:35:40.490 --> 00:35:48.740
 Das ist ja so eine Geste im Prinzip, die für AR zum Beispiel dafür gedacht ist, zu sagen, das ist jetzt ein Mausklick.
 
-00:35:48.860 --> 00:35:53.890
+00:35:48.740 --> 00:35:53.690
 Und es gibt auch noch andere Gesten, die sich da jetzt herauskristallisieren.
 
-00:35:53.890 --> 00:35:59.750
+00:35:53.690 --> 00:35:59.420
 Und die muss man irgendwann in Zukunft mal alle für Beruf und für Freizeit mal kennenlernen.
 
-00:35:59.750 --> 00:36:04.420
+00:35:59.420 --> 00:36:04.220
 Ja, weil die Maus nutze ich ja auch privat genauso wie im Job oder mein Trackpad.
 
-00:36:04.420 --> 00:36:12.500
+00:36:04.220 --> 00:36:12.300
 Was können wir denn jetzt konkret tun, damit wir möglichst ein vielfältiges Metaversum bekommen
 
-00:36:12.500 --> 00:36:17.460
-und nicht nur ein Mark Zuckerberg Metaversum?
+00:36:12.300 --> 00:36:17.330
+und nicht nur ein Mark Zuckerberg Metaversum.
 
-00:36:17.460 --> 00:36:20.030
-Kann man das beeinflussen?
+00:36:17.330 --> 00:36:19.830
+Gibt es da, kann man das beeinflussen?
 
-00:36:20.030 --> 00:36:24.330
-Am Ende, wir sind die Konsumenten.
+00:36:19.830 --> 00:36:24.130
+Also, am Ende, wir sind die Konsumenten.
 
-00:36:24.330 --> 00:36:26.330
+00:36:24.130 --> 00:36:26.130
 Ich hebe jetzt mal hier dramatisch die Faust.
 
-00:36:26.330 --> 00:36:28.330
+00:36:26.130 --> 00:36:28.130
 Ihr wisst, was ich meine.
 
-00:36:28.330 --> 00:36:31.290
-Wir können in kleinen Scheinen versuchen, das dafür zu tun,
+00:36:28.130 --> 00:36:31.090
+Wir können in kleinen Teilen versuchen, das dafür zu tun,
 
-00:36:31.290 --> 00:36:39.390
+00:36:31.090 --> 00:36:39.190
 dass da nicht nur ein einzelner Marktteilnehmer so gesehen da die Oberhand für sich alleine behält.
 
-00:36:39.390 --> 00:36:43.110
-Und wir können eben dafür tun, dass wir erstmal so gesehen
+00:36:39.190 --> 00:36:44.940
+Und wir können eben dafür tun, dass wir erstmal so gesehen ergebnisoffen,
 
-00:36:43.110 --> 00:36:50.140
-ergebnisoffen, was unsere 3D-Inhalte und so weiter angeht, erstmal uns darauf vorbereiten,
+00:36:44.940 --> 00:36:49.940
+was unsere 3D-Inhalte und so weiter angeht, erstmal uns darauf vorbereiten,
 
-00:36:50.140 --> 00:36:53.170
+00:36:49.940 --> 00:36:52.970
 im Notfall vielleicht auch mal auf zwei oder drei Pferde zu setzen.
 
-00:36:53.170 --> 00:36:59.890
+00:36:52.970 --> 00:36:59.690
 Und der Ansatz von NVIDIA mit dem Omniverse, dem B2B Metaversum,
 
-00:36:59.890 --> 00:37:03.980
+00:36:59.690 --> 00:37:03.780
 glaube ich, ist von daher auch für viele Leute auch sehr verführerisch, da mal dran zu gehen.
 
-00:37:03.980 --> 00:37:10.670
+00:37:03.780 --> 00:37:10.470
 Da kann man sich jetzt schon als Entwickler oder so auch mal anmelden und mal reinschauen.
 
-00:37:10.670 --> 00:37:13.510
-Spannend.
+00:37:10.470 --> 00:37:19.210
+Spannend. Was wären denn für dich so die drei Top-Learnings oder Erkenntnisse,
 
-00:37:13.510 --> 00:37:19.410
-Was wären denn für dich so die drei Top-Learnings oder Erkenntnisse,
-
-00:37:19.410 --> 00:37:24.380
+00:37:19.210 --> 00:37:24.180
 die du mit all deiner Expertise, mit all deinen Erfahrungen, die du jetzt hast, gewonnen hast?
 
-00:37:24.380 --> 00:37:32.700
-Trennt euch vom klassischen Verständnis von Interface Design.
+00:37:27.160 --> 00:37:30.160
+Trennt euch vom klassischen Verständnis von Interface-Design.
 
-00:37:32.700 --> 00:37:40.690
-3D-Inhalte sind nicht Videos, bist du gesehen. Punkt Nummer zwei hört sich komisch,
+00:37:32.500 --> 00:37:41.490
+3D-Inhalte sind nicht Videos, bis zu gesehen Punkt Nummer zwei. Hört sich komisch, ich versuche es mal zu beschreiben.
 
-00:37:40.690 --> 00:37:42.690
-ich versuche es mal zu beschreiben.
+00:37:42.490 --> 00:37:47.610
+Wenn du dir ein Unternehmensvideo anschaust, dann entscheidet der Kameramann,
 
-00:37:42.690 --> 00:37:49.070
-Wenn du dir ein Unternehmensvideo anschaust, dann entscheidet der Kameramann dadurch,
+00:37:48.870 --> 00:37:53.090
+dadurch, wo er mit der Kamera hinschaut, was du dann als Zuschauer hinterher sehen kannst.
 
-00:37:49.070 --> 00:37:53.290
-wo er mit der Kamera hinschaut, was du dann als Zuschauer hinterher sehen kannst.
+00:37:54.600 --> 00:37:58.600
+Das heißt, die Pressesprecher oder wer auch immer kann es hinterher freigeben oder jemand aus dem Marketing kann sagen,
 
-00:37:53.290 --> 00:37:56.800
-Das heißt, die Pressesprecher oder wer auch immer kann es hinterher freigeben
+00:37:59.600 --> 00:38:00.600
+dieses Video ist freigegeben, so wie es da ist.
 
-00:37:56.800 --> 00:38:00.800
-oder jemand aus dem Marketing kann sagen, dieses Video ist freigegeben, so wie es da ist.
-
-00:38:00.800 --> 00:38:05.370
+00:38:02.170 --> 00:38:05.170
 Das heißt aber auch, der Zuschauer kann sich nur die Szenen und Blickwinkel anschauen,
 
-00:38:05.370 --> 00:38:09.720
+00:38:06.420 --> 00:38:08.420
 die wir sehen, die wir möchten, dass er sich die anschaut.
 
-00:38:09.720 --> 00:38:14.750
+00:38:09.370 --> 00:38:14.550
 Sobald sich jemand aber mit solchen 3D-Inhalten in AR oder VR beschäftigt,
 
-00:38:14.750 --> 00:38:20.760
-hast du keinen Kameramann mehr. Das heißt, es ist die hohe Kunst,
+00:38:15.750 --> 00:38:16.960
+hast du keinen Kameramann mehr.
 
-00:38:20.760 --> 00:38:24.760
-die Expertise, den roten Faden legen zu können,
+00:38:18.570 --> 00:38:24.560
+Das heißt, es ist die hohe Kunst, die Expertise, den roten Faden legen zu können,
 
-00:38:24.760 --> 00:38:31.320
+00:38:26.160 --> 00:38:31.120
 der den Zuschauer oder die Möhre für den Esel vor die Nase zu spannen.
 
-00:38:31.320 --> 00:38:37.480
-Ihr wisst, was ich meine. So gesehen 3D-Content so zu konzipieren,
+00:38:32.120 --> 00:38:33.120
+Ihr wisst, was ich meine.
 
-00:38:37.480 --> 00:38:44.810
-dass der Zuschauer zwar nicht wie beim Video eins zu eins durchgeführt wird,
+00:38:34.120 --> 00:38:43.610
+So gesehen 3D-Content so zu konzipieren, dass der Zuschauer zwar nicht wie beim Video eins zu eins durchgeführt wird,
 
-00:38:44.810 --> 00:38:49.810
+00:38:44.610 --> 00:38:49.610
 aber dass er, egal was er macht, er immer noch irgendwie unterhalten wird.
 
-00:38:49.810 --> 00:38:54.810
-Ein Beispiel. Ich sage immer gerne, ein 360-Grad-Video zu konzipieren,
+00:38:50.610 --> 00:38:57.610
+Beispiel, ich sage immer gerne, ein 360-Grad-Video zu konzipieren, also dafür ein Drehbuch zu schreiben, ist wie 3D-Schach.
 
-00:38:54.810 --> 00:38:57.810
-also dafür ein Drehbuch zu schreiben, ist wie 3D-Schach.
+00:38:59.180 --> 00:39:06.860
+Und das gilt an der Stelle auch für AR und VR-Inhalt. Versteht ihr, was ich damit meine? Kommen das irgendwie rüber?
 
-00:38:57.810 --> 00:39:01.380
-Und das gilt an der Stelle auch für AR- und VR-Inhalt.
-
-00:39:01.380 --> 00:39:08.060
-Versteht ihr, was ich damit meine? Kommen das irgendwie rüber?
-
-00:39:08.060 --> 00:39:13.030
+00:39:07.860 --> 00:39:12.830
 Manuel und ich sind total erschlagen von deinem Fachwissen, was das angeht.
 
-00:39:13.030 --> 00:39:18.030
+00:39:13.830 --> 00:39:17.830
 Aber mich würde noch interessieren, ich glaube, dir gefolgt zu sein, lieber Gerhard.
 
-00:39:18.030 --> 00:39:27.590
-Aber wie begeisterst du für dieses Trend-Thema Metaverse, also wie begeisterst du dafür?
+00:39:18.830 --> 00:39:26.390
+Aber wie begeisterst du für dieses Trendthema Metaverse? Also wie begeisterst du dafür?
 
-00:39:27.590 --> 00:39:33.740
+00:39:27.390 --> 00:39:33.540
 Gar nicht. Das Metaverse ist ganz einfach. Das Metaverse ist eine Idee für in 10, 15 Jahren.
 
-00:39:33.740 --> 00:39:39.900
+00:39:34.700 --> 00:39:38.700
 Rein aus kaufmännischer Sichtweise ist es nicht meine Aufgabe, Evangelist zu sein,
 
-00:39:39.900 --> 00:39:46.060
-sondern meine Aufgabe ist dafür, für meine Kunden jetzt die richtige Lösung zu finden,
+00:39:39.700 --> 00:39:45.860
+sondern meine Aufgabe ist dafür, für meine Kunden jetzt die richtigen Lösungen zu finden,
 
-00:39:46.060 --> 00:39:49.060
+00:39:46.770 --> 00:39:48.860
 mit denen darüber zu sprechen, was da in Zukunft kommt.
 
-00:39:49.060 --> 00:39:54.790
+00:39:50.590 --> 00:39:54.590
 Und das ist so gesehen erstmal der Schritt, mach mit uns die Hausaufgaben
 
-00:39:54.790 --> 00:40:00.320
-und lass uns gemeinsam die ein oder zwei Plattformen für die jetzigen Test-Balance finden,
+00:39:56.060 --> 00:40:00.120
+und lass uns gemeinsam die ein oder zwei Plattformen für die jetzigen Testbalance finden,
 
-00:40:00.320 --> 00:40:04.310
+00:40:01.120 --> 00:40:04.110
 die da interessant sind, die für dich und deine Zielgruppe interessant sind.
 
-00:40:04.310 --> 00:40:09.310
+00:40:05.110 --> 00:40:09.110
 Und das ist vielleicht gar nicht jetzt das Metaverse von Meta, sondern irgendeine andere Plattform.
 
-00:40:09.310 --> 00:40:14.470
+00:40:10.110 --> 00:40:14.270
 Vielleicht irgendeinen Inhalt für Fortnite oder einen Inhalt für Minecraft.
 
-00:40:14.470 --> 00:40:20.680
+00:40:15.300 --> 00:40:20.480
 Ich meine, es gibt ja momentan verschiedene Unternehmen, die schon auf einem kleinen Spiel,
 
-00:40:20.680 --> 00:40:25.740
+00:40:21.480 --> 00:40:25.540
 auf der Switch, entsprechend ihre kleine Landschaft gebaut oder untergebracht haben.
 
-00:40:25.740 --> 00:40:30.030
+00:40:26.830 --> 00:40:29.830
 Ja, vielleicht ist es auch das der entsprechende Weg, jetzt gerade für das jeweilige Unternehmen.
 
-00:40:30.030 --> 00:40:32.030
+00:40:30.830 --> 00:40:31.830
 Wobei wir sind sehr viel im B2B-Bereich unterwegs.
 
-00:40:32.030 --> 00:40:37.010
+00:40:32.730 --> 00:40:36.810
 Also da sind es eher dann doch andere Plattformen und andere Wege.
 
-00:40:37.010 --> 00:40:43.820
-Ich nehme aber mit, auch wenn es noch in weiter Ferne ist in zehn Jahren,
+00:40:37.790 --> 00:40:44.620
+Ich nehme aber mit, auch wenn es noch in weiter Ferne ist, in zehn Jahren,
 
-00:40:43.820 --> 00:40:47.820
-ruhig schon mal vielleicht den Koffer packen und alles, was wichtig ist,
+00:40:45.620 --> 00:40:50.620
+ruhig schon mal vielleicht den Koffer packen und alles, was wichtig ist für diese Zukunftsreise.
 
-00:40:47.820 --> 00:40:54.980
-für diese Zukunftsreise. Ja, dass man nicht da nachher steht, der Zug ist längst abgefahren,
+00:40:51.610 --> 00:40:56.780
+Ja, dass man nicht danach steht, der Zug ist längst abgefahren, man ist überhaupt nicht vorbereitet,
 
-00:40:54.980 --> 00:41:00.980
-man ist überhaupt nicht vorbereitet, sondern man kann da schon sozusagen den Koffer packen,
+00:40:57.780 --> 00:41:04.740
+sondern man kann da schon sozusagen den Koffer packen, sich vorbereiten und die Grundsteine legen,
 
-00:41:00.980 --> 00:41:06.940
-sich vorbereiten und die Grundsteine legen, diesen Trend dann auch nicht zu verpassen.
+00:41:05.740 --> 00:41:08.070
+diesen Trend dann auch nicht zu verpassen.
 
-00:41:06.940 --> 00:41:08.320
-Korrekt.
+00:41:10.460 --> 00:41:14.460
+Also von meiner Seite habe ich jetzt keine Frage mehr. Mich würde vielleicht noch interessieren,
 
-00:41:08.320 --> 00:41:12.660
-Also von meiner Seite habe ich jetzt keine Frage mehr.
+00:41:15.460 --> 00:41:19.460
+gibt es eine Frage, die wir dir nicht gestellt haben, wo du sagst, die würde ich total gerne noch beantworten.
 
-00:41:12.660 --> 00:41:16.660
-Mich würde vielleicht noch interessieren, gibt es eine Frage, die wir dir nicht gestellt haben,
+00:41:20.870 --> 00:41:21.870
+Was ist dir wichtig?
 
-00:41:16.660 --> 00:41:22.070
-wo du sagst, die würde ich total gern noch beantworten. Was ist dir wichtig?
+00:41:22.870 --> 00:41:26.870
+Nee, ich glaube, den Komplex, wie wichtig das Metaverse für die Zukunft ist, haben wir, glaube ich, geklärt.
 
-00:41:22.070 --> 00:41:26.070
-Nee, ich glaube, den Komplex, wie wichtig das Metaverse für die Zukunft ist,
+00:41:27.870 --> 00:41:30.870
+In Zukunft wird es wichtig sein. Wir haben darüber gesprochen, das ist schön, was brauchst du jetzt?
 
-00:41:26.070 --> 00:41:28.070
-haben wir, glaube ich, geklärt. In Zukunft wird es wichtig sein.
+00:41:32.090 --> 00:41:36.090
+Und man soll nicht vernachlässigen, okay, 3D-Inhalt, ja, wir haben eine CAD-Abteilung,
 
-00:41:28.070 --> 00:41:31.070
-Wir haben darüber gesprochen, das ist schön, was brauchst du jetzt?
+00:41:37.090 --> 00:41:44.500
+haben wir unsere Maschinen alle in CAD, ja. Hast du damit im Notfall jetzt schon Verkaufsunterlagen gesehen in 3D?
 
-00:41:31.070 --> 00:41:36.290
-Und man soll nicht vernachlässigen, okay, 3D-Inhalte, ja, wir haben eine CAD-Abteilung,
+00:41:45.500 --> 00:41:49.620
+Ja, hast du alles andere? Und wir sind es gewohnt, du gibst in der Agentur den Auftrag,
 
-00:41:36.290 --> 00:41:41.700
-da haben wir unsere Maschinen alle in CAD, ja. Hast du damit im Notfall jetzt schon
+00:41:50.620 --> 00:41:56.110
+mach uns mal ein Design für die Website. Gut, jetzt hat die eine oder andere Firma schon nicht nur die erste,
 
-00:41:41.700 --> 00:41:45.700
-Verkaufsunterlagen gesehen in 3D? Ja, hast du alles andere?
+00:41:57.110 --> 00:42:01.110
+sondern zweite, dritte, vierte oder wisst schon, wie viel zur Website. Da sammelt man mit den Jahren auch Erfahrungen.
 
-00:41:45.700 --> 00:41:50.820
-Und wir sind es gewohnt, du gibst in der Agentur den Auftrag, mach uns mal ein Design für die Website.
+00:42:02.110 --> 00:42:08.110
+Genauso geht das auch mit dem Themenbereich Interface Design für die eigene Zielgruppe, ja, für das eigene Unternehmen.
 
-00:41:50.820 --> 00:41:57.310
-Gut, jetzt hat die eine oder andere Firma schon nicht nur die erste, sondern zweite, dritte, vierte
+00:42:08.110 --> 00:42:13.530
+im dreidimensionalen Raum, ja, auch da würde ich lieber schon mal ein bisschen früher,
 
-00:41:57.310 --> 00:42:01.310
-oder ihr wisst schon, wie viel zur Website. Da sammelt man mit den Jahren auch Erfahrungen.
+00:42:14.530 --> 00:42:19.490
+das kannst du jetzt ja schon alles auf virtuellen oder Präsenzmessen nutzen.
 
-00:42:01.310 --> 00:42:06.310
-Genauso geht das auch mit dem Themenbereich Interface Design für die eigene Zielgruppe, ja,
+00:42:20.780 --> 00:42:24.780
+Es ist ja nicht so, dass du darauf warten musst, dass da hinten irgendwann mal die große Schnittstellen-Zukunft kommt,
 
-00:42:06.310 --> 00:42:13.730
-für das eigene Unternehmen im dreidimensionalen Raum, ja. Auch da würde ich lieber schon mal ein bisschen früher,
+00:42:25.780 --> 00:42:31.190
+Halleluja, ja, den ganzen Kram kannst du jetzt schon nutzen und kannst jetzt schon Erfahrungen sammeln.
 
-00:42:13.730 --> 00:42:19.690
-oder das kannst du jetzt ja schon alles auf virtuellen oder Präsenzmessen nutzen.
+00:42:32.190 --> 00:42:36.190
+Und wenn dann irgendeiner mit den richtigen Schnittstellen um die Ecke kommen, die ja die Brücken gebaut haben,
 
-00:42:19.690 --> 00:42:24.980
-Es ist ja nicht so, dass du darauf warten musst, dass da hinten irgendwann mal die große Schnittstellenzukunft kommt,
+00:42:37.190 --> 00:42:40.700
+von Plattform A zu Plattform B zu Plattform C.
 
-00:42:24.980 --> 00:42:31.390
-Halleluja, ja. Den ganzen Kram kannst du jetzt schon nutzen und kannst jetzt schon Erfahrungen sammeln.
+00:42:40.700 --> 00:42:46.600
+Ah jo, dann musst du ja nur noch über die Brücke gehen und nicht dann sagen so.
 
-00:42:31.390 --> 00:42:36.390
-Und wenn dann irgendeiner mit den richtigen Schnittstellen um die Ecke kommen, die ja die Brücken gebaut haben
+00:42:46.600 --> 00:42:49.630
+Jetzt müssen wir erst mal uns überlegen, wie soll das überhaupt aussehen,
 
-00:42:36.390 --> 00:42:42.900
-von Plattform A zu Plattform B zu Plattform C, ah jo, dann musst du ja nur noch über die Brücke gehen.
+00:42:49.630 --> 00:42:55.800
+was auf unserem Stück Land da im Second Life oder wem auch immer steht.
 
-00:42:42.900 --> 00:42:49.830
-Und nicht dann sagen, so, jetzt müssen wir erst mal uns überlegen, wie soll das überhaupt aussehen,
-
-00:42:49.830 --> 00:42:55.930
-was auf unserem Stück Land da in Second Life oder wem auch immer steht.
-
-00:42:55.930 --> 00:43:05.080
+00:42:58.880 --> 00:43:04.880
 Gibt es denn noch Menschen, die dich in Bezug auf Metaverse inspirieren, von denen du noch lernst?
 
-00:43:05.080 --> 00:43:13.080
-Also wir durften jetzt ganz viel von dir lernen. Wen folgst du? Welche Blogs liest du, um einfach up to date zu bleiben
+00:43:05.880 --> 00:43:07.880
+Also wir durften jetzt ganz viel von dir lernen.
 
-00:43:13.080 --> 00:43:16.080
-und nah am Puls der Zeit?
+00:43:07.880 --> 00:43:14.880
+Wen folgst du? Welche Blogs liest du, um einfach up to date zu bleiben und nah am Puls der Zeit?
 
-00:43:16.080 --> 00:43:23.300
+00:43:15.880 --> 00:43:23.100
 Ich schaue sehr viel in die Spielebranche an der Stelle, weil dort ist man recht schnell bereit, Dinge mal auszuprobieren.
 
-00:43:23.300 --> 00:43:30.240
-Und da gibt es so ein, erstens gibt es ein Web-, ein Podcast, der heißt Metaverse, der ist von Thomas Riedl.
+00:43:24.100 --> 00:43:30.060
+Erstens gibt es ein Podcast, der heißt Metaverse, der ist von Thomas Riedl.
 
-00:43:30.240 --> 00:43:33.670
-Den würde ich da empfehlen, mal rein zu hören.
+00:43:31.470 --> 00:43:33.470
+Den würde ich da empfehlen, mal reinzuhören.
 
-00:43:33.670 --> 00:43:38.020
-Gibt es auch als Newsletter, ist entsprechend eine gute Quelle.
+00:43:33.470 --> 00:43:36.470
+Das gibt es auch als Newsletter, das ist entsprechend eine gute Quelle.
 
-00:43:38.020 --> 00:43:45.500
-Und sonst gibt es noch einen zweiten deutschen Podcast und eine Website dazu, das ist mixed.de.
+00:43:37.500 --> 00:43:43.820
+Und sonst gibt es noch einen zweiten deutschen Podcast und eine Website dazu, das ist mixt.de.
 
-00:43:45.500 --> 00:43:49.920
-Der Metaverse Podcast ist mehr so diese geschäftsmäßige Schiene.
+00:43:45.300 --> 00:43:49.210
+Der Metaverse-Podcast ist mehr so diese geschäftsmäßige Schiene.
 
-00:43:49.920 --> 00:43:53.920
-Und mixed ist ja auch sehr viel auf dem Computerspielebereich.
+00:43:50.720 --> 00:43:53.720
+Und mixt ist ja auch sehr viel aus dem Computerspielebereich.
 
-00:43:53.920 --> 00:44:01.820
-Was gibt es da an, das neue Playstation, VR, Headset und Ähnliches kommt da auch in der Freizeitperspektive drin vor.
+00:43:54.720 --> 00:44:01.720
+Was gibt es da? Das neue Playstation, VR, Headset und Ähnliches kommt da auch in der Freizeitperspektive drin vor.
 
-00:44:01.820 --> 00:44:07.360
-Darüber und dann waren wir weiterführende Links darüber auf englischsprachige Plattformen.
+00:44:04.160 --> 00:44:07.160
+Und dann waren wir weiterführende Links darüber auf englischsprachige Plattformen.
 
-00:44:07.360 --> 00:44:09.370
+00:44:08.220 --> 00:44:09.220
 Da kommt man schon recht schnell weit.
 
-00:44:09.370 --> 00:44:13.660
-Ja, auch noch verlinken in den Shownotes.
+00:44:12.460 --> 00:44:20.460
+Ich gucke mal rüber zum Manuel. Manuel, hast du noch Fragen? Ist noch irgendwas offen geblieben bei dir?
 
-00:44:13.660 --> 00:44:17.660
-Ich gucke mal rüber zum Manuel. Manuel, hast du noch Fragen?
+00:44:22.160 --> 00:44:26.410
+Ne, ich bin auch so ein bisschen, wie du sagst, erschlagen. Also es sind viele neue Sachen.
 
-00:44:17.660 --> 00:44:20.660
-Ist noch irgendwas offen geblieben bei dir?
+00:44:27.410 --> 00:44:32.600
+Weil ich mich vorher mit AR, VR und Metaversum noch nie mit beschäftigt habe, muss ich zugeben.
 
-00:44:20.660 --> 00:44:24.610
-Nee, ich bin auch so ein bisschen, wie du sagst, erschlagen.
+00:44:33.600 --> 00:44:36.370
+Und aktuell, vielleicht kommen nachher noch ein paar Fragen.
 
-00:44:24.610 --> 00:44:32.800
-Also es sind viele neue Sachen, weil ich mich vorher mit AR, VR und Metaversum noch nie mit beschäftigt habe, muss ich zugeben.
+00:44:37.340 --> 00:44:49.550
+Genau, es gibt ja Möglichkeiten, auch mir Fragen zu stellen. Ich habe auch noch mit meinem Partner in Crime noch einen Podcast, der heißt kopfkino.ruhr, ist auch die Domain dazu.
 
-00:44:32.800 --> 00:44:36.570
-Und aktuell vielleicht kommen nachher noch ein paar Fragen.
+00:44:50.580 --> 00:45:05.040
+Wir hatten in der letzten Folge den Sascha Pallenberg als Gesprächspartner und in der nächsten Folge am 4. März um 14 Uhr live auf YouTube, auf Twitter und auf LinkedIn haben wir die Eva Holden.
 
-00:44:36.570 --> 00:44:41.180
-Genau, es gibt ja Möglichkeiten, auch mir Fragen zu stellen.
+00:45:06.260 --> 00:45:09.230
+Also Augmented Reality und Veränderung der Arbeitswelt.
 
-00:44:41.180 --> 00:44:47.180
-Ich habe auch noch mit meinem Partner in Crime noch einen Podcast, der heißt kopfkino.ruhe.
+00:45:09.230 --> 00:45:22.760
+Super spannend. Ich würde sagen, lieber Gerhard, wir verlinken das in den Shownotes, dass dann unsere Zuhörerinnen da einfach nochmal nachschauen können, nachhören können.
 
-00:44:47.180 --> 00:44:54.990
-Das ist auch die Domain dazu. Wir hatten in der letzten Folge den Sascha Pallenberg als Gesprächspartner
+00:45:22.760 --> 00:45:35.270
+Also von meiner Seite ein riesengroßes Dankeschön. Auch wenn ich mich etwas erschlagen fühle an der Flut, die ja so auf mich drauf gewappt ist,
 
-00:44:54.990 --> 00:45:05.300
-und in der nächsten Folge am 4. März um 14 Uhr live auf YouTube, auf Twitter und auf LinkedIn haben wir die Eva Holden.
+00:45:35.270 --> 00:45:41.270
+habe ich schon das Gefühl, etwas oder annähernd verstanden zu haben, wovon du ganz, ganz viel Ahnung hast.
 
-00:45:05.300 --> 00:45:09.430
-Da sprechen wir über Augmented Reality und Veränderung der Arbeitswelt.
+00:45:41.270 --> 00:45:47.270
+Also vielen Dank, dass du da dein Wissen, deine Erfahrungen und alles geteilt hast mit uns.
 
-00:45:09.430 --> 00:45:15.960
-Super spannend. Ich würde sagen, lieber Gerhard, wir verlinken das in den Shownotes,
+00:45:47.270 --> 00:45:53.270
+Von meiner Seite ein großes Merci und wir bleiben da auf jeden Fall am Ball.
 
-00:45:15.960 --> 00:45:22.960
-dass dann unsere Zuhörerinnen da einfach nochmal nachschauen können, nachhören können.
+00:45:53.270 --> 00:45:58.270
+Und ich werde heute Abend auch auf jeden Fall nochmal ein bisschen da nachlesen und nachstöpeln.
 
-00:45:22.960 --> 00:45:32.470
-Also von meiner Seite ein riesengroßes Dankeschön. Auch wenn ich mich etwas erschlagen fühle an der Flut,
-
-00:45:32.470 --> 00:45:38.470
-die ja so auf mich drauf gewappt ist, habe ich schon das Gefühl etwas oder annähernd verstanden zu haben,
-
-00:45:38.470 --> 00:45:44.470
-wovon du ganz, ganz viel Ahnung hast. Also vielen Dank, dass du da dein Wissen, deine Erfahrungen
-
-00:45:44.470 --> 00:45:52.470
-und alles geteilt hast mit uns. Von meiner Seite ein großes Merci und wir bleiben da auf jeden Fall
-
-00:45:52.470 --> 00:45:58.470
-am Ball und ich werde heute Abend auch auf jeden Fall nochmal ein bisschen da nachlesen und nachstöfern.
-
-00:45:58.470 --> 00:46:02.030
+00:45:58.270 --> 00:46:01.830
 Danke auch von mir, ja.
 
-00:46:02.030 --> 00:46:04.220
+00:46:01.830 --> 00:46:04.050
 Danke auch von mir. Over and out.
