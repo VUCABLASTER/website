@@ -7,7 +7,11 @@
   "staffel": "",
   "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": [],
+  "key_learnings": [
+    "Psychologische Sicherheit im Team entscheidet, ob Menschen ihre Stimme erheben.",
+    "Vor dem Sprechen durch die Nase ausatmen: Mit halb gefüllter Lunge trägt die Stimme.",
+    "Halblaut üben und sich filmen wirkt stärker als weiteres Polieren der Folien."
+  ],
   "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings).",
   "geprueft": false,
   "link_spotify": "",
