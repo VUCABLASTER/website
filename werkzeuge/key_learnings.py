@@ -33,12 +33,17 @@ def frage(nutzer, versuche=3):
                                                 'Content-Type': 'application/json', 'Accept': 'application/vnd.github+json'})
         try:
             with urllib.request.urlopen(req, timeout=120) as r:
-                return json.load(r)['choices'][0]['message']['content'].strip()
+                roh = r.read().decode('utf-8', 'replace')
+                status = r.status
+            try:
+                return json.loads(roh)['choices'][0]['message']['content'].strip()
+            except (ValueError, KeyError, IndexError):
+                raise RuntimeError(f'Antwort ohne Modelltext (HTTP {status}): {roh[:300]!r}')
         except urllib.error.HTTPError as e:
             if e.code in (429, 500, 502, 503) and i < versuche - 1:
                 time.sleep(20 * (i + 1))
                 continue
-            raise
+            raise RuntimeError(f'HTTP {e.code}: {e.read().decode("utf-8", "replace")[:300]!r}')
 
 
 def learnings(nr, titel, gast):
