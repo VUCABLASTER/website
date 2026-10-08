@@ -1,9 +1,9 @@
 {
-  "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com \"version\" bestimmt, welche Fassung live geht (v1 = große Banner, v3 = dezente Banner).",
+  "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com \"version\" bestimmt, welche Fassung live geht (v1 = große Banner, v3 = dezente Banner, v4 = Post-its an wechselnden Stellen).",
   "aktiv": false,
   "ende": "2026-11-08",
   "goatcounter": "vucablaster",
-  "version": "v3",
+  "version": "v4",
   "hinweis_titel": "Danke! Das testen wir gerade.",
   "hinweis_text": "{produkt} gibt es noch nicht. Dein Klick zeigt uns, was euch interessiert.",
   "varianten": [
@@ -157,6 +157,53 @@
         "text": "Matte und 30 Übungskarten für zwei Minuten Bewegung zwischen Calls.",
         "preis": "ca. 49 €",
         "button": "Set ansehen",
+        "produkt": "Das Exercise-Snack-Set",
+        "bild": "bewegung-3"
+      }
+    ]
+  },
+  "v4": {
+    "stil": "postit",
+    "hinweis_titel": "Danke! Das testen wir gerade.",
+    "hinweis_text": "{produkt} gibt es noch nicht. Dein Klick zeigt uns, was euch interessiert.",
+    "plaetze": {
+      "folge": [
+        "learnings",
+        "bild"
+      ],
+      "start": [
+        "learnings",
+        "about"
+      ]
+    },
+    "varianten": [
+      {
+        "id": "journal",
+        "label": "Neu!",
+        "titel": "Das Check-in-Journal",
+        "text": "52 Fragen aus dem Podcast zum Reinschreiben, für dich und dein Team.",
+        "preis": "ca. 24 €",
+        "button": "Ansehen",
+        "produkt": "Das Check-in-Journal",
+        "bild": "journal-1"
+      },
+      {
+        "id": "buecher",
+        "label": "Neu!",
+        "titel": "Das Mut-Bücherpaket",
+        "text": "Drei Bücher unserer Gäste zu Mut, Stimme und Veränderung.",
+        "preis": "ca. 59 €",
+        "button": "Ansehen",
+        "produkt": "Das Mut-Bücherpaket",
+        "bild": "buecher-1"
+      },
+      {
+        "id": "bewegung",
+        "label": "Neu!",
+        "titel": "Exercise Snacks fürs Büro",
+        "text": "Matte und 30 Übungskarten für zwei Minuten Bewegung zwischen Calls.",
+        "preis": "ca. 49 €",
+        "button": "Ansehen",
         "produkt": "Das Exercise-Snack-Set",
         "bild": "bewegung-3"
       }

@@ -621,3 +621,51 @@ html{scroll-padding-top:68px}
 @media (min-width:1200px){ .wtv-paar:has(.ad-test--dezent){grid-template-columns:minmax(0,760px) 358px} }
 .wtv-testhinweis{margin:0;padding:10px var(--gut);background:var(--c-ink);color:#FFFFFF;font-size:15px}
 .wtv-testhinweis a{color:#FFFFFF}
+/* Werbetest V4: Post-it mit Klebestreifen, fügt sich in die Pinnwand-Optik ein */
+.ad-slot:empty{display:none}
+.ad-slot{display:flex;margin-top:40px}
+.ad-test.ad-note{--kipp:-2deg;width:min(100%,340px);max-width:none;margin:0;padding:30px 22px 22px;border:0;border-radius:0;background:var(--c-rose);
+  box-shadow:0 14px 22px -16px rgba(22,20,20,.45);overflow:visible;transform:rotate(var(--kipp))}
+.ad-test.ad-note.farbe-aqua{background:var(--c-aqua)}
+.ad-note__band{display:none;position:absolute;z-index:2;width:92px;height:26px;background:var(--c-tape);opacity:.94;pointer-events:none}
+.band-1 .ad-note__band--a{display:block;left:50%;top:-13px;margin-left:-46px;transform:rotate(-3deg)}
+.band-2 .ad-note__band--a,.band-3 .ad-note__band--a{display:block;left:-18px;top:-4px;width:72px;transform:rotate(-34deg)}
+.band-2 .ad-note__band--b,.band-3 .ad-note__band--b{display:block;right:-18px;top:-4px;width:72px;transform:rotate(34deg)}
+.band-3 .ad-note__band--c{display:block;left:50%;bottom:-12px;margin-left:-38px;width:76px;transform:rotate(4deg)}
+.ad-note .ad-test__werbung{position:relative;display:grid;grid-template-columns:76px minmax(0,1fr);gap:16px;align-items:start;cursor:pointer}
+.ad-note__label{align-self:flex-start;font-family:"Permanent Marker","Comic Sans MS",cursive;font-size:1.125rem;line-height:1;color:var(--c-petrol);transform:rotate(-4deg);margin-bottom:2px}
+.ad-note__foto{display:block;width:76px;height:76px;padding:5px;background:var(--c-board);border:1.5px solid var(--c-frame);transform:rotate(-3deg)}
+.ad-note__foto img{display:block;width:100%;height:100%;object-fit:cover}
+.ad-note__inhalt{display:flex;flex-direction:column;gap:4px;min-width:0}
+.ad-note__titel{font-size:1.25rem;font-weight:800;line-height:1.15;letter-spacing:-.01em}
+.ad-note__text{font-size:15px;line-height:1.4}
+.ad-note__fuss{display:flex;flex-wrap:wrap;align-items:center;gap:4px 14px;margin-top:6px}
+.ad-note__preis{font-weight:800;color:var(--c-petrol)}
+.ad-note__btn{display:inline-flex;align-items:center;gap:6px;min-height:44px;padding:0;border:0;background:none;color:var(--c-ink);font:inherit;font-size:16px;font-weight:800;
+  text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:4px;cursor:pointer}
+.ad-note .ad-test__werbung:hover .ad-note__btn{color:var(--c-petrol)}
+.ad-note__btn:focus-visible{outline:3px solid var(--c-violet);outline-offset:3px}
+.ad-note .ad-test__hinweis{gap:12px;padding:22px;background:inherit;flex-direction:row;text-align:left}
+.ad-note .ad-test__haken{width:36px;height:36px;border-width:1.5px}
+.ad-note .ad-test__hinweis-titel{font-size:1.125rem;margin:0 0 2px}
+.ad-note .ad-test__hinweis-text{font-size:15px;line-height:1.4}
+@container (min-width:420px){
+  .ad-note .ad-test__werbung{grid-template-columns:104px minmax(0,1fr);gap:22px;align-items:center}
+  .ad-note__foto{width:104px;height:104px;padding:6px}
+}
+/* Plätze */
+.learnings .ad-slot{justify-content:flex-start;padding-left:8px}
+.ep-side .ad-slot,.current-side .ad-slot{justify-content:center;margin-top:56px}
+.about-grid > .ad-slot{margin-top:8px;justify-content:center}
+.about-grid > .ad-slot .ad-note{width:min(100%,460px)}
+@media (min-width:768px){
+  .learnings .ad-slot{justify-content:flex-end;margin-top:28px;padding:0 24px 0 0}
+}
+@media (min-width:1024px){
+  .about-grid > .ad-slot{grid-column:2;margin-top:-8px}
+}
+/* Vorschau: Zettelwand */
+.wtv-zettelwand{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:56px 40px;padding:24px 8px}
+.wtv-zettel{display:flex;justify-content:center}
+.wtv-zettel:nth-child(3n+2) .ad-note{--kipp:1.6deg}
+.wtv-zettel:nth-child(3n) .ad-note{--kipp:-1deg}

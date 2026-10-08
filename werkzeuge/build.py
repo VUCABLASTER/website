@@ -698,6 +698,8 @@ def main():
     archiv(site, folgen, infos, staffeln, hat_bild)
     folgenseiten(site, folgen, infos, staffeln, hat_bild)
     werbetest.testseiten(site, folgen)
+    werbetest.postit_seiten(site, folgen)
+    werbetest.postit_testseiten(site, folgen)
     n_transkripte = transkripte.suchindex(site, folgen)
     kurzlinks(site, folgen)
     weiterleitung(site, 'archiv', 'folgen/')
