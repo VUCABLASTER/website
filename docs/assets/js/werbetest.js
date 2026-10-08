@@ -1,6 +1,6 @@
 /* Werbetest (Fake Door), siehe werkzeuge/werbetest.py.
    Zeigt pro Seitenaufruf zufällig eine Variante. Gezählt wird nur, wenn der Platz einen Zähler hat:
-   „gesehen“ einmal, sobald das Banner zur Hälfte sichtbar ist, „klick“ einmal pro Seitenaufruf.
+   Pfad werbetest/<fassung>/<variante>/…, „gesehen“ einmal, sobald das Banner zur Hälfte sichtbar ist, „klick“ einmal pro Seitenaufruf.
    Die Anfrage geht direkt an GoatCounter (keine Cookies, kein GoatCounter-Skript). */
 (function () {
   function zaehlen(zaehler, pfad) {
@@ -10,8 +10,8 @@
     if (navigator.sendBeacon) { navigator.sendBeacon(url); } else { new Image().src = url; }
   }
 
-  function einrichten(banner, zaehler) {
-    var id = banner.getAttribute('data-variante');
+  function einrichten(banner, zaehler, fassung) {
+    var id = (fassung ? fassung + '/' : '') + banner.getAttribute('data-variante');
     var geklickt = false;
     banner.querySelector('.ad-test__werbung').addEventListener('click', function () {
       if (geklickt) return;
@@ -37,9 +37,9 @@
     var banner = alle[Math.floor(Math.random() * alle.length)];
     banner.hidden = false;
     platz.classList.add('ist-bereit');
-    einrichten(banner, platz.getAttribute('data-zaehler'));
+    einrichten(banner, platz.getAttribute('data-zaehler'), platz.getAttribute('data-fassung'));
   });
 
   /* Vorschauseite: alle Banner sichtbar, Klick zeigt den Hinweis, ohne Zählung */
-  document.querySelectorAll('.wtv .ad-test').forEach(function (banner) { einrichten(banner, ''); });
+  document.querySelectorAll('.wtv .ad-test').forEach(function (banner) { einrichten(banner, '', ''); });
 })();

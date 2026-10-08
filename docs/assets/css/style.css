@@ -589,3 +589,33 @@ html{scroll-padding-top:68px}
 .wtv-mobil{width:100%;max-width:358px}
 .wtv .ad-test{margin:0}
 @media (min-width:1200px){ .wtv-paar{grid-template-columns:minmax(0,1fr) 358px} }
+/* Werbetest V2: dezent, fügt sich in den Seitenhintergrund ein */
+.ad-test-platz:has(.ad-test--dezent){padding:28px var(--gut) 36px}
+.ad-test.ad-test--dezent{max-width:760px;border:1px solid var(--c-frame);border-radius:10px;background:transparent;box-shadow:none}
+.ad-test--dezent .ad-test__werbung{grid-template-columns:72px minmax(0,1fr);gap:14px;align-items:center;padding:14px;min-height:0}
+.ad-test--dezent .ad-test__bild{width:72px;height:72px;aspect-ratio:1;border-radius:6px}
+.ad-test--dezent .ad-test__inhalt{gap:2px;padding:0}
+.ad-test--dezent .ad-test__label{padding:0;background:none;color:var(--c-muted);font-size:12px;font-weight:700}
+.ad-test--dezent .ad-test__titel{font-size:1.125rem;font-weight:800;line-height:1.2;letter-spacing:0}
+.ad-test--dezent .ad-test__text{font-size:15px;line-height:1.4;max-width:46ch}
+.ad-test--dezent .ad-test__fuss{gap:8px 14px;margin-top:8px}
+.ad-test--dezent .ad-test__preis{font-size:1rem}
+.ad-test--dezent .ad-test__btn{min-height:40px;padding:7px 14px;background:transparent;color:var(--c-ink);box-shadow:none;font-size:15px}
+.ad-test--dezent .ad-test__werbung:hover .ad-test__btn{background:var(--c-petrol);border-color:var(--c-petrol);color:#FFFFFF}
+.ad-test--dezent .ad-test__hinweis{gap:12px;padding:12px 16px;background:var(--c-archive)}
+.ad-test--dezent .ad-test__haken{width:36px;height:36px;border-width:1px}
+.ad-test--dezent .ad-test__haken svg{width:20px;height:20px}
+.ad-test--dezent .ad-test__hinweis-titel{font-size:1.0625rem;margin:0 0 2px}
+.ad-test--dezent .ad-test__hinweis-text{font-size:15px;line-height:1.4}
+@container (min-width:560px){
+  .ad-test--dezent .ad-test__werbung{grid-template-columns:112px minmax(0,1fr);gap:20px;min-height:0;padding:14px 20px 14px 14px}
+  .ad-test--dezent .ad-test__bild{width:112px;height:112px}
+  .ad-test--dezent .ad-test__inhalt{display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:24px;align-items:center;justify-content:normal;padding:0}
+  .ad-test--dezent .ad-test__inhalt > :not(.ad-test__fuss){grid-column:1}
+  .ad-test--dezent .ad-test__label{justify-self:start}
+  .ad-test--dezent .ad-test__fuss{grid-column:2;grid-row:1 / span 3;flex-direction:column;align-items:flex-end;margin:0}
+  .ad-test--dezent .ad-test__hinweis{flex-direction:row;text-align:left}
+}
+@container (max-width:559px){ .ad-test--dezent .ad-test__hinweis{flex-direction:row;text-align:left} }
+.wtv-paar:has(.ad-test--dezent){grid-template-columns:minmax(0,1fr)}
+@media (min-width:1200px){ .wtv-paar:has(.ad-test--dezent){grid-template-columns:minmax(0,760px) 358px} }
