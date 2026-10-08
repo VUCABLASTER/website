@@ -1,9 +1,9 @@
 {
-  "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com \"version\" bestimmt, welche Fassung live geht (v1 = große Banner, v2 = dezente Banner mit konkreten Produkten).",
+  "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com \"version\" bestimmt, welche Fassung live geht (v1 = große Banner, v3 = dezente Banner).",
   "aktiv": false,
   "ende": "2026-11-08",
   "goatcounter": "vucablaster",
-  "version": "v2",
+  "version": "v3",
   "hinweis_titel": "Danke! Das testen wir gerade.",
   "hinweis_text": "{produkt} gibt es noch nicht. Dein Klick zeigt uns, was euch interessiert.",
   "varianten": [
@@ -117,42 +117,42 @@
       "fokus": 0.5,
       "alt": "Eine Frau macht Yoga in einem hellen Wohnzimmer"
     },
-    "ergo-1": {
-      "unsplash": "photo-1760278041809-b157c39c30d3",
-      "seite": "https://unsplash.com/photos/4PSqRScfEf0",
-      "von": "@matgocman",
+    "journal-1": {
+      "unsplash": "photo-1434030216411-0b793f4b4173",
+      "seite": "https://unsplash.com/photos/s9CC2SKySJM",
+      "von": "@uns__nstudio",
       "fokus": 0.5,
-      "alt": "Ein aufgeräumter Home-Office-Arbeitsplatz mit ergonomischem Bürostuhl"
+      "alt": "Eine Person schreibt am Holztisch in ein Notizbuch, daneben ein Kaffeebecher"
     }
   },
-  "v2": {
+  "v3": {
     "stil": "dezent",
     "hinweis_titel": "Danke! Das testen wir gerade.",
-    "hinweis_text": "{produkt} gibt es bei uns noch nicht. Dein Klick zeigt uns, was euch interessiert.",
+    "hinweis_text": "{produkt} gibt es noch nicht. Dein Klick zeigt uns, was euch interessiert.",
     "varianten": [
       {
-        "id": "teamdeck",
-        "label": "Tipp",
-        "titel": "Teamgeist-Deck von Vertellis",
-        "text": "Fragekarten für bessere Gespräche im Team, ideal als Check-in.",
-        "preis": "",
-        "button": "Deck ansehen",
-        "produkt": "Das Teamgeist-Deck",
-        "bild": "karten-2"
+        "id": "journal",
+        "label": "Neu",
+        "titel": "Das Check-in-Journal",
+        "text": "52 Fragen aus dem Podcast zum Reinschreiben, für dich und dein Team.",
+        "preis": "ca. 24 €",
+        "button": "Journal ansehen",
+        "produkt": "Das Check-in-Journal",
+        "bild": "journal-1"
       },
       {
-        "id": "ergotopia",
-        "label": "Hörer-Deal",
-        "titel": "30 % auf Ergotopia",
-        "text": "Ergonomische Bürostühle für Rücken und Nacken.",
-        "preis": "−30 %",
-        "button": "Rabatt sichern",
-        "produkt": "Den Ergotopia-Rabatt",
-        "bild": "ergo-1"
+        "id": "buecher",
+        "label": "Neu",
+        "titel": "Das Mut-Bücherpaket",
+        "text": "Drei Bücher unserer Gäste zu Mut, Stimme und Veränderung.",
+        "preis": "ca. 59 €",
+        "button": "Paket ansehen",
+        "produkt": "Das Mut-Bücherpaket",
+        "bild": "buecher-1"
       },
       {
         "id": "bewegung",
-        "label": "Tipp",
+        "label": "Neu",
         "titel": "Exercise Snacks fürs Büro",
         "text": "Matte und 30 Übungskarten für zwei Minuten Bewegung zwischen Calls.",
         "preis": "ca. 49 €",

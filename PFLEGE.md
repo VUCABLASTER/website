@@ -87,9 +87,9 @@ Nach 1–2 Minuten ist die alte Version live. Werkzeuge und Folgen-Infos bleiben
 
 ## Werbetest (Fake Door)
 
-Drei Produktbanner (Check-in-Karten, Mut-Bücherpaket, Exercise Snacks) auf Startseite und Folgenseiten. Wer klickt, sieht an derselben Stelle „Danke! Das testen wir gerade.“ Gezählt werden nur Ansichten und Klicks pro Banner in GoatCounter: https://vucablaster.goatcounter.com (Einträge „werbetest/…“). Keine Cookies.
+Drei Produktbanner (Check-in-Journal, Mut-Bücherpaket, Exercise Snacks; Fassung laut "version" in der JSON) auf Startseite und Folgenseiten. Wer klickt, sieht an derselben Stelle „Danke! Das testen wir gerade.“ Gezählt werden nur Ansichten und Klicks pro Banner in GoatCounter: https://vucablaster.goatcounter.com (Einträge „werbetest/…“). Keine Cookies.
 
-- **Vorschau zur Abnahme:** https://vucablaster.de/werbetest-vorschau/ (nicht verlinkt, noindex). Verschwindet automatisch, sobald der Test läuft.
+- **Vorschau zur Abnahme:** https://vucablaster.de/werbetest-vorschau/ (V1, große Banner) und https://vucablaster.de/werbetest-vorschau/v3/ (geplante Fassung, dezent), dazu pro Banner eine Testseite im echten Umfeld einer Folgenseite: …/v3/journal/, …/v3/buecher/, …/v3/bewegung/. Alles nicht verlinkt, noindex, ohne Zählung. Verschwindet automatisch, sobald der Test läuft.
 - **Einstellungen:** `inhalte/werbetest.json` – Texte, Preise, Fotos, `aktiv`, `ende`.
 - **Starten:** `"aktiv": true` setzen und pushen. Der Workflow baut die Website neu, die Banner erscheinen.
 - **Beenden (schnell, empfohlen):** `"aktiv": false` setzen und pushen (oder Claude Code bitten: „Werbetest ausschalten“). Der Build entfernt Banner, Skript und Zählung von allen Seiten. Nach 1–2 Minuten ist alles weg. Am Datum `ende` passiert das automatisch.

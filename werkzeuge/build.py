@@ -697,6 +697,7 @@ def main():
         startseite(site, folgen, infos, staffeln, hat_bild)
     archiv(site, folgen, infos, staffeln, hat_bild)
     folgenseiten(site, folgen, infos, staffeln, hat_bild)
+    werbetest.testseiten(site, folgen)
     n_transkripte = transkripte.suchindex(site, folgen)
     kurzlinks(site, folgen)
     weiterleitung(site, 'archiv', 'folgen/')

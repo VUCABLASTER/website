@@ -135,3 +135,29 @@ def vorschau(site):
             (einleitung, '<div class="wtv">' + '\n'.join(reihen) + '</div>'),
             extra_head=f'<meta name="robots" content="noindex">\n<script src="{pre}assets/js/werbetest.js?v={version("js/werbetest.js")}" defer></script>\n'),
             encoding='utf-8')
+
+
+def testseiten(site, folgen):
+    """Pro Banner der geplanten Fassung eine Testseite im echten Umfeld: die neueste Folgenseite mit genau diesem Banner
+    an der späteren Stelle (zwischen Key Learnings und „Weiterstöbern“). Liegt unter /werbetest-vorschau/<fassung>/<id>/,
+    noindex, ohne Zählung. Wird mit der Vorschau entfernt, sobald der Test läuft."""
+    import re
+    cfg = laden()
+    if not cfg or cfg.get('aktiv') or not folgen:
+        return
+    f = fassung(cfg)
+    quelle = (site / 'folgen' / folgen[0]['slug'] / 'index.html').read_text(encoding='utf-8')
+    # Pfade von /folgen/<slug>/ (Tiefe 2) auf /werbetest-vorschau/<fassung>/<id>/ (Tiefe 3) umstellen
+    seite = re.sub(r'(?<=["\s,])\.\./\.\./', '../../../', quelle)
+    seite = re.sub(r'(?<=["\s,])\.\./(?!\.\./)', '../../../folgen/', seite)
+    seite = seite.replace('<head>', '<head>\n<meta name="robots" content="noindex">', 1)
+    seite = seite.replace('</head>', f'<script src="../../../assets/js/werbetest.js?v={version("js/werbetest.js")}" defer></script>\n</head>', 1)
+    for v in f['varianten']:
+        platz = f'<div class="ad-test-platz" data-zaehler="" data-fassung="{esc(f["version"])}">{_banner("../../../", cfg, f, v)}</div>\n'
+        hinweis = (f'<p class="wtv-testhinweis">Testseite (nicht verlinkt): So erscheint das Banner „{esc(v["titel"])}“ auf einer Folgenseite. '
+                   f'Weiter unten, nach den Key Learnings. <a href="../">Alle Banner dieser Fassung</a></p>\n')
+        neu = seite.replace('<section class="section ep-more"', platz + '<section class="section ep-more"', 1)
+        neu = neu.replace('<main id="inhalt">', '<main id="inhalt">\n' + hinweis, 1)
+        ziel = site / 'werbetest-vorschau' / f['version'] / v['id']
+        ziel.mkdir(parents=True, exist_ok=True)
+        (ziel / 'index.html').write_text(neu, encoding='utf-8')

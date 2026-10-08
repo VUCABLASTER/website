@@ -619,3 +619,5 @@ html{scroll-padding-top:68px}
 @container (max-width:559px){ .ad-test--dezent .ad-test__hinweis{flex-direction:row;text-align:left} }
 .wtv-paar:has(.ad-test--dezent){grid-template-columns:minmax(0,1fr)}
 @media (min-width:1200px){ .wtv-paar:has(.ad-test--dezent){grid-template-columns:minmax(0,760px) 358px} }
+.wtv-testhinweis{margin:0;padding:10px var(--gut);background:var(--c-ink);color:#FFFFFF;font-size:15px}
+.wtv-testhinweis a{color:#FFFFFF}
