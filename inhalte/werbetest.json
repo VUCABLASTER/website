@@ -1,0 +1,54 @@
+{
+  "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com",
+  "aktiv": false,
+  "ende": "2026-11-08",
+  "goatcounter": "vucablaster",
+  "hinweis_titel": "Danke! Das testen wir gerade.",
+  "hinweis_text": "{produkt} gibt es noch nicht. Dein Klick zeigt uns, was euch interessiert.",
+  "varianten": [
+    {
+      "id": "karten",
+      "label": "Neu",
+      "titel": "Die Check-in-Karten aus dem Podcast",
+      "text": "52 Fragen, die Meetings und Workshops in zwei Minuten öffnen.",
+      "preis": "ca. 24 €",
+      "button": "Karten ansehen",
+      "produkt": "Die Check-in-Karten",
+      "bild": "karten-1",
+      "kandidaten": ["karten-1", "karten-2", "karten-3"]
+    },
+    {
+      "id": "buecher",
+      "label": "Neu",
+      "titel": "Das Mut-Bücherpaket",
+      "text": "Drei Bücher unserer Gäste zu Mut, Stimme und Veränderung, mit unseren Leseimpulsen.",
+      "preis": "ca. 59 €",
+      "button": "Paket ansehen",
+      "produkt": "Das Mut-Bücherpaket",
+      "bild": "buecher-1",
+      "kandidaten": ["buecher-1", "buecher-2", "buecher-3"]
+    },
+    {
+      "id": "bewegung",
+      "label": "Neu",
+      "titel": "Exercise Snacks fürs Büro",
+      "text": "Matte und 30 Übungskarten für zwei Minuten Bewegung zwischen zwei Calls.",
+      "preis": "ca. 49 €",
+      "button": "Set ansehen",
+      "produkt": "Das Exercise-Snack-Set",
+      "bild": "bewegung-1",
+      "kandidaten": ["bewegung-1", "bewegung-2", "bewegung-3"]
+    }
+  ],
+  "bilder": {
+    "karten-1":   {"unsplash": "photo-1623652554515-91c833e3080e", "seite": "https://unsplash.com/photos/MDu-53qRVr4", "von": "@byfortytwo", "fokus": 0.5, "alt": "Hände schreiben im Workshop auf gelbe Karten"},
+    "karten-2":   {"unsplash": "photo-1788247835203-6f2e9694ad14", "seite": "https://unsplash.com/photos/3DgB223OUZs", "von": "@declansun", "fokus": 0.55, "alt": "Ein Stapel weißer Fragekarten auf einem Holztisch"},
+    "karten-3":   {"unsplash": "photo-1623303647440-967d26b95b47", "seite": "https://unsplash.com/photos/dEcBKGZS0P8", "von": "@byfortytwo", "fokus": 0.5, "alt": "Menschen arbeiten im Workshop mit Karten am Tisch"},
+    "buecher-1":  {"unsplash": "photo-1728931710024-c015ea8f4414", "seite": "https://unsplash.com/photos/FzvVv0G3hgQ", "von": "@kellysikkema", "fokus": 0.72, "alt": "Eine Frau liest am Fenster ein Buch"},
+    "buecher-2":  {"unsplash": "photo-1497633762265-9d179a990aa6", "seite": "https://unsplash.com/photos/lUaaKCUANVI", "von": "@kimberlyfarmer", "fokus": 0.25, "alt": "Ein bunter Stapel Bücher"},
+    "buecher-3":  {"unsplash": "photo-1544716278-ca5e3f4abd8c", "seite": "https://unsplash.com/photos/nGrfKmtwv24", "von": "@sincerelymedia", "fokus": 0.45, "alt": "Ein aufgeschlagenes Buch neben Brille und Cappuccino"},
+    "bewegung-1": {"unsplash": "photo-1758874384318-d5653079a0e3", "seite": "https://unsplash.com/photos/CjtMyZmo2OU", "von": "@silverkblack", "fokus": 0.45, "alt": "Eine Frau streckt sich gut gelaunt am Schreibtisch"},
+    "bewegung-2": {"unsplash": "photo-1758599880805-3f000f47fa46", "seite": "https://unsplash.com/photos/-2ezVIyGgc0", "von": "@silverkblack", "fokus": 0.6, "alt": "Eine Frau macht Übungen auf einer Matte vor ihrem Laptop"},
+    "bewegung-3": {"unsplash": "photo-1758599879090-afdd08ef9974", "seite": "https://unsplash.com/photos/NtANZNby_qs", "von": "@silverkblack", "fokus": 0.5, "alt": "Eine Frau macht Yoga in einem hellen Wohnzimmer"}
+  }
+}

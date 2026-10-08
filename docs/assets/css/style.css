@@ -540,3 +540,52 @@ html{scroll-padding-top:68px}
   .site-head.is-stuck .guest-li{position:static}
   .site-head.is-stuck .guest-note{padding:0 10px}
 }
+
+/* ---------- Werbetest (Fake Door), siehe werkzeuge/werbetest.py ---------- */
+.ad-test-platz{display:none;padding:40px var(--gut) 48px;border-top:2px solid var(--c-ink)}
+.ad-test-platz.ist-bereit{display:block}
+.ad-test{position:relative;container-type:inline-size;max-width:1100px;margin:0 auto;border:2px solid var(--c-ink);border-radius:8px;
+  background:var(--c-board);box-shadow:6px 6px 0 var(--c-ink);overflow:hidden}
+.ad-test[hidden]{display:none}
+.ad-test__werbung{display:grid;grid-template-columns:1fr;cursor:pointer}
+.ad-test__bild{display:block;aspect-ratio:3/2;overflow:hidden;background:var(--c-archive)}
+.ad-test__bild img{display:block;width:100%;height:100%;object-fit:cover;transition:transform .5s ease}
+.ad-test__inhalt{display:flex;flex-direction:column;align-items:flex-start;gap:10px;padding:20px 20px 24px}
+.ad-test__label{padding:4px 10px;border-radius:4px;background:var(--c-red);color:#FFFFFF;font-size:14px;font-weight:800;letter-spacing:.06em;text-transform:uppercase}
+.ad-test__titel{margin:0;font-size:clamp(1.6rem,1.3rem + 1.2vw,2.25rem);font-weight:800;line-height:1.1;letter-spacing:-.01em}
+.ad-test__text{margin:0;color:var(--c-muted);max-width:34ch}
+.ad-test__fuss{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;margin-top:8px}
+.ad-test__preis{font-size:1.375rem;font-weight:800;color:var(--c-petrol)}
+.ad-test__btn{display:inline-flex;align-items:center;gap:8px;min-height:48px;padding:12px 20px;border:2px solid var(--c-ink);border-radius:4px;
+  background:var(--c-petrol);color:#FFFFFF;font:inherit;font-weight:800;cursor:pointer;box-shadow:3px 3px 0 var(--c-ink)}
+.ad-test__btn:focus-visible{outline:3px solid var(--c-violet);outline-offset:3px}
+.ad-test__werbung:hover .ad-test__btn{background:var(--c-violet)}
+@container (min-width:640px){
+  .ad-test__werbung{grid-template-columns:minmax(0,46%) minmax(0,1fr);min-height:300px}
+  .ad-test__bild{aspect-ratio:auto;height:100%}
+  .ad-test__inhalt{justify-content:center;gap:12px;padding:32px 40px}
+}
+.ad-test__hinweis{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;gap:18px;padding:24px;
+  background:var(--c-rose);text-align:left;opacity:0;visibility:hidden}
+.ad-test__hinweis:focus{outline:none}
+.ad-test__hinweis:focus-visible{outline:3px solid var(--c-violet);outline-offset:-6px}
+.ad-test__haken{flex:none;display:grid;place-items:center;width:52px;height:52px;border:2px solid var(--c-ink);border-radius:50%;background:var(--c-teal);color:var(--c-ink)}
+.ad-test__hinweis-titel{margin:0 0 4px;font-size:clamp(1.4rem,1.2rem + .8vw,1.875rem);font-weight:800;line-height:1.15}
+.ad-test__hinweis-text{margin:0;max-width:40ch}
+.ad-test.ist-geklickt .ad-test__hinweis{opacity:1;visibility:visible}
+.ad-test.ist-geklickt .ad-test__werbung{visibility:hidden;cursor:default}
+@container (max-width:639px){ .ad-test__hinweis{flex-direction:column;text-align:center} }
+@media (prefers-reduced-motion:no-preference){
+  .ad-test__hinweis{transition:opacity .35s ease,visibility .35s}
+  .ad-test__werbung:hover .ad-test__bild img{transform:scale(1.04)}
+}
+/* Vorschauseite */
+.wtv{padding:24px var(--gut) 64px}
+.wtv-h{margin:48px 0 8px;font-size:var(--fs-ep);line-height:1.1}
+.wtv-reihe{margin:24px 0 40px}
+.wtv-name{margin:0 0 12px;font-weight:700}
+.wtv-tag{margin:0 0 8px;font-size:14px;font-weight:800;text-transform:uppercase;letter-spacing:.06em;color:var(--c-muted)}
+.wtv-paar{display:grid;gap:32px;align-items:start}
+.wtv-mobil{width:100%;max-width:358px}
+.wtv .ad-test{margin:0}
+@media (min-width:1200px){ .wtv-paar{grid-template-columns:minmax(0,1fr) 358px} }

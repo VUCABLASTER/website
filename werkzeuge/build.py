@@ -24,7 +24,7 @@ import xml.etree.ElementTree as ET
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import layout
 from layout import REPO, SPOTIFY, APPLE, BASE_URL, head, header, footer, nav_items, leiste
-import unterseiten, gewinnspiel, plattformen, transkripte, entwurf
+import unterseiten, gewinnspiel, plattformen, transkripte, entwurf, werbetest
 
 FEED_URL = 'https://evjjod.podcaster.de/vucablaster.rss'
 APPLE_ID = '1541461336'
@@ -405,15 +405,20 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
     s = ersetzen(s, 'PLAYER-LEISTE', player_leiste(f, titel, gast))
     s = ersetzen(s, 'HERO-NOTIZ', notiz)
     s = ersetzen(s, 'AKTUELLE-FOLGE', aktuell)
+    werbung = f'<!-- WERBETEST:START (inhalte/werbetest.json) -->\n{werbetest.banner_html("")}<!-- WERBETEST:ENDE -->'
+    if '<!-- WERBETEST:START' in s:
+        s = ersetzen(s, 'WERBETEST', werbung)
+    else:
+        s = s.replace('<!-- AKTUELLE-FOLGE:ENDE -->', '<!-- AKTUELLE-FOLGE:ENDE -->\n' + werbung, 1)
     if '<!-- ARCHIV:START' in s:
         s = ersetzen(s, 'ARCHIV', archiv)
     else:
-        s = s.replace('<!-- AKTUELLE-FOLGE:ENDE -->', '<!-- AKTUELLE-FOLGE:ENDE -->\n\n' + archiv, 1)
+        s = s.replace('<!-- WERBETEST:ENDE -->', '<!-- WERBETEST:ENDE -->\n\n' + archiv, 1)
     s = re.sub(r'href="assets/css/style\.css(\?v=\w+)?"', f'href="assets/css/style.css?v={layout.version("css/style.css")}"', s, count=1)
     s = s.replace('<section class="section hosts" aria-labelledby="hosts-h">', '<section id="hosts" class="section hosts" aria-labelledby="hosts-h">', 1)
-    for name in ('main', 'nav'):  # Skripte mit Versionsnummer, nav.js ergänzen
+    for name in ('main', 'nav', 'werbetest'):  # Skripte mit Versionsnummer, nav.js ergänzen, werbetest.js nur bei aktivem Test
         s = re.sub(rf'<script src="assets/js/{name}\.js[^"]*"[^>]*></script>\n?', '', s)
-    s = s.replace('</head>', f'<script src="assets/js/nav.js?v={layout.version("js/nav.js")}" defer></script>\n<script src="assets/js/main.js?v={layout.version("js/main.js")}" defer></script>\n</head>', 1)
+    s = s.replace('</head>', f'<script src="assets/js/nav.js?v={layout.version("js/nav.js")}" defer></script>\n<script src="assets/js/main.js?v={layout.version("js/main.js")}" defer></script>\n{werbetest.skript("")}</head>', 1)
     fuss = footer('').split('</footer>')[0] + '</footer>'
     s = re.sub(r'<footer class="site-foot">.*?</footer>', lambda m: fuss, s, count=1, flags=re.S)
     s = re.sub(r'<p class="hero-meta">.*?</p>', f'<p class="hero-meta">{len(folgen)} Folgen seit {jahr0}</p>', s, count=1)
@@ -563,7 +568,8 @@ def folgenseiten(site, folgen, infos, staffeln, hat_bild):
                  f'<meta property="og:title" content="#{f["nr"]} {esc(titel)} – VUCA Blaster">\n'
                  f'<meta property="og:description" content="{esc(beschreibung)}">\n'
                  f'<meta property="og:url" content="{BASE_URL}folgen/{f["slug"]}/">\n'
-                 f'<meta property="og:image" content="{og_bild}">\n<meta name="twitter:card" content="summary_large_image">\n')
+                 f'<meta property="og:image" content="{og_bild}">\n<meta name="twitter:card" content="summary_large_image">\n'
+                 + werbetest.skript(pre))
         inhalt = f'''
 <main id="inhalt">
 <div class="board-sm ep-head">
@@ -587,7 +593,7 @@ def folgenseiten(site, folgen, infos, staffeln, hat_bild):
     <div class="ep-side">{abzug}</div>
   </div>
 {learnings(info)}</section>
-<section class="section ep-more" aria-label="Weiterstöbern">
+{werbetest.banner_html(pre)}<section class="section ep-more" aria-label="Weiterstöbern">
   {blaettern}
   <a class="btn-outline" href="../">Alle Folgen</a>
 </section>
@@ -686,6 +692,7 @@ def main():
 
     unterseiten.main(site)
     gewinnspiel.main(site)
+    werbetest.vorschau(site)
     if layout.ARCHIV_VERLINKT:
         startseite(site, folgen, infos, staffeln, hat_bild)
     archiv(site, folgen, infos, staffeln, hat_bild)
