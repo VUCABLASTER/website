@@ -72,7 +72,7 @@ Nach dem Umstellen den Build laufen lassen.
 
 ## Rollback
 
-Rollback-Punkte (Git-Tags): **`vor-archiv`** (Stand vor dem Archiv), **`vor-verlinkung`** (Archiv online, aber unverlinkt), **`vor-transkripten`** (vor Plattform-Links und Transkripten). Zurück geht es ohne Verlust von Historie so (im Projektordner):
+Rollback-Punkte (Git-Tags): **`vor-werbetest`** (Stand vor dem Werbetest, 08.10.2026), **`vor-archiv`** (Stand vor dem Archiv), **`vor-verlinkung`** (Archiv online, aber unverlinkt), **`vor-transkripten`** (vor Plattform-Links und Transkripten). Zurück geht es ohne Verlust von Historie so (im Projektordner):
 
 ```
 git checkout main
@@ -84,3 +84,26 @@ git push
 
 Oder Claude Code bitten: „Setz docs/ auf den Stand von Tag vor-archiv zurück, committe und pushe.“
 Nach 1–2 Minuten ist die alte Version live. Werkzeuge und Folgen-Infos bleiben erhalten, man kann jederzeit wieder vorwärts bauen.
+
+## Werbetest (Fake Door)
+
+Drei Produktbanner (Check-in-Karten, Mut-Bücherpaket, Exercise Snacks) auf Startseite und Folgenseiten. Wer klickt, sieht an derselben Stelle „Danke! Das testen wir gerade.“ Gezählt werden nur Ansichten und Klicks pro Banner in GoatCounter: https://vucablaster.goatcounter.com (Einträge „werbetest/…“). Keine Cookies.
+
+- **Vorschau zur Abnahme:** https://vucablaster.de/werbetest-vorschau/ (nicht verlinkt, noindex). Verschwindet automatisch, sobald der Test läuft.
+- **Einstellungen:** `inhalte/werbetest.json` – Texte, Preise, Fotos, `aktiv`, `ende`.
+- **Starten:** `"aktiv": true` setzen und pushen. Der Workflow baut die Website neu, die Banner erscheinen.
+- **Beenden (schnell, empfohlen):** `"aktiv": false` setzen und pushen (oder Claude Code bitten: „Werbetest ausschalten“). Der Build entfernt Banner, Skript und Zählung von allen Seiten. Nach 1–2 Minuten ist alles weg. Am Datum `ende` passiert das automatisch.
+- **Vollständiger Rollback:** Code und Seiten auf den Stand vor dem Test zurücksetzen, ohne Historie zu verlieren:
+
+```
+git checkout main
+git pull
+git restore --source=vor-werbetest --staged --worktree -- werkzeuge docs/assets/css/style.css
+git rm -r --quiet docs/assets/js/werbetest.js docs/assets/img/werbetest docs/werbetest-vorschau inhalte/werbetest.json werkzeuge/werbetest.py werkzeuge/werbetest_bilder.py
+python3 werkzeuge/build.py
+git add -A docs werkzeuge inhalte
+git commit -m "Rollback: Werbetest vollständig entfernt"
+git push
+```
+
+  Hinweis: `werkzeuge` wird dabei komplett auf den Stand des Tags gesetzt. Gab es seitdem andere Änderungen an den Werkzeugen, lieber Claude Code bitten: „Entferne den Werbetest vollständig (Rollback auf vor-werbetest), andere Änderungen behalten.“
