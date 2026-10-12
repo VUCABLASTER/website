@@ -1,6 +1,6 @@
 {
   "_hinweis": "Werbetest (Fake Door). aktiv=true schaltet die Banner auf Startseite und Folgenseiten ein, nach dem Datum 'ende' schaltet der Build sie automatisch ab. Gezählt werden nur Ansichten und Klicks pro Banner (GoatCounter, ohne Cookies). Zahlen: https://vucablaster.goatcounter.com \"version\" bestimmt, welche Fassung live geht (v1 = große Banner, v3 = dezente Banner, v4 = Post-its an wechselnden Stellen).",
-  "aktiv": false,
+  "aktiv": true,
   "ende": "2026-11-08",
   "goatcounter": "vucablaster",
   "version": "v4",

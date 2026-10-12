@@ -1,10 +1,10 @@
 # Datenschutzerklärung
 
-Stand: September 2026
+Stand: Oktober 2026
 
 ## 1. Das Wichtigste in Kürze
 
-Diese Website ist eine einfache, statische Seite zum Podcast „VUCA Blaster“. Wir setzen keine Cookies, keine Analyse- oder Tracking-Werkzeuge und keine Werbung ein. Schriften werden von unserem eigenen Server geladen. Personenbezogene Daten fallen nur an, wenn du die Seite aufrufst (technisch notwendig beim Hosting), wenn du den Audio-Player aktiv lädst oder wenn du uns eine E-Mail schreibst.
+Diese Website ist eine einfache, statische Seite zum Podcast „VUCA Blaster“. Wir setzen keine Cookies, keine Tracking-Werkzeuge und keine Werbenetzwerke ein. Für einen zeitlich begrenzten Produkttest zählen wir lediglich, wie oft ein Hinweis auf ein mögliches Produkt angezeigt und angeklickt wird, ohne Cookies und ohne Profile (Abschnitt 5). Schriften werden von unserem eigenen Server geladen. Personenbezogene Daten fallen nur an, wenn du die Seite aufrufst (technisch notwendig beim Hosting), wenn während des Produkttests ein Hinweis gezählt wird, wenn du den Audio-Player aktiv lädst oder wenn du uns eine E-Mail schreibst.
 
 ## 2. Verantwortlicher
 
@@ -26,11 +26,21 @@ Dabei können Daten in die USA übermittelt werden. Die Übermittlung stützt si
 
 Weitere Informationen: GitHub-Datenschutzerklärung unter https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement
 
-## 4. Keine Cookies, kein Tracking
+## 4. Keine Cookies, keine Profile
 
-Wir verwenden keine Cookies und keine vergleichbaren Technologien, keine Analyse-Tools (etwa Google Analytics), keine Social-Media-Plugins und keine Werbenetzwerke. Die verwendeten Schriftarten sind lokal auf unserem Server eingebunden; beim Laden der Seite werden keine Verbindungen zu Servern Dritter (etwa Google Fonts) aufgebaut.
+Wir verwenden keine Cookies und keine vergleichbaren Technologien, keine Analyse-Tools wie Google Analytics, keine Social-Media-Plugins und keine Werbenetzwerke. Einzige Ausnahme ist die anonyme Zählung beim Produkttest (Abschnitt 5). Die verwendeten Schriftarten sind lokal auf unserem Server eingebunden; beim Laden der Seite werden keine Verbindungen zu Servern Dritter (etwa Google Fonts) aufgebaut.
 
-## 5. Audio-Player (erst nach deinem Klick)
+## 5. Anonyme Zählung beim Produkttest (GoatCounter)
+
+Bis voraussichtlich 8. November 2026 testen wir, ob Produkte rund um den Podcast für unsere Hörerinnen und Hörer interessant wären. Dazu erscheint auf der Startseite und den Folgenseiten ein Zettel mit einem Produkt, das es noch nicht gibt. Klickst du darauf, erscheint ein Hinweis, dass es sich um einen Test handelt. Es wird nichts verkauft und nichts bestellt.
+
+Wir zählen nur, wie oft ein Zettel sichtbar war und wie oft er angeklickt wurde. In diesen beiden Momenten sendet dein Browser eine Anfrage an den Zähldienst GoatCounter. Übertragen werden die Bezeichnung des Zettels (zum Beispiel „werbetest/v4/buecher/bild/klick“) und technisch bedingt deine IP-Adresse und Browserkennung. GoatCounter speichert weder IP-Adressen noch die vollständige Browserkennung noch eine Kennung, über die du wiedererkannt werden könntest. Gespeichert werden nur zusammengefasste Zahlen, etwa Anzahl pro Tag, Browsername und Land. Um doppelte Zählungen zu vermeiden, hält GoatCounter Website, IP-Adresse und Browserkennung bis zu acht Stunden ausschließlich im Arbeitsspeicher. Es werden keine Cookies gesetzt und keine Daten in deinem Browser gespeichert.
+
+Anbieter ist GoatCounter, betrieben von Martin Tournoij (Irland). Die Daten liegen auf Servern der Hetzner Online GmbH in Deutschland und Finnland. Weitere Informationen: https://www.goatcounter.com/help/privacy
+
+Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt darin, mit möglichst wenigen Daten herauszufinden, welche Angebote für unsere Hörerinnen und Hörer relevant sind. Du kannst jederzeit widersprechen (Art. 21 DSGVO). Wenn du JavaScript deaktivierst oder einen Inhaltsblocker nutzt, wird nichts gezählt. Nach dem Ende des Tests entfernen wir die Zählung von der Website.
+
+## 6. Audio-Player (erst nach deinem Klick)
 
 Auf der Startseite kannst du die aktuelle Folge direkt anhören. Der Player wird erst geladen, wenn du auf „Audio-Player laden“ klickst. Vorher werden keine Daten an Dritte übertragen.
 
@@ -38,17 +48,17 @@ Nach deinem Klick wird die Audiodatei vom Server unseres Podcast-Hosters podcast
 
 Rechtsgrundlage ist deine Einwilligung durch den Klick (Art. 6 Abs. 1 lit. a DSGVO). Deine Einwilligung gilt nur für den jeweiligen Seitenaufruf und wird nicht gespeichert. Du kannst sie jederzeit für die Zukunft widerrufen, indem du die Seite neu lädst und den Player nicht startest.
 
-## 6. Links zu Podcast-Plattformen und LinkedIn
+## 7. Links zu Podcast-Plattformen und LinkedIn
 
 Die Website enthält Links zu Spotify, Apple Podcasts, Deezer, Amazon Music und LinkedIn. Es handelt sich um einfache Links, nicht um eingebettete Inhalte. Daten werden erst übertragen, wenn du einen Link anklickst und die Seite des jeweiligen Anbieters aufrufst. Dort gelten dessen Datenschutzbestimmungen.
 
-## 7. Kontakt per E-Mail
+## 8. Kontakt per E-Mail
 
-Wenn du uns per E-Mail schreibst (z. B. an hello@vucablaster.com), verarbeiten wir deine Angaben (E-Mail-Adresse, Name, Inhalt der Nachricht), um deine Anfrage zu beantworten, zum Beispiel eine Gastanfrage. Für E-Mails zur Teilnahme am Gewinnspiel gilt zusätzlich Abschnitt 8.
+Wenn du uns per E-Mail schreibst (z. B. an hello@vucablaster.com), verarbeiten wir deine Angaben (E-Mail-Adresse, Name, Inhalt der Nachricht), um deine Anfrage zu beantworten, zum Beispiel eine Gastanfrage. Für E-Mails zur Teilnahme am Gewinnspiel gilt zusätzlich Abschnitt 9.
 
 Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO, soweit deine Anfrage auf eine Zusammenarbeit (etwa als Gast) gerichtet ist, im Übrigen Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Beantwortung von Anfragen). Wir löschen die Daten, sobald sie für die Bearbeitung nicht mehr erforderlich sind und keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-## 8. Gewinnspiel beim WORCamp 2026
+## 9. Gewinnspiel beim WORCamp 2026
 
 Am Gewinnspiel nimmst du per E-Mail an hello@vucablaster.com teil. Die Gewinnspielseite öffnet dafür nur dein Mailprogramm mit einer vorbereiteten Nachricht. Sie speichert selbst keine Daten und überträgt nichts an Dritte.
 
@@ -58,11 +68,11 @@ Wenn du im Formular zustimmst, nennen wir dich im Fall eines Gewinns mit Namen i
 
 Wir löschen die Daten der Teilnehmenden, sobald das Gewinnspiel abgeschlossen ist und die Gewinne verschickt sind, soweit keine gesetzlichen Aufbewahrungspflichten entgegenstehen.
 
-## 9. Verschlüsselung
+## 10. Verschlüsselung
 
 Die Website wird ausschließlich über eine verschlüsselte Verbindung (HTTPS/TLS) ausgeliefert.
 
-## 10. Deine Rechte
+## 11. Deine Rechte
 
 Du hast das Recht auf Auskunft (Art. 15 DSGVO), Berichtigung (Art. 16), Löschung (Art. 17), Einschränkung der Verarbeitung (Art. 18), Datenübertragbarkeit (Art. 20) und Widerspruch gegen Verarbeitungen auf Grundlage berechtigter Interessen (Art. 21 DSGVO). Eine erteilte Einwilligung kannst du jederzeit mit Wirkung für die Zukunft widerrufen (Art. 7 Abs. 3 DSGVO). Wende dich dazu an die oben genannte Adresse.
 
@@ -73,6 +83,6 @@ Kavalleriestraße 2–4
 40213 Düsseldorf
 https://www.ldi.nrw.de
 
-## 11. Änderungen
+## 12. Änderungen
 
 Wir passen diese Datenschutzerklärung an, wenn sich die Website oder die Rechtslage ändert. Es gilt die jeweils hier veröffentlichte Fassung.

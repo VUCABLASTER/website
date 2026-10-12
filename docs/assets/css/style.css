@@ -662,7 +662,16 @@ html{scroll-padding-top:68px}
   .learnings .ad-slot{justify-content:flex-end;margin-top:28px;padding:0 24px 0 0}
 }
 @media (min-width:1024px){
-  .about-grid > .ad-slot{grid-column:2;margin-top:-8px}
+  .about-grid:has(> .ad-slot .ad-note) > :first-child{grid-row:1 / span 2}
+  .about-grid > .ad-slot{grid-column:2;grid-row:2;position:relative;z-index:2;margin-top:clamp(-80px,-5vw,-56px)}
+  .about-grid:has(> .ad-slot .ad-note) .print--cover{margin-top:-20px}
+}
+@media (min-width:1200px){
+  /* Folgen- und Startseite: Post-it in einer Reihe mit den Key Learnings */
+  .learnings:has(.ad-slot .ad-note){display:grid;grid-template-columns:minmax(0,1fr) 340px;column-gap:clamp(24px,3vw,48px);align-items:start}
+  .learnings:has(.ad-slot .ad-note) > .label{grid-column:1 / -1}
+  .learnings:has(.ad-slot .ad-note) > .stickies{grid-column:1}
+  .learnings .ad-slot{grid-column:2;grid-row:2;margin:20px 0 0;padding:0;justify-content:flex-start}
 }
 /* Vorschau: Zettelwand */
 .wtv-zettelwand{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:56px 40px;padding:24px 8px}

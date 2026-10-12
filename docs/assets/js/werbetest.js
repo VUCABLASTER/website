@@ -10,7 +10,8 @@
     if (!zaehler) return;
     var url = 'https://' + zaehler + '.goatcounter.com/count?e=true&p=' + encodeURIComponent(pfad) +
       '&t=' + encodeURIComponent(pfad) + '&rnd=' + Math.random().toString(36).slice(2);
-    if (navigator.sendBeacon) { navigator.sendBeacon(url); } else { new Image().src = url; }
+    if (navigator.webdriver) url += '&b=153';  /* automatisierte Browser als Bot markieren */
+    new Image().src = url;  /* GoatCounter zählt GET-Anfragen auf /count (Zählpixel) */
   }
 
   function zufall(liste) { return liste[Math.floor(Math.random() * liste.length)]; }
@@ -57,7 +58,9 @@
     if (plaetze.length && zettel.length) {
       var platz = zufall(plaetze);
       var notiz = zufall(zettel);
-      notiz.classList.add(zufall(['band-1', 'band-2', 'band-3']), zufall(['farbe-rose', 'farbe-aqua']));
+      /* neben den Key Learnings (rosa, türkis, rosa) passt der Zettel farblich als türkiser vierter */
+      var farbe = platz.getAttribute('data-platz') === 'learnings' ? 'farbe-aqua' : zufall(['farbe-rose', 'farbe-aqua']);
+      notiz.classList.add(zufall(['band-1', 'band-2', 'band-3']), farbe);
       notiz.style.setProperty('--kipp', zufall(['-2.5deg', '-1.5deg', '1.2deg', '2.2deg']));
       platz.appendChild(notiz);
       notiz.hidden = false;

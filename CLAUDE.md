@@ -17,6 +17,7 @@
 - Startseite optisch wie D3 (Abschnitte laut Spez), Farben nur aus den Tokens der Spez.
 - **Nichts erfinden.** Fehlt etwas (leeres Feld im Fragebogen): HTML-Kommentar `<!-- FEHLT: … -->`, Element ausblenden oder neutraler Ersatz.
 - Datenschutz: keine Cookies, kein Tracking, keine Requests an fremde Hosts beim Seitenaufruf, Schriften lokal, Player nur per 2-Klick.
+  Ausnahme (befristet): Werbetest mit GoatCounter-Zählpixel nur für „gesehen“/„klick“ der Test-Zettel, gesteuert über `inhalte/werbetest.json` (siehe PFLEGE.md, Abschnitt „Werbetest“).
 - Barrierefreiheit WCAG 2.2 AA, `prefers-reduced-motion` respektieren.
 - Solange Impressum oder Datenschutz fehlen: `noindex` + `robots.txt Disallow: /`.
 - Deutsch, Du-Ansprache, typografische Anführungszeichen. Commits auf Deutsch.
