@@ -71,14 +71,20 @@ def learnings(titel, gast, text):
                              'Nenne die 3 wichtigsten inhaltlichen Aussagen oder Erkenntnisse dieses Teils als kurze '
                              'Stichpunkte auf Deutsch.\n\n' + teil))
         print(f'  Teil {k}/{len(teile)} in {time.time() - t0:.0f} s', flush=True)
-    antwort = frage(f'Folge: {titel}. Gast: {gast or "unbekannt"}.\nStichpunkte aus allen Teilen der Folge:\n\n'
+    auftrag = (f'Folge: {titel}. Gast: {gast or "unbekannt"}.\nStichpunkte aus allen Teilen der Folge:\n\n'
                     + '\n\n'.join(notizen) +
                     '\n\nWähle daraus genau 3 Key Learnings für Hörerinnen und Hörer. Jedes ist ein ganzer deutscher Satz '
                     'mit höchstens 15 Wörtern, sachlich und mit Lernwert, ohne Wiederholungen. '
                     'Antworte nur als JSON: {"learnings": ["…", "…", "…"]}. '
-                    'Lassen sich keine 3 sicher bestimmen, antworte {"learnings": null}.', json_antwort=True)
+                    'Lassen sich keine 3 sicher bestimmen, antworte {"learnings": null}.')
+    antwort = frage(auftrag, json_antwort=True)
     entwurf = _lesen(antwort)
+    if not entwurf:  # ein zweiter Versuch, wenn Form oder Länge nicht passen
+        print('  Antwort verworfen:', antwort[:300].replace('\n', ' '), flush=True)
+        antwort = frage(auftrag, json_antwort=True)
+        entwurf = _lesen(antwort)
     if not entwurf:
+        print('  Antwort verworfen:', antwort[:300].replace('\n', ' '), flush=True)
         return None
     # Prüfschritt: jede Aussage gegen die Stichpunkte halten, verdrehte oder ungenaue Aussagen korrigieren
     antwort = frage('Stichpunkte aus der Folge:\n\n' + '\n\n'.join(notizen) +
