@@ -56,7 +56,7 @@ def text_aus_vtt(pfad):
 
 def pruefen(liste):
     liste = [re.sub(r'\s+', ' ', str(x)).strip().strip('"„“') for x in liste if str(x).strip()]
-    if len(liste) != 3 or any(len(x.split()) > 16 or len(x.split()) < 4 for x in liste):
+    if len(liste) != 3 or any(len(x.split()) > 16 or len(x.split()) < 5 for x in liste):
         return None
     return [x if x.endswith(('.', '!', '?')) else x + '.' for x in liste]
 
@@ -77,6 +77,20 @@ def learnings(titel, gast, text):
                     'mit höchstens 15 Wörtern, sachlich und mit Lernwert, ohne Wiederholungen. '
                     'Antworte nur als JSON: {"learnings": ["…", "…", "…"]}. '
                     'Lassen sich keine 3 sicher bestimmen, antworte {"learnings": null}.', json_antwort=True)
+    entwurf = _lesen(antwort)
+    if not entwurf:
+        return None
+    # Prüfschritt: jede Aussage gegen die Stichpunkte halten, verdrehte oder ungenaue Aussagen korrigieren
+    antwort = frage('Stichpunkte aus der Folge:\n\n' + '\n\n'.join(notizen) +
+                    '\n\nEntwurf für 3 Key Learnings:\n' + '\n'.join(f'- {x}' for x in entwurf) +
+                    '\n\nPrüfe jede Aussage gegen die Stichpunkte: Gibt sie den Inhalt richtig wieder, ohne den Sinn zu '
+                    'verdrehen? Ist sie ein verständlicher ganzer Satz mit 8 bis 15 Wörtern und einer konkreten Erkenntnis '
+                    'oder Empfehlung? Korrigiere, was nicht stimmt. Antworte nur als JSON: {"learnings": ["…", "…", "…"]}.',
+                    json_antwort=True)
+    return _lesen(antwort) or entwurf
+
+
+def _lesen(antwort):
     try:
         roh = json.loads(re.search(r'\{.*\}', antwort, re.S).group(0)).get('learnings')
     except (AttributeError, ValueError):
