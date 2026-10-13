@@ -19,12 +19,14 @@ on:
       transkribieren:
         description: 'Transkribieren: „keine“ (Standard), „fehlende“ oder Folgennummern, z. B. „61,62“'
         default: keine
+      learnings:
+        description: 'Nur Key Learnings neu erzeugen (aus vorhandenem Transkript), Folgennummern, z. B. „63“. Überschreibt keine vorhandenen Learnings, zeigt sie aber im Log.'
+        default: ''
 
 permissions:
   contents: write
   pages: write
   issues: write
-  models: read
 
 concurrency:
   group: website-aktualisieren
@@ -32,12 +34,15 @@ concurrency:
 
 env:
   MODELL_KEY: whisper-modell-large-v3-turbo-vad-v6
+  LLM_KEY: llm-qwen2.5-7b-instruct-q4km-v1
+  LLM_URL: https://huggingface.co/bartowski/Qwen2.5-7B-Instruct-GGUF/resolve/main/Qwen2.5-7B-Instruct-Q4_K_M.gguf
 
 jobs:
   planen:
     runs-on: ubuntu-latest
     outputs:
       folgen: ${{ steps.plan.outputs.folgen }}
+      kl: ${{ steps.plan.outputs.kl }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -48,11 +53,15 @@ jobs:
           # Zeitplan und Pflege-Änderungen: nur neu bauen (Transkribieren nur, wenn TRANSKRIBIEREN_AUTO=fehlende gesetzt ist).
           # Knopfdruck: die Eingabe.
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then AUSWAHL="${{ github.event.inputs.transkribieren }}"; else AUSWAHL="${{ vars.TRANSKRIBIEREN_AUTO || 'keine' }}"; fi
-          echo "folgen=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")" >> "$GITHUB_OUTPUT"
+          FOLGEN=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")
+          echo "folgen=$FOLGEN" >> "$GITHUB_OUTPUT"
+          # Key Learnings: für jede neu transkribierte Folge, dazu per Knopfdruck einzelne Folgen
+          KL=$(python -c "import json,sys; a=json.loads(sys.argv[1]); b=[int(x) for x in sys.argv[2].replace(' ','').split(',') if x.isdigit()]; print(json.dumps(sorted(set(a)|set(b))))" "$FOLGEN" "${{ github.event.inputs.learnings }}")
+          echo "kl=$KL" >> "$GITHUB_OUTPUT"
 
   werkzeug:
     needs: planen
-    if: needs.planen.outputs.folgen != '[]'
+    if: needs.planen.outputs.folgen != '[]' || needs.planen.outputs.kl != '[]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/cache@v4
@@ -67,9 +76,21 @@ jobs:
           curl -fsSL -o ~/modell/modell.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-large-v3-turbo.bin
           curl -fsSL -o ~/modell/vad.bin https://huggingface.co/ggml-org/whisper-vad/resolve/main/ggml-silero-v6.2.0.bin
           ls -la ~/modell
+      - uses: actions/cache@v4
+        id: llmcache
+        with:
+          path: ~/llm
+          key: ${{ env.LLM_KEY }}
+      - name: Sprachmodell für Key Learnings laden (nur beim ersten Mal, ca. 4,7 GB)
+        if: steps.llmcache.outputs.cache-hit != 'true'
+        run: |
+          mkdir -p ~/llm
+          curl -fsSL -o ~/llm/modell.gguf "$LLM_URL"
+          ls -la ~/llm
 
   transkribieren:
     needs: [planen, werkzeug]
+    if: needs.planen.outputs.folgen != '[]'
     runs-on: ubuntu-latest
     timeout-minutes: 340
     strategy:
@@ -100,8 +121,60 @@ jobs:
           path: ergebnis/
           retention-days: 7
 
+  learnings:
+    # Key Learnings mit einem freien Sprachmodell direkt auf dem GitHub-Rechner (llama.cpp, Qwen2.5-7B-Instruct).
+    needs: [planen, werkzeug, transkribieren]
+    if: always() && needs.planen.outputs.kl != '[]' && needs.werkzeug.result == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    continue-on-error: true
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        nr: ${{ fromJSON(needs.planen.outputs.kl) }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/cache/restore@v4
+        with:
+          path: ~/llm
+          key: ${{ env.LLM_KEY }}
+          fail-on-cache-miss: true
+      - uses: actions/download-artifact@v4
+        with:
+          name: transkript-${{ matrix.nr }}
+          path: ergebnis
+        continue-on-error: true
+      - name: llama.cpp für diesen Rechner bauen
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq cmake
+          git clone --depth 1 https://github.com/ggml-org/llama.cpp.git /tmp/llama
+          cmake -S /tmp/llama -B /tmp/llama/build -DCMAKE_BUILD_TYPE=Release -DBUILD_SHARED_LIBS=OFF -DLLAMA_CURL=OFF -DLLAMA_BUILD_TESTS=OFF
+          cmake --build /tmp/llama/build -j 4 --target llama-server
+      - name: Sprachmodell starten
+        run: |
+          nohup /tmp/llama/build/bin/llama-server -m ~/llm/modell.gguf -c 8192 -t 4 --host 127.0.0.1 --port 8080 > /tmp/llama.log 2>&1 &
+          for i in $(seq 1 120); do curl -sf http://127.0.0.1:8080/health >/dev/null && break; sleep 5; done
+          curl -sf http://127.0.0.1:8080/health || (tail -50 /tmp/llama.log; exit 1)
+      - name: Key Learnings erzeugen
+        run: |
+          NR=$(printf '%03d' ${{ matrix.nr }})
+          VTT=ergebnis/$NR.vtt; [ -f "$VTT" ] || VTT=inhalte/transkripte/$NR.vtt
+          python werkzeuge/key_learnings.py --erzeugen --nr ${{ matrix.nr }} --vtt "$VTT" --ausgabe kl/$NR.json
+      - uses: actions/upload-artifact@v4
+        with:
+          name: learnings-${{ matrix.nr }}
+          path: kl/
+          retention-days: 7
+          if-no-files-found: ignore
+
   bauen:
-    needs: [planen, transkribieren]
+    needs: [planen, transkribieren, learnings]
     if: always() && needs.planen.result == 'success'
     runs-on: ubuntu-latest
     env:
@@ -125,11 +198,15 @@ jobs:
         run: |
           mkdir -p inhalte/transkripte
           if ls ergebnis/*.vtt >/dev/null 2>&1; then cp ergebnis/*.vtt inhalte/transkripte/; fi
-      - name: Key Learnings für Folgen mit Transkript erzeugen (GitHub Models)
-        run: python werkzeuge/key_learnings.py
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: learnings-*
+          merge-multiple: true
+          path: kl
         continue-on-error: true
-        env:
-          GITHUB_TOKEN: ${{ github.token }}
+      - name: Key Learnings übernehmen (nur leere, ungeprüfte Folgen)
+        run: python werkzeuge/key_learnings.py --uebernehmen kl
+        continue-on-error: true
       - name: Spotify- und Amazon-Links neuer Folgen holen
         run: python werkzeuge/plattform_links_holen.py
         continue-on-error: true
