@@ -1,5 +1,5 @@
 """Key Learnings automatisch aus dem Transkript – mit einem freien Sprachmodell, das im GitHub-Workflow selbst läuft
-(llama.cpp + Qwen2.5-7B-Instruct, Apache-2.0-Lizenz). Kein Konto, kein Schlüssel, keine Kosten, kein eigener Rechner.
+(llama.cpp + Qwen2.5-14B-Instruct, Apache-2.0-Lizenz). Kein Konto, kein Schlüssel, keine Kosten, kein eigener Rechner.
 
 Im Workflow (Job „learnings“):
   python3 werkzeuge/key_learnings.py --erzeugen --nr 64 --vtt inhalte/transkripte/064.vtt --ausgabe kl/064.json
@@ -27,7 +27,7 @@ REGELN = ('Du arbeitest für den deutschsprachigen Podcast „VUCA Blaster“ ü
 
 def frage(nutzer, json_antwort=False, versuche=2):
     daten = {'messages': [{'role': 'system', 'content': REGELN}, {'role': 'user', 'content': nutzer}],
-             'temperature': 0.2, 'max_tokens': 400}
+             'temperature': 0.2, 'max_tokens': 700}
     if json_antwort:
         daten['response_format'] = {'type': 'json_object'}
     body = json.dumps(daten).encode()
@@ -61,39 +61,54 @@ def pruefen(liste):
     return [x if x.endswith(('.', '!', '?')) else x + '.' for x in liste]
 
 
+# Vorbilder aus handgeschriebenen Learnings anderer Folgen (Stil: konkret, sachlich, ganzer Satz)
+BEISPIELE = [
+    'Fehlerkultur braucht psychologische Sicherheit: Fehler zugeben ohne negative Konsequenzen.',
+    'Einstieg gelingt mit zehn Minuten Fehlerrunde in bestehenden Meetings oder Retros.',
+    'Erst klären, dann lösen: Verstehen kommt vor der Lösung, etwa mit Restorative Circles.',
+    'Konflikte entstehen oft aus verschiedenen Strategien für dasselbe Bedürfnis.',
+    "Innovator's Dilemma: Erfolgreiche Unternehmen kannibalisieren ihr Kerngeschäft ungern, siehe Nokia und Kodak.",
+    'In die Manöverkritik gehören auch Gefühle; dafür braucht es psychologische Sicherheit.',
+]
+
+
 def learnings(titel, gast, text):
+    kopf = f'Folge: {titel}. Gast: {gast or "unbekannt"}.'
     woerter = text.split()
     teile = [' '.join(woerter[i:i + BLOCK]) for i in range(0, len(woerter), BLOCK)]
     notizen = []
     for k, teil in enumerate(teile, 1):
         t0 = time.time()
-        notizen.append(frage(f'Folge: {titel}. Gast: {gast or "unbekannt"}. Teil {k} von {len(teile)} des Transkripts.\n'
-                             'Nenne die 3 wichtigsten inhaltlichen Aussagen oder Erkenntnisse dieses Teils als kurze '
-                             'Stichpunkte auf Deutsch.\n\n' + teil))
+        notizen.append(frage(f'{kopf} Teil {k} von {len(teile)} des Transkripts.\n'
+                             'Fasse die wichtigsten inhaltlichen Aussagen dieses Teils in 3 bis 5 Stichpunkten auf Deutsch '
+                             'zusammen. Schreib zu jedem Stichpunkt ein kurzes wörtliches Zitat aus dem Text als Beleg in Klammern. '
+                             'Lass Begrüßung, Smalltalk und Werbung weg.\n\n' + teil))
         print(f'  Teil {k}/{len(teile)} in {time.time() - t0:.0f} s', flush=True)
-    auftrag = (f'Folge: {titel}. Gast: {gast or "unbekannt"}.\nStichpunkte aus allen Teilen der Folge:\n\n'
-                    + '\n\n'.join(notizen) +
-                    '\n\nWähle daraus genau 3 Key Learnings für Hörerinnen und Hörer. Jedes ist ein ganzer deutscher Satz '
-                    'mit höchstens 15 Wörtern, sachlich und mit Lernwert, ohne Wiederholungen. '
-                    'Antworte nur als JSON: {"learnings": ["…", "…", "…"]}. '
-                    'Lassen sich keine 3 sicher bestimmen, antworte {"learnings": null}.')
-    antwort = frage(auftrag, json_antwort=True)
-    entwurf = _lesen(antwort)
-    if not entwurf:  # ein zweiter Versuch, wenn Form oder Länge nicht passen
-        print('  Antwort verworfen:', antwort[:300].replace('\n', ' '), flush=True)
+    stichpunkte = '\n\n'.join(notizen)
+    # 1) Kandidaten mit Beleg sammeln
+    t0 = time.time()
+    kandidaten = frage(f'{kopf}\nStichpunkte mit Belegen aus der ganzen Folge:\n\n{stichpunkte}\n\n'
+                       'Formuliere 6 verschiedene Kandidaten für Key Learnings dieser Folge. Jeder Kandidat ist ein ganzer '
+                       'deutscher Satz mit 8 bis 15 Wörtern, enthält eine konkrete Erkenntnis oder Empfehlung und gibt den '
+                       'Inhalt sinngemäß richtig wieder. Antworte als JSON: {"kandidaten": [{"satz": "…", "beleg": "…"}]}.',
+                       json_antwort=True)
+    print(f'  Kandidaten in {time.time() - t0:.0f} s', flush=True)
+    # 2) Die 3 besten wählen, gegen die Belege prüfen und im Stil der Vorbilder schärfen
+    vorbilder = '\n'.join(f'- {x}' for x in BEISPIELE)
+    auftrag = (f'{kopf}\nKandidaten mit Belegen:\n{kandidaten}\n\n'
+               f'So sehen gute Key Learnings aus (aus anderen Folgen, nur als Stilvorbild):\n{vorbilder}\n\n'
+               'Wähle die 3 Kandidaten mit dem größten Lernwert für Hörerinnen und Hörer, die sich inhaltlich nicht '
+               'wiederholen. Prüfe jeden gegen seinen Beleg: Der Sinn darf nicht verdreht sein. Schärfe die Formulierung im '
+               'Stil der Vorbilder: konkret statt allgemein, ganzer Satz, 8 bis 15 Wörter. '
+               'Antworte nur als JSON: {"learnings": ["…", "…", "…"]}. '
+               'Lassen sich keine 3 sicher bestimmen, antworte {"learnings": null}.')
+    for versuch in (1, 2):  # ein zweiter Versuch, wenn Form oder Länge nicht passen
         antwort = frage(auftrag, json_antwort=True)
-        entwurf = _lesen(antwort)
-    if not entwurf:
+        liste = _lesen(antwort)
+        if liste:
+            return liste
         print('  Antwort verworfen:', antwort[:300].replace('\n', ' '), flush=True)
-        return None
-    # Prüfschritt: jede Aussage gegen die Stichpunkte halten, verdrehte oder ungenaue Aussagen korrigieren
-    antwort = frage('Stichpunkte aus der Folge:\n\n' + '\n\n'.join(notizen) +
-                    '\n\nEntwurf für 3 Key Learnings:\n' + '\n'.join(f'- {x}' for x in entwurf) +
-                    '\n\nPrüfe jede Aussage gegen die Stichpunkte: Gibt sie den Inhalt richtig wieder, ohne den Sinn zu '
-                    'verdrehen? Ist sie ein verständlicher ganzer Satz mit 8 bis 15 Wörtern und einer konkreten Erkenntnis '
-                    'oder Empfehlung? Korrigiere, was nicht stimmt. Antworte nur als JSON: {"learnings": ["…", "…", "…"]}.',
-                    json_antwort=True)
-    return _lesen(antwort) or entwurf
+    return None
 
 
 def _lesen(antwort):
