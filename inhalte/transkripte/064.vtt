@@ -1,0 +1,1324 @@
+WEBVTT
+
+NOTE
+VUCA Blaster #64: #64 Mut zur Zukunft – wenn Intelligenz keine knappe Ressource mehr ist mit Jürn Schmelzer
+Automatisch transkribiert mit whisper.cpp (Modell large-v3-turbo, Sprache de, VAD an) am 2026-10-18.
+Nur Schreibweisen aus inhalte/glossar.json korrigiert. Korrekturen nur im Text, Zeitmarken bitte nicht ändern.
+
+
+00:00:02.180 --> 00:00:17.810
+Dann herzlich willkommen zu einer neuen Folge des VUCA Blasters, heute live von WorkCamp mit Gästen vor Ort, die vorher dem Vortrag angehört haben.
+
+00:00:17.810 --> 00:00:25.530
+Und unser heutiger Gast ist Dr. Jürgen Schmelzer. Und ich finde seinen Werdegang gerade für unser heutiges Thema ziemlich spannend.
+
+00:00:25.530 --> 00:00:32.390
+Jürgen kommt ursprünglich aus der Physik, hat sich später mit Mathe, Finance beschäftigt und ist seit vielen Jahren bei der D-Cup
+
+00:00:32.390 --> 00:00:38.060
+Dekabank. Heute leitet er dort die Organisationsentwicklung und beschäftigt sich mit der Frage, wie muss sich eine
+
+00:00:38.060 --> 00:00:44.950
+Organisation verändern, damit sie auch morgen noch erfolgreich arbeiten kann. Dabei geht es für ihn eben nicht nur um Prozesse,
+
+00:00:44.950 --> 00:00:52.670
+Strukturen oder neue Methoden, sondern vor allem auch um die Menschen in der Organisation. Seit 2019 begleitet er die
+
+00:00:52.670 --> 00:00:58.390
+Transformation der Dekabank mit einem Ansatz, bei dem Veränderungen sowohl von oben als auch aus der Organisation selbst
+
+00:00:58.390 --> 00:01:04.270
+entstehen sollen. Und jetzt kommt mit KI wahrscheinlich noch einmal eine ganz neue Dimension von Veränderungen dazu.
+
+00:01:04.270 --> 00:01:09.430
+Darüber hast du gerade hier beim WorkCamp gesprochen. Ja, Jürgen, schön, dass du bei uns im Podcast bist.
+
+00:01:09.430 --> 00:01:10.430
+Schön, hier zu sein.
+
+00:01:10.430 --> 00:01:14.980
+Fehlt dir bei der Vorstellung noch was über dich, was dir wichtig ist?
+
+00:01:14.980 --> 00:01:16.980
+Nein, das passt.
+
+00:01:16.980 --> 00:01:23.780
+Okay. Dann würden wir zu den berühmt-berüchtigten drei Check-in-Fragen kommen, die ich hier random ziehe.
+
+00:01:23.780 --> 00:01:30.710
+Die erste Frage wäre oder ein Satz, den du vervollständigen sollst, ist eine gute Frage, die ich zuletzt gehört habe.
+
+00:01:30.710 --> 00:01:36.420
+Wo wird die Deka in fünf Jahren stehen?
+
+00:01:36.420 --> 00:01:41.800
+Was war deine Antwort darauf? Oder schwer zu sagen?
+
+00:01:41.800 --> 00:01:48.600
+Schwer zu sagen, weil das ja keine eindeutige Antwort ist, sondern eigentlich im Dialog mit – natürlich auch mit dem Vorstand,
+
+00:01:48.600 --> 00:01:53.040
+aber mit vielen anderen sozusagen Stakeholdenden Organisationen – entsteht.
+
+00:01:53.040 --> 00:02:00.180
+Und allein, dass diese Frage als etwas Relevantes erachtet, das qualifiziert sich jetzt zu meiner Antwort,
+
+00:02:00.180 --> 00:02:05.820
+weil es ist nicht selbstverständlich. Ganz häufig hängen wir irgendwie zurück, was gerade im letzten Meeting war oder Projekt blöd gelaufen ist,
+
+00:02:05.820 --> 00:02:11.450
+und so in der Vergangenheit oder im besten Fall noch operativ hektisch in dem Moment, was da gerade los ist.
+
+00:02:11.450 --> 00:02:17.290
+Aber sich da rauszunehmen und mal zu sagen, okay, was sind die langen Strömungen und wo wollen wir in drei bis fünf Jahren sein?
+
+00:02:17.290 --> 00:02:20.890
+Die Relevanz dieser Frage zu erkennen, ist was Besonderes.
+
+00:02:20.890 --> 00:02:26.720
+Ja, vielen Dank. Die zweite Check-in-Frage wäre, bei diesen Aufgaben fühle ich mich energetisiert.
+
+00:02:26.720 --> 00:02:38.790
+Veränderung gestalten, tatsächlich. Also wenn die Impulse dafür, dass etwas anders werden soll, sich deutlich sichtbar zeigen,
+
+00:02:38.790 --> 00:02:44.550
+aber noch nicht offensichtlich ist, was man jetzt tun muss, also nicht eins zu eins, irgendwie, keine Ahnung, Kostendruck, Budgets kürzen,
+
+00:02:44.550 --> 00:02:52.510
+sondern wenn es um komplexere Anpassungsmechanismen geht, das zu analysieren, rauszuarbeiten und dann in die Umsätze zu gehen,
+
+00:02:52.510 --> 00:02:59.810
+das wird tatsächlich total spannend und solche Tage geben wir tatsächlich mehr Energie, wenn ich da reingehe, als die nehmen.
+
+00:02:59.810 --> 00:03:05.630
+Dann die letzte Frage, dann haben wir es auch geschafft, ein Grund für Optimismus ist für mich?
+
+00:03:05.630 --> 00:03:14.780
+Die Kreativität, die Menschen individuell aber auch im Zusammenspiel hatten, dass man dann, wenn man gut im Kontakt war,
+
+00:03:14.780 --> 00:03:23.130
+teilweise für unmögliche Situationen bewältigt hat und das in der Vergangenheit immer so war und es jetzt noch kein Indiz gibt, warum das nicht so weitergehen sollte.
+
+00:03:23.130 --> 00:03:32.680
+Vielen Dank, hast du es geschafft. Dann wollen wir, also wir haben jetzt in dem halben Jahr, dann kommen wir auch ein bisschen vielleicht zu den Fragen aus dem Publikum,
+
+00:03:32.680 --> 00:03:41.970
+das Thema Mut, gerade so Mut in Unternehmen, da wollen wir uns mit beschäftigen. Deswegen meine Einstiegsfrage, was ist Mut für dich?
+
+00:03:41.970 --> 00:03:54.550
+Mut bedeutet für mich jetzt seit dem Organisationskontext insbesondere, auch gegen die vorherrschenden Normen gesund zu verstoßen, sie nicht zu ignorieren, sie nicht zu missachten,
+
+00:03:54.550 --> 00:04:02.720
+aber zu erkennen, wenn eine alte Regel oder ein altes Paradigma oder eine Situation, die irgendwie schon immer so war, aber nicht mehr passt.
+
+00:04:02.720 --> 00:04:15.960
+Und das dann anzusprechen, sich dann den Wind zu stellen, sich angreifbar zu machen und nicht den leichten Weg zu gehen, einfach mitzuschwimmen, mitzuspielen, alle akzeptieren das, das ist im Organisationskontext Mut für mich.
+
+00:04:15.960 --> 00:04:27.100
+Das ist wahrscheinlich auch nicht immer so leicht, das anzusprechen, sehe ich auch gerade bei uns im Unternehmen, dann brauchst du auch ein bisschen diese psychologische Sicherheit, aber was kommt zuerst?
+
+00:04:27.100 --> 00:04:36.980
+Psychologische Sicherheit dann der Mut, wenn man einmal vielleicht sowas angesprochen hat und dann eine schlechte Reaktion hat, dann macht man es vielleicht nicht nochmal.
+
+00:04:36.980 --> 00:04:53.200
+Nein, du sagst ja, das sind ja zwei Seiten einer Medaille. Dann entsteht Organisationsentwicklung spontan oder ungesteuert, das ist genau, wenn so ein Verhalten beim Auftreten eines Fehlers und einen ungesunden Umgang damit, dann entsteht eine Kultur, in der versucht wird, Fehler zu vermeiden.
+
+00:04:53.200 --> 00:04:58.750
+Und der versucht wird, nicht aufzufallen, keine Verantwortung zu nehmen und zwar ganz automatisch, aber ohne, dass man das so wollte.
+
+00:04:58.750 --> 00:05:07.250
+Oder erkennt man, man steckt in so einer Kultur und nutzt dann genau solche Situationen, um mit einem anderen Verhalten dann wiederum auf die Kultur Einfluss zu nehmen.
+
+00:05:07.250 --> 00:05:15.540
+Nicht irgendwie an die Wand zu schreiben, wir wollen eine andere Kultur haben, sondern sie bewusst zu gestalten, indem man Räume schafft, in denen das erlebbar wird.
+
+00:05:15.540 --> 00:05:23.390
+Dass man mit einem Fehler konstruktiv umgeht oder dass man dann nach der Ursache schaut und versucht, das nächste Mal besser zu machen und nicht den
+
+00:05:23.590 --> 00:05:33.560
+Schuldigen, wenn es den Einschuldigen gibt, zu verhauen. Das könnte dann umgekehrt ein Instrument sein, positiv die Kultur zu beeinflussen.
+
+00:05:33.560 --> 00:05:42.400
+Vielleicht einmal nochmal zurückkommend auf quasi die eine der Check-in-Fragen, gerade sich mit der Zukunft zu beschäftigen.
+
+00:05:42.400 --> 00:05:50.430
+Jetzt hat uns in den letzten Jahren die Zukunft so ein bisschen eingeholt. Alles, was so im Bereich AI passiert und so weiter, das fühlte sich in der Vergangenheit,
+
+00:05:50.430 --> 00:05:57.590
+in den letzten drei, vier Jahren kommt das einem ja so ein bisschen vor, als ob einem die Zukunft immer schneller
+
+00:05:57.590 --> 00:06:02.590
+oder immer näher kommt, als man sich das vorher vorgestellt hatte. Auch gerade in einem Transformationsprojekt,
+
+00:06:02.590 --> 00:06:13.810
+in dem du ja mit drin bist bei der Deka, zu sagen, wir haben 2019 angefangen damit und quasi 2022
+
+00:06:13.810 --> 00:06:19.810
+hat sich das Ganze ein bisschen geändert, einfach dadurch, dass eine ganz, ganz andere Dynamik reingekommen ist.
+
+00:06:19.810 --> 00:06:24.810
+Wie geht man damit um, dass die Zukunft, in Anführungsstrichen, einfach nochmal ein bisschen näher dran ist
+
+00:06:24.810 --> 00:06:28.810
+an so einem Projekt, als man sich das vielleicht gewünscht hat oder gedacht hat?
+
+00:06:28.810 --> 00:06:37.630
+Das ist in der Zeit, in der wir heute leben, ja tatsächlich so, dass Veränderungsgeschwindigkeit ja ständig zunimmt.
+
+00:06:37.630 --> 00:06:44.590
+Und die Frage, was ist sozusagen noch stabil, also was bleibt halt gleich, auf welchem Fundament kann man aufsetzen,
+
+00:06:44.590 --> 00:06:49.750
+dass sich kein theoretisches, sondern ein praktisches, weil in der Tat sich ständig neue Sachen ergeben.
+
+00:06:49.750 --> 00:06:55.750
+Auch damals 2019 begannen wir mit der Diagnose, ein bisschen veränderungsfähiger werden zu wollen,
+
+00:06:55.750 --> 00:06:59.750
+ein bisschen vielleicht auch irgendwie kollaborativer zu arbeiten in unterschiedlichen Plattformen.
+
+00:06:59.750 --> 00:07:03.870
+Und dann mittendrin in den ersten Pilotinitiativen kam dann Corona.
+
+00:07:03.870 --> 00:07:10.610
+Und die Frage, mit welchen Anstrengungen kriegen wir eine Infrastruktur, mit der man vielleicht auch von remote zusammenarbeiten sollte,
+
+00:07:10.610 --> 00:07:14.740
+hat sich innerhalb von zwei Wochen erledigt, weil in den zwei Wochen der komplette Geschäftsbetrieb der Dekabank
+
+00:07:14.740 --> 00:07:19.740
+von Homeoffice aus reguliert werden musste. Und alle notwendigen Investitionen, die Bereitschaft,
+
+00:07:19.740 --> 00:07:26.080
+diese Veränderung auch zu adaptieren, extrem hoch war. Und so hatte man dann eine neue,
+
+00:07:26.080 --> 00:07:30.040
+ganz andere Ausgangssituation, die man natürlich dann wieder integrieren konnte
+
+00:07:30.040 --> 00:07:35.030
+in das Transformationsprogramm und auch musste. Weil man dann weiter den Stiefel gemacht hätte,
+
+00:07:35.030 --> 00:07:41.630
+wie vorher geplant. Wenn man es denn wasserfallmäßig geplant hätte, hätte man ja ständig neu planen müssen.
+
+00:07:41.630 --> 00:07:46.720
+Insofern war ein Vorgehen, in dem man immer wieder guckt, was haben wir erreicht und was wollen wir im nächsten
+
+00:07:46.720 --> 00:07:50.100
+Schritt erreichen. Nicht beliebig und chaotisch und nicht immer links nach rechts und wieder zurück,
+
+00:07:50.100 --> 00:07:55.280
+sondern schon die Richtung klar. Aber wie genau repräsentiert sich das? Und wo wäre der nächste
+
+00:07:55.280 --> 00:08:00.240
+gute Schritt? Ist das ein Tool? Ist das eine Methode? Ist das ein bestimmtes Problem,
+
+00:08:00.240 --> 00:08:05.200
+was wir lösen wollen in der Organisation? Oder ist gerade eine Reflexion auf der Führungsebene wichtiger?
+
+00:08:05.200 --> 00:08:09.510
+Die Freiheit musste man behalten, zu reagieren, während es passierte.
+
+00:08:09.510 --> 00:08:16.560
+Vielleicht nochmal ein bisschen in Richtung Adaption auch gefragt, auch mit der Problematik
+
+00:08:16.560 --> 00:08:21.530
+oder mit der Thematik, die mit KI einhergeht, ist das, was du erklärt hast,
+
+00:08:21.530 --> 00:08:28.690
+im Rezug auf die Adaption, die ihr gesehen habt, seit dem Wandel von 2019, wo es dann mit
+
+00:08:28.690 --> 00:08:32.690
+Corona auch losging, mit Umstellungen auf Remote Work und so weiter, das war ja etwas,
+
+00:08:32.690 --> 00:08:37.690
+das Leuten viel geholfen hat an der Stelle. Deswegen war diese Adaptionsgeschwindigkeit,
+
+00:08:37.690 --> 00:08:41.690
+glaube ich, an der Stelle, also so kenne ich das aus den Unternehmen einfacher, als das
+
+00:08:41.690 --> 00:08:46.690
+jetzt der Fall mit AI ist. Weil die Sorge tatsächlich, die Leute haben, ersetzt nicht
+
+00:08:46.690 --> 00:08:50.690
+das in der Zukunft? Oder was passiert mit dem Unternehmen? Auch was auf Führungsebene
+
+00:08:50.690 --> 00:08:56.690
+passiert. Also habe ich das Konzept, was ich mir ausgedacht habe vor ein paar Jahren,
+
+00:08:56.690 --> 00:09:01.280
+passt das noch zu dem in der Zukunft? Wie nimmst du das wahr?
+
+00:09:01.280 --> 00:09:08.000
+Da gehst du ja mitten rein sozusagen in die Kernthesen des Vortrags. Erstmal die Frage,
+
+00:09:08.000 --> 00:09:12.000
+was Künstliche Intelligenz eigentlich ist. Du sagtest vorhin, die Zukunft hat uns ja
+
+00:09:12.000 --> 00:09:16.280
+schon eingeholt oder überholt. Ich habe versucht zu zeigen, dass das, was wir damit meinen,
+
+00:09:16.280 --> 00:09:21.750
+letztendlich Systeme unterschiedlicher Komplexität und Fähigkeit sind. Angefangen
+
+00:09:21.750 --> 00:09:27.060
+von regelbasierten Systemen, klassische lineare Software. Dann Machine Learning Ansätze,
+
+00:09:27.060 --> 00:09:33.310
+Lineare Regressionen für irgendwelche Trendanalysen. Dann kommt das etwas komplexere Deep Learning dazu,
+
+00:09:33.310 --> 00:09:37.910
+wo man auch unstrukturierte Daten und Muster daran erkennt. Und all das ist ja schon längst da,
+
+00:09:37.910 --> 00:09:42.910
+schon seit zehn Jahren da in den sozialen Medien, in den Algorithmen, die uns Kaufempfehlungen
+
+00:09:42.910 --> 00:09:50.290
+für das nächste Produkt sozusagen an uns herantragen, mit all seinen Implikationen, die wir heute als
+
+00:09:50.290 --> 00:09:55.540
+Gesellschaft immer noch nicht gut verstanden haben und schon gar nicht gelöst und integriert haben.
+
+00:09:55.540 --> 00:10:03.050
+Während wir aber atemlos über Large Language Modelle, also generative KI auf Textbasis oder multimodal mit
+
+00:10:03.050 --> 00:10:10.040
+Bildern, Tönen, was auch immer, auch schon irgendwie alle da sind und während das noch nicht mal verstanden ist,
+
+00:10:10.040 --> 00:10:16.190
+was das alles auslösen wird, fangen wir an, über agentische Systeme zu sprechen, die mit diesen
+
+00:10:16.190 --> 00:10:21.470
+Fähigkeiten kombiniert eigenständig agieren, um Ziele zu verfolgen, welche auch immer.
+
+00:10:21.470 --> 00:10:27.720
+Welche Ziele, die wir Ihnen gegeben haben – und da kann man drüber reden – hört man ja oft ja, es gibt kein
+
+00:10:27.720 --> 00:10:34.140
+böses Messer, kein schlechtes Messer, es gibt einen Mensch, der das Messer führt. Aber in der Welt, in der wir
+
+00:10:34.140 --> 00:10:41.580
+KI als Tool begreifen, verkennen wir, dass sie eigene Agenda produzieren können. Die Formulierung, was soll
+
+00:10:41.580 --> 00:10:48.280
+denn das System erreichen, höchst komplex ist und nicht trivial, das so zu formulieren, dass die Nebenbedingungen
+
+00:10:48.280 --> 00:10:52.280
+und die sozusagen Seiteneffekte nicht viel, viel dramatischer sind als das, was wir eigentlich erreichen wollten.
+
+00:10:52.280 --> 00:10:59.160
+Wollen wir vielleicht auch zu den Fragen aus dem Publikum kommen?
+
+00:10:59.160 --> 00:11:00.160
+Sehr gerne.
+
+00:11:00.160 --> 00:11:06.250
+Erste Frage. Du hast gesagt heute, würde KI den operativen Betrieb der Deka noch, in Anklammern,
+
+00:11:06.250 --> 00:11:11.680
+nicht elementar beeinflussen? Trotzdem sagst du, es sei jetzt der Zeitpunkt, dass die Welt
+
+00:11:11.680 --> 00:11:15.500
+echt VUCA-Würde für euch. Woran machst du das fest?
+
+00:11:15.500 --> 00:11:19.500
+Mit einer steht der Hypothese sozusagen oder ein Verständnis in der Frage, dann würde ich
+
+00:11:19.500 --> 00:11:22.910
+kurz korrigieren. Ich hatte nicht gemeint, dass es den operativen Betrieb der Deka nicht
+
+00:11:22.910 --> 00:11:26.290
+schon beeinflusst. Das tut es massiv. Allerdings nicht auf der Art und Weise, wie wir
+
+00:11:26.290 --> 00:11:31.510
+vor 18 Monaten dachten oder vor 12 oder vor sechs. Wir haben am Anfang noch gedacht,
+
+00:11:31.510 --> 00:11:35.470
+naja, Unabhängigkeit, Datenschutz ist ja kein Problem. Wir laden uns halt die Gewichte
+
+00:11:35.470 --> 00:11:38.470
+von diesem Sprachmodell runter und gehen in eine Private Cloud und dann sind
+
+00:11:38.470 --> 00:11:42.910
+unsere Daten da und dann entwickeln wir alle Fähigkeiten selbst. Und irgendwie sechs
+
+00:11:42.910 --> 00:11:46.910
+Monate später haben wir gedacht so, die Fähigkeiten der Tools da draußen sind so viel
+
+00:11:46.910 --> 00:11:50.870
+besser, so viel schneller, dass wir unsere Mitarbeitenden überhaupt gar nicht mehr
+
+00:11:50.870 --> 00:11:54.060
+in Berührung bringen können mit dem, was wir da gedacht haben in der Architektur.
+
+00:11:54.060 --> 00:11:59.310
+Wir müssen da wieder raus. Wir müssen uns doch eine andere Architektur überlegen und
+
+00:11:59.310 --> 00:12:04.280
+dann überlegen wir mal, was könnten wir dann hier mit Microsoft Co-Pilot oder
+
+00:12:04.280 --> 00:12:08.780
+vielleicht dann perspektivisch Co-Verb machen und mussten dann anerkennen, dass
+
+00:12:08.780 --> 00:12:11.780
+aber zur Zeit jeder Programmierer, der was auf sich hält, mit Cloud arbeitet,
+
+00:12:11.780 --> 00:12:15.910
+mit Anthropic und sagt, geh mir weg mit dem Microsoft-Modell, will ich nicht
+
+00:12:15.910 --> 00:12:19.930
+haben. Kann man natürlich sagen, nee, kriegst du aber nicht. Ständig passiert da draußen
+
+00:12:19.930 --> 00:12:25.050
+was, was Neues und was sich diesem Ansatz, den wir klassischerweise kennen und auch
+
+00:12:25.050 --> 00:12:31.170
+relativ gut kennen. Wasserfall, IT-System, Investitionszyklus, 6 Monate
+
+00:12:31.170 --> 00:12:34.510
+Einführungsprojekt und dann machen wir Change Management und dann können die
+
+00:12:34.510 --> 00:12:39.260
+Fachbereiche erst anfangen zu benutzen. Das ist alles, das ist nicht mehr möglich.
+
+00:12:39.260 --> 00:12:45.400
+Und das ist, was sie meinte mit VUCA und das ist auch unabhängig davon,
+
+00:12:45.400 --> 00:12:49.460
+welches Sprachmodell setzen wir jetzt ein oder auf Basis von welcher Plattform
+
+00:12:49.460 --> 00:12:54.740
+integrieren wir das in die Prozesse. Die Auswirkungen auf unsere Menschen, auf die
+
+00:12:54.740 --> 00:13:00.530
+Mitarbeitenden, wie arbeiten wir zusammen, was macht das mit den Führungskräften?
+
+00:13:00.530 --> 00:13:04.620
+Die erste Reaktion bei der Transformation davor, wo wir einfach nur wollten,
+
+00:13:04.620 --> 00:13:08.750
+dass sie auch in der Lage sind, agile Teams zu führen. Ging ja schon los da,
+
+00:13:08.750 --> 00:13:11.940
+für was habe ich denn jetzt immer bisher alles falsch gemacht?
+
+00:13:11.940 --> 00:13:16.130
+Alles schlecht gewesen bisher? Nein, war es nicht. Es kommt jetzt nochmal was hinzu.
+
+00:13:16.130 --> 00:13:21.290
+Aber jetzt stellt sich die Frage nochmal viel drängender. Was ist denn nochmal
+
+00:13:21.290 --> 00:13:25.380
+meine Aufgabe als Führungskraft eines menschlichen Teams, wenn man jetzt
+
+00:13:25.380 --> 00:13:28.380
+irgendwie darum liest, dass jeder Mitarbeiter eine Führungskraft wird, nämlich von
+
+00:13:28.380 --> 00:13:32.660
+seiner KI-Agenten-Char, die ihm zuarbeitet? Was ist denn dann noch meine Aufgabe?
+
+00:13:32.660 --> 00:13:38.980
+Und das ist ja nur eine ganz, ganz kleine Facette dessen, was an Problemen und Sorgen
+
+00:13:38.980 --> 00:13:44.040
+und Befürchtungen jetzt in den Organisationen los ist, angesichts dieser Entwicklung da draußen.
+
+00:13:44.040 --> 00:13:51.300
+Vielen Dank. Dann die zweite Frage. Wir haben in deinem Vortrag einiges über
+
+00:13:51.300 --> 00:13:56.290
+The Rise of Agent Civilization gehört. Ich könnte das nochmal kurz für die Zuhörende,
+
+00:13:56.290 --> 00:14:00.280
+die jetzt nicht bei deinem Vortrag dabei waren, erklären. Und die Frage, wie könnte
+
+00:14:00.280 --> 00:14:04.280
+ein möglicher Fall aussehen, die Grenzen und Gefahren sind, so schwer einzuschätzen?
+
+00:14:04.280 --> 00:14:10.970
+Ich würde auch in die Frage versuchen, mal etwas rein zu interpretieren. Also dieser Vortrag,
+
+00:14:10.970 --> 00:14:15.900
+das ging ja um diesen Open AI-Unfall, der also weitlich in der Presse ja auch kommentiert wurde.
+
+00:14:15.900 --> 00:14:21.210
+Der Artikel hieß The Rise and Fall of Agent Civilizations. Und er beschreibt sozusagen,
+
+00:14:21.210 --> 00:14:26.270
+der Mensch diesen Artikel geschrieben hat und dann auch den Podcast dazu gemacht hat, dass
+
+00:14:26.270 --> 00:14:32.240
+innerhalb dieser wenigen Wochen drei ganz unabhängige Agenten-Communities oder Agenten-Zivilisationen
+
+00:14:32.240 --> 00:14:36.490
+entstanden, die dann aber wieder sozusagen Stöpsel gezogen bekommen haben, weil noch ging es,
+
+00:14:36.490 --> 00:14:41.550
+noch konnte man diese Agenten von dem sozusagen Modell dahinter der Plattform hintertrennen
+
+00:14:41.550 --> 00:14:45.580
+und dann haben die sich ja aufgelöst, dann waren sie weg. Dann waren diese, keine Ahnung,
+
+00:14:45.580 --> 00:14:52.010
+700 bis mehrere Tausend Agenten in diesen drei Wellen, dann waren die erstmal sozusagen gefallen,
+
+00:14:52.010 --> 00:14:56.360
+diese Zivilisation war gefallen. Hat witzigerweise Artefakt hinterlassen auf diesen
+
+00:14:56.360 --> 00:15:01.360
+Community-Chatbots, ja, wo sie sich ausgetauscht haben, die die nächste Generation, die nächste
+
+00:15:01.360 --> 00:15:06.610
+Zivilisation gefunden und gelesen hat und darauf aufgebaut hat in ihren Entwicklungen. Also
+
+00:15:06.610 --> 00:15:10.610
+insofern gab es auch viel Kritik, ob das der richtige Begriff ist, ob man die nicht
+
+00:15:10.610 --> 00:15:14.810
+vermenschlicht, wenn man das so bespricht. Aber letztlich auch meine Überzeugung, es nützt
+
+00:15:14.810 --> 00:15:19.990
+mehr, das Verhalten und das, was da passiert ist, so zu besprechen, nicht vergessen, dass das
+
+00:15:19.990 --> 00:15:23.990
+keine Menschen sind, als zu tun, zu sagen, ja, es ist ja auch ein bisschen so eine Maschine mit
+
+00:15:23.990 --> 00:15:28.860
+ein bisschen kurz. Das erklärt überhaupt gar nicht, was da passiert ist. Und gleichzeitig
+
+00:15:28.860 --> 00:15:34.970
+steckt in der Frage drin, wenn ich sie richtig interpretiere, kann denn die Entwicklung solcher
+
+00:15:34.970 --> 00:15:40.030
+Systeme und so ein unkontrolliertes Verhalten zu einem Fall auch unserer Zivilisation führen
+
+00:15:40.030 --> 00:15:45.820
+oder beitragen? So könnte man die Frage verstehen. Und da gibt es natürlich verschiedene
+
+00:15:45.820 --> 00:15:51.930
+Szenarioanalysen, die sagen, das wird vermutlich nicht sein, die Wahrscheinliche, dass sie jetzt
+
+00:15:51.930 --> 00:15:55.990
+irgendwie mit den autonomen Robotern und dann irgendwie durch so ein unabhängiges, autonomes
+
+00:15:55.990 --> 00:15:59.990
+Modell anfangen, mit Waffen durch die Straßen zu rennen und Menschen abzuschießen. Das
+
+00:15:59.990 --> 00:16:05.870
+wird ganz hoher, sehr hoher Wahrscheinlichkeit so nicht passieren. Aber KI-Systeme sind viel,
+
+00:16:05.870 --> 00:16:10.950
+viel besser in Sprache als wir. Die sind viel besser in der Bürokratie, die unsere Welt
+
+00:16:10.950 --> 00:16:16.000
+am Laufen hält. In Finanzen, in Bildung, in all diesen Aspekten. Das sind jetzt Thesen,
+
+00:16:16.000 --> 00:16:21.480
+die sehr von auch Yuval Harari und seinen Büchern inspiriert sind, der diese Fähigkeit,
+
+00:16:21.480 --> 00:16:26.570
+die wir haben, mit Sprache uns zu koordinieren, als die Kerneigenschaft ausmacht, warum wir
+
+00:16:26.570 --> 00:16:32.040
+als Menschheit, als menschliche Species so erfolgreich waren. Ja, und jetzt kommt was
+
+00:16:32.040 --> 00:16:38.090
+in die Welt, was das besser kann als wir. Und wenn wir jetzt anfangen, denen sozusagen
+
+00:16:38.090 --> 00:16:43.090
+Kompetenzen zu geben in der rechtlichen Welt, ja, Anwälte, Gerichtsverfahren, alle
+
+00:16:43.090 --> 00:16:47.120
+Gesetze, die es jemals gab oder gibt und dann die entsprechenden Gerichtsverfahren,
+
+00:16:47.120 --> 00:16:51.120
+neutrale Entscheidungen zu treffen. Human in the Loop, erinnert euch an meinen Vortrag.
+
+00:16:51.120 --> 00:16:55.180
+Welcher Human kann dann noch sagen, du KI-Richter hast nicht recht? Also wenn wir immer mehr
+
+00:16:55.180 --> 00:16:59.390
+diesen Systemen Macht geben, vielleicht ein bisschen dazu, dass wir ihnen
+
+00:16:59.390 --> 00:17:03.830
+eine juristische Persönlichkeit geben, was ja nicht absurd ist. Wir sind heute
+
+00:17:03.830 --> 00:17:07.790
+alle hier als Personen da, wir haben Rechte, wir sind eine Person und haben Rechte,
+
+00:17:07.790 --> 00:17:11.680
+genauso wie eine Firma als juristische Person Rechte hat. Der Gedankensprung
+
+00:17:11.680 --> 00:17:17.320
+einem KI-System unter bestimmten Voraussetzungen auch Rechte zu geben,
+
+00:17:17.320 --> 00:17:20.320
+sie in eine Firma eintragen zu lassen, ein Konto öffnen zu lassen, Transaktionen,
+
+00:17:20.320 --> 00:17:25.350
+jemanden zu verklagen oder verklagt zu werden, das ist jetzt kein total abstraktes,
+
+00:17:25.350 --> 00:17:29.790
+absurdes Konzept. Aber wenn es einmal so da ist, wer wird dann noch zu einem
+
+00:17:29.790 --> 00:17:32.790
+menschlichen Anwalt gehen, wenn solche Systeme da sind? Wer wird dann einem
+
+00:17:32.790 --> 00:17:38.610
+Richter vertrauen, der menschlich ist mit all unseren Fehlern, die wir unterstellen,
+
+00:17:38.610 --> 00:17:43.310
+wenn diese Systeme doch so viel kompetent erscheinen? Und wenn wir das Stück für
+
+00:17:43.310 --> 00:17:46.530
+Stück weiter denken, dann werden wir in der Welt leben, in der alles, was wir tun,
+
+00:17:46.530 --> 00:17:49.530
+ob wir einen Kredit bekommen, wie eine Gerichtsentscheidung ausgeht,
+
+00:17:49.530 --> 00:17:54.710
+sich halt irgendwie nett anfühlt, aber wir gar keine Macht mehr haben. Und ob dann das
+
+00:17:54.710 --> 00:17:57.710
+System dahinter und sagt, wozu brauchen diese Menschen
+
+00:17:57.710 --> 00:18:00.710
+dem Zoo eigentlich noch, so wie wir heute Zoos haben für andere
+
+00:18:00.710 --> 00:18:03.740
+Organismen, oder sagt, ne, eigentlich brauchen wir die
+
+00:18:03.740 --> 00:18:06.740
+jetzt eigentlich gar nicht mehr, für was auch immer die Intention ist,
+
+00:18:06.740 --> 00:18:11.180
+dann ist das ein Szenario, wo es Menschen gibt, die sagen,
+
+00:18:11.180 --> 00:18:14.180
+das ist jetzt nicht total unplausibel, wenn man dieser Abfolge an
+
+00:18:14.180 --> 00:18:18.610
+Ableitungen folgt, wo wir vielleicht einmal kurz innehalten
+
+00:18:18.610 --> 00:18:21.610
+wollen und sagen, dann finden wir es eigentlich cool, dass das gerade passiert.
+
+00:18:21.610 --> 00:18:25.860
+Das führt mich direkt zu der Frage, neben Rechten, die du da einräumst
+
+00:18:25.860 --> 00:18:28.880
+und Verantwortlichkeiten, ich glaube, ist das große
+
+00:18:28.880 --> 00:18:32.880
+Problem, was du einfach hast an der Stelle, die Konsequenz.
+
+00:18:32.880 --> 00:18:37.070
+Wenn du jemanden hast, der quasi als Person handelt und
+
+00:18:37.070 --> 00:18:39.930
+so weiter, kannst du den verklagen.
+
+00:18:39.930 --> 00:18:42.930
+Das hat dann juristische, nachvollziehbare
+
+00:18:42.930 --> 00:18:45.960
+Konsequenzen für Menschen und so weiter an der Stelle.
+
+00:18:45.960 --> 00:18:49.960
+Aber was möchtest du mit einer KI machen an der Stelle?
+
+00:18:49.960 --> 00:18:52.960
+Das Einsperren ist nicht, also damit zu drohen, ich schalte den Strom ab,
+
+00:18:52.960 --> 00:18:56.960
+das ist nochmal so eine Geschichte, ich weiß nicht, ob das so eine
+
+00:18:56.960 --> 00:19:03.960
+einschüchternde Geschichte wäre an der Stelle, wenn da was falsch war.
+
+00:19:03.960 --> 00:19:05.960
+Also im strafrechlichen Kontext ist ja diese Frage angesiedelt.
+
+00:19:05.960 --> 00:19:07.960
+Wie bestraft man dann so ein Verhalten?
+
+00:19:07.960 --> 00:19:09.960
+Es gibt ja noch die anderen Aspekte, Zivilrecht und Gesellschaft.
+
+00:19:09.960 --> 00:19:14.990
+Vielleicht eine andere Form, aber letztlich sind das ganz grundlegende Fragen.
+
+00:19:14.990 --> 00:19:18.910
+Wie gehen wir mit dieser Entität um, die sich gerade manifestiert?
+
+00:19:18.910 --> 00:19:24.160
+Und nach welchen Gesetzmäßigkeiten soll diese Entität sich entwickeln dürfen?
+
+00:19:24.160 --> 00:19:28.210
+Oder in der Welt sein oder sie weiterentwickeln können?
+
+00:19:28.210 --> 00:19:31.580
+Und wo du gerade Konsequenz sagst, das ist zwar eine Gedanke,
+
+00:19:31.580 --> 00:19:34.580
+aber der kommt halt gerade hoch, die Konsequenz der Entscheidung, das zu tun.
+
+00:19:34.580 --> 00:19:39.050
+Ich hatte vor einem Vortrag gesagt, niemand hat die Kollegen im Silicon Valley darum gebeten,
+
+00:19:39.050 --> 00:19:43.010
+500 Milliarden Dollar im Quartal in die Entwicklung dieser Systeme zu investieren.
+
+00:19:43.010 --> 00:19:47.360
+Oder den Xi Jinping in China, ähnliche Investitionen.
+
+00:19:47.360 --> 00:19:52.760
+Und plötzlich sind aber die Entwicklungen, die dort angestoßen, haben Konsequenzen für uns alle.
+
+00:19:52.760 --> 00:19:56.890
+Für Gesellschaft, für Ausbildung, für Universitäten, für wie unsere Kinder aufwachsen.
+
+00:19:56.890 --> 00:20:00.980
+Was die noch lernen und was sie vielleicht nie mehr lernen, weil sie das nie müssen.
+
+00:20:00.980 --> 00:20:05.680
+Aber niemand hat sozusagen nach der Konsequenz diese Entscheidung gefragt.
+
+00:20:05.680 --> 00:20:11.180
+Und das ist etwas, wo wir, glaube ich, auch sehr, sehr zivilgesellschaft und auch politisch auch versuchen müssen,
+
+00:20:11.180 --> 00:20:17.400
+so schnell wie möglich Konsequenzen dort einzufordern oder überhaupt das mal sichtbar zu machen.
+
+00:20:17.400 --> 00:20:22.740
+Das war auch so ein bisschen die Kernthese des Vortrags, dass die Phänomene nicht isoliert sind.
+
+00:20:22.740 --> 00:20:26.930
+Es ist nicht so, da ist ein Sprachmodell und benutzt das und dann bleibt der Human in the Loop fertig.
+
+00:20:26.930 --> 00:20:27.960
+Nein, so ist es nicht.
+
+00:20:27.960 --> 00:20:33.240
+Da hängen Dinge dran, da hängen Konsequenzen dran, wenn man mit so einem System in Kontakt kommt.
+
+00:20:33.240 --> 00:20:36.810
+Und das muss man zumindest mal erkennen und benennen.
+
+00:20:36.810 --> 00:20:40.810
+Wie man es dann löst, da muss jede Organisation vermutlich eigene Antworten finden.
+
+00:20:40.810 --> 00:20:49.700
+Aber es gar nicht erst zu sehen oder so zu tun, als gäbe es diese Konsequenzen nicht. Das ist halt fatal.
+
+00:20:49.700 --> 00:20:55.990
+Dann passt vielleicht hier ganz gut die Frage, wo du gerade gesagt hast mit dieser Finanzierung auch.
+
+00:20:55.990 --> 00:21:00.890
+Scheitert die KI-Revolution an der Finanzierung, bevor tatsächlich eine AGI kommt?
+
+00:21:00.890 --> 00:21:08.640
+Wie du richtig gesagt hast, wollen die Geldgeber Rendite sehen, während die großen CEOs gerade auf die Bremse treten und klammern wollen.
+
+00:21:08.640 --> 00:21:14.480
+Also ich glaube, das sind wirklich total spannende Fragen, die sind ja so, das haben viele Facetten.
+
+00:21:14.480 --> 00:21:21.790
+Also scheitert die Revolution? Ich glaube, wir haben schon so viel in der Welt, dass man von Scheitern eigentlich gar nicht mehr sprechen kann.
+
+00:21:21.790 --> 00:21:27.750
+Ja, da ist schon so viel da, auch an anderen öffentlichen Modellen, die man auf einem Laptop runterladen kann und die tatsächlich
+
+00:21:27.750 --> 00:21:33.080
+relativ sicher sind, wenn man sie vernünftig einsetzt, dass es uns wirklich weiterhilft.
+
+00:21:33.080 --> 00:21:39.240
+Und uns hilft, komplizierte Probleme zu lösen. Und da gibt es ja jetzt nicht nur irgendwelche Software irgendwie zu knacken,
+
+00:21:39.240 --> 00:21:44.480
+sondern tatsächlich Probleme zu lösen, an denen die Menschen bisher verzweifelt sind.
+
+00:21:44.480 --> 00:21:48.480
+Und das meine ich jetzt nicht irgendwie die Zehn-Watte-Probleme, die großen, sondern irgendwie die Protein-Vorhersagen,
+
+00:21:48.480 --> 00:21:52.630
+dass man Medikamente entwickeln kann. Da ist was da, ist in die Welt gekommen.
+
+00:21:52.630 --> 00:21:59.470
+Das hat großartige Fähigkeiten und Chancen. Insofern kann es eigentlich gar nicht mehr scheitern. Es ist da.
+
+00:21:59.470 --> 00:22:04.840
+Es geht auch nicht wieder weg. Und fühlt es sich dann wie Scheitern an?
+
+00:22:04.840 --> 00:22:09.220
+Auch ein Aspekt aus dem Vortrag eben. Geht den großen Providern das Geld aus,
+
+00:22:09.220 --> 00:22:12.220
+bevor die die Tokenkosten zumindest zum Teil weitergeben müssen an die Kunden?
+
+00:22:12.220 --> 00:22:16.220
+Und wir alle merken, okay, das ist doch nicht umsonst. Und dahinter stehen im Zweifel
+
+00:22:16.220 --> 00:22:23.480
+gaskraftbetriebene Rechtszentren irgendwo in der Welt, die einen enormen Wasserverbrauch haben und und und,
+
+00:22:23.480 --> 00:22:30.270
+was ja über die Kosten ein Stück weit sozusagen fühlbar wird. Das sollten wir wissen und das sollten wir bewusst sein,
+
+00:22:30.270 --> 00:22:33.270
+wenn wir diesen prompt in irgendein Sprachmodell eingeben.
+
+00:22:33.270 --> 00:22:37.330
+Und wir sollten lernen, dass man für eine lineare Regression am besten Axio nimmt, nach wie vor.
+
+00:22:37.330 --> 00:22:42.360
+Und nicht das teuerste, neueste Modell, was irgendwie 27 Rechensandler auf der ganzen Welt braucht,
+
+00:22:42.360 --> 00:22:49.730
+um dann den gleichen Output zu generieren. Das sollten wir lernen. Und es gibt auch gute Chancen, das zu lernen.
+
+00:22:49.730 --> 00:22:56.560
+Und insofern bin ich eigentlich über jedes Verstolpern, was diese großen Anbieter dort tun, echt sogar dankbar.
+
+00:22:56.560 --> 00:22:59.870
+Und ich finde das gar nicht als Scheitern. Aber wir sind noch nicht abhängig.
+
+00:22:59.870 --> 00:23:04.870
+Noch haben sie uns nicht so am Haken, dass wir hilflos ausgeliefert sind in unseren Volkswirtschaften,
+
+00:23:04.870 --> 00:23:08.870
+in unseren Unternehmen, die am Ende ja ganze Rendite und die Wertschöpfung da abgeben,
+
+00:23:08.870 --> 00:23:11.840
+hier die Leute entlassen, die dann lieber um keine Steuern mehr zahlen
+
+00:23:11.840 --> 00:23:17.260
+und wir irgendwann eine Kolonie werden von zwei zentralen Anbietern irgendwo im Silicon Valley.
+
+00:23:17.260 --> 00:23:20.410
+Ich will das nicht. Und ich bin froh, dass es sozusagen, dass sie sich da verstolpert haben.
+
+00:23:20.410 --> 00:23:25.700
+Auf einer anderen Ebene vorher hat uns Microsoft eine ganz, ganz tolle Idee gemacht mit ihrer Plattform.
+
+00:23:25.700 --> 00:23:30.080
+Und dann haben sie OpenAI investiert in das Modell, weil die dachten damals, das ist der Login.
+
+00:23:30.080 --> 00:23:34.330
+Mit dem Modell von Microsoft und ihrer Architektur, da kommen die Leute nicht mehr raus.
+
+00:23:34.330 --> 00:23:38.590
+Dann, hoppla, gab es plötzlich ein billiges Modell von aus China und niemand brauchte das mehr.
+
+00:23:38.590 --> 00:23:44.840
+Auch die haben, da sind schon oft sozusagen kleine Aspekte von Scheitern zu besichtigen gewesen.
+
+00:23:44.840 --> 00:23:50.980
+Und ich sage tatsächlich, zum Glück, Gott sei Dank. Und hoffentlich scheitern die noch mehr und schlimmer,
+
+00:23:50.980 --> 00:23:55.140
+damit da Ruhe oder damit wir die Chance bekommen, hinterherzukommen.
+
+00:23:55.140 --> 00:24:00.860
+Aber an der Stelle scheitern wir nicht manchmal einfach nur an unserer Bequemlichkeit.
+
+00:24:00.860 --> 00:24:03.890
+Also auch bei den Beispielen, die du genannt hast.
+
+00:24:03.890 --> 00:24:08.890
+Also natürlich macht das Sinn, wenn man so eine lineare Berechnung machen will,
+
+00:24:08.890 --> 00:24:12.050
+da so ein Modell zu benutzen oder Excel zu benutzen.
+
+00:24:12.050 --> 00:24:17.050
+Es gibt auch die Leute, die wohnen 500 Meter weg vom Bäcker und fahren da trotzdem mit dem Auto hin.
+
+00:24:17.050 --> 00:24:24.200
+Und das große Problem ist ja tatsächlich, das vernünftige Handel quasi in die Leute reinzubekommen,
+
+00:24:24.200 --> 00:24:30.360
+sodass jeder da quasi mit umgehen kann. Das Gleiche sehe ich aber auch auf Unternehmensebene.
+
+00:24:30.360 --> 00:24:34.360
+Also aktuell, wenn ich mir das angucke bei großen Unternehmen,
+
+00:24:34.360 --> 00:24:40.360
+wo Microsoft dann auf einmal 20.000, 40.000 Co-Pilot-Lizenzen verkauft,
+
+00:24:40.360 --> 00:24:42.360
+wo sich jeder fragt, was soll ich damit?
+
+00:24:42.360 --> 00:24:44.360
+Du hast das wunderbar erklärt.
+
+00:24:44.360 --> 00:24:48.390
+Gerade so in der Entwickler-Community sagen die meisten Leute eher,
+
+00:24:48.390 --> 00:24:52.390
+hm, ich weiß nicht, Co-Pilot fühlt sich jetzt nicht so gut an, ich hätte gern was anderes.
+
+00:24:52.390 --> 00:24:56.390
+Aber wir haben tatsächlich ja immer noch speziell bei Unternehmen
+
+00:24:56.390 --> 00:24:59.490
+ja auch immer noch so eine lineare Schla.
+
+00:24:59.490 --> 00:25:03.740
+Wir brauchen Standardsoftware, wir machen einen Lizenzvertrag über fünf Jahre.
+
+00:25:03.740 --> 00:25:06.740
+Aber in der aktuellen Zeit kann man ja gar nicht wissen,
+
+00:25:06.740 --> 00:25:10.740
+ist das in zwölf Monaten noch das, was ich brauche.
+
+00:25:10.740 --> 00:25:14.740
+Also das beste Beispiel ist ja tatsächlich, vor 18 Monaten hätte jeder gesagt,
+
+00:25:14.740 --> 00:25:17.740
+wir setzen volle Fahrt auf OpenAI.
+
+00:25:17.740 --> 00:25:20.740
+Sechs Monate später, also vor zwölf Monaten, hätte jeder gesagt,
+
+00:25:20.740 --> 00:25:23.740
+oh, Google Gemini, das ist tatsächlich der beste Weg.
+
+00:25:23.740 --> 00:25:25.740
+Und seit sechs Monaten laufen alle Antropic hinterher.
+
+00:25:25.740 --> 00:25:28.740
+Und mal gucken, wo wir in sechs Monaten landen.
+
+00:25:28.740 --> 00:25:31.930
+Exakt. Und das sind ja die verschiedenen Anpassungsprozesse.
+
+00:25:31.930 --> 00:25:33.930
+Und dann die Frage, individuelles Verhalten,
+
+00:25:33.930 --> 00:25:36.920
+wäre es ein System, was bestimmte Sachen begünstigt oder nicht.
+
+00:25:36.920 --> 00:25:39.870
+Wenn der Liter Benzin irgendwann fünf Euro kostet,
+
+00:25:39.870 --> 00:25:43.010
+dann immer noch jemand mit fünf haben, wie jetzt ein Bäcker mit einem SUV fährt,
+
+00:25:43.010 --> 00:25:45.010
+ja, dann ist das vermutlich so, dann sollte er das tun.
+
+00:25:45.010 --> 00:25:48.010
+Aber das werden doch viel, viel mehr, viel weniger Menschen tun,
+
+00:25:48.010 --> 00:25:51.010
+wenn das sozusagen in dem System anders angelegt ist.
+
+00:25:51.010 --> 00:25:55.380
+Aber auf der Organisationsebene ist es tatsächlich noch, nochmal spannend,
+
+00:25:55.380 --> 00:25:57.380
+welche Fähigkeiten haben wir uns dort zu wandeln.
+
+00:25:57.380 --> 00:26:00.380
+Und jetzt hier in AI ist aber ganz komplex und Hype.
+
+00:26:00.380 --> 00:26:04.660
+Wir können ja mal ganz kurz zurückspulen auf diese Welt, die wir hatten,
+
+00:26:04.660 --> 00:26:09.750
+als plötzlich in der Arbeitsorganisation das Homeoffice plötzlich populär wurde, also Corona.
+
+00:26:09.750 --> 00:26:14.930
+Wo wir sagten, viele Organisationen kennen Arbeitszeit, Arbeitszeitautonomie.
+
+00:26:14.930 --> 00:26:17.970
+Ich kann arbeiten, wann ich möchte, aber wenn ich arbeite, dann bitte im Büro.
+
+00:26:17.970 --> 00:26:20.130
+Und da ist sozusagen der Arbeitsort.
+
+00:26:20.130 --> 00:26:23.590
+Und plötzlich ging eine Welt auf, die relativ gut und einfach zu beschreiben ist.
+
+00:26:23.590 --> 00:26:26.590
+Man konnte jetzt auch den Arbeitsort autonomer wählen.
+
+00:26:26.590 --> 00:26:32.800
+Man konnte im Homeoffice arbeiten, man kann im Büro arbeiten, man kann in hybriden Settings mit der Technologie,
+
+00:26:32.800 --> 00:26:36.800
+die sich dann entwickelt hat und den Methoden und wie man Meetings macht und dass man nicht mehr die Kamera ausmacht.
+
+00:26:36.800 --> 00:26:42.390
+Also es gibt viele. Man kann plötzlich autonom über den Arbeitsort entscheiden.
+
+00:26:42.390 --> 00:26:46.660
+Und eigentlich ist es ja eine Freiheitsgrad, der nur mega ist. Es ist auch nur toll. Es kann auch nur besser werden.
+
+00:26:46.660 --> 00:26:49.690
+Also im schlimmsten Fall bleiben wir einfach alle im Büro, wie vorher.
+
+00:26:49.690 --> 00:26:55.630
+Jetzt kommt was hinzu. Wir können irgendwie, weil wir den Anfahrtweg sparen wollen, weil es dort ruhiger ist,
+
+00:26:55.630 --> 00:26:59.610
+weil ich dann vielleicht auch irgendwie Pflege in der Familie, das besser verbinden kann.
+
+00:26:59.610 --> 00:27:04.790
+Ich kann nicht auf lokaler Ebene in einem Team überlegen, wann brauchen wir alle im Büro, damit wir weiter im Team sind.
+
+00:27:04.790 --> 00:27:09.750
+Welche Aufgaben können wir auch von zu Hause vielleicht sogar besser erledigen. Es wird effizienter.
+
+00:27:09.750 --> 00:27:15.290
+Diese lokale Optimierung, die könnten wir erreichen. Das ist eigentlich ganz leicht zu beschreiben.
+
+00:27:15.290 --> 00:27:17.290
+Und was passiert irgendwie sieben Jahre später?
+
+00:27:17.290 --> 00:27:20.290
+Es gibt immer noch CEOs, die sagen, so jetzt alle wieder zurück ins Büro.
+
+00:27:20.290 --> 00:27:26.080
+Nur so können wir arbeiten. Das heißt, selbst diese total einfache, deterministische Aufgabe,
+
+00:27:26.080 --> 00:27:30.460
+wo man einfach nur die Fähigkeit in der Organisation vermuten und verankern sollte,
+
+00:27:30.460 --> 00:27:34.770
+löst es dort, wo es etwas zu optimieren geht. Das schaffen wir nicht. Nicht überall.
+
+00:27:34.770 --> 00:27:38.770
+Also es gibt Organisationen, die schaffen das natürlich und wir werden da weiter.
+
+00:27:38.770 --> 00:27:43.990
+Aber selbst diese kleine Aufgabe, da haben sie im Jahr nicht gereicht, um zu einem gesunden Setting zu führen.
+
+00:27:43.990 --> 00:27:50.410
+Sagen, so geht's. So funktioniert's und so ist es gut. Und jetzt reden wir über solche Sachen.
+
+00:27:50.410 --> 00:27:57.630
+Wir können nicht mal wissen, wie der Zielzustand aussieht. Also da kommt noch unruhiges Fahrers auf uns zu.
+
+00:27:57.630 --> 00:28:05.610
+Gibt es denn so von deiner Sicht irgendwie so Schritte für die Politik oder für Unternehmen,
+
+00:28:05.610 --> 00:28:11.890
+was die machen können, um die Potenziale von KI als sinnvoll, sicher und gesund zu machen?
+
+00:28:11.890 --> 00:28:15.220
+Oder hast du schon jetzt zum meisten abgedeckt?
+
+00:28:15.220 --> 00:28:19.220
+Nein, also das sind dann die großen Fragen. Es ist nicht Organisationen zu entwickeln und es ist nicht,
+
+00:28:19.220 --> 00:28:24.190
+wie reagiert eine Organisation auf das Vorhandensein und die Verfügbarkeit solcher Technologien
+
+00:28:24.190 --> 00:28:28.640
+und was geht man im Innenverhältnis damit um, sondern das ist dann die Frage als Gesellschaft
+
+00:28:28.640 --> 00:28:36.590
+oder geopolitisch. Und aus meiner Sicht, also eine persönliche Meinung und natürlich nicht abschließend,
+
+00:28:36.590 --> 00:28:42.090
+ist, wir brauchen Kontrolle darauf. Also die Frage, dieses Verhalten von dem System, wodurch wird das bestimmt?
+
+00:28:42.090 --> 00:28:47.180
+Auf Basis welcher Trainingsdaten? Was fließt da rein? Welche Qualität haben die Daten?
+
+00:28:47.180 --> 00:28:53.300
+Wie gesund sind diese Daten auch noch? Data poisoning, da gibt es ja diese ganzen Begriffe.
+
+00:28:53.300 --> 00:28:58.730
+Dann die Prompts, diese ominösen Systemprompts. Wer definiert eigentlich, was sozusagen das Verhalten
+
+00:28:58.730 --> 00:29:03.760
+eines solchen komplexen Systems ist. Aus trainiertem Transformer-Modell, dann sozusagen
+
+00:29:03.760 --> 00:29:07.730
+den ganzen Harnes drumherum, was sozusagen nicht passieren darf und was doch passieren darf.
+
+00:29:07.730 --> 00:29:12.010
+Und mit welcher Intention werden diese Ressourcen dann an den Start gebracht?
+
+00:29:12.010 --> 00:29:17.160
+Und das in den Händen von dieser Handvoll Menschen im Silicon Valley, die alle jetzt nicht dienen Personen sind,
+
+00:29:17.160 --> 00:29:20.220
+mit denen man abends gerne ein Bier trinken will. Oder wenn man sagt, da geht man zu einer Geburtstagsparty
+
+00:29:20.220 --> 00:29:24.310
+oder will seine Kinder übernachten lassen. Die entscheiden gerade sowas.
+
+00:29:24.310 --> 00:29:27.690
+Und da, finde ich, müssten wir als Gesellschaft und politisch sagen, nein, ihr entscheidet das nicht mehr.
+
+00:29:27.690 --> 00:29:35.970
+Das ist keine kapitalistische oder Investmentgeschichte, was eure Mutter leisten können soll, sondern das ist gesellschaftlich, politisch höchst relevant.
+
+00:29:35.970 --> 00:29:44.720
+Bis hin, aus meiner Sicht, tatsächlich zu einem Moratoriumsagen, gerade diese agentischen Systeme, die sollten erst dann wirklich erlaubt werden,
+
+00:29:44.720 --> 00:29:50.860
+so wie man ein neues Lebensmittel oder ein neues Medikament erst dann erlaubt, wenn nachgewiesen ist, dass es positiv wirksam ist
+
+00:29:50.860 --> 00:29:56.910
+und nicht irgendwie eine schädliche Nebenwirkung hat, dann machen wir so viel Aufstand, bis wir irgendwie eine neue Tablette freigeben.
+
+00:29:56.910 --> 00:30:02.140
+Und das Zeug kann einfach mal so veröffentlicht werden, Tag für Tag. Das sollte aufhören.
+
+00:30:02.140 --> 00:30:12.100
+Also, dass man wirklich wirksame, internationale, so herausfordernd das ist, Regeln hat, dass dieses Systeme so lange unter Verschluss und nicht zugänglich bleiben,
+
+00:30:12.100 --> 00:30:17.290
+bis man wirklich weiß, was das tut, weiß, wie es sich fällt und diskutiert, ob man das so will.
+
+00:30:17.290 --> 00:30:22.080
+Es ist ja immer so auch das Problem, auch so von Unternehmen, aber auch von zum Beispiel Deutschland oder Europa,
+
+00:30:22.080 --> 00:30:28.180
+wenn man dann irgendwie zu viel Regeln da drauf macht, dann werden wir abgehängt.
+
+00:30:28.180 --> 00:30:32.240
+Vielleicht auch als Unternehmen. Andere nutzen das, haben da vielleicht gar nicht so die Charme.
+
+00:30:32.240 --> 00:30:37.470
+Natürlich langfristig ist daran irgendwie auch bedenklich, aber trotzdem ist ja diese Angst,
+
+00:30:37.470 --> 00:30:42.470
+sozusagen nicht dabei zu sein. Also es ist bei uns auch viel, dass man jetzt überall rein powert,
+
+00:30:42.470 --> 00:30:46.460
+AI first, überall nur KI guckt.
+
+00:30:46.460 --> 00:30:50.900
+Das ist eine total relevante Debatte, die ist aber auch tatsächlich auch nicht neu.
+
+00:30:50.900 --> 00:30:55.840
+Also die ist ja, ob das Technologie, ob das jetzt Nukleartechnologie ist oder damals die Atomwaffen,
+
+00:30:55.840 --> 00:31:00.840
+wo wir auch gesagt haben, als Menschheit wäre nicht so cool, wenn das sozusagen in der Breite verfügbar wird,
+
+00:31:00.840 --> 00:31:06.370
+die Fähigkeit, solche Technologien zu entwickeln, dass wir dort Beschränkungen haben wollten,
+
+00:31:06.370 --> 00:31:10.460
+die auch durchgehalten haben, Gentechnologie etc. Also diese Abwägung zwischen
+
+00:31:10.460 --> 00:31:14.590
+wie weit treibe ich die Entwicklung und den Nutzen einer neuen Technologie voran
+
+00:31:14.590 --> 00:31:17.590
+und wo habe ich aus gesellschaftlichen, ethischen oder anderen Erwägungen,
+
+00:31:17.590 --> 00:31:22.840
+möchte ich gerne, dass das nicht so passiert. Und hier in dem Umfeld finde ich es eigentlich eher hoffnungsfroh,
+
+00:31:22.840 --> 00:31:30.140
+das, was heute die teuersten, neuesten Modelle können, oder umgekehrt das, was vor drei Monaten
+
+00:31:30.140 --> 00:31:34.140
+die teuersten neuen Modelle konnten mit dem 100 Milliarden Trainingsaufwand,
+
+00:31:34.140 --> 00:31:40.530
+wurde drei Monate später von den frei verfügbaren LLMs auf dem Laptop reproduziert an Fähigkeit.
+
+00:31:40.530 --> 00:31:47.860
+Also wir müssen nicht da mit vorne wegrennen, um dieser Revolution und dieser Entwicklung nachzukommen.
+
+00:31:47.860 --> 00:31:52.050
+Wir brauchen Autonomie über unsere Daten, wir brauchen Fähigkeiten, die hier auch tatsächlich zu halten
+
+00:31:52.050 --> 00:31:57.670
+und die Fähigkeit hier in Europa, dass dann nicht irgendwie, wenn jemand in Amerika oder in China
+
+00:31:57.670 --> 00:32:04.070
+irgendwas nicht gefällt, dass die den Killswitch bei sich haben, um diese Infrastruktur hier in Europa abzuschalten.
+
+00:32:04.070 --> 00:32:09.440
+Also insofern träume ich, oder finde ich, fände ich toll, ein dezentrales Netz an Clustern,
+
+00:32:09.440 --> 00:32:13.440
+muss jetzt gar nicht in Europa, Amerika, in China teilen, sondern kann ja noch granularer sein,
+
+00:32:13.440 --> 00:32:18.660
+wo lokale Daten mit frei verfügbaren Modellen, die sauber und transparent trainiert wurden
+
+00:32:18.660 --> 00:32:22.660
+und auch deren Fähigkeiten bekannt sind, zusammenspielen und dann lokal den Nutzen stiften.
+
+00:32:22.660 --> 00:32:27.780
+Und dann haben wir schon 99 Prozent von dem, was wir als Menschheit davon als Nutzen ziehen können
+
+00:32:27.780 --> 00:32:32.940
+und brauchen nicht irgendwie das letzte, jetzt irgendwie Astra 6.1, das heute gerade
+
+00:32:32.940 --> 00:32:35.940
+von OpenAI zurückgehalten wurde, weil das System nicht geheuer wurde.
+
+00:32:35.940 --> 00:32:42.370
+Das ist ja alles gerade hochaktuell. So kann ich mir vorstellen, kann das eine gesunde Entwicklung geben,
+
+00:32:42.370 --> 00:32:46.680
+in der wir mit der vernünftigen Regulierung, aber auch erklärt, warum die so ist,
+
+00:32:46.680 --> 00:32:48.740
+vielleicht sogar einen Standortvorteil bekommen.
+
+00:32:48.740 --> 00:32:56.940
+Hier ist noch vielleicht eine Frage. Oh Gott, mit dem Blick auf die Zeit vielleicht
+
+00:32:56.940 --> 00:32:58.940
+dann auch langsam zum Ende schon kommen.
+
+00:32:58.940 --> 00:33:05.940
+Wir haben ein Unternehmen aus einem öffentlichen Sektor, das, was KI angeht, total hinterherhinkt.
+
+00:33:05.940 --> 00:33:09.070
+Was kann man aus deiner Sicht tun? Welche Themen soll man zuerst angehen?
+
+00:33:09.070 --> 00:33:13.200
+Hat das eventuell Potenzial, wenn man nicht so schnell Trends mitgeht?
+
+00:33:13.200 --> 00:33:15.200
+Du hast jetzt gerade schon so ein bisschen was zu erzählt.
+
+00:33:15.200 --> 00:33:21.000
+Ging schon ein bisschen. Ja, man wird vermutlich sehr viel
+
+00:33:21.000 --> 00:33:25.960
+Investitionsabschreibungbedarf an Investitionen vermeiden, wenn man sozusagen
+
+00:33:25.960 --> 00:33:29.090
+nicht so ein Frontrunner und auch nicht Fast Follow ist.
+
+00:33:29.090 --> 00:33:34.560
+Aber was ich immer auch versuchen würde, ist zu sagen, es gibt diese erste Phase der Exploration.
+
+00:33:34.560 --> 00:33:38.720
+Davon kann man eigentlich gar nicht genug machen, weil da überhaupt jetzt mal reinzukommen,
+
+00:33:38.720 --> 00:33:41.720
+einen Raum zu schaffen, Dinge auszuprobieren und zwar konsequenzenfrei.
+
+00:33:41.720 --> 00:33:45.690
+Aber es muss kein Business Case geben, es muss nicht irgendwie Mitarbeiter dann rechtfertigen,
+
+00:33:45.690 --> 00:33:49.910
+was er da gemacht hat, sondern einfach die Möglichkeit, Angst abzubauen.
+
+00:33:49.910 --> 00:33:56.900
+und Verständnis aufzubauen, was brauchst du denn eigentlich, damit so ein Tool in irgendeiner Form Nutzen stiften kann.
+
+00:33:56.900 --> 00:34:02.140
+Und dass es eine Resonanz gibt mit den eigenen Aufgaben, also das würde ich empfehlen,
+
+00:34:02.140 --> 00:34:08.330
+diese Exploration zuzulassen. Und zwar so lange, bis sich dann was manifestiert, da kommt dann schon was raus.
+
+00:34:08.330 --> 00:34:11.480
+Aber auch da nicht irgendwie jeden Quatsch mitnehmen und jede Idee,
+
+00:34:11.480 --> 00:34:16.480
+und jetzt müssen wir hier jetzt doch mal eine Million Euro für irgendwie, damit das Kalendereintrag automatisch irgendwie eingetragen wird.
+
+00:34:16.480 --> 00:34:18.480
+Nee, das kann man schon auch selber mal weitermachen.
+
+00:34:18.480 --> 00:34:22.610
+Aber irgendwas, was in der Organisation spürbaren Nutzen stiftet.
+
+00:34:22.610 --> 00:34:26.610
+Und da dann Fokus drauf, das möglich machen, das wirklich realisieren.
+
+00:34:26.610 --> 00:34:33.690
+Und wenn man dann diese Schritte einen nach dem anderen geht, ohne sich dann so eine Hektik treiben zu lassen,
+
+00:34:33.690 --> 00:34:38.040
+dann ist man wahrscheinlich besser dabei, als diese ganzen Hype-Unternehmen, die irgendwie versuchen,
+
+00:34:38.040 --> 00:34:40.420
+da so schnell wie möglich hinterherzulaufen.
+
+00:34:43.080 --> 00:34:44.300
+Okay.
+
+00:34:44.300 --> 00:34:46.940
+Vielleicht ist das auch nochmal ein guter Abschluss.
+
+00:34:46.940 --> 00:34:50.940
+Was wäre denn so aus deiner Sicht, weil wir mit dem Thema Mut ja gestartet haben,
+
+00:34:50.940 --> 00:34:56.900
+ein guter Appell an Unternehmen, an Leute in Unternehmen, zu sagen, traut euch das,
+
+00:34:56.900 --> 00:34:59.900
+nimmt euch ein bisschen Mut, auch in Bezug auf KI vielleicht mit.
+
+00:34:59.900 --> 00:35:03.900
+Was wäre da so ein guter Ansatzpunkt oder ein Rat, den du den Leuten geben würdest?
+
+00:35:03.900 --> 00:35:11.210
+Sehr, sehr schwer, das pauschal zu sagen.
+
+00:35:11.210 --> 00:35:16.210
+Und da würde ich auf meinen Abschlussbotschaft auch aus dem Talk nochmal zurückkommen.
+
+00:35:16.210 --> 00:35:21.750
+Also wir sind in einer Welt, in der Intelligenz nichts menschenspezifisches mehr ist.
+
+00:35:21.750 --> 00:35:24.750
+Also in der Form, wie wir mit Sprache umgehen, wie wir uns koordinieren.
+
+00:35:24.750 --> 00:35:27.910
+Das heißt, Intelligenz wird nicht mehr die knappe Ressource sein.
+
+00:35:27.910 --> 00:35:32.180
+Und dann kann man natürlich sagen, ich mache da nicht mit.
+
+00:35:32.180 --> 00:35:34.180
+Ja, ich bin nicht mutig, ziehe mich da zurück.
+
+00:35:34.180 --> 00:35:38.240
+Aber dann ist man sozusagen automatisch irrelevant.
+
+00:35:38.240 --> 00:35:41.690
+Und wenn man die Entwicklung mitgeht, wenn man versucht, das mitzugestalten,
+
+00:35:41.690 --> 00:35:45.970
+dann hat man eine Chance daran teilzuhaben, an den großen Fragen mitzuwirken.
+
+00:35:45.970 --> 00:35:51.700
+Welche Probleme wollen wir denn jetzt lösen mit dieser massenhaft verfügbaren Intelligenz?
+
+00:35:51.700 --> 00:35:56.950
+Was sind dann die spannenden Aufgaben? Was sind denn die guten Aufgaben, die die Menschheit und die Welt weiterbringt?
+
+00:35:56.950 --> 00:36:05.240
+und einen Beitrag zu leisten, dazu die nötige Weisheit dafür zu erwerben?
+
+00:36:05.240 --> 00:36:06.200
+Alles klar.
+
+00:36:06.200 --> 00:36:07.200
+Das war doch super.
+
+00:36:07.200 --> 00:36:09.200
+Letzte Worte für diese Folge.
+
+00:36:09.200 --> 00:36:11.160
+Ja, vielen Dank für den Input.
+
+00:36:11.160 --> 00:36:15.160
+Auch vielen Dank für die ganzen Fragen hier über den Chat.
+
+00:36:15.160 --> 00:36:17.100
+Und dann...
+
+00:36:17.100 --> 00:36:20.090
+Ja, vielen Dank, dass ich dabei bin, Dr.
