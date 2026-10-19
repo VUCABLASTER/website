@@ -7,8 +7,12 @@
   "staffel": "",
   "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": [],
-  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings).",
+  "key_learnings": [
+    "Adaptionsgeschwindigkeit in Unternehmen ist durch externe Ereignisse stark erhöht worden.",
+    "Mut bedeutet, gegen vorherrschende Normen gesund zu verstoßen.",
+    "KI-Agenten stellen neue Fragen zur Rolle von Führungskräften."
+  ],
+  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings (automatisch aus dem Transkript erzeugt, bitte gegenlesen)).",
   "geprueft": false,
   "link_spotify": "",
   "link_amazon": "",
