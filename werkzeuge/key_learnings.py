@@ -142,6 +142,35 @@ def erzeugen(nr, vtt, ausgabe):
     Path(ausgabe).write_text(json.dumps({'nummer': nr, 'key_learnings': liste}, ensure_ascii=False, indent=2), encoding='utf-8')
 
 
+MAX_VERSUCHE = 3  # so oft wird es pro Folge automatisch versucht, danach bleibt das Feld leer (von Hand nachtragen)
+
+
+def offene():
+    """Folgen mit Transkript, aber ohne Key Learnings, ungeprüft und mit weniger als MAX_VERSUCHE Versuchen.
+    Der Workflow holt sie bei jedem Lauf automatisch nach, falls ein früherer Versuch nichts geliefert hat."""
+    nrs = []
+    for p in sorted((REPO / 'inhalte' / 'folgen').glob('[0-9][0-9][0-9].json')):
+        info = json.loads(p.read_text(encoding='utf-8'))
+        nr = int(p.stem)
+        if (not info.get('key_learnings') and not info.get('geprueft') and info.get('kl_versuche', 0) < MAX_VERSUCHE
+                and (REPO / 'inhalte' / 'transkripte' / f'{nr:03d}.vtt').exists()):
+            nrs.append(nr)
+    return nrs
+
+
+def versuche_zaehlen(nrs):
+    """Nach einem Lauf: Folgen, die versucht wurden und weiterhin leer sind, bekommen einen Versuch mehr."""
+    for nr in nrs:
+        p = REPO / 'inhalte' / 'folgen' / f'{nr:03d}.json'
+        if not p.exists():
+            continue
+        info = json.loads(p.read_text(encoding='utf-8'))
+        if not info.get('key_learnings') and not info.get('geprueft'):
+            info['kl_versuche'] = info.get('kl_versuche', 0) + 1
+            p.write_text(json.dumps(info, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
+            print(f'#{nr}: noch keine Key Learnings, Versuch {info["kl_versuche"]} von {MAX_VERSUCHE}.')
+
+
 def uebernehmen(ordner):
     for p in sorted(Path(ordner).glob('*.json')) if Path(ordner).exists() else []:
         neu = json.loads(p.read_text(encoding='utf-8'))
@@ -168,11 +197,16 @@ def main():
     ap.add_argument('--vtt')
     ap.add_argument('--ausgabe')
     ap.add_argument('--uebernehmen')
+    ap.add_argument('--offene', action='store_true')
+    ap.add_argument('--versucht', default='')
     a = ap.parse_args()
-    if a.erzeugen and a.nr:
+    if a.offene:
+        print(json.dumps(offene()))
+    elif a.erzeugen and a.nr:
         erzeugen(a.nr, a.vtt or REPO / 'inhalte' / 'transkripte' / f'{a.nr:03d}.vtt', a.ausgabe or f'kl/{a.nr:03d}.json')
     elif a.uebernehmen:
         uebernehmen(a.uebernehmen)
+        versuche_zaehlen([int(x) for x in re.findall(r'\d+', a.versucht)])
     else:
         ap.error('--erzeugen --nr N oder --uebernehmen ORDNER angeben')
 

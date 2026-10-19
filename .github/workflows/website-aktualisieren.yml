@@ -54,8 +54,10 @@ jobs:
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then AUSWAHL="${{ github.event.inputs.transkribieren }}"; else AUSWAHL="${{ vars.TRANSKRIBIEREN_AUTO || 'keine' }}"; fi
           FOLGEN=$(python werkzeuge/transkribieren.py --planen "$AUSWAHL")
           echo "folgen=$FOLGEN" >> "$GITHUB_OUTPUT"
-          # Key Learnings: für jede neu transkribierte Folge, dazu per Knopfdruck einzelne Folgen
-          KL=$(python -c "import json,sys; a=json.loads(sys.argv[1]); b=[int(x) for x in sys.argv[2].replace(' ','').split(',') if x.isdigit()]; print(json.dumps(sorted(set(a)|set(b))))" "$FOLGEN" "${{ github.event.inputs.learnings }}")
+          # Key Learnings: jede neu transkribierte Folge, jede Folge mit Transkript, aber noch ohne Learnings
+          # (höchstens 3 Versuche), dazu per Knopfdruck einzelne Folgen
+          OFFEN=$(python werkzeuge/key_learnings.py --offene)
+          KL=$(python -c "import json,sys; a=json.loads(sys.argv[1]); o=json.loads(sys.argv[2]); b=[int(x) for x in sys.argv[3].replace(' ','').split(',') if x.isdigit()]; print(json.dumps(sorted(set(a)|set(o)|set(b))))" "$FOLGEN" "$OFFEN" "${{ github.event.inputs.learnings }}")
           echo "kl=$KL" >> "$GITHUB_OUTPUT"
 
   werkzeug:
@@ -199,7 +201,7 @@ jobs:
       # Erst nach dem ersten Build: Er legt die Datei einer neuen Folge (inhalte/folgen/NNN.json) überhaupt erst an.
       - name: Key Learnings übernehmen (nur leere, ungeprüfte Folgen) und Seiten neu bauen
         run: |
-          python werkzeuge/key_learnings.py --uebernehmen kl
+          python werkzeuge/key_learnings.py --uebernehmen kl --versucht '${{ needs.planen.outputs.kl }}'
           python werkzeuge/build.py --offline
         continue-on-error: true
       - name: Neue Folgen merken
