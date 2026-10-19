@@ -192,18 +192,23 @@ jobs:
           merge-multiple: true
           path: kl
         continue-on-error: true
-      - name: Key Learnings übernehmen (nur leere, ungeprüfte Folgen)
-        run: python werkzeuge/key_learnings.py --uebernehmen kl
-        continue-on-error: true
       - name: Spotify- und Amazon-Links neuer Folgen holen
         run: python werkzeuge/plattform_links_holen.py
         continue-on-error: true
       - run: python werkzeuge/build.py
+      # Erst nach dem ersten Build: Er legt die Datei einer neuen Folge (inhalte/folgen/NNN.json) überhaupt erst an.
+      - name: Key Learnings übernehmen (nur leere, ungeprüfte Folgen) und Seiten neu bauen
+        run: |
+          python werkzeuge/key_learnings.py --uebernehmen kl
+          python werkzeuge/build.py --offline
+        continue-on-error: true
       - name: Neue Folgen merken
         id: neu
         run: |
           NEU=$(git ls-files --others --exclude-standard inhalte/folgen | sed -E 's#.*/0*([0-9]+)\.json#\1#' | sort -n | tr '\n' ' ' | sed 's/ $//')
           echo "folgen=$NEU" >> "$GITHUB_OUTPUT"
+          # Issue-Text jetzt erzeugen, solange der aktuelle Feed noch in daten/ liegt (wird beim Veröffentlichen zurückgesetzt)
+          for NR in $NEU; do python werkzeuge/neue_folge_hinweis.py "$NR" > "$RUNNER_TEMP/hinweis-$NR.md" || echo "Bitte Angaben zu Folge #$NR in inhalte/folgen prüfen." > "$RUNNER_TEMP/hinweis-$NR.md"; done
       - name: Änderungen veröffentlichen
         run: |
           git config user.name "VUCA Blaster Bot"
@@ -224,8 +229,7 @@ jobs:
         if: steps.neu.outputs.folgen != ''
         run: |
           for NR in ${{ steps.neu.outputs.folgen }}; do
-            python werkzeuge/neue_folge_hinweis.py "$NR" > hinweis.md 2>/dev/null
-            gh issue create --title "Neue Folge #$NR: Angaben prüfen und ergänzen" --body-file hinweis.md || true
+            gh issue create --title "Neue Folge #$NR: Angaben prüfen und ergänzen" --body-file "$RUNNER_TEMP/hinweis-$NR.md" || true
           done
         env:
           GH_TOKEN: ${{ github.token }}
