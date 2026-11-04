@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang='de'>
+<head>
+<meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='robots' content='noindex, nofollow'>
+<title>Clips – VUCA Blaster</title>
+<link rel='stylesheet' href='../assets/css/style.css'>
+<style>
+.clip-list{display:grid;gap:2.5rem;max-width:880px;margin:2rem auto;padding:0 1.25rem}
+.clip{border-top:1px solid currentColor;padding-top:1.5rem}
+.clip h2{margin:.25rem 0 .5rem}
+.clip-gast{font-weight:600;margin:0}
+.clip-takeaways{padding-left:1.25rem}
+.clip-uebung{border-left:3px solid currentColor;padding-left:1rem;margin-top:1rem}
+.clip-player{position:relative;aspect-ratio:16/9;background:#161414;color:#FFFFFF;margin:1rem 0;display:flex;align-items:center;justify-content:center;text-align:center}
+.clip-player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.clip-player button{font:inherit;padding:.75rem 1.25rem;border:1px solid currentColor;background:transparent;color:inherit;cursor:pointer}
+.clip-player p{font-size:.9rem;margin:.5rem;max-width:32ch}
+.clip-player button:focus-visible{outline:3px solid currentColor;outline-offset:3px}
+</style>
+</head>
+<body>
+<a class='skip' href='#inhalt'>Zum Inhalt springen</a>
+<div class='page'>
+<header class='site-head'>
+  <a class='wordmark' href='../'>VUCA Blaster</a>
+  <nav class='site-nav' aria-label='Hauptnavigation'>
+    <ul>
+      <li><a href='../folgen/'>Alle Folgen</a></li>
+      <li><a href='./'>Clips</a></li>
+      <li><a href='../#ueber-uns'>Über uns</a></li>
+      <li><a href='../#kontakt'>Kontakt</a></li>
+    </ul>
+  </nav>
+</header>
+<main id='inhalt'>
+<div class='board-sm'>
+  <p class='kicker'>Clips</p>
+  <h1>Kurze Momente aus dem Gespräch</h1>
+  <p>Ausschnitte mit unseren Gästen, mit den wichtigsten Gedanken und einer Übung zum Mitnehmen.</p>
+</div>
+<section class='clip-list' id='clips' aria-label='Alle Clips'></section>
+</main>
+<footer class='site-foot'>
+  <p class='foot-legal'>© 2020–2026 VUCA Blaster · <a href='../impressum/'>Impressum</a> · <a href='../datenschutz/'>Datenschutz</a></p>
+</footer>
+</div>
+<script>
+// HIER DIE CLIPS EINTRAGEN. Pro Clip nur die Felder ersetzen.
+// youtubeId: nur die ID aus dem Link, z. B. aus https://youtu.be/_UHdl69fDt8 wird _UHdl69fDt8
+const CLIPS = [
+  {
+    gast: 'Antonia [Nachname]',
+    rolle: '[Rolle]',
+    titel: '[Titel des Clips]',
+    beschreibung: '[Ein Satz, worum es im Clip geht.]',
+    takeaways: ['[Takeaway 1]', '[Takeaway 2]', '[Takeaway 3]'],
+    uebung: '[Die Übung aus dem Clip in einem Satz.]',
+    youtubeId: '[YouTube-ID]'
+  },
+  {
+    gast: 'Lukas [Nachname]',
+    rolle: '[Rolle]',
+    titel: '[Titel des Clips]',
+    beschreibung: '[Ein Satz, worum es im Clip geht.]',
+    takeaways: ['[Takeaway 1]', '[Takeaway 2]', '[Takeaway 3]'],
+    uebung: '[Die Übung aus dem Clip in einem Satz.]',
+    youtubeId: '[YouTube-ID]'
+  }
+];
+
+function el(tag, text, cls) {
+  const e = document.createElement(tag);
+  if (text) e.textContent = text;
+  if (cls) e.className = cls;
+  return e;
+}
+
+function playerFor(clip) {
+  const box = el('div', '', 'clip-player');
+  const wrap = el('div');
+  const btn = el('button', 'Video laden');
+  btn.type = 'button';
+  btn.setAttribute('aria-label', 'Video ' + clip.titel + ' laden');
+  btn.addEventListener('click', () => {
+    const f = document.createElement('iframe');
+    f.src = 'https://www.youtube-nocookie.com/embed/' + encodeURIComponent(clip.youtubeId) + '?autoplay=1';
+    f.title = clip.titel;
+    f.allow = 'accelerometer; autoplay; encrypted-media; picture-in-picture';
+    f.allowFullscreen = true;
+    box.replaceChildren(f);
+  });
+  wrap.append(btn, el('p', 'Beim Laden werden Daten an YouTube übertragen. Mehr dazu in der Datenschutzerklärung.'));
+  box.append(wrap);
+  return box;
+}
+
+function render() {
+  const liste = document.getElementById('clips');
+  CLIPS.forEach((clip) => {
+    const art = el('article', '', 'clip');
+    art.append(el('p', clip.rolle ? clip.gast + ', ' + clip.rolle : clip.gast, 'clip-gast'));
+    art.append(el('h2', clip.titel));
+    art.append(el('p', clip.beschreibung));
+    art.append(playerFor(clip));
+    const ul = el('ul', '', 'clip-takeaways');
+    clip.takeaways.forEach((t) => ul.append(el('li', t)));
+    art.append(ul);
+    art.append(el('p', 'Übung: ' + clip.uebung, 'clip-uebung'));
+    liste.append(art);
+  });
+}
+
+render();
+</script>
+</body>
+</html>
