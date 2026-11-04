@@ -18,7 +18,7 @@ SPOTIFY = 'https://open.spotify.com/show/3OQW0akZgxBxK4AWFQSKtf'
 APPLE = 'https://podcasts.apple.com/de/podcast/vuca-blaster/id1541461336'
 LINKEDIN = 'https://www.linkedin.com/showcase/vucablaster/'
 DEEZER = 'https://www.deezer.com/show/2000202'
-AMAZON = 'https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/vuca-blaster'
+AMAZON = 'https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/vuca-blaster'  # TEST MANUEL
 MAIL = 'hello@vucablaster.com'
 BASE_URL = 'https://vucablaster.de/'
 
