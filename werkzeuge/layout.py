@@ -50,6 +50,7 @@ def nav_items(pre):
     erster = (f'<a href="{pre}folgen/"{spy("archiv")}>Alle Folgen</a>' if ARCHIV_VERLINKT
               else f'<a href="{"#aktuell" if pre == "" else home + "#aktuell"}">Aktuelle Folge</a>')
     return f'''      <li>{erster}</li>
+      <li><a href="{pre}impulse/"{spy("impulse")}>Impulse</a></li>
       <li><a href="{ueber}"{spy("ueber-uns hosts")}>Über uns</a></li>
       <li class="guest-li"><a class="guest-note" href="{kontakt}"{spy("kontakt")}>Für Gäste</a></li>
       <li><a href="{kontakt}"{spy("kontakt")}>Kontakt</a></li>'''
