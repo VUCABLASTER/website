@@ -7,6 +7,7 @@
   "folge_nummer": 65,
   "folge_slug": "65-der-mut-sich-zu-entscheiden-mit-gerd-gigerenzer",
   "zustimmung": "schriftlich liegt vor (Website und YouTube)",
-  "freigegeben": false,
-  "hinweis": "Entwurf. Erst veröffentlichen, wenn das Team freigegeben hat. Nur Video, keine eigenen Texte."
+  "freigegeben": true,
+  "team_freigabe": "erteilt durch Manuel",
+  "hinweis": "Team-Freigabe erteilt. Nur Video, keine eigenen Texte."
 }
