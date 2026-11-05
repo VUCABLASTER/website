@@ -6,6 +6,7 @@ Folgen-Infos aus inhalte/folgen/*.json und erzeugt:
   - eine Seite pro Folge /folgen/<slug>/
   - Kurzlinks /62/
   - die aktuelle Folge, die Folgenzahl und den Archiv-Teaser auf der Startseite
+  - Impulse /impulse/ und Impuls-Seiten (aus inhalte/impulse/*.json, nur freigegeben)
   - Impressum, Datenschutz, 404 und Gewinnspiel (über unterseiten.py / gewinnspiel.py)
   - sitemap.xml
 
@@ -24,7 +25,7 @@ import xml.etree.ElementTree as ET
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import layout
 from layout import REPO, SPOTIFY, APPLE, BASE_URL, head, header, footer, nav_items, leiste
-import unterseiten, gewinnspiel, plattformen, transkripte, entwurf, werbetest
+import unterseiten, gewinnspiel, plattformen, transkripte, entwurf, werbetest, impuls
 
 FEED_URL = 'https://evjjod.podcaster.de/vucablaster.rss'
 APPLE_ID = '1541461336'
@@ -414,6 +415,11 @@ def startseite(site, folgen, infos, staffeln, hat_bild):
         s = ersetzen(s, 'ARCHIV', archiv)
     else:
         s = s.replace('<!-- WERBETEST:ENDE -->', '<!-- WERBETEST:ENDE -->\n\n' + archiv, 1)
+    impuls_block = f'<!-- IMPULS:START (inhalte/impulse) -->{impuls.teaser_html("")}<!-- IMPULS:ENDE -->'
+    if '<!-- IMPULS:START' in s:
+        s = ersetzen(s, 'IMPULS', impuls_block)
+    else:
+        s = s.replace('<!-- ARCHIV:START', impuls_block + '<!-- ARCHIV:START', 1)
     s = re.sub(r'href="assets/css/style\.css(\?v=\w+)?"', f'href="assets/css/style.css?v={layout.version("css/style.css")}"', s, count=1)
     s = s.replace('<section class="section hosts" aria-labelledby="hosts-h">', '<section id="hosts" class="section hosts" aria-labelledby="hosts-h">', 1)
     for name in ('main', 'nav', 'werbetest'):  # Skripte mit Versionsnummer, nav.js ergänzen, werbetest.js nur bei aktivem Test
@@ -643,7 +649,7 @@ def nicht_indexieren(ordner):
 
 
 def sitemap(site, folgen):
-    urls = ['', 'folgen/', 'impressum/', 'datenschutz/'] + [f'folgen/{f["slug"]}/' for f in folgen]
+    urls = ['', 'folgen/', 'impressum/', 'datenschutz/'] + [f'folgen/{f["slug"]}/' for f in folgen] + impuls.urls()
     body = ''.join(f'  <url><loc>{BASE_URL}{u}</loc></url>\n' for u in urls)
     (site / 'sitemap.xml').write_text(f'<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n{body}</urlset>\n', encoding='utf-8')
     robots = site / 'robots.txt'
@@ -697,6 +703,7 @@ def main():
         startseite(site, folgen, infos, staffeln, hat_bild)
     archiv(site, folgen, infos, staffeln, hat_bild)
     folgenseiten(site, folgen, infos, staffeln, hat_bild)
+    impuls.seiten(site)
     werbetest.testseiten(site, folgen)
     werbetest.postit_seiten(site, folgen)
     werbetest.postit_testseiten(site, folgen)
