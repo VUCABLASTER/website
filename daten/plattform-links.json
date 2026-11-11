@@ -64,7 +64,8 @@
   "62": "https://open.spotify.com/episode/16Ib7DZmF85qeg9CtnqBb0",
   "63": "https://open.spotify.com/episode/7h2DMbioIvYFPNfK9C8kW6",
   "64": "https://open.spotify.com/episode/65JcoSTTe1YFTiubMqC057",
-  "65": "https://open.spotify.com/episode/2KS0eQ9k6yx7vgCEfPxN0d"
+  "65": "https://open.spotify.com/episode/2KS0eQ9k6yx7vgCEfPxN0d",
+  "66": "https://open.spotify.com/episode/2kQwSElwcoMpVu32GYpn8L"
  },
  "amazon": {
   "1": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/42ba516f-c23b-451b-955f-fa3f268baffd",
@@ -131,7 +132,8 @@
   "62": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/1a18557d-6ee4-446c-8359-2f9e5477155c",
   "63": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/b00f2a9c-dd56-414e-b2ff-6fc52d0c792e",
   "64": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/ce649db1-5233-4119-b34f-600f81078cfd",
-  "65": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/304d3bdc-44c1-4716-bab0-adafaa2e29a0"
+  "65": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/304d3bdc-44c1-4716-bab0-adafaa2e29a0",
+  "66": "https://music.amazon.de/podcasts/3eb46224-be51-446b-a8b1-cc0ab2cd83b0/episodes/cf5753c6-f759-4835-8dd5-b592aab9b43b"
  },
  "apple": {
   "1": "https://podcasts.apple.com/de/podcast/1-intro-working-out-loud/id1541461336",
@@ -265,6 +267,7 @@
   "62": "https://www.deezer.com/episode/937900762",
   "63": "https://www.deezer.com/episode/943703992",
   "64": "https://www.deezer.com/episode/949657532",
-  "65": "https://www.deezer.com/episode/955615521"
+  "65": "https://www.deezer.com/episode/955615521",
+  "66": "https://www.deezer.com/episode/961253841"
  }
 }
