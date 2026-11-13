@@ -28,6 +28,7 @@ STIL = """<style>
 .impuls-tape{position:absolute;top:-14px;left:50%;width:100px;height:28px;background:rgba(232,221,190,.9);transform:translateX(-50%) rotate(-3deg);box-shadow:0 1px 2px rgba(0,0,0,.08)}
 .impuls-video{position:relative;width:100%;aspect-ratio:16/9;border:2px solid #161616;background:repeating-linear-gradient(45deg,#e9e9df 0 10px,#f3f3eb 10px 20px)}
 .impuls-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.impuls-cover{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
 .impuls-play{position:absolute;inset:0;width:100%;height:100%;border:0;background:transparent;cursor:pointer;font:inherit;color:#161616;padding:0}
 .impuls-play span.kreis{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:56px;height:56px;border-radius:50%;background:#161616;display:grid;place-items:center;transition:transform .25s ease}
 .impuls-play:hover span.kreis{transform:translate(-50%,-50%) scale(1.08)}
@@ -35,6 +36,7 @@ STIL = """<style>
 .impuls-play .hinweis{position:absolute;left:10px;right:10px;bottom:10px;background:#fff;font-size:12px;padding:3px 8px;text-align:left}
 .impuls-t{font-family:"Archivo",sans-serif;font-size:22px;line-height:1.15;margin:0;font-weight:700}
 .impuls-g{font-size:14px;margin:0;opacity:.8}
+.impuls-g a{color:inherit}
 .impuls-lern{font-family:"Caveat",cursive;font-size:25px;line-height:1.15;margin:0}
 .impuls-btns{display:flex;flex-wrap:wrap;gap:10px;margin-top:auto}
 .impuls-btn{display:inline-block;text-decoration:none;color:#161616;border:2px solid #161616;background:transparent;font-weight:600;font-size:15px;padding:9px 16px;transition:background .2s ease,color .2s ease}
@@ -83,7 +85,10 @@ def karte(d, n, pre):
     titel = esc(d['titel'])
     gast = d.get('gast', '')
     rolle = d.get('rolle', '')
-    gast_zeile = f'{esc(gast)}' + (f' · {esc(rolle)}' if rolle else '')
+    name = esc(gast)
+    if d.get('website'):
+        name = f'<a href="{esc(d["website"])}" target="_blank" rel="noopener">{name}</a>'
+    gast_zeile = name + (f' · {esc(rolle)}' if rolle else '')
     yt = f'https://www.youtube.com/watch?v={esc(d["video_id"])}'
     if d.get('folge_slug') and d.get('folge_nummer'):
         folge = (f'<a class="impuls-btn impuls-btn--gestrichelt" href="{pre}folgen/{esc(d["folge_slug"])}/">'
@@ -91,10 +96,14 @@ def karte(d, n, pre):
     else:
         hinweis = esc(d.get('folge_hinweis', 'Folge folgt'))
         folge = f'<span class="impuls-btn impuls-btn--aus" aria-disabled="true">{hinweis}</span>'
+    cover = ''
+    if d.get('cover'):
+        cover = f'<img class="impuls-cover" src="{pre}{esc(d["cover"])}" alt="" width="640" height="360" loading="lazy">'
     klasse = 'impuls-note' + (' impuls-note--pink' if n % 3 == 1 else '')
     return f'''    <li class="{klasse}">
       <span class="impuls-tape" aria-hidden="true"></span>
       <div class="impuls-video" data-impuls-video="{esc(d["video_id"])}" data-title="{titel}">
+        {cover}
         <button type="button" class="impuls-play" data-impuls-load aria-label="Video „{titel}“ laden und abspielen">
           <span class="kreis" aria-hidden="true"></span>
           <span class="hinweis">Video laden · Daten werden erst dann an YouTube übertragen</span>
