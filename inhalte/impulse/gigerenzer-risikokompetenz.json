@@ -1,7 +1,14 @@
 {
-  "freigegeben": false,
+  "freigegeben": true,
   "slug": "gigerenzer-risikokompetenz",
-  "titel": "18 % mehr Risiko?",
+  "titel": "18 % mehr Risiko? So täuschen uns Zahlen",
   "gast": "Gerd Gigerenzer",
-  "video_id": "SHn8-_LW0VQ"
+  "rolle": "Direktor des Harding-Zentrums für Risikokompetenz, Entscheidungs- und Risikoforscher",
+  "video_id": "SHn8-_LW0VQ",
+  "learning": "Wie du lernen kannst, mit Ungewissheit zu leben.",
+  "learning_status": "Entwurf, Team-Freigabe ausstehend",
+  "folge_nummer": 65,
+  "folge_slug": "65-der-mut-sich-zu-entscheiden-mit-gerd-gigerenzer",
+  "website": "https://www.gerd-gigerenzer.com/",
+  "cover": "assets/impulse/gigerenzer-risikokompetenz.jpg"
 }
