@@ -118,18 +118,38 @@ def karte(d, n, pre):
     </li>'''
 
 
+TEASER_STIL = """<style>
+.impuls-teaser .imp-sub{font-size:18px;color:#6b6b66;margin:-12px 0 32px}
+.impuls-teaser .imp-liste{list-style:none;padding:0;margin:0;border-top:2px solid #141414}
+.impuls-teaser .imp-liste a{display:grid;grid-template-columns:64px 1fr auto;align-items:center;gap:8px;padding:22px 0;border-bottom:1px solid #e5e5df;text-decoration:none;color:#141414}
+.impuls-teaser .imp-liste a:hover .imp-t,.impuls-teaser .imp-liste a:focus-visible .imp-t{color:#E30B6E}
+.impuls-teaser .imp-liste a:focus-visible{outline:3px solid #1D4ED8;outline-offset:4px}
+.impuls-teaser .imp-num{font-weight:800;font-size:32px;color:#bdbab0}
+.impuls-teaser .imp-t{display:block;font-size:22px;font-weight:700;letter-spacing:-.01em}
+.impuls-teaser .imp-g{display:block;font-size:14px;color:#6b6b66;margin-top:4px}
+.impuls-teaser .imp-arrow{font-size:22px}
+@media (max-width:600px){.impuls-teaser .imp-t{font-size:19px}.impuls-teaser .imp-liste a{grid-template-columns:44px 1fr}.impuls-teaser .imp-arrow{display:none}}
+@media (prefers-reduced-motion:reduce){.impuls-teaser .imp-liste a{transition:none!important}}
+</style>
+"""
+
+
 def teaser_html(pre=''):
-    """Teaser für die Startseite. Leer, solange kein Impuls freigegeben ist."""
+    """Teaser für die Startseite (Variante 3: nummerierte Liste). Leer, solange kein Impuls freigegeben ist."""
     liste = laden()
     if not liste:
         return ''
     punkte = ''.join(
-        f'<li><a href="{pre}impulse/"><span class="impuls-t">{esc(d["titel"])}</span>'
-        f'<span class="impuls-g">mit {esc(d.get("gast", ""))}</span></a></li>' for d in liste)
+        f'<li><a href="{pre}impulse/"><span class="imp-num">{n:02d}</span>'
+        f'<span><span class="imp-t">{esc(d["titel"])}</span>'
+        f'<span class="imp-g">mit {esc(d.get("gast", ""))}</span></span>'
+        f'<span class="imp-arrow" aria-hidden="true">→</span></a></li>'
+        for n, d in enumerate(liste, 1))
     return f'''<section class="section impuls-teaser" aria-labelledby="impulse-h">
-  <p class="kicker">Impulse</p>
-  <h2 id="impulse-h" class="section-title">Kurze Botschaften unserer Gäste</h2>
-  <ul class="impuls-liste">{punkte}</ul>
+{TEASER_STIL}  <p class="kicker">Kurz gedacht.</p>
+  <h2 id="impulse-h" class="section-title">Impulse to go</h2>
+  <p class="imp-sub">Gedanken unserer Gäste, die du sofort mitnehmen kannst.</p>
+  <ol class="imp-liste">{punkte}</ol>
   <a class="btn" href="{pre}impulse/">Alle Impulse</a>
 </section>'''
 
