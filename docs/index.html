@@ -144,6 +144,15 @@
 .impuls-teaser .imp-arrow{font-size:22px}
 .impuls-teaser .imp-liste li:last-child a{border-bottom:0}
 .impuls-teaser .btn{margin-top:40px}
+.vuca-erk{margin-top:24px;background:#F5D7D7;padding:0 20px;max-width:640px}
+.vuca-erk summary{min-height:56px;display:flex;align-items:center;font-weight:800;font-size:1.15rem;cursor:pointer;list-style:none}
+.vuca-erk summary::-webkit-details-marker{display:none}
+.vuca-erk summary::after{content:"+";margin-left:auto;width:36px;height:36px;display:grid;place-items:center;border:2px solid #141414;border-radius:50%;background:#fff;font-size:20px;line-height:1}
+.vuca-erk[open] summary::after{content:"–"}
+.vuca-erk summary:focus-visible{outline:3px solid #046464;outline-offset:3px}
+.vuca-erk-text{margin:0 0 12px;max-width:60ch}
+.vuca-erk-src{margin:0 0 20px;font-size:14px;color:#5E5A55}
+.vuca-erk-src a{color:#046464}
 /* Farbstreifen (tray) unter dem Startseiten-Hero ausblenden */
 .tray{display:none}
 @media (max-width:600px){.impuls-teaser .imp-t{font-size:19px}.impuls-teaser .imp-liste a{grid-template-columns:44px 1fr}.impuls-teaser .imp-arrow{display:none}}
@@ -174,6 +183,13 @@
         <p class="lex-def">Ein VUCA Blaster begegnet einer unübersichtlichen Welt mit Neugier, Mut, Op&shy;ti&shy;mis&shy;mus und Au&shy;then&shy;ti&shy;zi&shy;tät. Surft auf dem Chaos, statt darin un&shy;ter&shy;zu&shy;ge&shy;hen. Ge&shy;stal&shy;tet Ver&shy;än&shy;de&shy;rung aktiv mit und bringt Men&shy;schen durch ver&shy;bin&shy;den&shy;de Kom&shy;mu&shy;ni&shy;ka&shy;tion zu&shy;sam&shy;men.</p>
       </div>
       <p class="about-text">Die Welt wird schneller, komplexer und manchmal ziemlich unübersichtlich. Seit 2020 sprechen wir im VUCA BLASTER mit Menschen aus Wissenschaft, Wirtschaft, Psychologie, Sport und Gesellschaft darüber, wie wir mit Veränderung und Unsicherheit umgehen können. Es geht um Mut, Selbstwirksamkeit, Führung, Zusammenarbeit und Optimismus. Wir suchen Geschichten und konkrete Impulse, die im Arbeitsleben und darüber hinaus helfen.</p>
+
+      <details class="vuca-erk">
+        <summary>Was heißt VUCA?</summary>
+        <p class="vuca-erk-text">VUCA ist ein Akronym für eine unberechenbare Welt: Volatility (schnelle Veränderung), Uncertainty (Unsicherheit), Complexity (Komplexität), Ambiguity (Mehrdeutigkeit). Vieles lässt sich kaum planen.</p>
+        <p class="vuca-erk-text">Arndt Pechstein liest die Buchstaben als Antwort: Vision statt Volatilität, Upskilling statt Unsicherheit, Collaboration statt Komplexität, Agilität statt Ambiguität. Wer VUCA nur als Bedrohung sieht, bleibt im Problem. Die neuen Begriffe zeigen, worauf es ankommt.</p>
+        <p class="vuca-erk-src">Umdeutung nach Arndt Pechstein, <a href="folgen/15-vuca-positiv-umdeuten-welche-strategien-koennen-dir-helfen/">Folge #15</a></p>
+      </details>
     </div>
     <figure class="print print--cover">
       <div class="photo"><picture><source srcset="assets/img/vuca-blaster-motiv.webp" type="image/webp"><img src="assets/img/vuca-blaster-motiv.jpg" alt="Illustration einer VUCA Blasterin mit Kopfhörern und Mikrofon, daneben die Worte Mut, Neugier, Zuversicht" width="900" height="900" loading="lazy" decoding="async"></picture></div>
