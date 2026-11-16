@@ -121,7 +121,7 @@ def karte(d, n, pre):
 TEASER_STIL = """<style>
 .impuls-teaser .section-title{line-height:1.1;margin-bottom:0}
 .impuls-teaser .imp-sub{font-size:18px;color:#6b6b66;margin:20px 0 32px;line-height:1.4}
-.impuls-teaser .imp-liste{list-style:none;padding:0;margin:0;border-top:2px solid #141414}
+.impuls-teaser .imp-liste{list-style:none;padding:0;margin:0}
 .impuls-teaser .imp-liste a{display:grid;grid-template-columns:64px 1fr auto;align-items:center;gap:8px;padding:22px 0;border-bottom:1px solid #e5e5df;text-decoration:none;color:#141414}
 .impuls-teaser .imp-liste a:hover .imp-t,.impuls-teaser .imp-liste a:focus-visible .imp-t{color:#E30B6E}
 .impuls-teaser .imp-liste a:focus-visible{outline:3px solid #1D4ED8;outline-offset:4px}
@@ -131,8 +131,6 @@ TEASER_STIL = """<style>
 .impuls-teaser .imp-arrow{font-size:22px}
 .impuls-teaser .imp-liste li:last-child a{border-bottom:0}
 .impuls-teaser .btn{margin-top:40px}
-/* Farbstreifen (tray) unter dem Startseiten-Hero ausblenden */
-.tray{display:none}
 @media (max-width:600px){.impuls-teaser .imp-t{font-size:19px}.impuls-teaser .imp-liste a{grid-template-columns:44px 1fr}.impuls-teaser .imp-arrow{display:none}}
 @media (prefers-reduced-motion:reduce){.impuls-teaser .imp-liste a{transition:none!important}}
 </style>
