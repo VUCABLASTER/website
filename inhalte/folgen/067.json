@@ -5,11 +5,16 @@
   "rolle": "",
   "teaser": "Wie bleibt eine Botschaft aus einem Vortrag im Kopf? In dieser Folge geht es um Humorintelligenz – und darum, wie Humor im Arbeitsalltag Perspektiven öffnet, Kreativität anstößt und Kommunikation klarer macht.",
   "staffel": "",
-  "hauptwert": "",
+  "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": [],
-  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings).",
+  "key_learnings": [
+    "Humor fördert Stressresilienz, Kreativität und Kommunikation.",
+    "Humor ist ein Ausrufezeichen gegen Angst.",
+    "Mut und Naivität sind oft nötig für neue Ideen."
+  ],
+  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings (automatisch aus dem Transkript erzeugt, bitte gegenlesen)).",
   "geprueft": false,
   "link_spotify": "",
-  "link_amazon": ""
+  "link_amazon": "",
+  "hauptwert_auto": "mutig"
 }
