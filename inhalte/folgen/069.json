@@ -7,8 +7,12 @@
   "staffel": "",
   "hauptwert": "mutig",
   "nebenwerte": [],
-  "key_learnings": [],
-  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings).",
+  "key_learnings": [
+    "Mut besteht darin, sich oft in unangenehme Situationen zu begeben.",
+    "Angst sollte akzeptiert und beherrscht, nicht überwunden werden.",
+    "Kleine Schritte sind entscheidend für den Erfolg großer Ziele."
+  ],
+  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings (automatisch aus dem Transkript erzeugt, bitte gegenlesen)).",
   "geprueft": false,
   "link_spotify": "",
   "link_amazon": "",
