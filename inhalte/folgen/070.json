@@ -1,14 +1,18 @@
 {
   "nummer": 70,
-  "titel": "#70 Warum Change nicht an Menschen scheitert mit Arndt Brandenberg",
+  "titel": "#70 Warum Change nicht an Menschen scheitert mit Arndt Brandenberg (re-upload)",
   "gast": "Arndt Brandenberg",
   "rolle": "",
   "teaser": "Warum verpuffen Change-Programme trotz guter Absichten und hohem Einsatz?",
   "staffel": "",
   "hauptwert": "verbindend",
   "nebenwerte": [],
-  "key_learnings": [],
-  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings).",
+  "key_learnings": [
+    "Change erfordert systemischen Ansatz, nicht nur einzelne Maßnahmen.",
+    "Führung muss aktiv sein, um Change zu unterstützen.",
+    "Veränderungen müssen gemessen und kontinuierlich verbessert werden."
+  ],
+  "hinweis": "Automatischer Entwurf aus Titel und Shownotes. Bitte prüfen und ergänzen (Rolle, Werte, Key Learnings (automatisch aus dem Transkript erzeugt, bitte gegenlesen)).",
   "geprueft": false,
   "link_spotify": "",
   "link_amazon": "",
